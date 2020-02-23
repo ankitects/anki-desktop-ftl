@@ -14,4 +14,16 @@ errors-addons-active-popup =
     <p>Ticki tufiḍ-d azegrir i d-ixeddmen ugur-a, azen-d ma ukac aɣilif ugur-a deg <a href="https://help.ankiweb.net/discussions/add-ons/">tigezmi n yizegrar</a> n usmel-nneɣ tallelt.
     
     <p>Talɣut n temseɣtayt:</p>
+errors-accessing-db =
+    Teḍra-d tuccḍa deg unekcum ɣer taffa n yisefka.
+    
+    Ahat ɣef sebba n:
+    
+    - Aseɣzan amgalavirus, aɣrab n tmes, aḥraz, neɣ amtawi yezmer iger-d iman-is akked Anki. Ɛreḍ asensi n yiseɣẓanen-a sakin wali ma yefra wugur.
+    - Aḍebsi-ik ahat yeččuṛ.
+    - Akaram n warraten/Anki ahat yers deg imeɣri/amḍiq deg uẓeṭṭa.
+    - Ifuyla deg ukaram Arraten/Anki folder yezmer ur yeldi ara i tira.
+    - Adebṣi-ik aqquṛan ahat deg-s tuccḍiwin.
+    
+    Yelha uselkem n tladna Ifecka>Senqed taffa n yisefka akken ad temneḍ tagrumma ur nersiṛ ara.
 

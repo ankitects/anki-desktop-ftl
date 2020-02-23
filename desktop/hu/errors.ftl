@@ -14,4 +14,16 @@ errors-addons-active-popup =
     <p>Ha sikerült beazonosítani, melyik bővítmény okozta a problémát, kérlek jelezd azt a <a href="https://help.ankiweb.net/discussions/add-ons/">bővítmények rovatban</a>, a támogató oldalunkon.
     
     <p>Hibaelhárítási információ:</p>
+errors-accessing-db =
+    Hiba történt az adatbázis elérése során.
+    
+    Lehetséges okai:
+    
+    - Valamely vírusirtó, tűzfal, illetve biztonsági mentést vagy szinkronizálást végző program akadályozhatja az Anki működését. Próbálkozz ezek letiltásával, majd ellenőrizd, megszűnt-e a probléma.
+    - Előfordulhat, hogy megtelt a merevlemez.
+    - A Dokuments/Anki mappa esetleg hálózati meghajtón van.
+    - A Dokuments/Anki mappában lévő fájlok talán nem írhatók.
+    - Hiba lehet a merevlemezen.
+    
+    Érdemes lefuttatni az Eszközök > Adatbázis ellenőrzése funkciót, hogy meggyőződj róla, nem sérült-e a gyűjteményed.
 

@@ -14,4 +14,16 @@ errors-addons-active-popup =
     <p>Quando hai scoperto qual è l'add-on che crea il problema, segnalalo nella <a href="https://help.ankiweb.net/discussions/add-ons/">sezione add-on</a> del nostro sito di supporto.
     
     <p>Informazioni di debug:</p>
+errors-accessing-db =
+    Si è verificato un errore durante l'accesso al database.
+    
+    Possibili cause:
+    
+    - Antivirus, firewall, backup o un software di sincronizzazione possono interferire con Anki. Prova a disabilitare il software e vedere se il problema scompare.
+    - Il disco potrebbe essere pieno.
+    - La cartella Documenti/Anki potrebbe essere su un'unità di rete.
+    - I files nella cartella Documenti/Anki potrebbero non essere scrivibili.
+    - Il disco rigido potrebbe contenere degli errori.
+    
+    Prova ad eseguire Strumenti>Controlla il database per assicurarti che la collezione non sia corrotta.
 

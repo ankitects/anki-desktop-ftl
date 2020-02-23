@@ -14,4 +14,16 @@ errors-addons-active-popup =
     <p>Une fois ce greffon découvert, merci de signaler le problème sur <a href="https://help.ankiweb.net/discussions/add-ons/">la section greffons (add-on section)</a> de notre site de support.￼
     ￼
     <p>Info de débogage:</p>￼
+errors-accessing-db =
+    Une erreur est survenue lors de l'accès à la base de données.
+    
+    Causes possibles :
+    
+    - Un logiciel antivirus, pare-feu, de sauvegarde, ou de synchronization interfère peut-être avec Anki. Essayez de désactiver ce genre de logiciels et voyez si le problème persiste.
+    - Votre disque est peut-être plein.
+    - Le dossier Documents/Anki est peut-être sur un disque réseau.
+    - Anki n'a peut-être pas la possibilité d'écrire des fichiers dans le dossier Documents/Anki.
+    - Votre disque présente peut-être des erreurs.
+    
+    Il serait bien de faire Outils > Vérifier l’intégrité de la base de données… pour s'assurer que la collection n'est pas corrompue.
 

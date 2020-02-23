@@ -14,4 +14,16 @@ errors-addons-active-popup =
     <p> Cuando hayas descubierto la extensión que causaba el problema, por favor informa de esto a <a href="https://help.ankiweb.net/discussions/add-ons/"> sección de extensiones</a> de la nuestra web de apoyo. </p>
     
     <p>Información de depuración: </p>
+errors-accessing-db =
+    Ha ocurrido un error accediendo a la base de datos.
+    
+    Posibles causas:
+    
+    -  Un antivirus, cortafuegos o software para sincronizar archivos puede estar interfiriendo con Anki. Prueba a desactivarlos y mira si el problema desaparece.
+    - Tu disco duro puede estar lleno.
+    -  La carpeta Documentos/Anki puede estar compartida en red.
+    - Los archivos en la carpeta Documentos/Anki pueden no tener permiso de escritura.
+    -  Tu disco duro puede tener errores.
+    
+    Es una buena idea ejecutar Herramientas>Comprobar base de datos para asegurar que tu colección no está corrupta.
 

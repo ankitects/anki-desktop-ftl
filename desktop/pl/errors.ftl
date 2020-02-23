@@ -14,4 +14,16 @@ errors-addons-active-popup =
     <p>Gdy odkryjesz dodatek powodujący problem, dodaj zgłoszenie w <a href="https://help.ankiweb.net/discussions/add-ons/">sekcji dodatków</a> na stronie wsparcia technicznego.
     
     <p>Informacja diagnostyczna:</p>
+errors-accessing-db =
+    Wystąpił błąd w dostępie do bazy danych.
+    
+    Możliwe przyczyny:
+    
+    - Antywirus, zapora sieciowa, program do kopii zapasowej lub synchronizacji może przeszkadzać Anki. Spróbuj wyłączyć takie oprogramowanie i sprawdzić, czy problem zniknie.
+    - Twój dysk może być pełny
+    - Folder Dokumenty/Anki może znajdować się na dysku sieciowym.
+    - Pliki w folderze Dokumenty/Anki mogą być bez prawa do zapisu.
+    - Możesz mieć błędy na dysku.
+    
+    Warto w tym momencie uruchomić Narzędzia>Sprawdź bazę danych, by upewnić się, że kolekcja nie jest uszkodzona.
 

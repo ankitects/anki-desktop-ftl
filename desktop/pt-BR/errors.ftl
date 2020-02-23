@@ -14,4 +14,16 @@ errors-addons-active-popup =
     <p>Assim que você descobrir o complemento responsável, por favor relate o problema  na <a href="https://help.ankiweb.net/discussions/add-ons/">seção de complementos</a> em nossa página de ajuda.</p>
     
     <p>Informação de Debug:</p>
+errors-accessing-db =
+    Ocorreu um erro ao acessar o banco de dados. 
+    
+    As causas possíveis:
+    
+    - Antivírus, firewall, backup ou o software de sincronização pode estar interferindo com o Anki. Tente desativar tais softwares e verifique se o problema desaparece.
+    - O disco rígido pode estar cheio.
+    - A pasta Documentos/Anki pode estar numa unidade de rede.
+    - Os arquivos na pasta Documentos/Anki não pode estar gravável.
+    - Pode haver erros no disco rígido.
+    
+    É aconselhável executar Ferramentos>Verificar banco de dados, a fim de garantir a coleção não é corrupto.
 

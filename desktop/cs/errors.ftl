@@ -14,4 +14,16 @@ errors-addons-active-popup =
     <p>Když objevíte doplněk, který způsobuje problém, prosím nahlaste chybu v <a href="https://help.ankiweb.net/discussions/add-ons/">sekci doplňky</a> na stránkách podpory.
     
     <p>Informace o ladění:</p>
+errors-accessing-db =
+    Při přístupu do databáze nastala chyba.
+    
+    Možné příčiny:
+    
+    - Antivirus, firewall, zálohovací nebo synchronizační software může kolidovat s Anki. Zkuste je vypnout, jestli problém zmizí.
+    - Disk může být plný.
+    - Složka Dokumenty/Anki je na síťovém úložišti.
+    - Do souborů v Dokumenty/Anki nelze zapisovat.
+    - Pevný disk je poškozený.
+    
+    Spusťte Nástroje > Zkontrolovat databázi pro opravu případných chyb v kolekci.
 

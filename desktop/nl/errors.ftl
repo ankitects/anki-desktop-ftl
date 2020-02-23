@@ -14,4 +14,16 @@ errors-addons-active-popup =
     <p>Nadat u de add-on hebt ontdekt die het probleem veroorzaakt, gelieve dit te rapporteren op de <a href="https://help.ankiweb.net/discussions/add-ons/">sectie add-ons (add-ons section)</a> van onze ondersteuningssite.
     
     <p>Debuginformatie:</p>
+errors-accessing-db =
+    Er is een fout opgetreden bij het benaderen van de database.
+    
+    Mogelijke oorzaken:
+    
+    - Antivirus, firewall, back-up, of synchronisatie software kan Anki blokkeren. Probeer of het uitschakelen van deze software het probleem verhelpt.
+    - Uw harde schijf kan vol zijn.
+    - De Documenten/Anki map staat op een netwerkschijf.
+    - Bestanden in de Documenten/Anki map zijn alleen lezen.
+    - Uw harde schijf kan fouten vertonen.
+    
+    Om te controleren of uw collectie niet corrupt is kunt u het beste via het menu Hulpmiddelen>Database Controleren... selecteren.
 

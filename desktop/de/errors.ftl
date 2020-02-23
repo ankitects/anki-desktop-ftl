@@ -14,3 +14,15 @@ errors-addons-active-popup =
     <p>Wenn Sie die entsprechende Erweiterung herausgefunden haben, dann bitten wir Sie sich mit einem entsprechenden Problembericht an den <a href="https://help.ankiweb.net/discussions/add-ons/">Add-on-Bereich</a> unserer Support-Webseite zu wenden, damit der Fehler behoben werden kann.</p>
     
     <p>Debuginformationen:</p>
+errors-accessing-db =
+    Beim Zugriff auf die Datenbank ist ein Fehler aufgetreten.
+    
+    Mögliche Gründe:
+    - Antivirus-, Firewall-, Sicherung- oder Synchronisationsprogramme hindern Anki an einer erfolgreichen Verbindung. Bitte derartige Programme abschalten und testen, ob das Problem weiterhin besteht.
+    - Ihre Festplatte ist voll.
+    - Der Dokumente-/Anki-Ordner liegt auf einem Netzlaufwerk.
+    - Dateien in Ihrem Dokumente-/Anki-Ordner sind schreibgeschützt.
+    - Ihre Festplatte ist fehlerhaft.
+    
+    Sie sollten sicherstellen, dass Ihre Datenbank nicht beschädigt ist. Wählen Sie dazu Extras → Datenbank überprüfen.
+

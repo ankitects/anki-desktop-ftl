@@ -14,4 +14,17 @@ errors-addons-active-popup =
     <p>Quand avètz descobèrt l'empeuton responsable, mercé d'o senhalar sus la <a href="https://help.ankiweb.net/discussions/add-ons/">seccion empeutons</a> del nòstre siti d'ajuda.</p>
     
     <p>Informacions de debug</p>
+errors-accessing-db =
+    Un error occurreva durante le accesso al base de datos.
+    
+    
+    Causas possibile:
+    
+    - Le software antivirus, firewall, copia de reserva, o de synchronisation pote interferer con Anki. Prova a disactivar tal software e vider si le problema va via.
+    - Tu disco pote esser plen.
+    - Le plica Documents/Anki pote esser sur un drive de rete.
+    - Le files in le plica Documents/Anki pote esser non scribibile.
+    - Tu disco dur pote haber errores.
+    
+    Il es un bon idea facer fluer Instrumentos>Controlar le base de datos, pro assecurar se que tu collection non es corrupte.
 

@@ -10,4 +10,11 @@ errors-addons-active-popup =
     <p>如果仅仅是因为插件引起的问题，请选择工具&gt;插件菜单项来将出错的的插件设置成失效，然后重启Anki，重复以上的步骤直到你发现了具体是哪个插件引起的问题。</p>
     <p>当你已经发现是因为插件引起的问题，请在我们的支持网站上 <a href="https://help.ankiweb.net/discussions/add-ons/">add-ons section</a> 上报告问题。</p>
     <p>调试信息</p>
+errors-accessing-db =
+    访问数据库时出现错误，可能的原因是：
+    - 反病毒、防火墙、备份或数据同步软件可能干扰了Anki。试着禁用这些软件，看看问题是否消失。
+    - 磁盘容量满了。
+    - 文档/Anki 文件夹可能是网络硬盘。
+    - 文档/Anki 文件夹不可写.
+    - 硬盘出错了。
 

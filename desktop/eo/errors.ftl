@@ -14,4 +14,16 @@ errors-addons-active-popup =
     <p>Kiam vi eltrovis la problemkaŭzan aldonaĵon, bonvolu raporti ĝin al la <a href="https://help.ankiweb.net/discussions/add-ons/">aldonaĵo-sekcio</a> de nia subteno-retpaĝo.
     
     <p>Sencimiga informo:</p>
+errors-accessing-db =
+    Eraro okazis dum la atingo de la datumbazo.
+    
+    Eblaj kaŭzoj:
+    
+    - Senvirusigilo, fajroŝirmilo, sekurkopia aŭ samtempiga programaro malhelpas Anki. Provu malkapabligi tiajn programarojn kaj kontroli, ĉu ĝi forigas la problemon.
+    - Via disko estas plena.
+    - La dokumento-/Anki-dosierujo estas sur reta disko.
+    - Dosieroj en la dokumento-/Anki-dosierujo ne estas skribebla.
+    - Via diskaparato estas mankohava.
+    
+    Estas bona ideo ruli Iloj>Kontroli datumbazon por certigi, ke via kolekto ne estas difektohava.
 
