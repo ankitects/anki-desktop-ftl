@@ -27,7 +27,9 @@ errors-accessing-db =
     
     Possible causes:
     
-    - Antivirus, firewall, backup, or synchronization software may be   interfering with Anki. Try disabling such software and see if the   problem goes away.
+    - Antivirus, firewall, backup, or synchronization software may be
+    interfering with Anki. Try disabling such software and see if the
+    problem goes away.
     - Your disk may be full.
     - The Documents/Anki folder may be on a network drive.
     - Files in the Documents/Anki folder may not be writeable.
