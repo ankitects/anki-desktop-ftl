@@ -1,21 +1,24 @@
 -errors-support-site = [support site](https://help.ankiweb.net)
 errors-standard-popup =
-    <h1>Hiba</h1>
+    # Hiba
     
-    <p>Egy hiba történt. Kérlek, használd az <b>Eszközök &gt; Adatbázis ellenőrzése</b> menüpontot a probléma megoldásához.</p>
+    Kérlek, használd az Eszközök - Adatbázis ellenőrzése menüpontot a probléma megoldásához.
     
-    <p>Ha a probléma fennáll, kérlek jelezd a <a href="https://help.ankiweb.net">támogató oldalunkon</a>. Kérlek csatold az információkat is az üzenetedhez.</p>
+    Ha a probléma fennáll, kérlek jelezd a { -errors-support-site } támogató oldalunkon. Kérlek csatold az információkat is az üzenetedhez.
 -errors-addon-support-site = [add-on support site](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
-    <h1>Hiba</h1>
+    # Hiba
     
-    <p>Egy hiba történt. Kérlek, indítsd el az Ankit a SHIFT lenyomva tartása közben, így letiltva a telepített bővítményeket.</p>
+    Kérlek, indítsd el az Ankit a SHIFT lenyomva tartása közben, így letiltva a telepített bővítményeket.
     
-    <p>Ha a hiba csak akkor bukkan fel, ha a bővítmények engedélyezve vannak, kérlek, az Eszközök&gt;Bővítmények menüpont alatt tilts le néhány bővítményt, majd indítsd újra az Ankit. Ezt ismételve derítsd ki, melyik bővítmény okozhatja a hibát.</p>
+    Ha a hiba csak akkor bukkan fel, ha a bővítmények engedélyezve vannak, kérlek, az Eszközök - Bővítmények menüpont alatt tilts le néhány bővítményt, majd indítsd újra az Ankit. 
+    Ezt ismételve derítsd ki, melyik bővítmény okozhatja a hibát.
     
-    <p>Ha sikerült beazonosítani, melyik bővítmény okozta a problémát, kérlek jelezd azt a <a href="https://help.ankiweb.net/discussions/add-ons/">bővítmények rovatban</a>, a támogató oldalunkon.
+    Ha sikerült beazonosítani, melyik bővítmény okozta a problémát, 
+    kérlek jelezd azt a támogató oldalunkon  { -errors-addon-support-site }.
     
-    <p>Hibaelhárítási információ:</p>
+    
+    Hibaelhárítási információ:
 errors-accessing-db =
     Hiba történt az adatbázis elérése során.
     
