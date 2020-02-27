@@ -27,4 +27,7 @@ errors-accessing-db =
     - Tu disco dur pote haber errores.
     
     Il es un bon idea facer fluer Instrumentos>Controlar le base de datos, pro assecurar se que tu collection non es corrupte.
-
+errors-unable-open-collection =
+    Anki non poteva aperir tu file collection. Si problemas persiste post le reinitio de tu computator, usa le button Aperir reserva in le gestor de profilo.
+    
+    Informationes de depuration:

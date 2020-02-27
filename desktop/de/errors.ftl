@@ -27,3 +27,4 @@ errors-accessing-db =
     - Ihre Festplatte ist fehlerhaft.
     
     Sie sollten sicherstellen, dass Ihre Datenbank nicht beschädigt ist. Wählen Sie dazu Extras → Datenbank überprüfen.
+errors-unable-open-collection = Anki konnte die Datei Ihrer Samlung nicht öffnen. Sollte das Problem nach einem Neustart Ihres Computers weiterhin bestehen, bitten wir Sie darum, die Wiederherstellungsmöglichkeit im Profilmanager zu nutzen.

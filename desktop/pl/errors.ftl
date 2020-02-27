@@ -26,4 +26,7 @@ errors-accessing-db =
     - Możesz mieć błędy na dysku.
     
     Warto w tym momencie uruchomić Narzędzia>Sprawdź bazę danych, by upewnić się, że kolekcja nie jest uszkodzona.
-
+errors-unable-open-collection =
+    Anki nie jest w stanie otworzyć pliku kolekcji. Jeśli problem nie zniknie po ponownym uruchomieniu komputera, użyj opcji Otwórz kopię zapasową w menedżerze profili.
+    
+    Informacja diagnostyczna:

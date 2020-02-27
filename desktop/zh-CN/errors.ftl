@@ -17,4 +17,4 @@ errors-accessing-db =
     - 文档/Anki 文件夹可能是网络硬盘。
     - 文档/Anki 文件夹不可写.
     - 硬盘出错了。
-
+errors-unable-open-collection = Anki 无法打开您的记忆库文件。如果您尝试重启电脑后此问题仍然存在，请在主菜单中选择“切换配置方案”，在其界面中点击“打开备份”。

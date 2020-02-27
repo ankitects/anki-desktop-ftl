@@ -26,4 +26,7 @@ errors-accessing-db =
     - Il disco rigido potrebbe contenere degli errori.
     
     Prova ad eseguire Strumenti>Controlla il database per assicurarti che la collezione non sia corrotta.
-
+errors-unable-open-collection =
+    Anki non è riuscito ad aprire il tuo file della collezione.Se il problema permane dopo il riavvio del computer, usa il pulsante Apri Backup nel gestore dei profili.
+    
+    Informazioni di debug:

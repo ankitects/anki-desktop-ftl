@@ -10,4 +10,7 @@ errors-accessing-db =
     -Din hårddisk kan ha defekter.
     
     Det är en bra idé att köra Verktyg>Kontrollera Databas för att säkerställa att din samling inte är korrupt.
-
+errors-unable-open-collection =
+    Anki kunde inte öppna filen med din samling. Om problemet kvarstår när du startat om din dator, vänligen använd "Öppna säkerhetskopia" i profilhanteraren.
+    
+    Debuginformation:

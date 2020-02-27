@@ -31,3 +31,7 @@ errors-accessing-db =
     - Hiba lehet a merevlemezen.
     
     Érdemes lefuttatni az Eszközök > Adatbázis ellenőrzése funkciót, hogy meggyőződj róla, nem sérült-e a gyűjteményed.
+errors-unable-open-collection =
+    Anki nem tudta megnyitni a gyűjteményfájlt. Ha a számítógép újraindítása után továbbra is problémák merülnek fel, kérjük, használja a Biztonsági mentés megnyitása gombot a profilkezelőben.
+    
+    Hibakeresési információ:

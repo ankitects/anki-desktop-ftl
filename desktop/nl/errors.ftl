@@ -26,4 +26,7 @@ errors-accessing-db =
     - Uw harde schijf kan fouten vertonen.
     
     Om te controleren of uw collectie niet corrupt is kunt u het beste via het menu Hulpmiddelen>Database Controleren... selecteren.
-
+errors-unable-open-collection =
+    Anki kon uw verzamelingsbestand niet openen. Als het probleem aanhoudt nadat u uw computer opnieuw hebt opgestart, gebruik de knop Open Backup in de profielbeheerder.
+    
+    Debuginformatie:

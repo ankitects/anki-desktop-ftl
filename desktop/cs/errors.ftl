@@ -26,4 +26,7 @@ errors-accessing-db =
     - Pevný disk je poškozený.
     
     Spusťte Nástroje > Zkontrolovat databázi pro opravu případných chyb v kolekci.
-
+errors-unable-open-collection =
+    Anki nemohl otevřít vaši kolekci. Jestliže problém přetrvává po restartování počítače, prosím použijte tlačítko Otevřít zálohu ve správci profilů.
+    
+    Informace o ladění:

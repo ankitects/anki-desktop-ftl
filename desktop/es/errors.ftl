@@ -26,4 +26,7 @@ errors-accessing-db =
     -  Tu disco duro puede tener errores.
     
     Es una buena idea ejecutar Herramientas>Comprobar base de datos para asegurar que tu colección no está corrupta.
-
+errors-unable-open-collection =
+    Anki ha sido incapaz de abrir el archivo de la colección. Si los problemas persisten después de reiniciar tu ordenador, por favor usa el botón de abrir cópia de seguridad en el administrador de perfiles.
+    
+    Información de depuración:

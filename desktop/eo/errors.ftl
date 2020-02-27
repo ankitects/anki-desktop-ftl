@@ -26,4 +26,7 @@ errors-accessing-db =
     - Via diskaparato estas mankohava.
     
     Estas bona ideo ruli Iloj>Kontroli datumbazon por certigi, ke via kolekto ne estas difektohava.
-
+errors-unable-open-collection =
+    Anki ne povis malfermi vian kolektodosieron. Se problemoj daŭras post restartigo de la komputilo, bonvolu uzi la butonon Malfermi sekurkopion en la profila administrilo.
+    
+    Sencimiga informo:
