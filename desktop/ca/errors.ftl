@@ -1,19 +1,27 @@
+-errors-support-site = [lloc de suport](https://help.ankiweb.net)
 errors-standard-popup =
-    <h1>Error</h1>
+    # Error
     
-    <p>Un error es subrevengut. Mercé d'utilizar <b>Aisinas &gt; Verificar la basa de donadas</b> per veire se règla lo problèma.</p>
+    S'ha produït un error. Feu servir **Eines> Comprovar la base de dades ** per veure si
+    es soluciona el problema.
     
-    <p>Se lo problèma persistís, mercé d'o senhalar sul nòstre <a href="https://help.ankiweb.net">siti d'ajuda</a>. Volgatz plan copiar e pegar las informacions seguentas dins lo vòstre senhalament.</p>
+    Si els problemes continuen, informa del problema al nostre { -errors-support-site } .
+    Copieu i enganxeu la informació següent al vostre informe.
+-errors-addon-support-site = [lloc de suport d'extensions](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
-    <h1>Error</h1>
+    # Error
     
-    <p>Un error a subrevengut. Mercé de lançar Anki en mantenent la clau Majuscula enfonsada, çò que desactivarà temporàriament los empeutons qu'avètz installats.</p>
+    S'ha produït un error. Inicieu Anki mantenint premuda la tecla majúscula, 
+    que desactivarà temporalment els complements que teniu instal·lats.
     
-    <p>Se l'error subreven solament quand los empeutons son activats, utilizatz lo menú Aisinas&Empeutons per desactivar d'unes empeutons e tornatz lançar Anki. Tornatz far aquò duscas que descobriscatz quin eupeuton causa lo problèma.</p>
+    Si el problema només es produeix quan els complements estan habilitats, utilitzeu
+    Eines> Menú de complements per desactivar alguns complements i reiniciar Anki, 
+    repetint fins que descobreixis el complement que causa el problema.
     
-    <p>Quand avètz descobèrt l'empeuton responsable, mercé d'o senhalar sus la <a href="https://help.ankiweb.net/discussions/add-ons/">seccion empeutons</a> del nòstre siti d'ajuda.</p>
+    Quan hagueu descobert el complement que causa el problema,
+    informeu del problema a { -errors-addon-support-site } .
     
-    <p>Informacions de debug</p>
+    Informació de depuració:
 errors-accessing-db =
     Un error occurreva durante le accesso al base de datos.
     
