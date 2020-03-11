@@ -1,19 +1,23 @@
 errors-standard-popup =
-    <h1>Błąd</h1>
+    # Błąd
     
-    <p>Wystąpił błąd. Spróbuj, czy wybranie opcji <b>Narzędzia &gt; Sprawdź bazę danych</b> nie rozwiąże problemu.</p>
+    Wystąpił błąd. Spróbuj, czy wybranie opcji **Narzędzia > Sprawdź bazę danych*
+    nie rozwiąże problemu.
     
-    <p>Jeśli problem nie zniknie, zgłoś go na <a href="https://help.ankiweb.net">stronie wsparcia technicznego</a>. Skopiuj poniższą informację do Twojego zgłoszenia.</p>
+    Jeśli problem nie zniknie, zgłoś go na { -errors-support-site }.
+    Skopiuj poniższą informację do Twojego zgłoszenia.
 errors-addons-active-popup =
-    <h1>Błąd</h1>
+    # Błąd
     
-    <p>Wystąpił błąd. Uruchom ponownie Anki trzymając klawisz Shift - tymczasowo wyłączy to zainstalowane dodatki.</p>
+    Wystąpił błąd. Uruchom ponownie Anki trzymając klawisz Shift - tymczasowo wyłączy to zainstalowane dodatki.
     
-    <p>Jeśli problem pojawia się tylko, gdy włączone są dodatki, wyłącz niektóre z nich w menu Narzędzia&gt;Dodatki i uruchom Anki ponownie. Powtarzaj, aż odkryjesz, który dodatek powoduje problem.</p>
+    Jeśli problem pojawia się tylko, gdy włączone są dodatki, wyłącz niektóre z nich w menu
+    Narzędzia > Dodatki i uruchom Anki ponownie.
+    Powtarzaj, aż odkryjesz, który dodatek powoduje problem.
     
-    <p>Gdy odkryjesz dodatek powodujący problem, dodaj zgłoszenie w <a href="https://help.ankiweb.net/discussions/add-ons/">sekcji dodatków</a> na stronie wsparcia technicznego.
+    Gdy odkryjesz dodatek powodujący problem, dodaj zgłoszenie w { -errors-addon-support-site }.
     
-    <p>Informacja diagnostyczna:</p>
+    Informacja diagnostyczna:
 errors-accessing-db =
     Wystąpił błąd w dostępie do bazy danych.
     
