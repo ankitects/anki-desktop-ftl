@@ -2,5 +2,5 @@
 # macOS is in dark mode
 preferences-dark-mode-active = macOS sötét módban van
 preferences-dark-mode-disable =
-    Anki világos módban van, míg a macOS sötét módban,
+    Az Anki világos üzemmódú használatához sötét macOS rendszeren
     kérjük, olvassa el a kézikönyv Éjszakai üzemmód szakaszát.
