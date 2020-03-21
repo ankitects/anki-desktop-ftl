@@ -1,3 +1,4 @@
+-errors-support-site = [strona wsparcia](https://help.ankiweb.net)
 errors-standard-popup =
     # Błąd
     
@@ -6,6 +7,7 @@ errors-standard-popup =
     
     Jeśli problem nie zniknie, zgłoś go na { -errors-support-site }.
     Skopiuj poniższą informację do Twojego zgłoszenia.
+-errors-addon-support-site = [strona wsparcia dla dodatków](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # Błąd
     
