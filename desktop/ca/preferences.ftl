@@ -3,4 +3,4 @@
 preferences-dark-mode-active = macOS està en mode nocturn
 preferences-dark-mode-disable =
     Per mostrar Anki en mode diürn mentre macOS està en mode nocturn, si us plau
-    llegiu la secció de l'manual sobre Mode Nocturn.
+    llegeixi la secció de l'manual sobre Mode Nocturn.
