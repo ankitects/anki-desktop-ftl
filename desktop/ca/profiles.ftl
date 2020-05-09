@@ -1,6 +1,6 @@
 profiles-folder-readme =
-    Ce plica salva tote tu datos Anki in un singulo loco,
-    pro facer facile le salvamentos. Pro indicar Anki usar un altere loco,
-    per favor vide:
+    Aquesta carpeta emmagatzema tota la informació d'Anki en una sola localització.
+    per tal de facilitar les còpies de seguretat. Per indicar una localització diferent,
+    si us plau miri:
     
-    {$link}
+    { $link }

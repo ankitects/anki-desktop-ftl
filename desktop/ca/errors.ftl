@@ -5,37 +5,37 @@ errors-standard-popup =
     S'ha produït un error. Feu servir **Eines> Comprovar la base de dades ** per veure si
     es soluciona el problema.
     
-    Si els problemes continuen, informa del problema al nostre { -errors-support-site } .
-    Copieu i enganxeu la informació següent al vostre informe.
+    Si els problemes continuen, informi del problema al nostre { -errors-support-site } .
+    Copii i enganxi la informació següent al vostre informe.
 -errors-addon-support-site = [lloc de suport d'extensions](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # Error
     
-    S'ha produït un error. Inicieu Anki mantenint premuda la tecla majúscula, 
-    que desactivarà temporalment els complements que teniu instal·lats.
+    S'ha produït un error. Inicii Anki mantenint premuda la tecla majúscula, 
+    que desactivarà temporalment els complements que te instal·lats.
     
-    Si el problema només es produeix quan els complements estan habilitats, utilitzeu
+    Si el problema només es produeix quan els complements estan habilitats, utilitzi
     Eines> Menú de complements per desactivar alguns complements i reiniciar Anki, 
-    repetint fins que descobreixis el complement que causa el problema.
+    repetint el procés fins a que descobreixi el complement que causa el problema.
     
-    Quan hagueu descobert el complement que causa el problema,
-    informeu del problema a { -errors-addon-support-site } .
+    Quan hagi descobert el complement que causa el problema,
+    informi del problema a { -errors-addon-support-site } .
     
     Informació de depuració:
 errors-accessing-db =
-    Un error occurreva durante le accesso al base de datos.
+    S'ha produït un error al accedir a la base de dades.
     
     
-    Causas possibile:
+    Causes possibles:
     
-    - Le software antivirus, firewall, copia de reserva, o de synchronisation pote interferer con Anki. Prova a disactivar tal software e vider si le problema va via.
-    - Tu disco pote esser plen.
-    - Le plica Documents/Anki pote esser sur un drive de rete.
-    - Le files in le plica Documents/Anki pote esser non scribibile.
-    - Tu disco dur pote haber errores.
+    - Antivirus, talla-focs, còpia de segurerat o programari de sincronització pot interferir amb Anki. Intenti deshabilitar l'esmentat anteriorment per tal de veure si els problemes desapareixen.
+    - El seu disc dur està ple.
+    - Els documents o la carpeta de l'Anki estan en un disc dur en línia.
+    - Els arxius o la carpeta de l'Anki no poden ser escrits.
+    - EL seu disc dur pot tenir problemes.
     
-    Il es un bon idea facer fluer Instrumentos>Controlar le base de datos, pro assecurar se que tu collection non es corrupte.
+    És bona idea executar Eines->Comprovar base de dades per tal de assegurar-se que la seva base de dades no está corrupte.
 errors-unable-open-collection =
-    Anki non poteva aperir tu file collection. Si problemas persiste post le reinitio de tu computator, usa le button Aperir reserva in le gestor de profilo.
+    Anki ha estat incapaç d'obrir la seva col·lecció. Si els problemes persisteixen després de reiniciar el seu ordinador, sisplau utilitzi el butó d'obrir còpies de seguretat del gestor de perfils. 
     
-    Informationes de depuration:
+    Informació de depuració:
