@@ -2,20 +2,18 @@
 errors-standard-popup =
     # Hiba
     
-    Kérlek, használd az **Eszközök - Adatbázis ellenőrzése** menüpontot a probléma megoldásához.
+    Kérjük, használja az **Eszközök > Adatbázis ellenőrzése** menüpontot a probléma megoldásához.
     
-    Ha a probléma továbbra is fennáll, kérlek jelezd a { -errors-support-site }unkon. Kérlek csatold az alábbi információkat is az üzenetedhez.
+    Ha a probléma továbbra is fennáll, kérjük, jelezze { -errors-support-site } honlapunkon. Kérjük az alábbi információkat is csatolja üzenetéhez.
 -errors-addon-support-site = [bővítményekre vonatkozó támogatási oldal](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # Hiba
     
-    Kérlek, indítsd el az Ankit a SHIFT nyomva tartása közben, így letiltva a telepített bővítményeket!
+    Kérjük, az Ankit a SHIFT nyomva tartása mellett indítsa el, így letiltva a telepített bővítményeket!
     
-    Ha a hiba csak akkor bukkan fel, ha a bővítmények engedélyezve vannak, kérlek, az Eszközök - Bővítmények menüpont alatt tilts le néhány bővítményt, majd indítsd újra az Ankit. 
-    Ezt ismételve derítsd ki, melyik bővítmény okozhatja a hibát.
+    Ha a hiba csak akkor merül fel, ha a bővítmények engedélyezve vannak, kérjük, az Eszközök > Bővítmények menüpont alatt tiltson le néhány bővítményt, majd indítsa újra az Ankit. Ezt ismételve derítse ki, melyik bővítmény okozhatja a hibát.
     
-    Ha sikerült beazonosítani, melyik bővítmény okozta a problémát, 
-    kérlek jelezd azt a { -errors-addon-support-site }unkon!
+    Ha sikerült azonosítani a problémát okozó bővítményt, kérjük, jelentse be ezt a honlapunkon: { -errors-addon-support-site }
     
     
     Hibaelhárítási információ:
