@@ -1,19 +1,25 @@
 errors-standard-popup =
-    <h1>Chyba</h1>
+    # Chyba
     
-    <p>Nastala chyba. Prosím použijte <b>Nástroje &gt; Zkontrolovat databázi</b> a zjistěte, zdali to problém vyřešilo.</p>
+    Nastala chyba. Prosím použijte **Nástroje > Zkontrolovat databázi** a zjistěte,
+    zdali to problém vyřešilo.
     
-    <p>Jestliže problémy přetrvávají, prosím nahlaste problém na <a href="https://help.ankiweb.net">stránkách podpory</a>. Prosím zkopírujte informace níže a vložte je do vaší zprávy.</p>
+    Jestliže problémy přetrvávají, prosím nahlaste problém na { -errors-support-site }.
+    Prosím zkopírujte informace níže a vložte je do vaší zprávy.
 errors-addons-active-popup =
-    <h1>Chyba</h1>
+    # Chyba
     
-    <p>Nastala chyba. Prosím spusťte Anki, zatímco držíte stisknutou klávesu shift, což dočasně zakáže doplňky, které máte nainstalované.</p>
+    Nastala chyba. Prosím spusťte Anki, zatímco držíte stisknutou klávesu shift,
+    což dočasně zakáže doplňky, které máte nainstalované.
     
-    <p>Jestliže problém nastane pouze v případě, kdy jsou doplňky povoleny, prosím použijte menu Nástroje&gt;Doplňky, zakažte některé doplňky a restartujte Anki, opakujte, dokud neobjevíte doplněk, který způsobuje problém.</p>
+    Jestliže problém nastane pouze v případě, kdy jsou doplňky povoleny, prosím 
+    použijte menu Nástroje > Doplňky, zakažte některé doplňky a restartujte Anki,
+    opakujte, dokud neobjevíte doplněk, který způsobuje problém.
     
-    <p>Když objevíte doplněk, který způsobuje problém, prosím nahlaste chybu v <a href="https://help.ankiweb.net/discussions/add-ons/">sekci doplňky</a> na stránkách podpory.
+    Když objevíte doplněk, který způsobuje problém, prosím 
+    nahlaste chybu na { -errors-addon-support-site }.
     
-    <p>Informace o ladění:</p>
+    Informace o ladění:
 errors-accessing-db =
     Při přístupu do databáze nastala chyba.
     
