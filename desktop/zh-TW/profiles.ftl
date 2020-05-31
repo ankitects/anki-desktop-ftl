@@ -2,6 +2,6 @@ profiles-folder-readme =
     為了方便您備份， Anki 將您所有的
     資料都存在此一資料夾中。
     如果要更改 Anki 資料夾的位置
-    請參考：
+    參閱：
     
-    {$link}
+    { $link }
