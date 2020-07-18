@@ -3,4 +3,6 @@ profiles-folder-readme =
     um Aktualisierungen zu erleichtern. Wenn die Daten
     an einem anderen Ort gespeichert werden sollen, bitte folgendes lesen:
     
-    {$link}
+    { $link }
+# will appear as 'Downgrade & Quit'
+profiles-downgrade-and-quit = Downgraden && Beenden
