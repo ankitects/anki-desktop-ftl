@@ -7,3 +7,4 @@ addons-failed-to-load =
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = '{ $name }' konfigurálása
 addons-config-validation-error = Probléma merült fel a megadott konfigurációval: { $problem }, { $path } helyen, a { $schema } sémával szemben.
+addons-window-title = Bővítmények

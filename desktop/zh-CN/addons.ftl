@@ -6,3 +6,4 @@ addons-failed-to-load =
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = 配置{ $name }
 addons-config-validation-error = 提供的配置存在问题：针对数据库对象{ $schema }的{ $problem }位于路径{ $path }。
+addons-window-title = 附加组件

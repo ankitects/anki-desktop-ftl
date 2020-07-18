@@ -7,3 +7,4 @@ addons-failed-to-load =
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Configura '{ $name }'
 addons-config-validation-error = C'è stato un problema con la configurazione fornita: { $problem }, nel percorso { $path }, contro lo schema { $schema }.
+addons-window-title = Add-on

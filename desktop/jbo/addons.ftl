@@ -3,3 +3,4 @@ addons-failed-to-load =
     
     { "." }i di'e samcfisisku datni lo nu samymo'i la'o zoi. { $name } .zoi po'u sy.
     { $traceback }
+addons-window-title = se samtcise'a

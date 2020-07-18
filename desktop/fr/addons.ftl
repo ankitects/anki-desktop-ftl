@@ -7,3 +7,4 @@ addons-failed-to-load =
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Paramétrer « { $name } »
 addons-config-validation-error = Il y a eu un problème avec la configuration fournie : { $problem }, depuis le chemin { $path }, contre le schéma { $schema }.
+addons-window-title = Greffons

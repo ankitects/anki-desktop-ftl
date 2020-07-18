@@ -7,3 +7,4 @@ addons-failed-to-load =
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = پیکربندی '{ $name } '
 addons-config-validation-error = مشکلی در پیکربندی ورودی وجود داشت: { $problem }، در مسیر { $path }، در شاخۀ { $schema }.
+addons-window-title = افزونه‌ها
