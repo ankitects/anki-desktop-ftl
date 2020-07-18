@@ -4,3 +4,5 @@ profiles-folder-readme =
     si us plau miri:
     
     { $link }
+# will appear as 'Downgrade & Quit'
+profiles-downgrade-and-quit = Baixar de versió i sortir
