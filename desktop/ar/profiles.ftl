@@ -3,3 +3,5 @@ profiles-folder-readme =
     لاستخدام مجلد مختلف، انظر:
     
     { $link }
+# will appear as 'Downgrade & Quit'
+profiles-downgrade-and-quit = تخفيض الإصدار والخروج
