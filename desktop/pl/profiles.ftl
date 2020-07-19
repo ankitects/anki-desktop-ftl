@@ -3,4 +3,6 @@ profiles-folder-readme =
     aby łatwo tworzyć kopie zapasowe. Żeby zmienić lokalizację plików, 
     zobacz:
     
-    {$link}
+    { $link }
+# will appear as 'Downgrade & Quit'
+profiles-downgrade-and-quit = Obniż wersję && wyjdź
