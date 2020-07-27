@@ -5,3 +5,5 @@ profiles-folder-readme =
     參閱：
     
     { $link }
+# will appear as 'Downgrade & Quit'
+profiles-downgrade-and-quit = 降級並退出
