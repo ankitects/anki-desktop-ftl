@@ -1,19 +1,26 @@
+-errors-support-site = [site de suporte](https://help.ankiweb.net)
 errors-standard-popup =
-    <h1>Erro</h1>
+    # Erro
     
-    <p>Ocorreu um erro. Por favor, vá para <b>Ferramentas &gt; Verificar Banco de Dados</b> para ver se isso corrige o problema.</p>
+    Ocorreu um erro. Por favor, use **Ferramentas > Verificar Banco de Dados** para ver se isso corrige o problema.
     
-    <p>Se o problema persistir, por favor relate-o em nossa <a href="https://help.ankiweb.net">página de ajuda</a>. Copie e cole a informação abaixo dentro de seu relatório.</p>
+    Se os problemas persistirem, relate-os em nosso { -errors-support-site }.
+    Copie e cole a informação abaixo dentro do seu relatório.
+-errors-addon-support-site = [site de suporte de extensão](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
-    <h1>Erro</h1>
+    # Erro
     
-    <p>Ocorreu um erro. Por favor, inicialize Anki enquanto segura a tecla <b>SHIFT</b>, isto vai desabilitar temporariamente os complementos (add-ons) que você instalou.</p>
+    Ocorreu um erro. Por favor, inicie o Anki enquanto segura a tecla shift,
+    isto vai desabilitar temporariamente as extensões que você instalou.
     
-    <p>Se o problema ocorre somente quando os complementos estão habilitados, por favor vá para <b>Ferramentas &gt; Complementos</b> e desabilite algum(s) complemento(s),  para descobrir qual complemento é o responsável pelo problema.</p>
+    Se o problema ocorrer somente quando as extensões são habilitadas, use o
+    Ferramentas > Extensões para desabilitar algumas extensões e reinicie o Anki,
+    repetindo até descobrir a extensão que está causando o problema.
     
-    <p>Assim que você descobrir o complemento responsável, por favor relate o problema  na <a href="https://help.ankiweb.net/discussions/add-ons/">seção de complementos</a> em nossa página de ajuda.</p>
+    Quando você descobrir a extensão que está causando o problema, por favor
+    reporte o problema em { -errors-addon-support-site }.
     
-    <p>Informação de Debug:</p>
+    Informações de Depuração:
 errors-accessing-db =
     Ocorreu um erro ao acessar o banco de dados. 
     
