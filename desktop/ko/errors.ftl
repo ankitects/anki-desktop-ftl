@@ -1,3 +1,4 @@
+-errors-support-site = [지원 사이트](https://help.ankiweb.net)
 errors-standard-popup =
     <h1>오류</h1>
     
@@ -5,6 +6,7 @@ errors-standard-popup =
     
     <p>문제가 지속되면 <a href="https://help.ankiweb.net">지원 사이트</a>에 보고해주십시오. 보고할 때, 아래 정보를 복사해 함께 보내주십시오.</p>
     여기에는 줄바꿈표시가 있습니다. 각각의 표시는 줄의 끝을 의미합니다.  각각의 표시에서 줄바꿈을 해서 적절히 변환해주십시오.
+-errors-addon-support-site = [확장 프로그램 지원 사이트](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     <h1>오류</h1>
     
