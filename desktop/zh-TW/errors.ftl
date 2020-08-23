@@ -5,7 +5,7 @@ errors-standard-popup =
     發生了一個錯誤。請嘗試使用「工具」>「檢查資料庫」解決問題。
     
     若問題仍然存在，請到網站{ -errors-support-site }上回報問題。
-    請將下方資訊複製貼上到你的回報中。
+    請將下方資訊複製貼上到您的回報中。
 -errors-addon-support-site = [附加元件支援網站](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # 錯誤
