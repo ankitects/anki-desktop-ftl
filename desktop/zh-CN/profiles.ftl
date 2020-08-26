@@ -3,4 +3,6 @@ profiles-folder-readme =
     以便备份。若需Anki使用其他位置，
     请看：
     
-    {$link}
+    { $link }
+# will appear as 'Downgrade & Quit'
+profiles-downgrade-and-quit = 降级并退出
