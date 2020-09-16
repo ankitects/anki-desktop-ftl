@@ -4,4 +4,7 @@ addons-failed-to-load =
     
      '{ $name }' 로딩 중 :
     { $traceback }
+# Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
+addons-config-window-title = '{ $name }' 설정
+addons-config-validation-error = 설정을 불러오는데 문제 발생: { $problem }, { $path } 경로에서, { $schema } 스키마에 대해
 addons-window-title = 확장 프로그램
