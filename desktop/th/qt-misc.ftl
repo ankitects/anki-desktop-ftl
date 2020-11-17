@@ -1,0 +1,1 @@
+qt-misc-browse = เรียกดู

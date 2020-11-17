@@ -1,0 +1,7 @@
+about-a-big-thanks-to-all-the = Önerileri, hata raporları ve bağışları ile katkı sağlayan  herkese büyük teşekkür ediyoruz.
+about-about-anki = Anki Hakkında
+about-anki-is-a-friendly-intelligent-spaced = Anki arkadaştır, akıllı öğrenme sistemidir. Bedava ve açık kaynaktır.
+about-anki-is-licensed-under-the-agpl3 = Anki AGPL3 lisansı ise lisanslanmıştır. Daha fazla bilgi için lütfen kaynak dağıtımdaki lisans dosyasına bakın.
+about-if-you-have-contributed-and-are = Eğer katkıda bulunmuş ve listede yoksanız, lütfen bizimle iletişim kurunuz.
+about-version = Versiyon { $val }
+about-visit-website = <a href='{ $val }'>Siteye git</a>

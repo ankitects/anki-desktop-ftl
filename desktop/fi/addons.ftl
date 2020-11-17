@@ -1,1 +1,10 @@
 addons-window-title = Lisäosat
+addons-changes-will-take-effect-when-anki = Muutokset tulevat voimaan, kun Anki käynnistetään uudelleen.
+addons-check-for-updates = Tarkista päivitykset
+addons-checking = Tarkistetaan...
+addons-code = Koodi:
+addons-configuration = Asetukset
+addons-corrupt-addon-file = Korruptoitunut add-on -tiedosto
+addons-disabled =  (ei käytössä)
+addons-install-addon = Asenna liitännäinen
+addons-invalid-code = Virheellinen koodi

@@ -1,0 +1,11 @@
+addons-checking = Se verifică…
+addons-code = Cod:
+addons-disabled =  (dezactivat)
+addons-disabled2 =  (dezactivat)
+addons-error-downloading-ids-errors = Eroare la descărcarea %(id)s: %(error)s
+addons-get-addons = Obține suplimente...
+addons-install-addon = Instalare suplimente
+addons-install-anki-addon = Instalare suplimente
+addons-installation-complete = Import complet.
+addons-invalid-code = Cod invalid.
+addons-no-updates-available = Nu sunt actualizări disponibile.
