@@ -25,3 +25,7 @@ qt-misc-this-file-exists-are-you-sure = Denne filen finnes allerede. Er du sikke
 qt-misc-undo = Angre
 qt-misc-undo2 = Angre { $val }
 qt-misc-would-you-like-to-download-it = Vil du laste det ned nå?
+qt-misc-second = { $count ->
+    [one] { $count } sekund
+   *[other] { $count } sekunder
+  }

@@ -60,3 +60,7 @@ qt-misc-would-you-like-to-download-it = Vuoi scaricarlo ora?
 qt-misc-your-collection-file-appears-to-be = Il file della tua collezione sembra essere corrotto. Questo può succedere se il file viene copiato o spostato mentre Anki è aperto, o quando la collezione è salvata su un dispositivo di rete o su cloud. Se il problema persiste dopo il riavvio del computer, apri un backup automatico dalla schermata di impostazione dei profili.
 qt-misc-your-computers-storage-may-be-full = Lo spazio su disco del tuo computer potrebbe essere esaurito. Elimina qualche file non necessario e riprova.
 qt-misc-your-firewall-or-antivirus-program-is = Il tuo firewall o programma antivirus sta impedendo ad Anki di stabilire una connessione con se stesso. Aggiungi p.f. un'eccezione per Anki.
+qt-misc-second = { $count ->
+    [one] { $count } secondo
+   *[other] { $count } secondi
+  }

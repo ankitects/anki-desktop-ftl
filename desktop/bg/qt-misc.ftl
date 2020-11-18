@@ -37,3 +37,7 @@ qt-misc-undo = Отмяна
 qt-misc-undo2 = Отмяна на { $val }
 qt-misc-waiting-for-editing-to-finish = Изчакване за приключване на редактирането.
 qt-misc-would-you-like-to-download-it = Искате ли да го изтеглите сега?
+qt-misc-second = { $count ->
+    [one] { $count } секунда
+   *[other] { $count } секунди
+  }

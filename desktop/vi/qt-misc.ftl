@@ -40,3 +40,6 @@ qt-misc-undo = Hoàn tác
 qt-misc-undo2 = Hoàn tác { $val }
 qt-misc-waiting-for-editing-to-finish = Chờ hoàn tất chỉnh sửa.
 qt-misc-would-you-like-to-download-it = Bạn có muốn tải xuống ngay bây giờ không?
+qt-misc-second = { $count ->
+   *[other] { $count } giây
+  }

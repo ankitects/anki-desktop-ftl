@@ -49,3 +49,6 @@ addons-unable-to-update-or-delete-addon = アドオンを更新または削除�
 addons-unknown-error = 不明なエラー：{ $val }
 addons-view-addon-page = 選択中のアドオンの詳細
 addons-view-files = ファイルを見る
+addons-delete-the-numd-selected-addon = { $count ->
+   *[other] 選択した{ $count }個のアドオンを削除しますか？
+  }

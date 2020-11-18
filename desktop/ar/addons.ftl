@@ -59,3 +59,11 @@ addons-unable-to-update-or-delete-addon = يتعذر تحديث الإضافة �
 addons-unknown-error = خطأ غير معروف: { $val }
 addons-view-addon-page = زيارة صفحة الإضافة
 addons-view-files = إظهار الملفات
+addons-delete-the-numd-selected-addon = { $count ->
+    [zero] هل تريد حذف { $count } إضافة محددة؟
+    [one] هل تريد حذف { $count } إضافة محددة؟
+    [two] هل تريد حذف { $count } إضافة محددة؟
+    [few] هل تريد حذف { $count } إضافات محددة؟
+    [many] هل تريد حذف { $count } إضافة محددة؟
+   *[other] هل تريد حذف { $count } إضافة محددة؟
+  }

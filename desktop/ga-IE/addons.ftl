@@ -59,3 +59,10 @@ addons-unable-to-update-or-delete-addon = Ní féidr breiseán a nuashonrú (nó
 addons-unknown-error = Earráid anaithnid: { $val }
 addons-view-addon-page = Féach Leathanach na mBreiseán
 addons-view-files = Amharc ar chomhaid
+addons-delete-the-numd-selected-addon = { $count ->
+    [one] Scrios { $count } breiseán roghnaithe?
+    [two] Scrios { $count } bhreiseán roghnaithe?
+    [few] Scrios { $count } bhreiseán roghnaithe?
+    [many] Scrios { $count } mbreiseán roghnaithe?
+   *[other] Scrios { $count } breiseán roghnaithe?
+  }

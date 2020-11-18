@@ -31,3 +31,9 @@ qt-misc-undo = Razveljavi
 qt-misc-undo2 = Razveljavi { $val }
 qt-misc-waiting-for-editing-to-finish = Čakam na zaključek urejanja.
 qt-misc-would-you-like-to-download-it = Ali ga želite prenesti sedaj?
+qt-misc-second = { $count ->
+    [one] { $count } sekunda
+    [two] { $count } sekunda
+    [few] { $count } sekundi
+   *[other] { $count } sekunde
+  }

@@ -59,3 +59,8 @@ addons-unable-to-update-or-delete-addon = Не получается обнови
 addons-unknown-error = Неизвестная ошибка: { $val }
 addons-view-addon-page = Посмотреть страницу дополнения
 addons-view-files = Просмотреть файлы
+addons-delete-the-numd-selected-addon = { $count ->
+    [one] Удалить { $count } дополнение?
+    [few] Удалить { $count } дополнения?
+   *[other] Удалить { $count } дополнений?
+  }

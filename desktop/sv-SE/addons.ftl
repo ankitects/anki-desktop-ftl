@@ -27,3 +27,7 @@ addons-to-browse-addons-please-click-the = För att utforska tillägg, klicka p�
 addons-toggle-enabled = Växla aktiverade
 addons-view-addon-page = Visa sida med tillägg
 addons-view-files = Visa filer
+addons-delete-the-numd-selected-addon = { $count ->
+    [one] Ta bort det { $count } valda tillägget?
+   *[other] Ta bort de { $count } valda tilläggen?
+  }

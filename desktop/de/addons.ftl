@@ -59,3 +59,7 @@ addons-unable-to-update-or-delete-addon = Erweiterung konnte nicht aktualisiert 
 addons-unknown-error = Unbekannter Fehler: { $val }
 addons-view-addon-page = Webseite der Erweiterung öffnen
 addons-view-files = Dateien anzeigen
+addons-delete-the-numd-selected-addon = { $count ->
+    [one] Möchten Sie die { $count } ausgewählte Erweiterung löschen?
+   *[other] Möchten Sie die { $count } ausgewählten Erweiterungen löschen?
+  }

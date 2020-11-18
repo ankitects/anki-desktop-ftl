@@ -59,3 +59,7 @@ addons-unable-to-update-or-delete-addon = No es pot actualitzar ni eliminar el c
 addons-unknown-error = Error desconegut: { $val }
 addons-view-addon-page = Visitar pàguina de la extensió
 addons-view-files = Visualitza fitxers
+addons-delete-the-numd-selected-addon = { $count ->
+    [one] Eliminar la { $count } extensió seleccionada?
+   *[other] Eliminar les { $count } extensions seleccionades?
+  }

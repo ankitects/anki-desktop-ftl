@@ -60,3 +60,7 @@ qt-misc-would-you-like-to-download-it = Szeretnéd most letölteni?
 qt-misc-your-collection-file-appears-to-be = A gyűjteményfájl sérültnek tűnik. Ez akkor fordulhat elő, amikor a fájlt lemásolja vagy áthelyezi, miközben Anki nyitva van, vagy amikor a gyűjteményt hálózati vagy felhőmeghajtón tárolja. Ha a számítógép újraindítása után továbbra is problémák merülnek fel, kérjük, nyisson meg egy automatikus biztonsági másolatot.
 qt-misc-your-computers-storage-may-be-full = Lehet, hogy számítógépének tárolója megtelt. Kérjük, töröljön néhány szükségtelen fájlt, majd próbálja újra.
 qt-misc-your-firewall-or-antivirus-program-is = Tűzfala vagy víruskereső programja nem teszi lehetővé az Anki számára, hogy kapcsolatot létesítsen önmagával. Kérjük, az érintett alkalmazásban vegye fel az Ankit a kivételek közé.
+qt-misc-second = { $count ->
+    [one] { $count } mp
+   *[other] { $count } mp
+  }

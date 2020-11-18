@@ -18,3 +18,7 @@ qt-misc-study-deck = Ɣer akemmus...
 qt-misc-sync = Mtawi
 qt-misc-undo = Err-d
 qt-misc-undo2 = Uɣal { $val }
+qt-misc-second = { $count ->
+    [one] { $count } tasint
+   *[other] { $count } tasinin
+  }

@@ -21,3 +21,7 @@ qt-misc-this-file-exists-are-you-sure = Το αρχείο υπάρχει. Είσ
 qt-misc-undo = Αναίρεση
 qt-misc-undo2 = Αναίρεση { $val }
 qt-misc-would-you-like-to-download-it = Θα θέλατε να το κατεβάσετε τώρα;
+qt-misc-second = { $count ->
+    [one] { $count } δευτερόλεπτο
+   *[other] { $count } δευτερόλεπτα
+  }

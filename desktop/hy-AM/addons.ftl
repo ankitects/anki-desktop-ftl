@@ -38,3 +38,7 @@ addons-to-browse-addons-please-click-the = Հավելումները զննելո
 addons-toggle-enabled = Անջատել / Միացնել
 addons-view-addon-page = Բացել այս հավելման կայքէջը
 addons-view-files = Բացել հավելման պանակը
+addons-delete-the-numd-selected-addon = { $count ->
+    [one] Ջնջե՞լ { $count } ընտրված հավելում(ներ)ը:
+   *[other] Ջնջե՞լ { $count } ընտրված հավելում(ներ)ը:
+  }

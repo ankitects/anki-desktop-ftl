@@ -5,3 +5,6 @@ qt-misc-anki-updatedanki-has-been-released = <h1>Anki Sudah Dikemas Kini</h1>Ank
 qt-misc-non-unicode-text = <teks yang tidak berunicode>
 qt-misc-please-select-1-card = (sila pilih 1 kad)
 qt-misc-segoe-ui = "Segoe UI"
+qt-misc-second = { $count ->
+   *[other] { $count } saat
+  }

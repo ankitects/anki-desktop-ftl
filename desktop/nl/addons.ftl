@@ -39,3 +39,7 @@ addons-toggle-enabled = Inschakelen/Uitschakelen
 addons-unable-to-update-or-delete-addon = Kan add-on niet bijwerken of verwijderen. Start Anki terwijl u de shift-toets ingedrukt houdt om add-ons tijdelijk uit te schakelen en probeer het dan opnieuw.  Debug info: { $val }
 addons-view-addon-page = Add-onpagina weergeven
 addons-view-files = Bestanden weergeven
+addons-delete-the-numd-selected-addon = { $count ->
+    [one] De { $count } geselecteerde add-on verwijderen?
+   *[other] De { $count } geselecteerde add-ons verwijderen?
+  }

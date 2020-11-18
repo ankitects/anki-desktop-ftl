@@ -40,3 +40,7 @@ qt-misc-undo = Fortryd
 qt-misc-undo2 = Fortryd { $val }
 qt-misc-waiting-for-editing-to-finish = Afventer færdiggørelse af redigering.
 qt-misc-would-you-like-to-download-it = Vil du gerne downloade den nu?
+qt-misc-second = { $count ->
+    [one] { $count } sekund
+   *[other] { $count } sekunder
+  }

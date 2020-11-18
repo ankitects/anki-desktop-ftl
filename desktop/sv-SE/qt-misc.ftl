@@ -54,3 +54,7 @@ qt-misc-waiting-for-editing-to-finish = Väntar på att redigeringen ska avsluta
 qt-misc-would-you-like-to-download-it = Vill du hämta hem den nu?
 qt-misc-your-collection-file-appears-to-be = Filen med din samling verkar vara korrupt. Detta kan inträffa när filen kopieras eller flyttas medan Anki är öppet, eller när samlingen lagras på en nätverks- eller molnenhet. Om problemet kvarstår efter att ha startat om din dator, öppna en automatisk säkerhetskopia från profilskärmen.
 qt-misc-your-firewall-or-antivirus-program-is = Din brandvägg eller ditt antivirusprogram förhindrar Anki från att ansluta till sig självt. Lägg till ett undantag för Anki.
+qt-misc-second = { $count ->
+    [one] { $count } sekund
+   *[other] { $count } sekunder
+  }

@@ -42,3 +42,7 @@ qt-misc-undo = Geri al
 qt-misc-undo2 = Geri al { $val }
 qt-misc-waiting-for-editing-to-finish = Düzenlemenin bitmesi bekleniyor.
 qt-misc-would-you-like-to-download-it = Şimdi indirmek istermisin ?
+qt-misc-second = { $count ->
+    [one] { $count } saniye
+   *[other] { $count } saniye
+  }

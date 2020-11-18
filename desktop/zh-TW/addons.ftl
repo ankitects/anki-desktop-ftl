@@ -59,3 +59,6 @@ addons-unable-to-update-or-delete-addon = 無法更新或刪除附加元件。�
 addons-unknown-error = 未知錯誤: { $val }
 addons-view-addon-page = 檢視附加元件頁面
 addons-view-files = 檢視檔案
+addons-delete-the-numd-selected-addon = { $count ->
+   *[other] 刪除已選取的 { $count } 個附加元件？
+  }

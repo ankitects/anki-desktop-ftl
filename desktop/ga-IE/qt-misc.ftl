@@ -61,3 +61,10 @@ qt-misc-would-you-like-to-download-it = Íoslódáil anois?
 qt-misc-your-collection-file-appears-to-be = Tá comhad an chnuasaigh truaillithe. Tig leis seo a tharlú nuair a chóipeáiltear (nó a bhogtar) an comhad agus Anki ar oscailt, nó nuair atá an cnuasamh lonnaithe ar thiomántán líonra nó ar néalthiomántán. Má tá an fadhb seo fós ann tar éis an ríomhaire a atosnú, oscail cúltacú uathoibríoch ón bhfuinneog phróifíl.
 qt-misc-your-computers-storage-may-be-full = An bhfuil an stóras lán ar an ríomhaire? Déan spás agus bain triail eile as.
 qt-misc-your-firewall-or-antivirus-program-is = Tá balla dóiteáin nó clár frithvíreas ag cur bac ar Anki ó nasc a dhéanamh leis féin. Cruthaigh eisceacht do Anki.
+qt-misc-second = { $count ->
+    [one] { $count } soicind
+    [two] { $count } soicind
+    [few] { $count } soicind
+    [many] { $count } soicind
+   *[other] { $count } soicind
+  }

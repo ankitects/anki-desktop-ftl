@@ -61,3 +61,7 @@ qt-misc-would-you-like-to-download-it = Jetzt herunterladen?
 qt-misc-your-collection-file-appears-to-be = Die Datei Ihrer Sammlung scheint fehlerhaft zu sein. Zu diesem Zustand kann es kommen, wenn die Datei während einer laufenden Sitzung des Programms kopiert oder verschoben wird, oder wenn die Sammlung auf einem Netzlaufwerk oder Cloudspeicher gespeichert wird. Sollte das Problem nach einem Neustart des Computers weiterhin bestehen, bitten wir Sie, eine automatisch erstellte Sicherungskopie über die Profileinstellungen einzuspielen.
 qt-misc-your-computers-storage-may-be-full = Der Speicherplatz auf Ihrem Computer dürfte vollständig belegt sein. Bitte löschen Sie einige nicht benötigte Dateien und versuchen Sie es anschließend erneut.
 qt-misc-your-firewall-or-antivirus-program-is = Ihre Firewall oder Ihr Antivirusprogramm verhindert, dass Anki eine Verbindung zu sich selbst aufbauen kann. Bitte fügen Sie eine entsprechende Ausnahme für Anki hinzu.
+qt-misc-second = { $count ->
+    [one] { $count } Sekunde
+   *[other] { $count } Sekunden
+  }

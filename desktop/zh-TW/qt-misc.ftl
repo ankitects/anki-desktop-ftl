@@ -61,3 +61,6 @@ qt-misc-would-you-like-to-download-it = 您想要現在下載嗎?
 qt-misc-your-collection-file-appears-to-be = 您的集合檔案似乎以損毀。原因可能是檔案在 Anki 開啟時被複製/移動，或集合儲存於網路/雲端硬碟。如果在重新啟動電腦後問題仍然發生，請開啟設定檔畫面上的自動備份。
 qt-misc-your-computers-storage-may-be-full = 您的電腦儲存空間可能已滿。請刪除一些不需要的檔案，然後再試一次。
 qt-misc-your-firewall-or-antivirus-program-is = 您的防火牆或防毒軟體程式正在阻止 Anki 建立與自身的連接。請將 Anki 添加到例外清單中。
+qt-misc-second = { $count ->
+   *[other] { $count }秒鐘
+  }

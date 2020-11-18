@@ -59,3 +59,7 @@ addons-unable-to-update-or-delete-addon = Nem sikerült frissíteni vagy töröl
 addons-unknown-error = Ismeretlen hiba: { $val }
 addons-view-addon-page = Kiegészítő oldal megtekintése
 addons-view-files = Fájlok megtekintése
+addons-delete-the-numd-selected-addon = { $count ->
+    [one] Törli a { $count } kiválasztott kiegészítőt?
+   *[other] Törli a { $count } kiválasztott kiegészítőket?
+  }

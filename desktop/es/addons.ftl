@@ -59,3 +59,7 @@ addons-unable-to-update-or-delete-addon = No se puede actualizar ni eliminar el 
 addons-unknown-error = Error desconocido: { $val }
 addons-view-addon-page = Visitar página del complemento
 addons-view-files = Ver archivos
+addons-delete-the-numd-selected-addon = { $count ->
+    [one] ¿Quiere eliminar { $count } complemento seleccionado?
+   *[other] ¿Quiere eliminar los { $count } complementos seleccionados?
+  }

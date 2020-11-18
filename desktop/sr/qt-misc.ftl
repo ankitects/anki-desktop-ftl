@@ -43,3 +43,8 @@ qt-misc-undo = Опозови
 qt-misc-undo2 = Опозови { $val }
 qt-misc-waiting-for-editing-to-finish = Очекивање завршетка уређивања.
 qt-misc-would-you-like-to-download-it = Желите ли да га преузмете сада?
+qt-misc-second = { $count ->
+    [one] { $count } секунда
+    [few] { $count } секунде
+   *[other] { $count } секунди
+  }

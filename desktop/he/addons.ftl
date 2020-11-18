@@ -59,3 +59,7 @@ addons-unable-to-update-or-delete-addon = לא הצלחנו לעדכן או למ
 addons-unknown-error = שגיאה לא ידועה: { $val }
 addons-view-addon-page = צפה בדף של התוסף
 addons-view-files = הצג קבצים
+addons-delete-the-numd-selected-addon = { $count ->
+    [one] מחק את { $count } התוסף הנבחר?
+   *[other] מחק את { $count } התוספים הנבחרים?
+  }

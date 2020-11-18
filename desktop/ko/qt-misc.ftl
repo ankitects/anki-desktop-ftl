@@ -60,3 +60,6 @@ qt-misc-would-you-like-to-download-it = 지금 다운로드하시겠습니까?
 qt-misc-your-collection-file-appears-to-be = 당신의 컬렉션이 망가졌다고 나타납니다. 이것은 Anki가 실행 중일 때 파일이 복사되거나 옮겨졌기 때문이거나 컬렉션이 네트워크나 cloud 드라이브에 저장되었기 때문입니다. 만약 컴퓨터 재부팅 후에 문제가 지속되면 프로필 전환 창에서 (자동) 백업을 열어주세요.
 qt-misc-your-computers-storage-may-be-full = 컴퓨터의 저장 용량이 부족합니다. 필요 없는 파일들을 삭제한 다음 다시 시도하세요.
 qt-misc-your-firewall-or-antivirus-program-is = Anki가 연결을 하는 것을 방화벽이나 백신이  막고 있습니다. Anki를 예외 항목에 추가해주세요.
+qt-misc-second = { $count ->
+   *[other] { $count }초
+  }

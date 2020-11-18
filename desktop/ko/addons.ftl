@@ -57,3 +57,6 @@ addons-unable-to-update-or-delete-addon = 확장 프로그램 업데이트 또�
 addons-unknown-error = 알 수 없는 오류: { $val }
 addons-view-addon-page = 웹사이트 보기
 addons-view-files = 파일 보기
+addons-delete-the-numd-selected-addon = { $count ->
+   *[other] 선택한 확장 프로그램 { $count }개를 삭제합니까?
+  }

@@ -52,3 +52,8 @@ addons-unable-to-update-or-delete-addon = Nelze aktualizovat nebo odstranit dopl
 addons-unknown-error = Neznámá chyba: { $val }
 addons-view-addon-page = Zobrazit stránku doplňku
 addons-view-files = Zobrazit soubory
+addons-delete-the-numd-selected-addon = { $count ->
+    [one] Smazat { $count } vybraný doplněk?
+    [few] Smazat { $count } vybrané doplňky?
+   *[other] Smazat { $count } vybraných doplňků?
+  }

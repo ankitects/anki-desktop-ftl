@@ -58,3 +58,7 @@ qt-misc-would-you-like-to-download-it = Ĉu vi volas elŝuti ĝin nun?
 qt-misc-your-collection-file-appears-to-be = Via kolektodosiero ŝajne estas difektohava. Tio povas okazi kiam dosiero estas kopiita aŭ movita dum Anki estas malferma aŭ kiam la kolekto troviĝas sur reta aŭ nuba disko. Se problemoj daŭras post restartigo de via komputilo, bonvolu malfermi aŭtomatan sekurkopion en la profilmenuo.
 qt-misc-your-computers-storage-may-be-full = La memoro de via komputilo eble estas plena. Bonvolu forigi kelkajn nebezonatajn dosierojn kaj reprovi ĝin.
 qt-misc-your-firewall-or-antivirus-program-is = Via fajroŝirmilo aŭ senvirusigilo malhelpas Anki krei konekton al si mem. Bonvolu aldoni escepton por Anki.
+qt-misc-second = { $count ->
+    [one] { $count } sekundo
+   *[other] { $count } sekundoj
+  }

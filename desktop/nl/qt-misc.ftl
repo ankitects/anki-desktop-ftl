@@ -57,3 +57,7 @@ qt-misc-would-you-like-to-download-it = Wilt u het nu downloaden?
 qt-misc-your-collection-file-appears-to-be = Uw verzamelingsbestand lijkt beschadigd te zijn. Dit kan gebeuren wanneer het bestand gekopieerd of verplaatst wordt terwijl Anki open is, of wanneer de verzameling opgeslagen is op een netwerk- of cloudstation. Als het probleem zich blijft voordoen nadat u uw computer opnieuw hebt opgestart, open een automatische back-up via het profielscherm.
 qt-misc-your-computers-storage-may-be-full = De opslagruimte van uw computer is mogelijk vol. Verwijder enkele overbodige bestanden en probeer opnieuw.
 qt-misc-your-firewall-or-antivirus-program-is = Uw firewall of antivirusprogramma verhindert dat Anki verbinding maakt met zichzelf. Gelieve een uitzondering te maken voor Anki.
+qt-misc-second = { $count ->
+    [one] { $count } seconde
+   *[other] { $count } seconden
+  }

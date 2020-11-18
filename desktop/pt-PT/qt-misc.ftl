@@ -49,3 +49,7 @@ qt-misc-undo2 = Anular { $val }
 qt-misc-unexpected-response-code = Código de resposta inesperado: { $val }
 qt-misc-waiting-for-editing-to-finish = Aguardando pela edição para finalizar.
 qt-misc-would-you-like-to-download-it = Gostaria de fazer o download agora?
+qt-misc-second = { $count ->
+    [one] { $count } segundo
+   *[other] { $count } segundos
+  }

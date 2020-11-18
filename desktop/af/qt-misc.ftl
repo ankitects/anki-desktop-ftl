@@ -41,3 +41,7 @@ qt-misc-undo = Herroep
 qt-misc-undo2 = Herroep { $val }
 qt-misc-waiting-for-editing-to-finish = Wag tans om redigering te voltooi.
 qt-misc-would-you-like-to-download-it = Wil u dit nou aflaai?
+qt-misc-second = { $count ->
+    [one] { $count } sekonde
+   *[other] { $count } sekondes
+  }

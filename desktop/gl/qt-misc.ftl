@@ -42,3 +42,7 @@ qt-misc-undo = Desfacer
 qt-misc-undo2 = Desfacer { $val }
 qt-misc-waiting-for-editing-to-finish = Agardando a que remate a edición.
 qt-misc-would-you-like-to-download-it = Quere descargalo agora?
+qt-misc-second = { $count ->
+    [one] { $count } segundo
+   *[other] { $count } segundos
+  }

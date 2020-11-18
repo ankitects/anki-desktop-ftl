@@ -31,3 +31,8 @@ qt-misc-study-deck = Studiază pachet…
 qt-misc-this-file-exists-are-you-sure = Fișierul există. Sunteți sigur(ă) că vreți să îl suprascrieți?
 qt-misc-undo2 = Refă { $val }
 qt-misc-would-you-like-to-download-it = Doriți să îl descărcați acum?
+qt-misc-second = { $count ->
+    [one] { $count } secundă
+    [few] { $count } secunde
+   *[other] { $count } de secunde
+  }

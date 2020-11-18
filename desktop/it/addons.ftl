@@ -59,3 +59,7 @@ addons-unable-to-update-or-delete-addon = L'add-on non ha potuto essere aggiorna
 addons-unknown-error = Errore sconosciuto: { $val }
 addons-view-addon-page = Visualizza la pagina degli add-on
 addons-view-files = Mostra i file
+addons-delete-the-numd-selected-addon = { $count ->
+    [one] Elimina { $count } add-on selezionato?
+   *[other] Elimina i { $count } add-on selezionati?
+  }

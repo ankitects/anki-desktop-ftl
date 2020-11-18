@@ -54,3 +54,8 @@ qt-misc-undo = Скасувати
 qt-misc-undo2 = Відмінити - { $val }
 qt-misc-waiting-for-editing-to-finish = Чекаю на звершення редагування.
 qt-misc-would-you-like-to-download-it = Ви бажаєте завантажити зараз?
+qt-misc-second = { $count ->
+    [one] { $count } секунда
+    [few] { $count } секунди
+   *[other] { $count } секунд
+  }

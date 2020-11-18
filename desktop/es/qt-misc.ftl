@@ -60,3 +60,7 @@ qt-misc-would-you-like-to-download-it = ¿Desea descargarlo ahora?
 qt-misc-your-collection-file-appears-to-be = Su archivo de colección parece estar dañado. Esto puede suceder cuando el archivo se copia o se mueve mientras Anki está abierto o cuando la colección se almacena en una red o unidad en la nube. Si los problemas persisten después de reiniciar su ordenador, abra una copia de seguridad automática desde la pantalla de perfil.
 qt-misc-your-computers-storage-may-be-full = Es posible que el almacenamiento del equipo esté lleno. Elimine archivos que no necesite e intente de nuevo la operación.
 qt-misc-your-firewall-or-antivirus-program-is = Su cortafuegos o antivirus previene que Anki cree una conexión consigo mismo. Por favor añada una excepción para Anki
+qt-misc-second = { $count ->
+    [one] { $count } segundo
+   *[other] { $count } segundos
+  }

@@ -44,3 +44,8 @@ addons-the-following-addons-are-incompatible-with = Наступні допов�
 addons-the-following-addons-have-updates-available = На наступні доповнення є оновлення. Встановити зараз?
 addons-the-following-conflicting-addons-were-disabled = Наступні конфліктуючі доповнення вимкнено:
 addons-this-addon-is-not-compatible-with = Це доповнення не сумісне з цією версією Anki.
+addons-delete-the-numd-selected-addon = { $count ->
+    [one] Видалити { $count } вибране розширення?
+    [few] Видалити { $count } вибрані розширення?
+   *[other] Видалити { $count } вибраних розширень?
+  }

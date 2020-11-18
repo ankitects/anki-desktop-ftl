@@ -41,3 +41,6 @@ addons-to-browse-addons-please-click-the = .i lo nu do catlu lo liste be lo se s
 addons-toggle-enabled = nu katci binxo
 addons-view-addon-page = nu catlu lo se samtcise'a papri
 addons-view-files = catlu lo datnyvei
+addons-delete-the-numd-selected-addon = { $count ->
+   *[other] .i { $count } da poi se samtcise'a je cu se cuxna zo'u xu do djica lo nu vimcu da
+  }

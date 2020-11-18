@@ -59,3 +59,7 @@ addons-unable-to-update-or-delete-addon = Impossible de mettre à jour ou de sup
 addons-unknown-error = Erreur inconnue : { $val }
 addons-view-addon-page = Voir la page du greffon
 addons-view-files = Afficher les fichiers
+addons-delete-the-numd-selected-addon = { $count ->
+    [one] Supprimer le greffon { $count } sélectionné ?
+   *[other] Supprimer les greffons { $count } sélectionnés ?
+  }

@@ -60,3 +60,8 @@ qt-misc-would-you-like-to-download-it = Chcete ju stiahnuť teraz?
 qt-misc-your-collection-file-appears-to-be = Váš súbor so zbierkou vyzerá byť poškodený. Toto sa stáva vtedy, keď je súbor prekopírovaný alebo presunutý, kým je Anki otvorené alebo keď je zbierka uložená na sieťový disk alebo v cloude. Ak problém pretrváva po reštarte počítača, prejdite, prosím, do automatickej zálohy z nastavenia profilu.
 qt-misc-your-computers-storage-may-be-full = Úložisko počítača môže byť plné. Odstráňte, prosím, niektoré nepotrebné súbory, potom to skúste znovu.
 qt-misc-your-firewall-or-antivirus-program-is = Váš firewall alebo antivírusový program zabraňuje Anki vytvoriť spojenie so sebou. Prosím, vytvorte pre Anki výnimku.
+qt-misc-second = { $count ->
+    [one] { $count } sekúnd
+    [few] { $count } sekunda
+   *[other] { $count } sekundy
+  }

@@ -59,3 +59,6 @@ addons-unable-to-update-or-delete-addon = امکان به‌روزرسانی ی�
 addons-unknown-error = خطای ناشناخته: { $val }
 addons-view-addon-page = نمایش صفحۀ افزونه
 addons-view-files = نمایش فایل‌ها
+addons-delete-the-numd-selected-addon = { $count ->
+   *[other] حذف { $count } افزونۀ انتخاب شده؟
+  }

@@ -58,3 +58,6 @@ addons-unable-to-update-or-delete-addon = 无法更新或删除扩展组件。�
 addons-unknown-error = 未知错误：{ $val }
 addons-view-addon-page = 浏览插件页面
 addons-view-files = 查看文件
+addons-delete-the-numd-selected-addon = { $count ->
+   *[other] 删除{ $count }个已选择的插件？
+  }

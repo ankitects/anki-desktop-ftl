@@ -46,3 +46,7 @@ qt-misc-undo = Desegin
 qt-misc-undo2 = { $val } desegin
 qt-misc-waiting-for-editing-to-finish = editatzeari itxoin bukatzeko
 qt-misc-would-you-like-to-download-it = Orain deskargatu nahi duzu?
+qt-misc-second = { $count ->
+    [one] Segundo { $count }
+   *[other] { $count } segundo
+  }

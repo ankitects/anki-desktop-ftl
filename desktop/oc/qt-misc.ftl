@@ -10,3 +10,7 @@ qt-misc-filtered-deck = Paquet filtrat { $val }
 qt-misc-non-unicode-text = <tèxte non-unicode>
 qt-misc-please-select-1-card = (seleccionatz 1 carta)
 qt-misc-processing = Tractament en cors...
+qt-misc-second = { $count ->
+    [one] { $count } segonda
+   *[other] { $count } segondas
+  }

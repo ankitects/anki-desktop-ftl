@@ -60,3 +60,6 @@ qt-misc-would-you-like-to-download-it = 今ダウンロードしますか？
 qt-misc-your-collection-file-appears-to-be = コレクションが破損しているおそれがあります。このような破損は、Ankiを使用中に中身のファイルの移動やコピーを行った場合や、コレクションをネットワークドライブやクラウドドライブに保管している場合に起きることがあります。コンピューターを再起動しても問題が続く場合は、メニューの[ファイル]>[プロファイル]でプロファイルウィンドウを開き、自動バックアップされたコレクションを使用してください。
 qt-misc-your-computers-storage-may-be-full = あなたのコンピュータにストレージ空き容量がありません。不要なファイルを削除し、再度お試しください。
 qt-misc-your-firewall-or-antivirus-program-is = ファイアウォールかウイルス対策ソフトがAnkiの接続処理を妨げています。Ankiを例外リストに追加してください。
+qt-misc-second = { $count ->
+   *[other] { $count } 秒
+  }

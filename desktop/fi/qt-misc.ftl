@@ -46,3 +46,7 @@ qt-misc-undo = Kumoa
 qt-misc-undo2 = Kumoa { $val }
 qt-misc-waiting-for-editing-to-finish = Odotetaan että muokkaus valmistuu.
 qt-misc-would-you-like-to-download-it = Haluatko ladata sen nyt?
+qt-misc-second = { $count ->
+    [one] { $count } sekunti
+   *[other] { $count } sekuntia
+  }

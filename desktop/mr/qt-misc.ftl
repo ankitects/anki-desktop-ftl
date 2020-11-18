@@ -10,3 +10,7 @@ qt-misc-processing = विश्लेषण करत आहे...
 qt-misc-this-file-exists-are-you-sure = ही फाइल अस्तित्वात आहे. खोडून पुन्हलेखन करावे?
 qt-misc-undo2 = { $val } मागे घ्या
 qt-misc-would-you-like-to-download-it = तुम्हाला हे अत्ता डाउनलोड करायचे आहे का?
+qt-misc-second = { $count ->
+    [one] { $count } सेकंद
+   *[other] { $count } सेकंद
+  }

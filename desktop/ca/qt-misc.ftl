@@ -60,3 +60,7 @@ qt-misc-would-you-like-to-download-it = Voleu baixar-ho ara?
 qt-misc-your-collection-file-appears-to-be = Sembla que la teva col·lecció està corrupte. Aixó pot succeir quan l'arxiu és copiat o mogut mentre l'Anki està obert, o bé quan la col·lecció es emmegantzemada en un disc dur en línia o al núvol. Si els errors persisteixen després de reiniciar l'ordinador, sisplau obre una còpia de seguretat des del gestor de perfils.
 qt-misc-your-computers-storage-may-be-full = És possible que el emmegatzematge del seu equip estigui ple. Elimini els arxius que no necesits, aleshores torni-ho a intentar.
 qt-misc-your-firewall-or-antivirus-program-is = El teu tallafocs o antivirus esta impedint que Anki es conecti amb ell mateix. Sisplau, afegueix una excepció per a l'Anki.
+qt-misc-second = { $count ->
+    [one] { $count } segon
+   *[other] { $count } segons
+  }

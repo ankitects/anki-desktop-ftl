@@ -45,3 +45,6 @@ qt-misc-undo2 = xruti fo la'o zoi. { $val } .zoi
 qt-misc-waiting-for-editing-to-finish = .i ca'o denpa lo nu mo'u basygau
 qt-misc-would-you-like-to-download-it = .i xu do djica lo du'u ca kibycpa
 qt-misc-your-collection-file-appears-to-be = .i lo do karda selcmi selcmi datnyvei cu simlu lo ka ce'u spofu .i ky sy sy dy. kakne ri lo ka ca lo nu la .ankis. cu katci kei ce'u se fukpu'i ja cu se muvgau ja lo ka vreji ce'u fo pa samseltcana co'e ja pa kibro co'e .i ga na ja lo nabmi cu renvi lo nu do krefu katci lo do skami gi do bilga lo ka gau ce'u samymo'i pa zmiku nurfu'i pe lo pilno datni
+qt-misc-second = { $count ->
+   *[other] snidu li { $count }
+  }
