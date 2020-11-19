@@ -12,7 +12,7 @@ addons-addon-has-no-configuration = 附加元件沒有設定檔。
 addons-addon-installation-error = 附加元件安裝出錯
 addons-addon-was-not-downloaded-from-ankiweb = 附加元件不是從 AnkiWeb 下載的。
 addons-browse-addons = 瀏覽附加元件
-addons-changes-will-take-effect-when-anki = 變更將在Anki重新啟動後生效。
+addons-changes-will-take-effect-when-anki = 變更將在 Anki 重新啟動後生效。
 addons-check-for-updates = 檢查更新
 addons-checking = 檢查中...
 addons-code = 代碼:
@@ -21,7 +21,7 @@ addons-configuration = 設定
 addons-corrupt-addon-file = 損毀的附加元件檔案。
 addons-disabled = (已停用)
 addons-disabled2 = (已停用)
-addons-download-complete-please-restart-anki-to = 下載完成。請重新啟動Anki以套用變更。
+addons-download-complete-please-restart-anki-to = 下載完成。請重新啟動 Anki 以套用變更。
 addons-downloaded-fnames = 已下載 %(fname)s
 addons-downloading-adbd-kb02fkb = 下載中 %(a)d/%(b)d (%(kb)0.2fKB)...
 addons-error-downloading-ids-errors = 下載 <i>%(id)s</i> 時發生錯誤: %(error)s
@@ -30,7 +30,7 @@ addons-get-addons = 取得附加元件...
 addons-important-as-addons-are-programs-downloaded = <b>非常重要</b>: 附加元件是來自網際網路的程式，因此有可能是惡意程式。<b>您應該只安裝信任的附加元件。</b><br><br>您確定要繼續安裝以下 Anki 附加元件嗎？<br><br>%(names)s
 addons-install-addon = 安裝附加元件
 addons-install-addons = 安裝附加元件
-addons-install-anki-addon = 安裝Anki附加元件
+addons-install-anki-addon = 安裝 Anki 附加元件
 addons-install-from-file = 從檔案安裝...
 addons-installation-complete = 安裝完成
 addons-installed-names = 已安裝 %(name)s
@@ -59,6 +59,7 @@ addons-unable-to-update-or-delete-addon = 無法更新或刪除附加元件。�
 addons-unknown-error = 未知錯誤: { $val }
 addons-view-addon-page = 檢視附加元件頁面
 addons-view-files = 檢視檔案
-addons-delete-the-numd-selected-addon = { $count ->
-   *[other] 刪除已選取的 { $count } 個附加元件？
-  }
+addons-delete-the-numd-selected-addon =
+    { $count ->
+       *[other] 刪除已選取的 { $count } 個附加元件？
+    }

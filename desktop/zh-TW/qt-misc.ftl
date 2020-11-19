@@ -4,13 +4,13 @@ qt-misc-all-cards-notes-and-media-for = 確定要刪除此設定檔的所有卡�
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki 已更新</h1>Anki { $val } 已發佈。<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = 自動同步和備份已在恢復時被停用。要重新啟用，請關閉設定檔或重新啟動Anki。
 qt-misc-back-side-only = 僅背面
-qt-misc-backing-up = 正在備份...
+qt-misc-backing-up = 備份中...
 qt-misc-browse = 瀏覽
 qt-misc-change-note-type-ctrlandn = 變更筆記類型 (Ctrl+N)
 qt-misc-check-the-files-in-the-media = 檢查媒體資料夾檔案
 qt-misc-choose-deck = 選擇牌組
 qt-misc-choose-note-type = 選擇筆記類型
-qt-misc-closing = 正在關閉...
+qt-misc-closing = 關閉中...
 qt-misc-configure-interface-language-and-options = 設定介面語言與選項
 qt-misc-copy-to-clipboard = 複製到剪貼簿
 qt-misc-create-filtered-deck = 建立篩選牌組...
@@ -21,7 +21,7 @@ qt-misc-empty-cards = 空白卡片...
 qt-misc-error-during-startup = 開啟時發生錯誤: { $val }
 qt-misc-filtered-deck = 篩選牌組 { $val }
 qt-misc-ignore-this-update = 忽略更新
-qt-misc-in-order-to-ensure-your-collection = 為了確保您的集合能在不同裝置中運作，Anki要求您電腦的內部時鐘設定正確。即使系統顯示的當地時間是對的，內部時鐘還是有可能有錯。<br><br>請在電腦上的時間設定中確定下列幾點:<br><br>- 上午/下午<br>- 時間飄移 (Clock drift)<br>- 年月日<br>- 時區<br>- 夏令時間<br><br>與正確時間的差異: { $val }。
+qt-misc-in-order-to-ensure-your-collection = 為了確保您的集合能在不同裝置中運作，Anki 要求您電腦的內部時鐘設定正確。即使系統顯示的當地時間是對的，內部時鐘還是有可能有錯。<br><br>請在電腦上的時間設定中確定下列幾點:<br><br>- 上午/下午<br>- 時間飄移 (Clock drift)<br>- 年月日<br>- 時區<br>- 夏令時間<br><br>與正確時間的差異: { $val }。
 qt-misc-invalid-property-found-on-card-please = 卡片上有無效的屬性，請按 工具>檢查資料庫。如果問題再次出現，請至支援網站提問。
 qt-misc-loading = 讀取中...
 qt-misc-manage = 管理
@@ -40,9 +40,9 @@ qt-misc-resume-now = 繼續
 qt-misc-revert-to-backup = 恢復備份
 qt-misc-reverted-to-state-prior-to = 恢復至 「{ $val }」 狀態以前。
 qt-misc-segoe-ui = "Segoe UI", "Microsoft JhengHei UI"
-qt-misc-shift-key-was-held-down-skipping = 已按下Shift 鍵，略過自動同步，略過載入附加元件。
+qt-misc-shift-key-was-held-down-skipping = 已按下 Shift 鍵。略過自動同步及載入附加元件。
 qt-misc-shortcut-key-left-arrow = 快速鍵: 左方向鍵
-qt-misc-shortcut-key-right-arrow-or-enter = 快速鍵: 右方向鍵 或 Enter鍵
+qt-misc-shortcut-key-right-arrow-or-enter = 快速鍵: 右方向鍵 或 Enter 鍵
 qt-misc-stats = 統計
 qt-misc-study-deck = 學習牌組...
 qt-misc-sync = 同步
@@ -61,6 +61,7 @@ qt-misc-would-you-like-to-download-it = 您想要現在下載嗎?
 qt-misc-your-collection-file-appears-to-be = 您的集合檔案似乎以損毀。原因可能是檔案在 Anki 開啟時被複製/移動，或集合儲存於網路/雲端硬碟。如果在重新啟動電腦後問題仍然發生，請開啟設定檔畫面上的自動備份。
 qt-misc-your-computers-storage-may-be-full = 您的電腦儲存空間可能已滿。請刪除一些不需要的檔案，然後再試一次。
 qt-misc-your-firewall-or-antivirus-program-is = 您的防火牆或防毒軟體程式正在阻止 Anki 建立與自身的連接。請將 Anki 添加到例外清單中。
-qt-misc-second = { $count ->
-   *[other] { $count }秒鐘
-  }
+qt-misc-second =
+    { $count ->
+       *[other] { $count }秒鐘
+    }
