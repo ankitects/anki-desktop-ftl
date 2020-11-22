@@ -7,4 +7,4 @@ about-copy-debug-info = Zkopírovat ladicí informace
 about-if-you-have-contributed-and-are = Pokud jste přispěli a nejste na seznamu, ozvěte se prosím.
 about-version = Verze { $val }
 about-visit-website = <a href='{ $val }'>Navštivte web</a>
-about-written-by-damien-elmes-with-patches = Napsáno Damienem Elmesem se záplatami, překlady, testováním a designem od:<p>%(cont)s
+about-written-by-damien-elmes-with-patches = Napsáno Damienem Elmesem se záplatami, překlady, testováním a designem od:<p>{ $cont }

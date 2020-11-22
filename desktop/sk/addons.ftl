@@ -10,13 +10,13 @@ addons-code = Kód:
 addons-config = Nastavenia
 addons-configuration = Nastavenia
 addons-corrupt-addon-file = Poškodený súbor doplnku.
-addons-disabled =  (zakázané)
+addons-disabled = (zakázané)
 addons-disabled2 = (vypnuté)
 addons-download-complete-please-restart-anki-to = Sťahovanie ukončené. Prosím, reštartujte Anki, aby sa zmeny prejavili.
-addons-downloaded-fnames = Stiahnutý %(fname)s
-addons-downloading-adbd-kb02fkb = Sťahujem %(a)d/%(b)d (%(kb)0.2fKB)...
-addons-error-downloading-ids-errors = Chyba pri sťahovaní <i>%(id)s</i>: %(error)s
-addons-error-installing-bases-errors = Chyba pri inštalovaní <i>%(base)s</i>: %(error)s
+addons-downloaded-fnames = Stiahnutý { $fname }
+addons-downloading-adbd-kb02fkb = Sťahujem { $part }/{ $total } ({ $kilobytes }KB)...
+addons-error-downloading-ids-errors = Chyba pri sťahovaní <i>{ $id }</i>: { $error }
+addons-error-installing-bases-errors = Chyba pri inštalovaní <i>{ $base }</i>: { $error }
 addons-get-addons = Získať doplnky...
 addons-important-as-addons-are-programs-downloaded = <b>Dôležité</b>: Keďže doplnky sú programy stiahnuté z internetu sú potenciálne nebezpečné.<b>Mali by ste inštalovať len doplnky, ktorým dôverujete.</b><br><br>Naozaj chcete pokračovať v inštalácií nasledujúcich doplnkov pre Anki?<br><br>%(names)s
 addons-install-addon = Inštalovať rozšírenie
@@ -24,12 +24,12 @@ addons-install-addons = Inštalácia doplnku(ov)
 addons-install-anki-addon = Inštalovať doplnok Anki
 addons-install-from-file = Inštalovať zo súboru...
 addons-installation-complete = Inštalácia dokončená
-addons-installed-names = Nainštaloval sa %(name)s
+addons-installed-names = Nainštaloval sa { $name }
 addons-installed-successfully = Inštalácia bola úspešná.
 addons-invalid-addon-manifest = Neplatný manifest doplnku.
 addons-invalid-code = Neplatný kód.
 addons-invalid-code-or-addon-not-available = Neplatný kód alebo doplnok nie je dostupný pre vašu verzi Anki.
-addons-invalid-configuration = Neplatná konfigurácia: 
+addons-invalid-configuration = Neplatná konfigurácia:
 addons-invalid-configuration-top-level-object-must = Neplatná konfigurácia: objekt najvyššej úrovne musí byť mapou
 addons-no-updates-available = Aktualizácie nie sú k dispozícii.
 addons-one-or-more-errors-occurred = Došlo k jednej alebo viacerým chybám:
@@ -40,7 +40,7 @@ addons-please-restart-anki-to-complete-the = <b>Pre dokončenie inštalácie re�
 addons-please-select-a-single-addon-first = Vyberte, prosím, najprv jeden doplnok.
 addons-requires = (vyžaduje { $val })
 addons-restored-defaults = Obnovené pôvodné nastavenia
-addons-the-following-addons-are-incompatible-with = Nasledujúce doplnky nie sú kompatibilné s %(name)s a boli vypnuté: %(found)s
+addons-the-following-addons-are-incompatible-with = Nasledujúce doplnky nie sú kompatibilné s { $name } a boli vypnuté: { $found }
 addons-the-following-addons-have-updates-available = Pre nasledujúce doplnky sú dostupné aktualizácie. Chcete ich teraz nainštalovať?
 addons-the-following-conflicting-addons-were-disabled = Nasledujúce konfliktné doplnky boli vypnuté:
 addons-this-addon-is-not-compatible-with = Tento doplnok nie je kompatibilný s vašou verziou Anki.
@@ -50,8 +50,9 @@ addons-unable-to-update-or-delete-addon = Doplnok sa nepodarilo aktualizovať al
 addons-unknown-error = Neznáma chyba: { $val }
 addons-view-addon-page = Zobraziť stránku doplnku
 addons-view-files = Zobraziť súbory
-addons-delete-the-numd-selected-addon = { $count ->
-    [one] Odstrániť { $count } vybraných doplnkov?
-    [few] Odstrániť { $count } vybraný doplnok?
-   *[other] Odstrániť { $count } vybrané doplnky?
-  }
+addons-delete-the-numd-selected-addon =
+    { $count ->
+        [one] Odstrániť { $count } vybraných doplnkov?
+        [few] Odstrániť { $count } vybraný doplnok?
+       *[other] Odstrániť { $count } vybrané doplnky?
+    }

@@ -10,13 +10,13 @@ addons-code = Код:
 addons-config = Налашт.
 addons-configuration = Налаштування
 addons-corrupt-addon-file = Пошкоджено файл додатку.
-addons-disabled =  (вимкнено)
+addons-disabled = (вимкнено)
 addons-disabled2 = (вимкнено)
 addons-download-complete-please-restart-anki-to = Завантаження виконано. Будь ласка, перезавантажте Anki щоб зміни вступили в силу.
-addons-downloaded-fnames = Завантажене %(fname)s
-addons-downloading-adbd-kb02fkb = Завантаження %(a)d/%(b)d (%(kb)0.2fкБ)…
-addons-error-downloading-ids-errors = Помилка завантаження <i>%(id)s</i>: %(error)s
-addons-error-installing-bases-errors = Помилка встановлення <i>%(base)s</i>: %(error)s
+addons-downloaded-fnames = Завантажене { $fname }
+addons-downloading-adbd-kb02fkb = Завантаження { $part }/{ $total } ({ $kilobytes }кБ)…
+addons-error-downloading-ids-errors = Помилка завантаження <i>{ $id }</i>: { $error }
+addons-error-installing-bases-errors = Помилка встановлення <i>{ $base }</i>: { $error }
 addons-get-addons = Отримання доповнення…
 addons-important-as-addons-are-programs-downloaded = <b>Важливо</b>: Додатки — це програми які завантажуються з інтернету та можуть бути шкідливими.<b>Рекомендуємо завантажувати лише перевірені додатки.</b><br><br>Ви дійсно хочете продовжити встановлення наступн(ого/их) додатк(у/ів) для Anki?<br><br>%(names)s
 addons-install-addon = Встановити додаток до програми
@@ -24,7 +24,7 @@ addons-install-addons = Встановити розширення
 addons-install-anki-addon = Встановити доповнення до Anki
 addons-install-from-file = Встановлення з файлу…
 addons-installation-complete = Встановлення виконано
-addons-installed-names = Встановлено %(name)s
+addons-installed-names = Встановлено { $name }
 addons-installed-successfully = Встановлено успішно.
 addons-invalid-addon-manifest = Невірний маніфест розширення.
 addons-invalid-code = Недійсний код.
@@ -40,12 +40,13 @@ addons-please-restart-anki-to-complete-the = <b>Будь ласка, перез�
 addons-please-select-a-single-addon-first = Будь ласка, встановіть спочатку одне доповнення.
 addons-requires = (потрібно { $val })
 addons-restored-defaults = Скинути налаштування
-addons-the-following-addons-are-incompatible-with = Наступні доповнення не сумісні з %(name)s і було відключено: %(found)s
+addons-the-following-addons-are-incompatible-with = Наступні доповнення не сумісні з { $name } і було відключено: { $found }
 addons-the-following-addons-have-updates-available = На наступні доповнення є оновлення. Встановити зараз?
 addons-the-following-conflicting-addons-were-disabled = Наступні конфліктуючі доповнення вимкнено:
 addons-this-addon-is-not-compatible-with = Це доповнення не сумісне з цією версією Anki.
-addons-delete-the-numd-selected-addon = { $count ->
-    [one] Видалити { $count } вибране розширення?
-    [few] Видалити { $count } вибрані розширення?
-   *[other] Видалити { $count } вибраних розширень?
-  }
+addons-delete-the-numd-selected-addon =
+    { $count ->
+        [one] Видалити { $count } вибране розширення?
+        [few] Видалити { $count } вибрані розширення?
+       *[other] Видалити { $count } вибраних розширень?
+    }

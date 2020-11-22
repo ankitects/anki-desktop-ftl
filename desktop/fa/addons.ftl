@@ -22,10 +22,10 @@ addons-corrupt-addon-file = فایل افزونه خراب.
 addons-disabled = (غیرفعال)
 addons-disabled2 = (غیرفعال)
 addons-download-complete-please-restart-anki-to = دانلود کامل شد. برای اعمال تغییرات لطفاً آنکی را ری‌استارت کنید.
-addons-downloaded-fnames = فایل %(fname)s دانلود شد
-addons-downloading-adbd-kb02fkb = در حال دانلود %(a)d/%(b)d (%(kb)0.2f کیلوبایت)...
-addons-error-downloading-ids-errors = خطای در دانلود <i>%(id)s</i>: %(error)s
-addons-error-installing-bases-errors = خطا در نصب <i>%(base)s</i>: %(error)s
+addons-downloaded-fnames = فایل { $fname } دانلود شد
+addons-downloading-adbd-kb02fkb = در حال دانلود { $part }/{ $total } ({ $kilobytes } کیلوبایت)...
+addons-error-downloading-ids-errors = خطای در دانلود <i>{ $id }</i>: { $error }
+addons-error-installing-bases-errors = خطا در نصب <i>{ $base }</i>: { $error }
 addons-get-addons = دریافت افزونه‌ها…
 addons-important-as-addons-are-programs-downloaded = <b>مهم</b>: از آنجا که افزونه‌ها نرم‌افزارهای دانلود شده از اینترنت هستند، ممکن است مخرب باشند.<b> فقط افزونه‌های قابل اعتما خود را نصب کنید</b><br><br>آیا از نصب افزونه(ها)ی زیر اطمینان دارید؟<br><br>%(names)s
 addons-install-addon = نصب افزونه
@@ -33,7 +33,7 @@ addons-install-addons = نصب افزونه(ها)
 addons-install-anki-addon = نصب افزونه آنکی
 addons-install-from-file = نصب از طریق فایل…
 addons-installation-complete = نصب کامل شد
-addons-installed-names = %(name)s نصب شد
+addons-installed-names = { $name } نصب شد
 addons-installed-successfully = با موفقیت نصب شد.
 addons-invalid-addon-manifest = فایل manifest افزونه نامعتبر است.
 addons-invalid-code = کد نامعتبر.
@@ -49,7 +49,7 @@ addons-please-restart-anki-to-complete-the = <b>برای اتمام نصب، ل�
 addons-please-select-a-single-addon-first = لطفاً ابتدا یک افزونه را انتخاب کنید.
 addons-requires = (نیازمند به { $val })
 addons-restored-defaults = بازنشانی به تنظیمات پیش‌فرض انجام شد
-addons-the-following-addons-are-incompatible-with = افزونه‌های روبه‌رو با %(name)s سازگار نیستند و غیرفعال شدند: %(found)s
+addons-the-following-addons-are-incompatible-with = افزونه‌های روبه‌رو با { $name } سازگار نیستند و غیرفعال شدند: { $found }
 addons-the-following-addons-have-updates-available = نسخۀ جدید برای افزونه‌های زیر منتشر شده است. اکنون نصب شوند؟
 addons-the-following-conflicting-addons-were-disabled = افزونه‌های ناسازگار زیر غیرفعال شدند:
 addons-this-addon-is-not-compatible-with = این افزونه با نسخۀ فعلی آنکی شما ناسازگار است.
@@ -59,6 +59,7 @@ addons-unable-to-update-or-delete-addon = امکان به‌روزرسانی ی�
 addons-unknown-error = خطای ناشناخته: { $val }
 addons-view-addon-page = نمایش صفحۀ افزونه
 addons-view-files = نمایش فایل‌ها
-addons-delete-the-numd-selected-addon = { $count ->
-   *[other] حذف { $count } افزونۀ انتخاب شده؟
-  }
+addons-delete-the-numd-selected-addon =
+    { $count ->
+       *[other] حذف { $count } افزونۀ انتخاب شده؟
+    }

@@ -7,4 +7,4 @@ about-copy-debug-info = Copia informazioni di debug
 about-if-you-have-contributed-and-are = Se hai contribuito e non sei in questo elenco, per favore contattaci.
 about-version = Versione { $val }
 about-visit-website = <a href='{ $val }'>Visita il sito web</a>
-about-written-by-damien-elmes-with-patches = Scritto da Damien Elmes, con patches, traduzioni, test e design di:<p>%(cont)s
+about-written-by-damien-elmes-with-patches = Scritto da Damien Elmes, con patches, traduzioni, test e design di:<p>{ $cont }

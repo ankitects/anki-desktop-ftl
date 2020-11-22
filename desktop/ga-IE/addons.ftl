@@ -22,10 +22,10 @@ addons-corrupt-addon-file = Comhad breiseáin truaillithe.
 addons-disabled = (díchumasaithe)
 addons-disabled2 = (díchumasaithe)
 addons-download-complete-please-restart-anki-to = Íoslódáil críochnaithe. Atosaigh Anki chun athruithe a chuir i bhfeidhm.
-addons-downloaded-fnames = %(fname)s Íoslódáilte
-addons-downloading-adbd-kb02fkb = Á íoslódáil: %(a)d/%(b)d (%(kb)0.2fKB)...
-addons-error-downloading-ids-errors = Botún ag íoslódáil <i>%(id)s</i>: %(error)s
-addons-error-installing-bases-errors = Botún ag suiteáil <i>%(base)s</i>: %(error)s
+addons-downloaded-fnames = { $fname } Íoslódáilte
+addons-downloading-adbd-kb02fkb = Á íoslódáil: { $part }/{ $total } ({ $kilobytes }KB)...
+addons-error-downloading-ids-errors = Botún ag íoslódáil <i>{ $id }</i>: { $error }
+addons-error-installing-bases-errors = Botún ag suiteáil <i>{ $base }</i>: { $error }
 addons-get-addons = Faigh Breiseáin...
 addons-important-as-addons-are-programs-downloaded = <b>Tabhair Aire</b>: Os rud é go dtagann breiseáin ón idirlín, tá riosca ann go mbeadh siad mailíseach. <b>Ná suiteáil ach breiseáin atá muinín agat iontu.</b><br><br>An bhfuil tú cinnte gur mhaith leat leanadh ar aghaidh le suiteáil an bhreiseáin (/na mbreiseáin) seo?<br><br>%(names)s
 addons-install-addon = Suiteáil breiseán
@@ -33,7 +33,7 @@ addons-install-addons = Suiteáin Breiseá(i)n
 addons-install-anki-addon = Suiteáil breiseán Anki
 addons-install-from-file = Suiteáil ó chomhad...
 addons-installation-complete = Suiteáil críochnaithe
-addons-installed-names = %(name)s suiteáilte
+addons-installed-names = { $name } suiteáilte
 addons-installed-successfully = Suiteáilte i gceart.
 addons-invalid-addon-manifest = Lastliosta breiseán neamhbhailí.
 addons-invalid-code = Cód neamhbhailí.
@@ -49,7 +49,7 @@ addons-please-restart-anki-to-complete-the = <b>Atosaigh Anki chun an suiteáil 
 addons-please-select-a-single-addon-first = Roghnaigh breiseán amháin.
 addons-requires = ({ $val } ag teastáil)
 addons-restored-defaults = Tabhair ar ais na réamhshocruithe
-addons-the-following-addons-are-incompatible-with = Díchumasaíodh na breiseán seo (nach n-oibríonn in éineacht le %(name)s ): %(found)s
+addons-the-following-addons-are-incompatible-with = Díchumasaíodh na breiseán seo (nach n-oibríonn in éineacht le { $name } ): { $found }
 addons-the-following-addons-have-updates-available = Is féidir na breiseáin seo a nuashonrú. Déan anois é?
 addons-the-following-conflicting-addons-were-disabled = Díchumasaíodh na breiseáin seo nach n-oibríonn le chéile:
 addons-this-addon-is-not-compatible-with = Ní oibríonn an breiseán seo leis an leagan seo de Anki.
@@ -59,10 +59,11 @@ addons-unable-to-update-or-delete-addon = Ní féidr breiseán a nuashonrú (nó
 addons-unknown-error = Earráid anaithnid: { $val }
 addons-view-addon-page = Féach Leathanach na mBreiseán
 addons-view-files = Amharc ar chomhaid
-addons-delete-the-numd-selected-addon = { $count ->
-    [one] Scrios { $count } breiseán roghnaithe?
-    [two] Scrios { $count } bhreiseán roghnaithe?
-    [few] Scrios { $count } bhreiseán roghnaithe?
-    [many] Scrios { $count } mbreiseán roghnaithe?
-   *[other] Scrios { $count } breiseán roghnaithe?
-  }
+addons-delete-the-numd-selected-addon =
+    { $count ->
+        [one] Scrios { $count } breiseán roghnaithe?
+        [two] Scrios { $count } bhreiseán roghnaithe?
+        [few] Scrios { $count } bhreiseán roghnaithe?
+        [many] Scrios { $count } mbreiseán roghnaithe?
+       *[other] Scrios { $count } breiseán roghnaithe?
+    }

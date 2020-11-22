@@ -7,4 +7,4 @@ about-copy-debug-info = Cóipeáil sonraí dífhabhtaigh
 about-if-you-have-contributed-and-are = Má thug tú cuideacht ach níl tú ar an liosta, téigh i dteagmháil linn.
 about-version = Leagan { $val }
 about-visit-website = <a href='{ $val }'>Téigh chuig an suíomh gréasáin</a>
-about-written-by-damien-elmes-with-patches = Damian Elmes a scríobh, le paistí, aistriúcháin, tástáil agus dearadh ó:<p>%(cont)s
+about-written-by-damien-elmes-with-patches = Damian Elmes a scríobh, le paistí, aistriúcháin, tástáil agus dearadh ó:<p>{ $cont }

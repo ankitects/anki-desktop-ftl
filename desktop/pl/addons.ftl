@@ -19,13 +19,13 @@ addons-code = Kod:
 addons-config = Konfiguracja
 addons-configuration = Konfiguracja
 addons-corrupt-addon-file = Zepsuty plik dodatku.
-addons-disabled =  (wyłączony)
+addons-disabled = (wyłączony)
 addons-disabled2 = (wyłączony)
 addons-download-complete-please-restart-anki-to = Pobieranie zakończone. Uruchom Anki ponownie, aby zastosować zmiany.
-addons-downloaded-fnames = Pobrano %(fname)s
-addons-downloading-adbd-kb02fkb = Pobieranie %(a)d/%(b)d (%(kb)0.2fKB)...
-addons-error-downloading-ids-errors = Błąd przy pobieraniu <i>%(id)s</i>: %(error)s
-addons-error-installing-bases-errors = Błąd przy instalacji <i>%(base)s</i>: %(error)s
+addons-downloaded-fnames = Pobrano { $fname }
+addons-downloading-adbd-kb02fkb = Pobieranie { $part }/{ $total } ({ $kilobytes }KB)...
+addons-error-downloading-ids-errors = Błąd przy pobieraniu <i>{ $id }</i>: { $error }
+addons-error-installing-bases-errors = Błąd przy instalacji <i>{ $base }</i>: { $error }
 addons-get-addons = Pobierz dodatki...
 addons-important-as-addons-are-programs-downloaded = <b>Ważne</b>: Dodatki są pobierane z Internetu, więc mogą być złośliwymi programami.<b>Instaluj tylko te dodatki, którym ufasz.</b><br><br>Na pewno chcesz kontynuować instalację następującego dodatku/dodatków?<br><br>%(names)s
 addons-install-addon = Zainstaluj dodatek
@@ -33,12 +33,12 @@ addons-install-addons = Zainstaluj dodatek (-tki)
 addons-install-anki-addon = Zainstaluj dodatek
 addons-install-from-file = Zainstaluj z pliku...
 addons-installation-complete = Instalacja zakończona
-addons-installed-names = Zainstalowano %(name)s
+addons-installed-names = Zainstalowano { $name }
 addons-installed-successfully = Zainstalowano pomyślnie.
 addons-invalid-addon-manifest = Nieprawidłowy manifest dodatku.
 addons-invalid-code = Nieprawidłowy kod.
 addons-invalid-code-or-addon-not-available = Kod jest nieprawidłowy lub dodatek nie jest dostępny na tę wersję Anki.
-addons-invalid-configuration = Nieprawidłowa konfiguracja: 
+addons-invalid-configuration = Nieprawidłowa konfiguracja:
 addons-invalid-configuration-top-level-object-must = Nieprawidłowa konfiguracja: obiekt na najwyższym poziomie musi być mapą
 addons-no-updates-available = Brak dostępnych aktualizacji.
 addons-one-or-more-errors-occurred = Wystąpił jeden lub więcej błędów:
@@ -49,7 +49,7 @@ addons-please-restart-anki-to-complete-the = <b>Uruchom ponownie Anki, aby zako�
 addons-please-select-a-single-addon-first = Najpierw wybierz pojedynczy dodatek
 addons-requires = (wymaga { $val })
 addons-restored-defaults = Przywrócono ustawienia domyślne
-addons-the-following-addons-are-incompatible-with = Następujące dodatki są niekompatybilne z %(name)s i zostały wyłączone: %(found)s
+addons-the-following-addons-are-incompatible-with = Następujące dodatki są niekompatybilne z { $name } i zostały wyłączone: { $found }
 addons-the-following-addons-have-updates-available = Są dostępne aktualizacje dla następujących dodatków. Zainstalować je teraz?
 addons-the-following-conflicting-addons-were-disabled = Następujące dodatki zostały wyłączone:
 addons-this-addon-is-not-compatible-with = Ten dodatek nie jest kompatybilny z Twoją wersją Anki.
@@ -59,8 +59,9 @@ addons-unable-to-update-or-delete-addon = Nie udało się zaktualizować lub usu
 addons-unknown-error = Nieznany błąd: { $val }
 addons-view-addon-page = Odwiedź stronę dodatku
 addons-view-files = Pokaż pliki
-addons-delete-the-numd-selected-addon = { $count ->
-    [one] Usunąć { $count } wybrany dodatek?
-    [few] Usunąć { $count } wybrane dodatki?
-   *[other] Usunąć { $count } wybranych dodatków?
-  }
+addons-delete-the-numd-selected-addon =
+    { $count ->
+        [one] Usunąć { $count } wybrany dodatek?
+        [few] Usunąć { $count } wybrane dodatki?
+       *[other] Usunąć { $count } wybranych dodatków?
+    }

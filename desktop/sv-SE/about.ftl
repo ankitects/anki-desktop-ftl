@@ -6,4 +6,4 @@ about-copied-to-clipboard = Kopierat till Urklipp
 about-copy-debug-info = Kopiera avlusningsinformation
 about-if-you-have-contributed-and-are = Om du har bidragit men inte finns med på denna lista, kontakta oss.
 about-visit-website = <a href='{ $val }'>Besök webbsajt</a>
-about-written-by-damien-elmes-with-patches = Skrivet av Damien Elmes, med patchar, översättningar, test och design av:<p>%(cont)s
+about-written-by-damien-elmes-with-patches = Skrivet av Damien Elmes, med patchar, översättningar, test och design av:<p>{ $cont }

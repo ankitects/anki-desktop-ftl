@@ -7,4 +7,4 @@ about-copy-debug-info = Скопіювати інформацію налагод
 about-if-you-have-contributed-and-are = Якщо ви зробили свій внесок у розвиток програми, але не зазначені в цьому списку, будь ласка, зв'яжіться з нами.
 about-version = Версія { $val }
 about-visit-website = <a href='{ $val }'>Відвідати вебсторінку</a>
-about-written-by-damien-elmes-with-patches = Застосунок створив Деміен Елмс (Damien Elmes). Ці люди також допомагали в виправленні помилок, перекладі, тестуванні та дизайні:<p>%(cont)s
+about-written-by-damien-elmes-with-patches = Застосунок створив Деміен Елмс (Damien Elmes). Ці люди також допомагали в виправленні помилок, перекладі, тестуванні та дизайні:<p>{ $cont }

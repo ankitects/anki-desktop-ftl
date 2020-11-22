@@ -7,4 +7,4 @@ about-copy-debug-info = کپی مشخصات مشکل‌یابی
 about-if-you-have-contributed-and-are = اگر شما همکاری نموده اید و نام شما در لیست موجود نمی باشد، لطفا در تماس باشید.
 about-version = نسخه { $val }
 about-visit-website = <a href='{ $val }'>بازدید از وبسایت</a>
-about-written-by-damien-elmes-with-patches = نوشته شده توسط Damien Elmes، با تعمیرات،    ترجمه‌ها، آزمایشات و تزئینات توسط:<p>%(cont)s
+about-written-by-damien-elmes-with-patches = نوشته شده توسط Damien Elmes، با تعمیرات،    ترجمه‌ها، آزمایشات و تزئینات توسط:<p>{ $cont }

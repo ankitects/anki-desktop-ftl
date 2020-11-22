@@ -17,13 +17,13 @@ addons-code = Kód:
 addons-config = Nastavení
 addons-configuration = Nastavení
 addons-corrupt-addon-file = Poškozený doplňkový soubor.
-addons-disabled =  (zakázáno)
+addons-disabled = (zakázáno)
 addons-disabled2 = (zakázáno)
 addons-download-complete-please-restart-anki-to = Stahování dokončeno. Prosím restartujte Anki, abyste aplikovali změny.
-addons-downloaded-fnames = Stažen %(fname)s
-addons-downloading-adbd-kb02fkb = Stahování %(a)d/%(b)d (%(kb)0.2f KB)...
-addons-error-downloading-ids-errors = Chyba při stahování <i>%(id)s</i>: %(error)s
-addons-error-installing-bases-errors = Chyba instalace <i>%(base)s</i>: %(error)s
+addons-downloaded-fnames = Stažen { $fname }
+addons-downloading-adbd-kb02fkb = Stahování { $part }/{ $total } ({ $kilobytes } KB)...
+addons-error-downloading-ids-errors = Chyba při stahování <i>{ $id }</i>: { $error }
+addons-error-installing-bases-errors = Chyba instalace <i>{ $base }</i>: { $error }
 addons-get-addons = Získat doplňky...
 addons-important-as-addons-are-programs-downloaded = <b>Důležité</b>: Protože doplňky jsou programy stažené z internetu, jsou potencionálně nebezpečné. <b>Měli byste pouze instalovat doplňky, kterým věříte.</b><br><br>Jste si jistí, že chcete pokračovat v instalaci následujícího Anki doplňku (doplňků)?<br><br>%(names)s
 addons-install-addon = Instalace doplňku
@@ -42,7 +42,7 @@ addons-please-restart-anki-to-complete-the = <b>Prosím restartujte Anki, abyste
 addons-please-select-a-single-addon-first = Nejdříve prosím vyberte jeden doplněk.
 addons-requires = (vyžaduje { $val })
 addons-restored-defaults = Původní nastavení obnovena
-addons-the-following-addons-are-incompatible-with = Následující doplňky nejsou kompatibilní s %(name)s a byly zakázány: %(found)s
+addons-the-following-addons-are-incompatible-with = Následující doplňky nejsou kompatibilní s { $name } a byly zakázány: { $found }
 addons-the-following-addons-have-updates-available = Následující doplňky mají dostupné aktualizace. Instalovat je nyní?
 addons-the-following-conflicting-addons-were-disabled = Následující konfliktní doplňky byly zakázány:
 addons-this-addon-is-not-compatible-with = Tento doplněk není kompatibilní s vaší verzí Anki.
@@ -52,8 +52,9 @@ addons-unable-to-update-or-delete-addon = Nelze aktualizovat nebo odstranit dopl
 addons-unknown-error = Neznámá chyba: { $val }
 addons-view-addon-page = Zobrazit stránku doplňku
 addons-view-files = Zobrazit soubory
-addons-delete-the-numd-selected-addon = { $count ->
-    [one] Smazat { $count } vybraný doplněk?
-    [few] Smazat { $count } vybrané doplňky?
-   *[other] Smazat { $count } vybraných doplňků?
-  }
+addons-delete-the-numd-selected-addon =
+    { $count ->
+        [one] Smazat { $count } vybraný doplněk?
+        [few] Smazat { $count } vybrané doplňky?
+       *[other] Smazat { $count } vybraných doplňků?
+    }

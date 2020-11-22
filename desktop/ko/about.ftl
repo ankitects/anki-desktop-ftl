@@ -7,4 +7,4 @@ about-copy-debug-info = 디버그 정보 복사
 about-if-you-have-contributed-and-are = 프로그램 제작에 기여했지만, 위 목록에 포함되지 않은 분은 연락바랍니다.
 about-version = 버전 { $val }
 about-visit-website = <a href='{ $val }'>공식 웹사이트 방문</a>
-about-written-by-damien-elmes-with-patches = Damien Elmes에 의해 작성되었고 <p>%(cont)s에 의해 패치 및 번역, 테스트, 디자인됨.
+about-written-by-damien-elmes-with-patches = Damien Elmes에 의해 작성되었고 <p>{ $cont }에 의해 패치 및 번역, 테스트, 디자인됨.

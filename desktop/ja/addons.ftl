@@ -16,22 +16,22 @@ addons-code = コード:
 addons-config = 設定
 addons-configuration = 設定
 addons-corrupt-addon-file = 汚染されたアドオンファイル
-addons-disabled =  (無効)
+addons-disabled = (無効)
 addons-download-complete-please-restart-anki-to = ダウンロードが完了しました。変更を適用するためにAnkiを再起動してください。
-addons-downloaded-fnames = %(fname)s をダウンロードしました。
-addons-error-downloading-ids-errors = %(id)s のダウンロード中にエラーが発生しました: %(error)s
-addons-error-installing-bases-errors = %(base)s のインストール中にエラーが発生しました: %(error)s
+addons-downloaded-fnames = { $fname } をダウンロードしました。
+addons-error-downloading-ids-errors = { $id } のダウンロード中にエラーが発生しました: { $error }
+addons-error-installing-bases-errors = { $base } のインストール中にエラーが発生しました: { $error }
 addons-get-addons = 新たにアドオンを取得...
 addons-install-addon = アドオンをインストールする
 addons-install-addons = アドオンをインストールする
 addons-install-anki-addon = Ankiアドオンをインストール
 addons-install-from-file = ファイルからインストール...
 addons-installation-complete = インストール完了
-addons-installed-names = %(name)s をインストールしました
+addons-installed-names = { $name } をインストールしました
 addons-installed-successfully = インストールが完了しました。
 addons-invalid-code = コードが不正です。
 addons-invalid-code-or-addon-not-available = 無効なコードです。数字が誤っているか、このアドオンがこのバージョンのAnkiに対応していません。
-addons-invalid-configuration = 無効な設定: 
+addons-invalid-configuration = 無効な設定:
 addons-no-updates-available = 利用可能なアップデートはありません。
 addons-packaged-anki-addon = パッケージ化されたAnkiアドオン
 addons-please-check-your-internet-connection = インターネット接続を確認してください
@@ -39,7 +39,7 @@ addons-please-report-this-to-the-respective = 当該アドオン作成者に報�
 addons-please-restart-anki-to-complete-the = <b>インストールを完了させるためにAnkiを再起動してください。</b>
 addons-please-select-a-single-addon-first = はじめにアドオンを選択してください。
 addons-restored-defaults = 初期設定に戻す
-addons-the-following-addons-are-incompatible-with = これらのアドオンは%(name)sと互換性がないため無効化されました：%(found)s
+addons-the-following-addons-are-incompatible-with = これらのアドオンは{ $name }と互換性がないため無効化されました：{ $found }
 addons-the-following-addons-have-updates-available = 以下のアドオンにはアップデート版があります。今すぐインストールしますか？
 addons-the-following-conflicting-addons-were-disabled = これらの競合するアドオンを無効化しました：
 addons-this-addon-is-not-compatible-with = このアドオンはご使用のAnkiのバージョンとの互換性がありません。
@@ -49,6 +49,7 @@ addons-unable-to-update-or-delete-addon = アドオンを更新または削除�
 addons-unknown-error = 不明なエラー：{ $val }
 addons-view-addon-page = 選択中のアドオンの詳細
 addons-view-files = ファイルを見る
-addons-delete-the-numd-selected-addon = { $count ->
-   *[other] 選択した{ $count }個のアドオンを削除しますか？
-  }
+addons-delete-the-numd-selected-addon =
+    { $count ->
+       *[other] 選択した{ $count }個のアドオンを削除しますか？
+    }

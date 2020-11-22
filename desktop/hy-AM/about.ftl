@@ -7,4 +7,4 @@ about-copy-debug-info = Պատճենել վրիպազերծման տվյալնե
 about-if-you-have-contributed-and-are = Եթե ներդրում եք կատարել ծրագրի զարգացման մեջ և նշված չեք ցանկում, ապա կապ հաստատեք մեզ հետ:
 about-version = Տարբերակ { $val }
 about-visit-website = <a href='{ $val }'>Կայքէջ</a>
-about-written-by-damien-elmes-with-patches = Ստեղծել է Damien Elmes: Վրիպաշտկումները, թարգմանությունները,    փորձարկումները և դիզայնը տրամադրել են՝<p>%(cont)s
+about-written-by-damien-elmes-with-patches = Ստեղծել է Damien Elmes: Վրիպաշտկումները, թարգմանությունները,    փորձարկումները և դիզայնը տրամադրել են՝<p>{ $cont }

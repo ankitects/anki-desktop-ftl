@@ -19,13 +19,13 @@ addons-code = Código:
 addons-config = Configuración
 addons-configuration = Configuración
 addons-corrupt-addon-file = El archivo del complemento está dañado.
-addons-disabled =  (desactivado)
+addons-disabled = (desactivado)
 addons-disabled2 = (desactivado)
 addons-download-complete-please-restart-anki-to = Descarga completa. Reinicia Anki para aplicar los cambios.
-addons-downloaded-fnames = %(fname)s se ha descargado
-addons-downloading-adbd-kb02fkb = Descargando %(a)d/%(b)d (%(kb)0.2fKB)...
-addons-error-downloading-ids-errors = Error al descargar <i>%(id)s</i>: %(error)s
-addons-error-installing-bases-errors = Error al instalar <i>%(base)s</i>: %(error)s
+addons-downloaded-fnames = { $fname } se ha descargado
+addons-downloading-adbd-kb02fkb = Descargando { $part }/{ $total } ({ $kilobytes }KB)...
+addons-error-downloading-ids-errors = Error al descargar <i>{ $id }</i>: { $error }
+addons-error-installing-bases-errors = Error al instalar <i>{ $base }</i>: { $error }
 addons-get-addons = Descargar complementos...
 addons-important-as-addons-are-programs-downloaded = <b>Importante</b>: Como los complementos son programas descargados de Internet, son potencialmente maliciosos.<b>Solo debes instalar complementos en los que confíes.</b><br><br>¿Estás seguro de que deseas continuar con la instalación de los siguientes complemento(s) Anki?<br><br>%(names)s
 addons-install-addon = Instalar complemento
@@ -33,12 +33,12 @@ addons-install-addons = Instalar complemento(s)
 addons-install-anki-addon = Instalar complemento de Anki
 addons-install-from-file = Instalar desde archivo…
 addons-installation-complete = Instalación completada
-addons-installed-names = Se instaló %(name)s
+addons-installed-names = Se instaló { $name }
 addons-installed-successfully = Instalado correctamente.
 addons-invalid-addon-manifest = El manifiesto del complemento no es válido.
 addons-invalid-code = Código inválido.
 addons-invalid-code-or-addon-not-available = El código no es válido o el complemento no está disponible para su versión de Anki.
-addons-invalid-configuration = Configuración no válida: 
+addons-invalid-configuration = Configuración no válida:
 addons-invalid-configuration-top-level-object-must = Configuración inválida: El objeto del nivel superior debe ser un mapa
 addons-no-updates-available = No hay actualizaciones disponibles.
 addons-one-or-more-errors-occurred = Uno o más errores han ocurrido:
@@ -49,7 +49,7 @@ addons-please-restart-anki-to-complete-the = <b>Por favor, reinicia Anki para co
 addons-please-select-a-single-addon-first = Primero seleccione solo un complemento.
 addons-requires = (requiere { $val })
 addons-restored-defaults = Se restauró la configuración predeterminada
-addons-the-following-addons-are-incompatible-with = Los siguientes complementos son incompatibles con %(name)s y se han desactivado: %(found)s
+addons-the-following-addons-are-incompatible-with = Los siguientes complementos son incompatibles con { $name } y se han desactivado: { $found }
 addons-the-following-addons-have-updates-available = Los siguientes complementos tienen actualizaciones disponibles. ¿Instalar ahora?
 addons-the-following-conflicting-addons-were-disabled = Se desactivaron los siguientes complementos incompatibles:
 addons-this-addon-is-not-compatible-with = Este complemento no es compatible con tu versión de Anki.
@@ -59,7 +59,8 @@ addons-unable-to-update-or-delete-addon = No se puede actualizar ni eliminar el 
 addons-unknown-error = Error desconocido: { $val }
 addons-view-addon-page = Visitar página del complemento
 addons-view-files = Ver archivos
-addons-delete-the-numd-selected-addon = { $count ->
-    [one] ¿Quiere eliminar { $count } complemento seleccionado?
-   *[other] ¿Quiere eliminar los { $count } complementos seleccionados?
-  }
+addons-delete-the-numd-selected-addon =
+    { $count ->
+        [one] ¿Quiere eliminar { $count } complemento seleccionado?
+       *[other] ¿Quiere eliminar los { $count } complementos seleccionados?
+    }

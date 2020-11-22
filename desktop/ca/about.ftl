@@ -7,4 +7,4 @@ about-copy-debug-info = Copiar informació de depuració
 about-if-you-have-contributed-and-are = Si hi heus contribuït però no sou a la llista, poseu-vos en contacte.
 about-version = Versió { $val }
 about-visit-website = <a href='{ $val }'>Vés al lloc web</a>
-about-written-by-damien-elmes-with-patches = Escrit per Damien Elmes, amb pegats, traduccions, diseny i proves de: <p>%(cont)s
+about-written-by-damien-elmes-with-patches = Escrit per Damien Elmes, amb pegats, traduccions, diseny i proves de: <p>{ $cont }

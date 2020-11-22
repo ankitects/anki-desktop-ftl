@@ -7,4 +7,4 @@ about-copy-debug-info = 复制调试信息
 about-if-you-have-contributed-and-are = 如果你做出了贡献而你的名字却没有出现在这个列表里，请联系我们。
 about-version = 版本 { $val }
 about-visit-website = <a href='{ $val }'>访问网页</a>
-about-written-by-damien-elmes-with-patches = 作者：Damien Elmes，补丁﹑翻译、测试及设计：<p>%(cont)s
+about-written-by-damien-elmes-with-patches = 作者：Damien Elmes，补丁﹑翻译、测试及设计：<p>{ $cont }

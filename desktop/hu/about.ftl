@@ -7,4 +7,4 @@ about-copy-debug-info = Hibakeresési információ másolása
 about-if-you-have-contributed-and-are = Ha Ön is közreműködött, és még sincs rajta ezen a listán, kérjük, jelezze.
 about-version = { $val } verzió
 about-visit-website = <a href='{ $val }'>Honlap megtekintése</a>
-about-written-by-damien-elmes-with-patches = Írta: Damien Elmes, javításokkal, fordítással, teszteléssel és tervezéssel:   <p>%(cont)s<p>%(cont)s
+about-written-by-damien-elmes-with-patches = Írta: Damien Elmes, javításokkal, fordítással, teszteléssel és tervezéssel:   <p>{ $cont }<p>{ $cont }

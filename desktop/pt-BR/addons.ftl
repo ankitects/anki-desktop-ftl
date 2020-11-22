@@ -19,13 +19,13 @@ addons-code = Código:
 addons-config = Configurar
 addons-configuration = Configuração
 addons-corrupt-addon-file = Arquivo de extensão corrompido.
-addons-disabled =  (desativado)
+addons-disabled = (desativado)
 addons-disabled2 = (desativado)
 addons-download-complete-please-restart-anki-to = Download concluído. Por favor, reinicie o Anki para aplicar as alterações.
-addons-downloaded-fnames = %(fname)s foi baixado
-addons-downloading-adbd-kb02fkb = Baixando %(a)d/%(b)d (%(kb)0.2fKB)...
-addons-error-downloading-ids-errors = Erro ao baixar <i>%(id)s</i>: %(error)s
-addons-error-installing-bases-errors = Erro instalando <i>%(base)s</o>: %(error)s
+addons-downloaded-fnames = { $fname } foi baixado
+addons-downloading-adbd-kb02fkb = Baixando { $part }/{ $total } ({ $kilobytes }KB)...
+addons-error-downloading-ids-errors = Erro ao baixar <i>{ $id }</i>: { $error }
+addons-error-installing-bases-errors = Erro instalando <i>{ $base }</o>: { $error }
 addons-get-addons = Obter Extensões...
 addons-important-as-addons-are-programs-downloaded = <b>Importante</b>: Como as extensões são programas baixados da internet, elas são potencialmente maliciosas.<b>Você só deve instalar as extensões que confia.</b><br><br>Tem certeza que deseja prosseguir com a instalação das seguintes extensões do Anki?<br><br>%(names)s
 addons-install-addon = Instalar Extensão
@@ -33,12 +33,12 @@ addons-install-addons = Instalar extensão(ões)
 addons-install-anki-addon = Instalar extensão do Anki
 addons-install-from-file = Instalar de um arquivo...
 addons-installation-complete = Instalação concluída
-addons-installed-names = Instalou %(name)s
+addons-installed-names = Instalou { $name }
 addons-installed-successfully = Instalado com sucesso.
 addons-invalid-addon-manifest = Manifesto de extensão inválido.
 addons-invalid-code = Código inválido.
 addons-invalid-code-or-addon-not-available = Código inválido ou extensão não disponível para a sua versão do Anki.
-addons-invalid-configuration = Configuração inválida: 
+addons-invalid-configuration = Configuração inválida:
 addons-invalid-configuration-top-level-object-must = Configuração Inválida: objeto de nível superior deve ser um mapa
 addons-no-updates-available = Sem atualizações disponíveis.
 addons-one-or-more-errors-occurred = Um ou mais erros ocorreram:
@@ -49,7 +49,7 @@ addons-please-restart-anki-to-complete-the = <b>Por favor, reinicie o Anki para 
 addons-please-select-a-single-addon-first = Por favor, selecione uma extensão primeiro.
 addons-requires = (requer { $val })
 addons-restored-defaults = Restaurados os padrões
-addons-the-following-addons-are-incompatible-with = As seguintes extensões são incompatíveis com %(name)s e foram desativadas: %(found)s
+addons-the-following-addons-are-incompatible-with = As seguintes extensões são incompatíveis com { $name } e foram desativadas: { $found }
 addons-the-following-addons-have-updates-available = As seguintes extensões possuem atualizações disponíveis. Instalá-los agora?
 addons-the-following-conflicting-addons-were-disabled = As seguintes extensões são incompatíveis e foram desativadas:
 addons-this-addon-is-not-compatible-with = Essa extensão não é compatível com a sua versão do Anki.
@@ -59,7 +59,8 @@ addons-unable-to-update-or-delete-addon = Não foi possível atualizar ou exclui
 addons-unknown-error = Erro desconhecido: { $val }
 addons-view-addon-page = Ver Página de Extensões
 addons-view-files = Ver Arquivos
-addons-delete-the-numd-selected-addon = { $count ->
-    [one] Apagar a extensão { $count } selecionada?
-   *[other] Apagar as extensões { $count } selecionadas?
-  }
+addons-delete-the-numd-selected-addon =
+    { $count ->
+        [one] Apagar a extensão { $count } selecionada?
+       *[other] Apagar as extensões { $count } selecionadas?
+    }

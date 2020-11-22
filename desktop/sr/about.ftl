@@ -5,4 +5,4 @@ about-anki-is-licensed-under-the-agpl3 = Anki поседује AGPL3 лицен�
 about-if-you-have-contributed-and-are = Ако сте придонели развоју програма, а нисте на овом списку, молико вас да нас контактирате.
 about-version = Верзија { $val }
 about-visit-website = <a href='{ $val }'>Посети сајт</a>
-about-written-by-damien-elmes-with-patches = Аутор Damien Elmes; закрпама, преводима, тестирањем и дизајном помогли:<p>%(cont)s
+about-written-by-damien-elmes-with-patches = Аутор Damien Elmes; закрпама, преводима, тестирањем и дизајном помогли:<p>{ $cont }

@@ -21,10 +21,10 @@ addons-corrupt-addon-file = 无效的扩展文件。
 addons-disabled = （禁用）
 addons-disabled2 = (已禁止)
 addons-download-complete-please-restart-anki-to = 下载结束。请重启Anki来应用变更。
-addons-downloaded-fnames = 下载 %(fname)s 成功
-addons-downloading-adbd-kb02fkb = 下载中 %(a)d/%(b)d (%(kb)0.2fKB)...
-addons-error-downloading-ids-errors = 下载错误 <i>%(id)s</i>: %(error)s
-addons-error-installing-bases-errors = 错误安装  <i>%(base)s</i>: %(error)s
+addons-downloaded-fnames = 下载 { $fname } 成功
+addons-downloading-adbd-kb02fkb = 下载中 { $part }/{ $total } ({ $kilobytes }KB)...
+addons-error-downloading-ids-errors = 下载错误 <i>{ $id }</i>: { $error }
+addons-error-installing-bases-errors = 错误安装  <i>{ $base }</i>: { $error }
 addons-get-addons = 获取插件…
 addons-important-as-addons-are-programs-downloaded = <b>重要</b>: 因为插件来自互联网，有可能会是病毒。<b>您应该只安装您信任的加载项。</b><br><br>您确定要继续安装以下Anki插件吗？<br><br>%(names)s
 addons-install-addon = 安装插件
@@ -32,12 +32,12 @@ addons-install-addons = 安装附加组件
 addons-install-anki-addon = 安装Anki插件
 addons-install-from-file = 从文件安装...
 addons-installation-complete = 安装结束
-addons-installed-names = 已安装 %(name)s
+addons-installed-names = 已安装 { $name }
 addons-installed-successfully = 安装成功。
 addons-invalid-addon-manifest = 无效的附加组件清单
 addons-invalid-code = 代码非法。
 addons-invalid-code-or-addon-not-available = 无效代码，或该插件不支持此版本的 Anki
-addons-invalid-configuration = 配置无效： 
+addons-invalid-configuration = 配置无效：
 addons-invalid-configuration-top-level-object-must = 无效配置：顶层对象必须为map。
 addons-no-updates-available = 没有可用更新
 addons-one-or-more-errors-occurred = 发生一个或多个错误：
@@ -48,7 +48,7 @@ addons-please-restart-anki-to-complete-the = <b>请重新启动Anki来完成安�
 addons-please-select-a-single-addon-first = 请先选择一个插件。
 addons-requires = (需要{ $val })
 addons-restored-defaults = 已恢复初始状态
-addons-the-following-addons-are-incompatible-with = The following add-ons are incompatible with and have been disabled: %(found)s 下列扩展组件与 %(name)s 不兼容并已被禁用: %(found)s
+addons-the-following-addons-are-incompatible-with = The following add-ons are incompatible with and have been disabled: { $found } 下列扩展组件与 { $name } 不兼容并已被禁用: { $found }
 addons-the-following-addons-have-updates-available = 以下插件有更新可用。需要现在安装吗？
 addons-the-following-conflicting-addons-were-disabled = 下列发生冲突的扩展组件已被禁用：
 addons-this-addon-is-not-compatible-with = 此插件与您Anki的版本不兼容。
@@ -58,6 +58,7 @@ addons-unable-to-update-or-delete-addon = 无法更新或删除扩展组件。�
 addons-unknown-error = 未知错误：{ $val }
 addons-view-addon-page = 浏览插件页面
 addons-view-files = 查看文件
-addons-delete-the-numd-selected-addon = { $count ->
-   *[other] 删除{ $count }个已选择的插件？
-  }
+addons-delete-the-numd-selected-addon =
+    { $count ->
+       *[other] 删除{ $count }个已选择的插件？
+    }

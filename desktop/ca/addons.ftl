@@ -19,13 +19,13 @@ addons-code = Codi:
 addons-config = Config.
 addons-configuration = Configuració
 addons-corrupt-addon-file = L'arxiu del complement està danyat.
-addons-disabled =  (deshabilitat)
+addons-disabled = (deshabilitat)
 addons-disabled2 = (desactivat)
 addons-download-complete-please-restart-anki-to = Descarga completada. Reinicia Anki per aplicar els canvis.
-addons-downloaded-fnames = s'ha descargat %(fname)s
-addons-downloading-adbd-kb02fkb = Descargant %(a)d/%(b)d (%(kb)0.2fKB)...
-addons-error-downloading-ids-errors = Error al descargar <i>%(id)s</i>: %(error)s
-addons-error-installing-bases-errors = Error al instal·lar <i>%(base)s</i>: %(error)s
+addons-downloaded-fnames = s'ha descargat { $fname }
+addons-downloading-adbd-kb02fkb = Descargant { $part }/{ $total } ({ $kilobytes }KB)...
+addons-error-downloading-ids-errors = Error al descargar <i>{ $id }</i>: { $error }
+addons-error-installing-bases-errors = Error al instal·lar <i>{ $base }</i>: { $error }
 addons-get-addons = Conseguir extensions...
 addons-important-as-addons-are-programs-downloaded = <b>Important</b>: Com que els complements son programes descargats d'Internet, son potencialment maliciosos.<b>Instal·li només els complements en els que confii.</b><br><br>Està segur de que vol continuar amb la instal·lació del(s) següent(s) complement(s) Anki?<br><br>%(names)s
 addons-install-addon = Intalar complement
@@ -33,12 +33,12 @@ addons-install-addons = Instal·lar complement(s)
 addons-install-anki-addon = Instal·lar complement d'Anki
 addons-install-from-file = Instal·lar des d'un arxiu…
 addons-installation-complete = Instal·lació completada
-addons-installed-names = S'ha instal·lat %(name)s
+addons-installed-names = S'ha instal·lat { $name }
 addons-installed-successfully = Instal·lat correctament.
 addons-invalid-addon-manifest = El manifiest del complement no es vàlid.
 addons-invalid-code = Còdig no vàlid.
 addons-invalid-code-or-addon-not-available = Codi invàlid, o l'extensió no està disponible per a la teva versió d'Anki.
-addons-invalid-configuration = Configuració no válida: 
+addons-invalid-configuration = Configuració no válida:
 addons-invalid-configuration-top-level-object-must = Configuració invàlida: L'objete del nivel superior ha de ser un mapa
 addons-no-updates-available = No hi ha actualitzacions disponibles.
 addons-one-or-more-errors-occurred = Un o més errors han ocorregut:
@@ -49,7 +49,7 @@ addons-please-restart-anki-to-complete-the = <b>Sisplau, reinicia Anki para comp
 addons-please-select-a-single-addon-first = Primer seleccini un únic complement.
 addons-requires = (requereix { $val })
 addons-restored-defaults = S'an restaurat la configuració per defecte
-addons-the-following-addons-are-incompatible-with = Els següents complements són incompatibles %(name)s i s'han desactivat: %(found)s
+addons-the-following-addons-are-incompatible-with = Els següents complements són incompatibles { $name } i s'han desactivat: { $found }
 addons-the-following-addons-have-updates-available = Els següents complements tenen actualitzacions disponibles. Instal·lar-les ara?
 addons-the-following-conflicting-addons-were-disabled = Els següents complements son incompatibles i s'han desactivat:
 addons-this-addon-is-not-compatible-with = Aquest complement no és compatible amb la teva versió d'Anki.
@@ -59,7 +59,8 @@ addons-unable-to-update-or-delete-addon = No es pot actualitzar ni eliminar el c
 addons-unknown-error = Error desconegut: { $val }
 addons-view-addon-page = Visitar pàguina de la extensió
 addons-view-files = Visualitza fitxers
-addons-delete-the-numd-selected-addon = { $count ->
-    [one] Eliminar la { $count } extensió seleccionada?
-   *[other] Eliminar les { $count } extensions seleccionades?
-  }
+addons-delete-the-numd-selected-addon =
+    { $count ->
+        [one] Eliminar la { $count } extensió seleccionada?
+       *[other] Eliminar les { $count } extensions seleccionades?
+    }

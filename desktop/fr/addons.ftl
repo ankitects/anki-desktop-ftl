@@ -19,13 +19,13 @@ addons-code = Code :
 addons-config = Config
 addons-configuration = Configuration
 addons-corrupt-addon-file = Fichier de greffon corrompu.
-addons-disabled =  (désactivé)
+addons-disabled = (désactivé)
 addons-disabled2 = (désactivé)
 addons-download-complete-please-restart-anki-to = Téléchargement terminé. Veuillez redémarrer Anki pour appliquer les modifications.
-addons-downloaded-fnames = %(fname)s téléchargé(s)
-addons-downloading-adbd-kb02fkb = Téléchargement de %(a)d/%(b)d (%(kb)0.2f Ko)...
-addons-error-downloading-ids-errors = Erreur en téléchargeant <i>%(id)s</i> : %(error)s
-addons-error-installing-bases-errors = Erreur d’installation <i>%(base)s</i> : %(error)s
+addons-downloaded-fnames = { $fname } téléchargé(s)
+addons-downloading-adbd-kb02fkb = Téléchargement de { $part }/{ $total } ({ $kilobytes } Ko)...
+addons-error-downloading-ids-errors = Erreur en téléchargeant <i>{ $id }</i> : { $error }
+addons-error-installing-bases-errors = Erreur d’installation <i>{ $base }</i> : { $error }
 addons-get-addons = Acquérir des greffons...
 addons-important-as-addons-are-programs-downloaded = <b>Important</b> : Comme les greffons sont des programmes téléchargés à partir d’Internet, ils sont potentiellement malveillants.<b>Vous ne devriez installer que des greffons en qui vous avez confiance.</b><br><br>Êtes-vous sûr de vouloir procéder à l’installation de(s) greffons(s) Anki suivants ?<br><br>%(names)s
 addons-install-addon = Installer un greffon
@@ -33,12 +33,12 @@ addons-install-addons = Installer le(s) greffon(s)
 addons-install-anki-addon = Installer un greffon
 addons-install-from-file = Installer à partir d’un fichier...
 addons-installation-complete = Installation terminée
-addons-installed-names = %(name)s installé
+addons-installed-names = { $name } installé
 addons-installed-successfully = Installé avec succès.
 addons-invalid-addon-manifest = Manifeste de greffon invalide.
 addons-invalid-code = Code invalide.
 addons-invalid-code-or-addon-not-available = Code invalide ou greffon non-disponible pour votre version d’Anki.
-addons-invalid-configuration = Configuration invalide 
+addons-invalid-configuration = Configuration invalide
 addons-invalid-configuration-top-level-object-must = Configuration invalide : l’objet de niveau supérieur doit être un dossier
 addons-no-updates-available = Aucune mise-à-jour disponible.
 addons-one-or-more-errors-occurred = Une ou plusieurs erreurs sont survenues :
@@ -49,7 +49,7 @@ addons-please-restart-anki-to-complete-the = <b>Veuillez redémarrer Anki pour t
 addons-please-select-a-single-addon-first = Veuillez sélectionner un seul greffon d’abord.
 addons-requires = (nécessite { $val })
 addons-restored-defaults = Valeurs par défaut restaurées
-addons-the-following-addons-are-incompatible-with = Les greffons suivants sont incompatibles avec %(name)s et ont été désactivés : %(found)s
+addons-the-following-addons-are-incompatible-with = Les greffons suivants sont incompatibles avec { $name } et ont été désactivés : { $found }
 addons-the-following-addons-have-updates-available = Ces greffons ont des mises-à-jour disponibles. Les installer ?
 addons-the-following-conflicting-addons-were-disabled = Les greffons conflictuels suivants ont été désactivés :
 addons-this-addon-is-not-compatible-with = Ce greffon n’est pas compatible avec votre version d’Anki.
@@ -59,7 +59,8 @@ addons-unable-to-update-or-delete-addon = Impossible de mettre à jour ou de sup
 addons-unknown-error = Erreur inconnue : { $val }
 addons-view-addon-page = Voir la page du greffon
 addons-view-files = Afficher les fichiers
-addons-delete-the-numd-selected-addon = { $count ->
-    [one] Supprimer le greffon { $count } sélectionné ?
-   *[other] Supprimer les greffons { $count } sélectionnés ?
-  }
+addons-delete-the-numd-selected-addon =
+    { $count ->
+        [one] Supprimer le greffon { $count } sélectionné ?
+       *[other] Supprimer les greffons { $count } sélectionnés ?
+    }

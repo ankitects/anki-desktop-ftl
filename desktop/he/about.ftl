@@ -7,4 +7,4 @@ about-copy-debug-info = העתק מידע ניפוי שגיאות
 about-if-you-have-contributed-and-are = אם תרמת ממאמציך ואינך ברשימה, אנא צור קשר.
 about-version = גרסה { $val }
 about-visit-website = <a href='{ $val }'>בקר באתר</a>
-about-written-by-damien-elmes-with-patches = נכתב ע"י Damien Elmes, עם הוספות, תרגום, בדיקות ועיצוב מאת: <p> %(cont)s
+about-written-by-damien-elmes-with-patches = נכתב ע"י Damien Elmes, עם הוספות, תרגום, בדיקות ועיצוב מאת: <p> { $cont }

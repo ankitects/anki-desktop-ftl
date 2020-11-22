@@ -7,4 +7,4 @@ about-copy-debug-info = Copier les informations de débogage
 about-if-you-have-contributed-and-are = Si vous avez contribué mais n’apparaissez pas dans cette liste, veuillez nous contacter.
 about-version = Version { $val }
 about-visit-website = <a href='{ $val }'>Visiter le site internet</a>
-about-written-by-damien-elmes-with-patches = Programme écrit par Damien Elmes, avec les correctifs, les traductions, les vérifications et les idées de :<p>%(cont)s
+about-written-by-damien-elmes-with-patches = Programme écrit par Damien Elmes, avec les correctifs, les traductions, les vérifications et les idées de :<p>{ $cont }

@@ -7,13 +7,14 @@ addons-checking = Asenqed...
 addons-code = Tangalt:
 addons-config = Aswel
 addons-configuration = Tawila
-addons-disabled =  (insa)
-addons-downloaded-fnames = Asider n %(fname)s
+addons-disabled = (insa)
+addons-downloaded-fnames = Asider n { $fname }
 addons-invalid-code = Yir tangalt.
-addons-invalid-configuration = Yir iɣewwaṛen 
+addons-invalid-configuration = Yir iɣewwaṛen
 addons-no-updates-available = Ulac ileqman.
 addons-please-select-a-single-addon-first = Ma ulac aγilif, fren di tazwara azegrir.
-addons-delete-the-numd-selected-addon = { $count ->
-    [one] Kkes { $count } n uzegrir yettwafernen?
-   *[other] Kkes { $count } n yizegrar yettwafernen?
-  }
+addons-delete-the-numd-selected-addon =
+    { $count ->
+        [one] Kkes { $count } n uzegrir yettwafernen?
+       *[other] Kkes { $count } n yizegrar yettwafernen?
+    }
