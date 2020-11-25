@@ -1,30 +1,31 @@
--errors-support-site = [suíomh tacaíochta](https://help.ankiweb.net)
+-errors-support-site = [láithreán tacaíochta](https://help.ankiweb.net)
 errors-standard-popup =
     # Earráid
     
-    Thárla botún. Usáid **Uirlisí > Seiceáil Bunachar Sonraí** chun an fadhb a réiteadh.
+    Thárla botún. Bain triail as **Uirlisí > Seiceáil Bunachar Sonraí** chun an deacracht a scaoileadh.
     
-    Má leanann an fadhb ar aghaidh, cuir tráchtaireacht chugainn ar ár { -errors-support-site }.
+    Má bhíonn an deacracht ann go leanúnach, cuir tráchtaireacht chugainn ar ár { -errors-support-site }.
     Cóipeáil agus greamaigh na sonraí thíos i do theachtaireacht.
--errors-addon-support-site = [suíomh tacaíochta breiseáin](https://help.ankiweb.net/discussions/add-ons/)
+-errors-addon-support-site = [láithreán tacaíochta breiseán](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # Earráid
     
-    Tharla earráid. Atosaigh Anki leis an cnaipe SHIFT coinnithe síos,
-    chun breiseán a díchumasú (go sealadach).
+    Tharla earráid. Atosaigh Anki agus an cnaipe SHIFT á choinneáil síos,
+    chun na breiseáin atá suiteáilte a dhíchumasú (go sealadach).
     
-    Muna tharlaíon an earráid seo ach amháin nuair atá breiseáin i
+    Mura dtarlaíonn an earráid seo ach amháin nuair atá breiseáin i
     bhfeidhm, úsáid Uirlisí > Breiseáin chun breiseáin áirithe a 
-    díchumasú, agus atosaigh Anki.  Coinnigh ort go dtí go dtuigeann
-    tú cén bhreiseán is cúis leis an botún é.
+    díchumasú, agus atosaigh Anki.  Coinnigh ort go dtí go dtuige
+    tú cén breiseán is cúis leis an deacracht.
     
-    Ansin cuir teachtaireacht chugainn ar an { -errors-addon-support-site }.
+    Nuair a bheidh a fhios agat cén breiseán is cúis leis and eacracht,
+    cuir teachtaireacht chugainn ar an { -errors-addon-support-site }.
     
     Sonraí dífhabhtaithe:
 errors-accessing-db =
-    Tharla earráid le iarratas ar an mbunachar sonraí.
+    Tharla earráid le hiarratas ar an mbunachar sonraí.
     
-    Cúiseanna éagsúla d'fhadhbanna mar seo:
+    Cúiseanna éagsúla a d'fhéadfadh a bheith i gceist:
     
     - Bogearraí frithvíreas, balla dóíteáin, cúltacú nó sioncronú
     ag cur isteach ar Anki. Díchumasaigh a leithéid sin, agus féach
@@ -32,10 +33,10 @@ errors-accessing-db =
     - An diosca a bheith lán.
     - An fillteán Doiciméid/Anki a bheith ar thiomántán líonra.
     - Ceadanna rochtain ar chomhaid san fhillteán Doiciméid/Anki.
-    - Earráidí ar diosca crua.
+    - Earráidí ar an diosca crua.
     
-    Úsáid Uirlisí>Seiceáil Bunachar Sonraí chun cinntiú nach bhfuil do chnuasach truaillithe.
+    Bain triail as Uirlisí>Seiceáil Bunachar Sonraí chun cinntiú nach bhfuil do chnuasach truaillithe.
 errors-unable-open-collection =
-    Ní féidir comhad do chnuasaigh a oscailt. Má tá an fadhb fós ann tar éis an ríomhaire a atosú, úsáid an chnaipe 'Oscail Cúltacú' sa bhainisteoir próifíle.
+    Níorbh fhéidir comhad do chnuasaigh a oscailt. Má bhíonn deacrachtaí fós ann tar éis an ríomhaire a atosú, úsáid an cnaipe 'Oscail Cúltacú' sa bhainisteoir próifíle.
     
     Sonraí dífhabhtaithe:
