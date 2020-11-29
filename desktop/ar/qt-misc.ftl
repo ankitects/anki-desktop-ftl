@@ -61,11 +61,18 @@ qt-misc-would-you-like-to-download-it = هل ترغب في تحميله الآن
 qt-misc-your-collection-file-appears-to-be = تبدو مجموعتك تالفة. قد يحدث هذا عندما يُنسخ الملف أو يُنقل أثناء عمل أنكي، أو عندما تكون مجموعتك مخزنة على شبكة أو قرص في السحابة. إذا استمرت المشكلة بعد إعادة تشغيل حاسوبك، افتح نسخة احتياطية من خلال نافذة الملفات الشخصية.
 qt-misc-your-computers-storage-may-be-full = قد تكون وسائط التخزين في حاسوبك ممتلئة. يرجى حذف بعض الملفات غير الضرورية، ثم المحاولة مجددًا.
 qt-misc-your-firewall-or-antivirus-program-is = جدار الحماية أو برنامج مكافحة الفيروسات الخاص بك يمنع أنكي من إنشاء اتصال. يرجى إضافة استثناء لأنكي.
-qt-misc-second = { $count ->
-    [zero] { $count } ثانية
-    [one] { $count } ثانية
-    [two] { $count } ثانية
-    [few] { $count } ثوانٍ
-    [many] { $count } ثانية
-   *[other] { $count } ثانية
-  }
+qt-misc-error = خطأ
+qt-misc-no-temp-folder = تعذر العثور على مجلد ملفات مؤقتة. تأكد من أن مجلد C:\\temp موجود أو أن TEMP في بيئتك يشير إلى مجلد صالح يمكن الكتابة فيه.
+qt-misc-incompatible-video-driver = إن محرك الرسومات الخاص بك غير متوافق مع أنكي. أعد تشغيل أنكي لكي ينتقل إلى وضع أبطأ أكثر توافقًا.
+qt-misc-error-loading-graphics-driver = حدث خطأ عند تحميل محرك الرسومات '{ $mode }'. أعد تشغيل أنكي لتجربة المحرك التالي. { $context }
+qt-misc-anki-is-running = يعمل أنكي بالفعل
+qt-misc-if-instance-is-not-responding = إذا لم تكن نسخة أنكي العاملة تستجيب، أغلقها باستخدام مدير المهام، أو أعد تشغيل حاسوبك.
+qt-misc-second =
+    { $count ->
+        [zero] { $count } ثانية
+        [one] { $count } ثانية
+        [two] { $count } ثانية
+        [few] { $count } ثوانٍ
+        [many] { $count } ثانية
+       *[other] { $count } ثانية
+    }
