@@ -69,9 +69,9 @@ qt-misc-anki-is-running = Anki ar Oscailt Cheana
 qt-misc-if-instance-is-not-responding = Má tá an t-ásc reatha Anki gan feidhmiú, oibrigh an bainisteoir tascanna lena dhúnadh, nó atosaigh do ríomhaire.
 qt-misc-second =
     { $count ->
-        [one] { $count } soicind
-        [two] { $count } soicind
-        [few] { $count } soicind
+        [one] { $count } shoicind amháin
+        [two] { $count } shoicind
+        [few] { $count } shoicind
         [many] { $count } soicind
        *[other] { $count } soicind
     }
