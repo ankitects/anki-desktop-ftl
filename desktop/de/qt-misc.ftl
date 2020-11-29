@@ -61,7 +61,14 @@ qt-misc-would-you-like-to-download-it = Jetzt herunterladen?
 qt-misc-your-collection-file-appears-to-be = Die Datei Ihrer Sammlung scheint fehlerhaft zu sein. Zu diesem Zustand kann es kommen, wenn die Datei während einer laufenden Sitzung des Programms kopiert oder verschoben wird, oder wenn die Sammlung auf einem Netzlaufwerk oder Cloudspeicher gespeichert wird. Sollte das Problem nach einem Neustart des Computers weiterhin bestehen, bitten wir Sie, eine automatisch erstellte Sicherungskopie über die Profileinstellungen einzuspielen.
 qt-misc-your-computers-storage-may-be-full = Der Speicherplatz auf Ihrem Computer dürfte vollständig belegt sein. Bitte löschen Sie einige nicht benötigte Dateien und versuchen Sie es anschließend erneut.
 qt-misc-your-firewall-or-antivirus-program-is = Ihre Firewall oder Ihr Antivirusprogramm verhindert, dass Anki eine Verbindung zu sich selbst aufbauen kann. Bitte fügen Sie eine entsprechende Ausnahme für Anki hinzu.
-qt-misc-second = { $count ->
-    [one] { $count } Sekunde
-   *[other] { $count } Sekunden
-  }
+qt-misc-error = Fehler
+qt-misc-no-temp-folder = Es konnte kein nutzbarer temporärer Ordner gefunden werden. Bitte stellen Sie sicher, dass C:\\temp existiert oder dass die Umgebungsvariable TEMP auf einen gültigen, beschreibbaren Ordner zeigt.
+qt-misc-incompatible-video-driver = Ihr Grafiktreiber ist inkompatibel. Bitte starten Sie Anki erneut und Anki wird in einen langsameren, kompatibleren Modus umschalten.
+qt-misc-error-loading-graphics-driver = Fehler beim Laden des '{ $mode }'-Grafiktreibers. Bitte starten Sie Anki erneut, damit ein anderer Treiber ausprobiert werden kann. { $context }
+qt-misc-anki-is-running = Anki läuft bereits
+qt-misc-if-instance-is-not-responding = Wenn die bereits existierende Instanz von Anki nicht reagiert, dann beenden Sie diese bitte über Ihren Task-Manager oder starten Sie Ihren Computer neu.
+qt-misc-second =
+    { $count ->
+        [one] { $count } Sekunde
+       *[other] { $count } Sekunden
+    }
