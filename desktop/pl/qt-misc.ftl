@@ -61,8 +61,14 @@ qt-misc-would-you-like-to-download-it = Czy chcesz pobrać ją teraz?
 qt-misc-your-collection-file-appears-to-be = Twój plik kolekcji wydaje się być zepsuty. Może to nastąpić przez kopiowanie lub przenoszenie pliku gdy Anki działa albo gdy kolekcja jest przechowywana na dysku sieciowym lub w chmurze. Jeśli problem  nie zniknie po ponownym uruchomieniu komputera, użyj opcji automatycznej kopii zapasowej w menedżerze profili.
 qt-misc-your-computers-storage-may-be-full = Prawdopodobnie zabrakło miejsca na twoim dysku. Usuń niepotrzebne pliki i spróbuj ponownie.
 qt-misc-your-firewall-or-antivirus-program-is = Zapora sieciowa lub program antywirusowy uniemożliwia Anki połączenie. Dodaj wyjątek dla Anki.
-qt-misc-second = { $count ->
-    [one] { $count } sekunda
-    [few] { $count } sekundy
-   *[other] { $count } sekund
-  }
+qt-misc-error = Błąd
+qt-misc-incompatible-video-driver = Twój sterownik graficzny jest niekompatybilny. Uruchom Anki ponownie, a program przejdzie w wolniejszy, szerzej kompatybilny tryb.
+qt-misc-error-loading-graphics-driver = Błąd przy ładowaniu sterownika graficznego „{ $mode }”. Uruchom ponownie Anki aby spróbować następnego sterownika. { $context }
+qt-misc-anki-is-running = Anki jest już włączone
+qt-misc-if-instance-is-not-responding = Jeśli obecnie uruchomione okno Anki nie odpowiada, zamknij je używając menedżera zadań lub uruchom ponownie komputer.
+qt-misc-second =
+    { $count ->
+        [one] { $count } sekunda
+        [few] { $count } sekundy
+       *[other] { $count } sekund
+    }
