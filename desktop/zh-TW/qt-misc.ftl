@@ -38,7 +38,7 @@ qt-misc-processing = 處理中...
 qt-misc-replace-your-collection-with-an-earlier = 是否用較早的備份取代您的集合？
 qt-misc-resume-now = 繼續
 qt-misc-revert-to-backup = 恢復備份
-qt-misc-reverted-to-state-prior-to = 恢復至 「{ $val }」 狀態以前。
+qt-misc-reverted-to-state-prior-to = 恢復至「{ $val }」狀態以前。
 qt-misc-segoe-ui = "Segoe UI", "Microsoft JhengHei UI"
 qt-misc-shift-key-was-held-down-skipping = 已按下 Shift 鍵。略過自動同步及載入附加元件。
 qt-misc-shortcut-key-left-arrow = 快速鍵: 左方向鍵
@@ -50,14 +50,14 @@ qt-misc-target-deck-ctrlandd = 目標牌組 (Ctrl+D)
 qt-misc-the-following-character-can-not-be = 不可使用下列字元: { $val }
 qt-misc-the-requested-change-will-require-a = 此變動會使您下一次同步您的集合時，需要完整上傳您的資料庫。如果同步的話，您其他的裝置上尚未同步的待複習卡片或其他變動的部分將會遺失，您是否要繼續？
 qt-misc-there-must-be-at-least-one = 至少要有一個設定檔。
-qt-misc-this-file-exists-are-you-sure = 檔案已經存在了, 請問您要覆蓋檔案嗎?
+qt-misc-this-file-exists-are-you-sure = 檔案已存在。您確定要覆蓋檔案嗎？
 qt-misc-unable-to-access-anki-media-folder = 無法存取 Anki 媒體資料夾。您系統的暫存資料夾權限設定可能錯誤。
 qt-misc-unable-to-move-existing-file-to = 無法將現存檔案移到垃圾桶——請嘗試重新啟動電腦。
 qt-misc-undo = 復原
 qt-misc-undo2 = 復原 { $val }
 qt-misc-unexpected-response-code = 未預期的回應代碼: { $val }
 qt-misc-waiting-for-editing-to-finish = 等待編輯完成。
-qt-misc-would-you-like-to-download-it = 您想要現在下載嗎?
+qt-misc-would-you-like-to-download-it = 您想要立即下載嗎？
 qt-misc-your-collection-file-appears-to-be = 您的集合檔案似乎已損毀。原因可能是檔案在 Anki 開啟時被複製/移動，或集合儲存於網路/雲端硬碟。如果在重新啟動電腦後問題仍然發生，請開啟設定檔畫面上的自動備份。
 qt-misc-your-computers-storage-may-be-full = 您的電腦儲存空間可能已滿。請刪除一些不需要的檔案，然後再試一次。
 qt-misc-your-firewall-or-antivirus-program-is = 您的防火牆或防毒軟體程式正在阻止 Anki 建立與自身的連接。請將 Anki 添加到例外清單中。
@@ -69,5 +69,5 @@ qt-misc-anki-is-running = Anki 已在執行中
 qt-misc-if-instance-is-not-responding = 若現有的 Anki 實體沒有回應，請使用工作管理員關閉 Anki，或重新啟動您的電腦。
 qt-misc-second =
     { $count ->
-       *[other] { $count }秒鐘
+       *[other] { $count } 秒鐘
     }
