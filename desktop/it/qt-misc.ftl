@@ -3,6 +3,7 @@ qt-misc-addons = Add-on
 qt-misc-all-cards-notes-and-media-for = Tutte le carte, le note e gli elementi multimediali di questo profilo verranno eliminati. Sei sicuro?
 qt-misc-anki-updatedanki-has-been-released = <h1>Aggiornamento di Anki</h1>È stato rilasciato Anki { $val }.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = Sincronizzazione e backup automatici sono stati disabilitati durante il ripristino. Per riabilitarli chiudi il profilo o riavvia Anki.
+qt-misc-back-side-only = Solo retro
 qt-misc-backing-up = Backup...
 qt-misc-browse = Sfoglia
 qt-misc-change-note-type-ctrlandn = Cambia tipo di nota (Ctrl+N)
@@ -60,7 +61,12 @@ qt-misc-would-you-like-to-download-it = Vuoi scaricarlo ora?
 qt-misc-your-collection-file-appears-to-be = Il file della tua collezione sembra essere corrotto. Questo può succedere se il file viene copiato o spostato mentre Anki è aperto, o quando la collezione è salvata su un dispositivo di rete o su cloud. Se il problema persiste dopo il riavvio del computer, apri un backup automatico dalla schermata di impostazione dei profili.
 qt-misc-your-computers-storage-may-be-full = Lo spazio su disco del tuo computer potrebbe essere esaurito. Elimina qualche file non necessario e riprova.
 qt-misc-your-firewall-or-antivirus-program-is = Il tuo firewall o programma antivirus sta impedendo ad Anki di stabilire una connessione con se stesso. Aggiungi p.f. un'eccezione per Anki.
-qt-misc-second = { $count ->
-    [one] { $count } secondo
-   *[other] { $count } secondi
-  }
+qt-misc-error = Errore
+qt-misc-incompatible-video-driver = Il tuo driver video è incompatibile. Per favore, riavvia Anki, e Anki passerà a una modalità più lenta e compatibile.
+qt-misc-anki-is-running = Anki è già in esecuzione
+qt-misc-if-instance-is-not-responding = Se l'istanza esistente di Anki non risponde, per favore chiudila usando il tuo task manager, o riavvia il tuo computer.
+qt-misc-second =
+    { $count ->
+        [one] { $count } secondo
+       *[other] { $count } secondi
+    }
