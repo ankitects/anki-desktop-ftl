@@ -63,6 +63,7 @@ qt-misc-your-computers-storage-may-be-full = Lo spazio su disco del tuo computer
 qt-misc-your-firewall-or-antivirus-program-is = Il tuo firewall o programma antivirus sta impedendo ad Anki di stabilire una connessione con se stesso. Aggiungi p.f. un'eccezione per Anki.
 qt-misc-error = Errore
 qt-misc-incompatible-video-driver = Il tuo driver video è incompatibile. Per favore, riavvia Anki, e Anki passerà a una modalità più lenta e compatibile.
+qt-misc-error-loading-graphics-driver = Errore durante il caricamento del driver grafico '{ $mode }'. Riavvia Anki per provare il driver successivo. { $context }
 qt-misc-anki-is-running = Anki è già in esecuzione
 qt-misc-if-instance-is-not-responding = Se l'istanza esistente di Anki non risponde, per favore chiudila usando il tuo task manager, o riavvia il tuo computer.
 qt-misc-second =
