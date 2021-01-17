@@ -1,3 +1,4 @@
+-errors-addon-support-site = [сайт підтримки доповнень](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     <h1>Помилка</h1>
     
@@ -20,4 +21,3 @@ errors-accessing-db =
     - Можлво є помилки на жорсткому диску.
     
     Ви можете скористатися Інструменти>Перевірити базу даних, щоб переконатися, що ваша колекція не пошкоджена.
-

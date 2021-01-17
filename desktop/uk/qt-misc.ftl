@@ -3,6 +3,7 @@ qt-misc-addons = Розширення
 qt-misc-all-cards-notes-and-media-for = Всі картки, записи та медіа-файли для цього профілю будуть видалені. Ви певні?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki оновлено</h1>Вийшла нова версія Anki { $val }.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = Автоматична синхронізація і резервне копіювання вимкнені при відновлені. Для увімкнення закрийте профіль чи перезапустіть Anki.
+qt-misc-back-side-only = Тільки зворотня сторона
 qt-misc-backing-up = Резервне копіювання...
 qt-misc-browse = Навігатор
 qt-misc-change-note-type-ctrlandn = Змінити тип нотатки (Ctrl+N)
@@ -54,8 +55,11 @@ qt-misc-undo = Скасувати
 qt-misc-undo2 = Відмінити - { $val }
 qt-misc-waiting-for-editing-to-finish = Чекаю на звершення редагування.
 qt-misc-would-you-like-to-download-it = Ви бажаєте завантажити зараз?
-qt-misc-second = { $count ->
-    [one] { $count } секунда
-    [few] { $count } секунди
-   *[other] { $count } секунд
-  }
+qt-misc-error = Помилка
+qt-misc-anki-is-running = Anki вже запущено
+qt-misc-second =
+    { $count ->
+        [one] { $count } секунда
+        [few] { $count } секунди
+       *[other] { $count } секунд
+    }

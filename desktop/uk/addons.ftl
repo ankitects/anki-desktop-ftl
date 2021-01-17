@@ -44,6 +44,10 @@ addons-the-following-addons-are-incompatible-with = Наступні допов�
 addons-the-following-addons-have-updates-available = На наступні доповнення є оновлення. Встановити зараз?
 addons-the-following-conflicting-addons-were-disabled = Наступні конфліктуючі доповнення вимкнено:
 addons-this-addon-is-not-compatible-with = Це доповнення не сумісне з цією версією Anki.
+addons-toggle-enabled = Перемикач увімкнено
+addons-unknown-error = Невідома помилка: { $val }
+addons-view-addon-page = Переглянути сторінку доповнень
+addons-view-files = Переглянути файли
 addons-delete-the-numd-selected-addon =
     { $count ->
         [one] Видалити { $count } вибране розширення?
