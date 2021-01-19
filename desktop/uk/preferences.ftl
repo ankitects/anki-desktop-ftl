@@ -1,6 +1,7 @@
 # shown instead of the 'night mode' option when night mode is forced on because
 # macOS is in dark mode
 preferences-dark-mode-active = macOS використовує темний режим
+preferences-dark-mode-disable = Щоб показати Anki у світлій темі коли macOS у темній скористайтесь посібником користувача.
 
 ## Video drivers/hardware acceleration. Please avoid translating 'OpenGL' and 'ANGLE'.
 
