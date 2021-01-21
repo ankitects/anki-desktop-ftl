@@ -1,3 +1,4 @@
+-errors-support-site = [stránka podpory](https://help.ankiweb.net)
 errors-standard-popup =
     # Chyba
     
@@ -6,6 +7,7 @@ errors-standard-popup =
     
     Jestliže problémy přetrvávají, prosím nahlaste problém na { -errors-support-site }.
     Prosím zkopírujte informace níže a vložte je do vaší zprávy.
+-errors-addon-support-site = [stránka podpory pro doplňky](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # Chyba
     

@@ -60,8 +60,14 @@ qt-misc-would-you-like-to-download-it = Chcete ji stáhnout nyní?
 qt-misc-your-collection-file-appears-to-be = Váš soubor kolekce se jeví jako poškozený. To může nastat, když se soubor kopíruje nebo přesouvá, zatímco je Anki otevřeno, nebo když je kolekce uložena na síti nebo kloudovém disku. Jestliže problém přetrvává po restartování vašeho počítače, prosím otevřete automatickou zálohu z obrazovky s profily.
 qt-misc-your-computers-storage-may-be-full = Úložiště počítače může být plné. Smažte prosím některé nechtěné soubory, poté to zkuste znovu.
 qt-misc-your-firewall-or-antivirus-program-is = Váš firewall nebo antivirus program brání Anki vytvořit připojení. Prosím přidejte výjimku pro Anki.
-qt-misc-second = { $count ->
-    [one] { $count } sekunda
-    [few] { $count } sekundy
-   *[other] { $count } sekund
-  }
+qt-misc-error = Chyba
+qt-misc-incompatible-video-driver = Váš video ovladač není kompatibilní. Prosím spusťte Anki znovu a Anki přepne do pomalejšího kompatibilnějšího režimu.
+qt-misc-error-loading-graphics-driver = Chyba při nahrávání „{ $mode }“ grafického ovladače. Prosím spusťte Anki znovu, abyste zkusily další ovladač. { $context }
+qt-misc-anki-is-running = Anki je již spuštěno
+qt-misc-if-instance-is-not-responding = Jestliže stávající instance Anki neodpovídá, prosím zavřete ho pomocí správce úloh nebo restartuje počítač.
+qt-misc-second =
+    { $count ->
+        [one] { $count } sekunda
+        [few] { $count } sekundy
+       *[other] { $count } sekund
+    }
