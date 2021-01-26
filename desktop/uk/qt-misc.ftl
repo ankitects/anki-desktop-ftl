@@ -1,5 +1,5 @@
-qt-misc-addon-will-be-installed-when-a = Додаток буде встановлено після відкриття профілю.
-qt-misc-addons = Розширення
+qt-misc-addon-will-be-installed-when-a = Доповнення буде встановлено після відкриття профілю.
+qt-misc-addons = Доповнення
 qt-misc-all-cards-notes-and-media-for = Всі картки, нотатки та медіа-файли для цього профілю будуть видалені. Ви впевнені, що хочете це зробити?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki оновлено</h1>Вийшла нова версія Anki { $val }.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = Автоматична синхронізація і резервне копіювання вимкнені при відновлені. Для увімкнення закрийте профіль чи перезапустіть Anki.
@@ -40,7 +40,7 @@ qt-misc-resume-now = Продовжити зараз
 qt-misc-revert-to-backup = Відновити до резервної копі
 qt-misc-reverted-to-state-prior-to = Повернення до стану перед '{ $val }'.
 qt-misc-segoe-ui = "Segoe UI"
-qt-misc-shift-key-was-held-down-skipping = Під час запуску програми було утримано клавішу "Shift". Відключено автоматичну синхронізацію та підключення розширень програми під час запуску.
+qt-misc-shift-key-was-held-down-skipping = Під час запуску програми було утримано клавішу «Shift». Вимкнено автоматичну синхронізацію та завантаження доповнень програми під час запуску.
 qt-misc-shortcut-key-left-arrow = Гаряча клавіша: Ліва стрілка
 qt-misc-shortcut-key-right-arrow-or-enter = Гаряча клавіша: Права стрілка або Enter
 qt-misc-stats = Статистика
