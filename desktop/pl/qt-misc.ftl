@@ -62,6 +62,7 @@ qt-misc-your-collection-file-appears-to-be = Twój plik kolekcji wydaje się by�
 qt-misc-your-computers-storage-may-be-full = Prawdopodobnie zabrakło miejsca na twoim dysku. Usuń niepotrzebne pliki i spróbuj ponownie.
 qt-misc-your-firewall-or-antivirus-program-is = Zapora sieciowa lub program antywirusowy uniemożliwia Anki połączenie. Dodaj wyjątek dla Anki.
 qt-misc-error = Błąd
+qt-misc-no-temp-folder = Brak tymczasowego folderu możliwego do użycia. Upewnij się, że C:\\temp istnieje lub TEMP w twoim środowisku przekierowuje do prawidłowego folderu z możliwością zapisu.
 qt-misc-incompatible-video-driver = Twój sterownik graficzny jest niekompatybilny. Uruchom Anki ponownie, a program przejdzie w wolniejszy, szerzej kompatybilny tryb.
 qt-misc-error-loading-graphics-driver = Błąd przy ładowaniu sterownika graficznego „{ $mode }”. Uruchom ponownie Anki aby spróbować następnego sterownika. { $context }
 qt-misc-anki-is-running = Anki jest już włączone
