@@ -3,6 +3,7 @@ qt-misc-addons = Complements
 qt-misc-all-cards-notes-and-media-for = S'eliminaran totes les targetes, notes i arxius multimèdia d'aquest perfil. N'esteu segur?
 qt-misc-anki-updatedanki-has-been-released = <h1>Actualització d'Anki</h1>Anki { $val } està disponible.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = La sincronització simultània i les còpies de seguretat estan deshabilitades mentre es restaura. Per tal de tornar-les a habilitar, tanca el perfil o reinicia l'Anki.
+qt-misc-back-side-only = Només l'Anvers
 qt-misc-backing-up = Realitzant la còpia de seguridad...
 qt-misc-browse = Navega
 qt-misc-change-note-type-ctrlandn = Canvia tipus de nota (Ctrl+N)
@@ -60,7 +61,14 @@ qt-misc-would-you-like-to-download-it = Voleu baixar-ho ara?
 qt-misc-your-collection-file-appears-to-be = Sembla que la teva col·lecció està corrupte. Aixó pot succeir quan l'arxiu és copiat o mogut mentre l'Anki està obert, o bé quan la col·lecció es emmegantzemada en un disc dur en línia o al núvol. Si els errors persisteixen després de reiniciar l'ordinador, sisplau obre una còpia de seguretat des del gestor de perfils.
 qt-misc-your-computers-storage-may-be-full = És possible que el emmegatzematge del seu equip estigui ple. Elimini els arxius que no necesits, aleshores torni-ho a intentar.
 qt-misc-your-firewall-or-antivirus-program-is = El teu tallafocs o antivirus esta impedint que Anki es conecti amb ell mateix. Sisplau, afegueix una excepció per a l'Anki.
-qt-misc-second = { $count ->
-    [one] { $count } segon
-   *[other] { $count } segons
-  }
+qt-misc-error = Error
+qt-misc-no-temp-folder = No s'ha trobat una carpeta temporal que funcioni. Asseguri's que sure C:\\temp existeix o TEMP al vostre entorn apunta a una carpeta vàlida i que es pot escriure.
+qt-misc-incompatible-video-driver = El controlador de vídeo és incompatible. Torna a iniciar Anki i Anki canvia a un mode més lent i compatible.
+qt-misc-error-loading-graphics-driver = Error en carregar el controlador gràfic '{ $mode }'. Torneu a iniciar Anki per provar el següent controlador. { $context }
+qt-misc-anki-is-running = Anki ja s'està executant
+qt-misc-if-instance-is-not-responding = Si la instància existent d'Anki no respon, tanca-la amb el gestor de tasques o reinicia l'ordinador.
+qt-misc-second =
+    { $count ->
+        [one] { $count } segon
+       *[other] { $count } segons
+    }
