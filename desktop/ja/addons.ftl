@@ -4,6 +4,8 @@ addons-failed-to-load =
     
     '{ $name }' 読み込みの際:
     { $traceback }
+# Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
+addons-config-window-title = 「{ $name }」を設定
 addons-window-title = アドオン
 addons-addon-has-no-configuration = このアドオンの設定は変更できません。
 addons-addon-installation-error = アドオンインストールのエラー
@@ -32,6 +34,7 @@ addons-installed-successfully = インストールが完了しました。
 addons-invalid-code = コードが不正です。
 addons-invalid-code-or-addon-not-available = 無効なコードです。数字が誤っているか、このアドオンがこのバージョンのAnkiに対応していません。
 addons-invalid-configuration = 無効な設定:
+addons-invalid-configuration-top-level-object-must = 無効な設定：トップレベルのオブジェクトはマップである必要があります
 addons-no-updates-available = 利用可能なアップデートはありません。
 addons-one-or-more-errors-occurred = １つかそれ以上のエラーが発生しました：
 addons-packaged-anki-addon = パッケージ化されたAnkiアドオン
