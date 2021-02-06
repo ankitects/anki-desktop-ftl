@@ -33,6 +33,7 @@ addons-invalid-code = コードが不正です。
 addons-invalid-code-or-addon-not-available = 無効なコードです。数字が誤っているか、このアドオンがこのバージョンのAnkiに対応していません。
 addons-invalid-configuration = 無効な設定:
 addons-no-updates-available = 利用可能なアップデートはありません。
+addons-one-or-more-errors-occurred = １つかそれ以上のエラーが発生しました：
 addons-packaged-anki-addon = パッケージ化されたAnkiアドオン
 addons-please-check-your-internet-connection = インターネット接続を確認してください
 addons-please-report-this-to-the-respective = 当該アドオン作成者に報告してください。

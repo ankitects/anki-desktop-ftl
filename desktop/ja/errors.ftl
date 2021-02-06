@@ -1,9 +1,11 @@
+-errors-support-site = [サポートサイト](https://help.ankiweb.net)
 errors-standard-popup =
     <h1>エラー</h1>
     
     <p>エラーが発生しました。<b>[ツール] &gt; [データベースをチェック]</b> を実行し、問題が解消されたかどうか確認してください。</p>
     
     <p>引き続き問題が生じる場合は <a href="https://help.ankiweb.net">サポートサイト</a>にご報告ください。なお、その際、この下に記載されている情報をコピーして、報告していただく文章の中に貼り付けてください。</p>
+-errors-addon-support-site = [アドオン・サポートサイト](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     <h1>エラー</h1>
     
