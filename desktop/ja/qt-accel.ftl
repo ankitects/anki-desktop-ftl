@@ -6,6 +6,7 @@ qt-accel-check-media = メディアをチェック
 qt-accel-edit = 編集 (&E)
 qt-accel-exit = 終了 (&X)
 qt-accel-export = 書き出す (&E)
+qt-accel-export-notes = ノートを書き出す(&E)
 qt-accel-file = ファイル (&F)
 qt-accel-filter = フィルター (&T)
 qt-accel-find = 検索 (&F)
