@@ -6,6 +6,7 @@ addons-failed-to-load =
     { $traceback }
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = 「{ $name }」を設定
+addons-config-validation-error = 与えられた条件の設定に問題がありました：{ $problem }、at path = { $path }、against schema = { $schema }
 addons-window-title = アドオン
 addons-addon-has-no-configuration = このアドオンの設定は変更できません。
 addons-addon-installation-error = アドオンインストールのエラー
@@ -26,6 +27,7 @@ addons-downloading-adbd-kb02fkb = ダウンロード中 { $part }/{ $total } ({ 
 addons-error-downloading-ids-errors = { $id } のダウンロード中にエラーが発生しました: { $error }
 addons-error-installing-bases-errors = { $base } のインストール中にエラーが発生しました: { $error }
 addons-get-addons = 新たにアドオンを取得...
+addons-important-as-addons-are-programs-downloaded = <b>重要</b>：アドオンはインターネットからダウンロードされるプログラムであるため、マルウェアである可能性もあります。<b>信頼できるアドオンだけをインストールしてください。</b><br><br>以下のAnkiのアドオンのインストールを続行してもよろしいですか？<br><br>%(names)s
 addons-install-addon = アドオンをインストールする
 addons-install-addons = アドオンをインストールする
 addons-install-anki-addon = Ankiアドオンをインストール
