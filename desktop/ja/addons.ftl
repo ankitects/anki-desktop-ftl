@@ -33,6 +33,7 @@ addons-install-from-file = ファイルからインストール...
 addons-installation-complete = インストール完了
 addons-installed-names = { $name } をインストールしました
 addons-installed-successfully = インストールが完了しました。
+addons-invalid-addon-manifest = 無効なアドオンのマニフェスト
 addons-invalid-code = コードが不正です。
 addons-invalid-code-or-addon-not-available = 無効なコードです。数字が誤っているか、このアドオンがこのバージョンのAnkiに対応していません。
 addons-invalid-configuration = 無効な設定:
