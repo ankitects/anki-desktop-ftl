@@ -1,6 +1,6 @@
 qt-misc-all-cards-notes-and-media-for = Alle kaarte, notas, en media vir hierdie profiel sal geskrap word. Is jy seker?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki Opgedateer</ h1> Anki { $val } is vrygestel. <br>
-qt-misc-browse = Blaai
+qt-misc-browse = Snuffel
 qt-misc-change-note-type-ctrlandn = Verander Tipe Nota (Ctrl + N)
 qt-misc-check-the-files-in-the-media = Gaan die lêers in die media omslag na
 qt-misc-choose-deck = Kies Kaartpak
@@ -19,7 +19,7 @@ qt-misc-loading = Laai tans...
 qt-misc-manage = Bestuur
 qt-misc-name-exists = Naam bestaan reeds.
 qt-misc-non-unicode-text = <nie-unicode teks>
-qt-misc-optimizing = Optimaliseer...
+qt-misc-optimizing = Optimeer...
 qt-misc-please-connect-a-microphone-and-ensure = Koppel asseblief 'n mikrofoon en verseker dat ander programme nie die klank toestel gebruik nie.
 qt-misc-please-ensure-a-profile-is-open = Maak asseblief seker dat 'n profiel oop is en Anki nie besig is nie, probeer dan weer.
 qt-misc-please-select-1-card = (kies asseblief 1 kaart)
@@ -28,7 +28,7 @@ qt-misc-please-use-fileimport-to-import-this = Gebruik asseblief Lêer> Voer in 
 qt-misc-processing = Verwerk tans...
 qt-misc-resume-now = Hervat Nou
 qt-misc-reverted-to-state-prior-to = Keer terug na 'n toestand voor '{ $val }'.
-qt-misc-shift-key-was-held-down-skipping = Shift knoppie ingehou. Slaan outomatiese sinchronisasie oor.
+qt-misc-shift-key-was-held-down-skipping = Shift sleutel was ingehou. Slaan outomatiese sinchronisasie oor.
 qt-misc-shortcut-key-left-arrow = Kortpad sleutel: Linker pyltjie.
 qt-misc-shortcut-key-right-arrow-or-enter = Kortpad sleutel: Regter pyltjie of Enter
 qt-misc-study-deck = Studeer kaartpak...
@@ -40,7 +40,7 @@ qt-misc-this-file-exists-are-you-sure = Hierdie lêer bestaan. Is jy seker jy wi
 qt-misc-undo = Herroep
 qt-misc-undo2 = Herroep { $val }
 qt-misc-waiting-for-editing-to-finish = Wag tans om redigering te voltooi.
-qt-misc-would-you-like-to-download-it = Wil u dit nou aflaai?
+qt-misc-would-you-like-to-download-it = Wil jy dit nou aflaai?
 qt-misc-second = { $count ->
     [one] { $count } sekonde
    *[other] { $count } sekondes
