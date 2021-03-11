@@ -63,3 +63,4 @@ addons-delete-the-numd-selected-addon =
     { $count ->
        *[other] 刪除已選取的 { $count } 個附加元件？
     }
+addons-choose-update-window-title = 更新附加元件
