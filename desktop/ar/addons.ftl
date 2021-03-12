@@ -68,3 +68,4 @@ addons-delete-the-numd-selected-addon =
         [many] هل تريد حذف { $count } إضافة محددة؟
        *[other] هل تريد حذف { $count } إضافة محددة؟
     }
+addons-choose-update-window-title = تحديث إضافات
