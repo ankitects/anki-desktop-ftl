@@ -69,7 +69,7 @@ qt-misc-anki-is-running = Anki уже запущен
 qt-misc-if-instance-is-not-responding = Если запущенный экземпляр Anki не отвечает, закройте его с помощью диспетчера задач или перезагрузите компьютер.
 qt-misc-second =
     { $count ->
-        [one] { $count } секунду
+        [one] { $count } секунда
         [few] { $count } секунды
        *[other] { $count } секунд
     }
