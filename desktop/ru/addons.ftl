@@ -65,3 +65,4 @@ addons-delete-the-numd-selected-addon =
         [few] Удалить { $count } дополнения?
        *[other] Удалить { $count } дополнений?
     }
+addons-choose-update-window-title = Обновить дополнения
