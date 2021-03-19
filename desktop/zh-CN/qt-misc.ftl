@@ -61,6 +61,13 @@ qt-misc-would-you-like-to-download-it = 你想现在就下载？
 qt-misc-your-collection-file-appears-to-be = 您的集合文件似乎已损坏。当Anki还在运行时就拷贝文件或者将其存储于网络或云存储时就会发生这种情况。如果在重启电脑后问题依旧存在，请在资料页面打开一个自动备份。
 qt-misc-your-computers-storage-may-be-full = 您的电脑存储可能已满。请删除不需要的文件，然后重试一次。
 qt-misc-your-firewall-or-antivirus-program-is = 您的防火墙或杀毒软件阻止了 Anki 创建连接，请将 Anki 添加到白名单中。
-qt-misc-second = { $count ->
-   *[other] { $count } 秒
-  }
+qt-misc-error = 错误
+qt-misc-no-temp-folder = 找不到可用的临时文件夹。请确保 C:\\temp 存在，或者 TEMP 环境变量指向的位置是有效、可写的。
+qt-misc-incompatible-video-driver = 您的视频驱动程序不兼容。请重启 Anki，之后 Anki 会自动切换成较慢但更兼容的模式。
+qt-misc-error-loading-graphics-driver = 载入图形驱动 '{ $mode }' 时发生错误。请重新启动 Anki 以尝试下一个驱动程序。{ $context }
+qt-misc-anki-is-running = Anki 已在运行
+qt-misc-if-instance-is-not-responding = 若现有的 Anki 实例无响应，请使用任务管理器关闭 Anki，或者重启您的电脑。
+qt-misc-second =
+    { $count ->
+       *[other] { $count } 秒
+    }
