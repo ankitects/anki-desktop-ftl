@@ -1,4 +1,4 @@
-about-a-big-thanks-to-all-the = 向所有提出过建议，报告过bug以及提供过捐助的人们致谢。
+about-a-big-thanks-to-all-the = 向所有提出过建议、报告过bug以及提供过捐助的人们致谢。
 about-about-anki = 关于Anki
 about-anki-is-a-friendly-intelligent-spaced = Anki是一个基于重复学习原理的记忆软件，简单易用，免费并开源。
 about-anki-is-licensed-under-the-agpl3 = Anki以AGPL3协议发布. 请查看源代码分布中的协议文件获得更多信息.

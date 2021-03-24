@@ -5,4 +5,4 @@ profiles-folder-readme =
     
     { $link }
 # will appear as 'Downgrade & Quit'
-profiles-downgrade-and-quit = 降级并退出
+profiles-downgrade-and-quit = 使集合适配低版本并退出
