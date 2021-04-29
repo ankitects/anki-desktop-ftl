@@ -40,3 +40,4 @@ errors-unable-open-collection =
     Níorbh fhéidir comhad do chnuasaigh a oscailt. Má bhíonn deacrachtaí fós ann tar éis an ríomhaire a atosú, úsáid an cnaipe 'Oscail Cúltacú' sa bhainisteoir próifíle.
     
     Sonraí dífhabhtaithe:
+errors-windows-tts-runtime-error = Theip ar an tseirbhís TTS (TGT). Deimhnigh an bhfuil nua-shonraithe Windows suite, atosaigh an ríomhaire, agus bain triail as guth eile.
