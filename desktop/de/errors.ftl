@@ -28,3 +28,4 @@ errors-accessing-db =
     
     Sie sollten sicherstellen, dass Ihre Datenbank nicht beschädigt ist. Wählen Sie dazu Extras → Datenbank überprüfen.
 errors-unable-open-collection = Anki konnte die Datei Ihrer Samlung nicht öffnen. Sollte das Problem nach einem Neustart Ihres Computers weiterhin bestehen, bitten wir Sie darum, die Wiederherstellungsmöglichkeit im Profilmanager zu nutzen.
+errors-windows-tts-runtime-error = Der TTS-Dienst ist fehlgeschlagen. Bitte stellen Sie sicher, dass Windows-Updates installiert sind, versuchen Sie, den Computer neuzustarten und versuchen Sie, eine andere Stimme zu verwenden.
