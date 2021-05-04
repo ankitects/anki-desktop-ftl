@@ -36,7 +36,6 @@ qt-misc-please-select-a-deck = בחר חפיסה.
 qt-misc-please-use-fileimport-to-import-this = בחר באפשרות קובץ>ייבוא כדי לייבא את הקובץ הזה.
 qt-misc-processing = מעבד...
 qt-misc-replace-your-collection-with-an-earlier = להחליף את האוסף עם גיבוי מוקדם יותר?
-qt-misc-resume-now = המשך כעת
 qt-misc-revert-to-backup = חזור לגיבוי
 qt-misc-reverted-to-state-prior-to = הוחזר למצב הקודם ל- '{ $val }'.
 qt-misc-segoe-ui = "Arial"
@@ -56,12 +55,24 @@ qt-misc-unable-to-move-existing-file-to = לא הצלחנו למחוק - נסה 
 qt-misc-undo = בטל
 qt-misc-undo2 = בטל { $val }
 qt-misc-unexpected-response-code = תגובה לא צפויה: { $val }
-qt-misc-waiting-for-editing-to-finish = ממתין לסיום עריכה.
 qt-misc-would-you-like-to-download-it = האם ברצונך להוריד עכשיו?
 qt-misc-your-collection-file-appears-to-be = הקובץ פגום. יתכן שהקובץ הועתק או הועבר בעוד התוכנה פעילה, או שהקובץ מאוחסן בענן. אם הבעיה ממשיכה לאחר אתחול המחשב מחדש, פתח גיבוי אוטומטי ממסך הפרופיל.
 qt-misc-your-computers-storage-may-be-full = אחסון המחשב שלך מלא. מחק קבצים לא נחוצים ונסה שנית.
 qt-misc-your-firewall-or-antivirus-program-is = חומת האש או האנטי-וירוס מפריעים לתוכנה לפעול. אנא הוסף חריגה עבור Anki.
-qt-misc-second = { $count ->
-    [one] { $count } שניה
-   *[other] { $count } שניות
-  }
+qt-misc-error = שגיאה
+qt-misc-no-temp-folder = לא ניתן למצוא תיקייה זמנית. יש לוודא שקיימת התיקייה C:\\temp או שTEMP מצביע לתיקייה חוקית וניתנת לכתיבה.
+qt-misc-incompatible-video-driver = הדרייבר של הוידאו אינו נתמך. יש להפעיל את Anki שוב והוא יעבור למצב איטי ותואם יותר.
+qt-misc-error-loading-graphics-driver = שגיאה בעת טעינת הדרייבר הגרפי '{ $mode }'. נא להפעיל מחדש את Anki לנסות את הדרייבר הבא. { $context }
+qt-misc-anki-is-running = Anki כבר מופעלת
+qt-misc-if-instance-is-not-responding = אם החלון של Anki שמופעל כעת אינו מגיב, יש לסגור אותו באמצעות מנהל המשימות או להפעיל את המחשב מחדש
+qt-misc-second =
+    { $count ->
+        [one] { $count } שניה
+       *[other] { $count } שניות
+    }
+
+## deprecated- these strings will be removed in the future, and do not need
+## to be translated
+
+qt-misc-resume-now = המשך כעת
+qt-misc-waiting-for-editing-to-finish = ממתין לסיום עריכה.
