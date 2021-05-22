@@ -36,7 +36,6 @@ qt-misc-please-select-a-deck = 請選取一個牌組。
 qt-misc-please-use-fileimport-to-import-this = 請使用「檔案>匯入」來匯入這個檔案。
 qt-misc-processing = 處理中...
 qt-misc-replace-your-collection-with-an-earlier = 是否用較早的備份取代您的集合？
-qt-misc-resume-now = 繼續
 qt-misc-revert-to-backup = 恢復備份
 qt-misc-reverted-to-state-prior-to = 恢復至「{ $val }」狀態以前。
 qt-misc-segoe-ui = "Segoe UI", "Microsoft JhengHei UI"
@@ -56,7 +55,6 @@ qt-misc-unable-to-move-existing-file-to = 無法將現存檔案移到垃圾桶�
 qt-misc-undo = 復原
 qt-misc-undo2 = 復原 { $val }
 qt-misc-unexpected-response-code = 未預期的回應代碼：{ $val }
-qt-misc-waiting-for-editing-to-finish = 等待編輯完成。
 qt-misc-would-you-like-to-download-it = 您想要立即下載嗎？
 qt-misc-your-collection-file-appears-to-be = 您的集合檔案似乎已損毀。原因可能是檔案在 Anki 開啟時被複製/移動，或集合儲存於網路/雲端硬碟。如果在重新啟動電腦後問題仍然發生，請開啟設定檔畫面上的自動備份。
 qt-misc-your-computers-storage-may-be-full = 您的電腦儲存空間可能已滿。請刪除一些不需要的檔案，然後再試一次。
@@ -71,3 +69,9 @@ qt-misc-second =
     { $count ->
        *[other] { $count } 秒鐘
     }
+
+## deprecated- these strings will be removed in the future, and do not need
+## to be translated
+
+qt-misc-resume-now = 繼續
+qt-misc-waiting-for-editing-to-finish = 等待編輯完成。
