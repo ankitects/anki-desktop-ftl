@@ -3,6 +3,7 @@ qt-misc-addons = Doplňky
 qt-misc-all-cards-notes-and-media-for = Všechny karty, poznámky a média tohoto profilu budou smazány. Jste si jistý?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki aktualizováno</h1>Byla vydána Anki verze { $val }.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = Automatická synchronizace a zálohování byly zrušeny během procesu obnovení. Pro obnovení těchto nastavení zavřete profil, nebo restartujte Anki.
+qt-misc-back-side-only = Pouze zadní strana
 qt-misc-backing-up = Zálohuje se...
 qt-misc-browse = Prohlížet
 qt-misc-change-note-type-ctrlandn = Změň typ poznámky (Ctrl+N)
@@ -35,7 +36,6 @@ qt-misc-please-select-a-deck = Prosím vyberte balík.
 qt-misc-please-use-fileimport-to-import-this = Prosím použijte Soubor>Import pro import tohoto souboru.
 qt-misc-processing = Zpracovává se...
 qt-misc-replace-your-collection-with-an-earlier = Nahradit kolekci předchozí zálohou?
-qt-misc-resume-now = Pokračovat
 qt-misc-revert-to-backup = Obnovit ze zálohy
 qt-misc-reverted-to-state-prior-to = Navráceno ke stavu před '{ $val }'.
 qt-misc-segoe-ui = „Segoe UI“
@@ -55,7 +55,6 @@ qt-misc-unable-to-move-existing-file-to = Nelze přesunout stávající soubor d
 qt-misc-undo = Zpět
 qt-misc-undo2 = Zpět { $val }
 qt-misc-unexpected-response-code = Neočekávaný kód odpovědi: { $val }
-qt-misc-waiting-for-editing-to-finish = Čeká se na dokončení změn.
 qt-misc-would-you-like-to-download-it = Chcete ji stáhnout nyní?
 qt-misc-your-collection-file-appears-to-be = Váš soubor kolekce se jeví jako poškozený. To může nastat, když se soubor kopíruje nebo přesouvá, zatímco je Anki otevřeno, nebo když je kolekce uložena na síti nebo kloudovém disku. Jestliže problém přetrvává po restartování vašeho počítače, prosím otevřete automatickou zálohu z obrazovky s profily.
 qt-misc-your-computers-storage-may-be-full = Úložiště počítače může být plné. Smažte prosím některé nechtěné soubory, poté to zkuste znovu.
@@ -71,3 +70,9 @@ qt-misc-second =
         [few] { $count } sekundy
        *[other] { $count } sekund
     }
+
+## deprecated- these strings will be removed in the future, and do not need
+## to be translated
+
+qt-misc-resume-now = Pokračovat
+qt-misc-waiting-for-editing-to-finish = Čeká se na dokončení změn.
