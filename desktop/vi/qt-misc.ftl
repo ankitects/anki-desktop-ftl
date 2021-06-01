@@ -18,6 +18,7 @@ qt-misc-in-order-to-ensure-your-collection = Để bảm đảm rằng bộ sưu
 qt-misc-invalid-property-found-on-card-please = Tìm thấy thuộc tính không hợp lệ trên thẻ. Vui  lòng dùng Công cụ > Kiểm tra CSDL và nếu vẫn có vấn đề, vui lòng hỏi trên trang hỗ trợ.
 qt-misc-loading = Đang nạp...
 qt-misc-manage = Quản lý
+qt-misc-manage-note-types = Quản lý các Kiểu Phiếu
 qt-misc-name-exists = Trùng tên đã có.
 qt-misc-non-unicode-text = <văn bản không-unicode>
 qt-misc-optimizing = Đang tối ưu hóa...
@@ -27,7 +28,6 @@ qt-misc-please-select-1-card = (vui lòng chọn 1 thẻ)
 qt-misc-please-select-a-deck = Xin vui lòng chọn một bộ thẻ.
 qt-misc-please-use-fileimport-to-import-this = Xin vui lòng dùng Tập tin>Nhập để nhập tập tin này.
 qt-misc-processing = Đang xử lý...
-qt-misc-resume-now = Tiếp tục Bây giờ
 qt-misc-reverted-to-state-prior-to = Phục hồi lại trạng thái trước '{ $val }'.
 qt-misc-shift-key-was-held-down-skipping = Phím Shift được nhấn giữ. Bỏ qua đồng bộ tự đồng và nạp phần gắn thêm.
 qt-misc-study-deck = Học Bộ thẻ...
@@ -38,8 +38,14 @@ qt-misc-there-must-be-at-least-one = Phải có ít nhất một hồ sơ.
 qt-misc-this-file-exists-are-you-sure = Tập tin này đã tồn tại. Bạn có chắc chắn muốn ghi đè không?
 qt-misc-undo = Hoàn tác
 qt-misc-undo2 = Hoàn tác { $val }
-qt-misc-waiting-for-editing-to-finish = Chờ hoàn tất chỉnh sửa.
 qt-misc-would-you-like-to-download-it = Bạn có muốn tải xuống ngay bây giờ không?
-qt-misc-second = { $count ->
-   *[other] { $count } giây
-  }
+qt-misc-second =
+    { $count ->
+       *[other] { $count } giây
+    }
+
+## deprecated- these strings will be removed in the future, and do not need
+## to be translated
+
+qt-misc-resume-now = Tiếp tục Bây giờ
+qt-misc-waiting-for-editing-to-finish = Chờ hoàn tất chỉnh sửa.
