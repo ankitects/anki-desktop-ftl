@@ -64,3 +64,4 @@ addons-delete-the-numd-selected-addon =
         [one] Apagar a extensão { $count } selecionada?
        *[other] Apagar as extensões { $count } selecionadas?
     }
+addons-choose-update-window-title = Atualizar Extensões
