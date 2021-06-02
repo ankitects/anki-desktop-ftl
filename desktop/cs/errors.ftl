@@ -38,3 +38,4 @@ errors-unable-open-collection =
     Anki nemohl otevřít vaši kolekci. Jestliže problém přetrvává po restartování počítače, prosím použijte tlačítko Otevřít zálohu ve správci profilů.
     
     Informace o ladění:
+errors-windows-tts-runtime-error = Služba TTS selhala. Prosím ujistěte se, že jsou nainstalované aktualizace Windows, zkuste restartovat počítač a zkuste použít jiný hlas.

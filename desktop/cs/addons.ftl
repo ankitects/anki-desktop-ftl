@@ -28,11 +28,16 @@ addons-get-addons = Získat doplňky...
 addons-important-as-addons-are-programs-downloaded = <b>Důležité</b>: Protože doplňky jsou programy stažené z internetu, jsou potencionálně nebezpečné. <b>Měli byste pouze instalovat doplňky, kterým věříte.</b><br><br>Jste si jistí, že chcete pokračovat v instalaci následujícího Anki doplňku (doplňků)?<br><br>%(names)s
 addons-install-addon = Instalace doplňku
 addons-install-addons = Instalace doplňku (doplňků)
+addons-install-anki-addon = Instalovat doplněk Anki
 addons-install-from-file = Instalovat ze souboru...
 addons-installation-complete = Instalace dokončena
+addons-installed-names = { $name } nainstalován
 addons-installed-successfully = Úspěšně nainstalováno.
+addons-invalid-addon-manifest = Neplatný manifest doplňku.
 addons-invalid-code = Neplatný kód.
 addons-invalid-code-or-addon-not-available = Neplatný kód nebo doplněk není dostupný pro vaši verzi Anki.
+addons-invalid-configuration = Neplatná konfigurace:
+addons-invalid-configuration-top-level-object-must = Neplatná konfigurace: objekt nejvyšší úrovně musí být mapa
 addons-no-updates-available = Žádné aktualizace nejsou k dispozici.
 addons-one-or-more-errors-occurred = Nastala jedna nebo více chyb:
 addons-packaged-anki-addon = Zabalený Anki doplněk
@@ -58,3 +63,4 @@ addons-delete-the-numd-selected-addon =
         [few] Smazat { $count } vybrané doplňky?
        *[other] Smazat { $count } vybraných doplňků?
     }
+addons-choose-update-window-title = Aktualizovat doplňky
