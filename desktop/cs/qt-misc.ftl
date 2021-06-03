@@ -60,6 +60,7 @@ qt-misc-your-collection-file-appears-to-be = Váš soubor kolekce se jeví jako 
 qt-misc-your-computers-storage-may-be-full = Úložiště počítače může být plné. Smažte prosím některé nechtěné soubory, poté to zkuste znovu.
 qt-misc-your-firewall-or-antivirus-program-is = Váš firewall nebo antivirus program brání Anki vytvořit připojení. Prosím přidejte výjimku pro Anki.
 qt-misc-error = Chyba
+qt-misc-no-temp-folder = Nenalezena žádná použitelná dočasná složka. Ujistěte se, že C:\\temp existuje nebo TEMP ve vašem prostředí odkazuje na platný, zapisovatelný adresář.
 qt-misc-incompatible-video-driver = Váš video ovladač není kompatibilní. Prosím spusťte Anki znovu a Anki přepne do pomalejšího kompatibilnějšího režimu.
 qt-misc-error-loading-graphics-driver = Chyba při nahrávání „{ $mode }“ grafického ovladače. Prosím spusťte Anki znovu, abyste zkusily další ovladač. { $context }
 qt-misc-anki-is-running = Anki je již spuštěno
