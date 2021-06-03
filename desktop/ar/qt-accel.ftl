@@ -30,5 +30,6 @@ qt-accel-support-anki = &ادعم أنكي...
 qt-accel-switch-profile = &تبديل الملف الشخصي
 qt-accel-tools = أ&دوات
 qt-accel-undo = &تراجع
+qt-accel-redo = إعادة ت&طبيق
 qt-accel-set-due-date = ضبط &تاريخ الاستحقاق...
 qt-accel-forget = &نسيان
