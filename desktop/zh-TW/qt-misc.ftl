@@ -29,7 +29,11 @@ qt-misc-manage-note-types = 管理筆記類型
 qt-misc-name-exists = 名稱已存在。
 qt-misc-non-unicode-text = <非 unicode 文字>
 qt-misc-optimizing = 最佳化中...
-qt-misc-please-connect-a-microphone-and-ensure = 請連接麥克風，並且確保沒有其他程式佔用音效裝置。
+qt-misc-unable-to-record =
+    無法錄製。請確保以連接麥克風，且 Anki 已取得麥克風存取權限。
+    若有其他程式正在使用麥克風，請嘗試關閉這些程式。
+    
+    原始錯誤：{ $error }
 qt-misc-please-ensure-a-profile-is-open = 請確定已開啟設定檔，而且 Anki 不在忙碌中，然後再試一次。
 qt-misc-please-select-1-card = （請選取一張卡片）
 qt-misc-please-select-a-deck = 請選取一個牌組。
