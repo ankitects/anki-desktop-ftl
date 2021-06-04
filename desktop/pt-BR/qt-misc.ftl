@@ -60,6 +60,7 @@ qt-misc-your-collection-file-appears-to-be = Parece que seu arquivo de coleção
 qt-misc-your-computers-storage-may-be-full = O armazenamente do seu computador parece estar cheio. Por favor, exclua arquivos desnecessários e tente novamente.
 qt-misc-your-firewall-or-antivirus-program-is = Seu firewall ou antivírus não permite que o Anki crie uma conexão para si. Por favor, adicione uma exceção para o Anki.
 qt-misc-error = Erro
+qt-misc-incompatible-video-driver = O seu driver de vídeo é incompatível. Por favor, inicie o Anki novamente para entrar no modo de compatibilidade.
 qt-misc-anki-is-running = O Anki já está em execução
 qt-misc-if-instance-is-not-responding = Se a instância existente do Anki não estiver respondendo, por favor, feche-o usando o gerenciador de tarefas do seu sistema operacional ou reinicie o seu computador.
 qt-misc-second =
