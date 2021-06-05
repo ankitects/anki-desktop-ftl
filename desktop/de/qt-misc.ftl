@@ -29,14 +29,16 @@ qt-misc-manage-note-types = &Notiztypen verwalten
 qt-misc-name-exists = Name existiert.
 qt-misc-non-unicode-text = <kein Unicode>
 qt-misc-optimizing = Optimierung wird durchgeführt …
-qt-misc-please-connect-a-microphone-and-ensure = Bitte ein Mikrofon anschließen und sicherstellen, dass andere Programme nicht auf das Audiogerät zugreifen.
+qt-misc-unable-to-record =
+    Es konnte nicht aufgezeichnet werden. Bitte stellen Sie sicher, dass das Mikrofon angeschlossen ist und Anki Erlaubnis hat, das Mikrofron zu benutzen. Wenn andere Programme Ihr Mikrofon benutzen, dann könnte deren Schließung helfen.
+    
+    Ursprünglicher Fehler: { $error }
 qt-misc-please-ensure-a-profile-is-open = Bitte vergewissern, dass ein Profil geöffnet und Anki nicht beschäftigt ist, und noch einmal versuchen.
 qt-misc-please-select-1-card = (bitte 1 Karte auswählen)
 qt-misc-please-select-a-deck = Bitte einen Stapel wählen.
 qt-misc-please-use-fileimport-to-import-this = Bitte diese Datei mit Datei>Importieren importieren.
 qt-misc-processing = Verarbeitung läuft …
 qt-misc-replace-your-collection-with-an-earlier = Möchten Sie Ihre Sammlung mit einer zuvor erstellen Sicherheitskopie ersetzen?
-qt-misc-resume-now = Jetzt fortfahren
 qt-misc-revert-to-backup = Zum in der Sicherungskopie gespeicherten Zustand zurückkehren
 qt-misc-reverted-to-state-prior-to = »{ $val }« rückgängig gemacht.
 qt-misc-segoe-ui = Segoe UI
@@ -56,7 +58,6 @@ qt-misc-unable-to-move-existing-file-to = Die vorhandene Datei konnte nicht in d
 qt-misc-undo = Rückgängig
 qt-misc-undo2 = Letzte Aktion rückgängig machen: { $val }
 qt-misc-unexpected-response-code = Unerwarteter Antwortcode: { $val }
-qt-misc-waiting-for-editing-to-finish = Warte auf Ende der Bearbeitung.
 qt-misc-would-you-like-to-download-it = Jetzt herunterladen?
 qt-misc-your-collection-file-appears-to-be = Die Datei Ihrer Sammlung scheint fehlerhaft zu sein. Zu diesem Zustand kann es kommen, wenn die Datei während einer laufenden Sitzung des Programms kopiert oder verschoben wird, oder wenn die Sammlung auf einem Netzlaufwerk oder Cloudspeicher gespeichert wird. Sollte das Problem nach einem Neustart des Computers weiterhin bestehen, bitten wir Sie, eine automatisch erstellte Sicherungskopie über die Profileinstellungen einzuspielen.
 qt-misc-your-computers-storage-may-be-full = Der Speicherplatz auf Ihrem Computer dürfte vollständig belegt sein. Bitte löschen Sie einige nicht benötigte Dateien und versuchen Sie es anschließend erneut.
@@ -72,3 +73,9 @@ qt-misc-second =
         [one] { $count } Sekunde
        *[other] { $count } Sekunden
     }
+
+## deprecated- these strings will be removed in the future, and do not need
+## to be translated
+
+qt-misc-resume-now = Jetzt fortfahren
+qt-misc-waiting-for-editing-to-finish = Warte auf Ende der Bearbeitung.

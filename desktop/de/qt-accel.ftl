@@ -30,5 +30,6 @@ qt-accel-support-anki = Anki unter&stützen…
 qt-accel-switch-profile = Profil wech&seln
 qt-accel-tools = E&xtras
 qt-accel-undo = &Rückgängig
+qt-accel-redo = Wiede&rherstellen
 qt-accel-set-due-date = Fälligkeits&datum setzen...
 qt-accel-forget = &Vergessen

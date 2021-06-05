@@ -65,3 +65,4 @@ addons-delete-the-numd-selected-addon =
        *[other] Möchten Sie die { $count } ausgewählten Erweiterungen löschen?
     }
 addons-choose-update-window-title = Erweiterungen aktualisieren
+addons-choose-update-update-all = Alle aktualisieren
