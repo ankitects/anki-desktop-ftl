@@ -29,7 +29,11 @@ qt-misc-manage-note-types = Správa typů poznámek
 qt-misc-name-exists = Název již existuje.
 qt-misc-non-unicode-text = <text, který není v unicode>
 qt-misc-optimizing = Optimalizuje se...
-qt-misc-please-connect-a-microphone-and-ensure = Prosím, připojte mikrofon a ujistěte se, že jiný program nepoužívá audio zařízení.
+qt-misc-unable-to-record =
+    Nelze nahrávat. Prosím ujistěte se, že je mikrofon připojen a Anki má povolení používat mikrofon. 
+    Jestliže mikrofon používají jiné programy, může pomoci je zavřít. 
+    
+    Původní chyba: { $error }
 qt-misc-please-ensure-a-profile-is-open = Zajistěte, aby byl profil otevřen a aby Anki nebyl zaneprázdněn. Pak to zkuste znovu.
 qt-misc-please-select-1-card = (prosím vyberte 1 kartu)
 qt-misc-please-select-a-deck = Prosím vyberte balík.
