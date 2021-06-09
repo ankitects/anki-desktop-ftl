@@ -29,14 +29,17 @@ qt-misc-manage-note-types = إدارة أنواع الملحوظات
 qt-misc-name-exists = يوجد ملف شخصي بالاسم نفسه.
 qt-misc-non-unicode-text = <نص بترميز مختلف عن يونيكود>
 qt-misc-optimizing = تحسين...
-qt-misc-please-connect-a-microphone-and-ensure = الرجاء إيصال ميكروفون، والتحقق من أن البرامج الأخرى لا تستخدم جهاز الصوت.
+qt-misc-unable-to-record =
+    تعذر التسجيل. تأكد من أن المايكروفون يعمل، وأن لأنكي الإذن باستخدامه.
+    إذا كانت برامج أخرى تستخدم المايكروفون، فقد يساعد إغلاقها.
+    
+    الخطأ الأصلي: { $error }
 qt-misc-please-ensure-a-profile-is-open = الرجاء التحقق من وجود ملف شخصي مفتوح وأن أنكي غير مشغول، ثم المحاولة مجددًا.
 qt-misc-please-select-1-card = (اختر بطاقة واحدة من فضلك)
 qt-misc-please-select-a-deck = اختر رزمة.
 qt-misc-please-use-fileimport-to-import-this = استخدم ملف>استيراد لاستيراد هذا الملف.
 qt-misc-processing = تجري المعالجة...
 qt-misc-replace-your-collection-with-an-earlier = هل تريد استبدال مجموعتك بنسخة احتياطية؟
-qt-misc-resume-now = استكمل الآن
 qt-misc-revert-to-backup = إعادة إلى نسخة احتياطية
 qt-misc-reverted-to-state-prior-to = أعيد إلى حالة قبل '{ $val }'.
 qt-misc-segoe-ui = "Segoe UI"
@@ -56,7 +59,6 @@ qt-misc-unable-to-move-existing-file-to = يتعذر نقل الملف إلى ا
 qt-misc-undo = تراجع
 qt-misc-undo2 = تراجع عن { $val }
 qt-misc-unexpected-response-code = رمز استجابة غير متوقع: { $val }
-qt-misc-waiting-for-editing-to-finish = بانتظار انتهاء التحرير.
 qt-misc-would-you-like-to-download-it = هل ترغب في تحميله الآن؟
 qt-misc-your-collection-file-appears-to-be = تبدو مجموعتك تالفة. قد يحدث هذا عندما يُنسخ الملف أو يُنقل أثناء عمل أنكي، أو عندما تكون مجموعتك مخزنة على شبكة أو قرص في السحابة. إذا استمرت المشكلة بعد إعادة تشغيل حاسوبك، افتح نسخة احتياطية من خلال نافذة الملفات الشخصية.
 qt-misc-your-computers-storage-may-be-full = قد تكون وسائط التخزين في حاسوبك ممتلئة. يرجى حذف بعض الملفات غير الضرورية، ثم المحاولة مجددًا.
@@ -76,3 +78,9 @@ qt-misc-second =
         [many] { $count } ثانية
        *[other] { $count } ثانية
     }
+
+## deprecated- these strings will be removed in the future, and do not need
+## to be translated
+
+qt-misc-resume-now = استكمل الآن
+qt-misc-waiting-for-editing-to-finish = بانتظار انتهاء التحرير.
