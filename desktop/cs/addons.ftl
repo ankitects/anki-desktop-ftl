@@ -64,3 +64,4 @@ addons-delete-the-numd-selected-addon =
        *[other] Smazat { $count } vybraných doplňků?
     }
 addons-choose-update-window-title = Aktualizovat doplňky
+addons-choose-update-update-all = Aktualizovat vše
