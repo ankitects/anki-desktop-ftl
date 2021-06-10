@@ -30,5 +30,6 @@ qt-accel-support-anki = Podpořte &Anki...
 qt-accel-switch-profile = &Přepnout profil
 qt-accel-tools = Nás&troje
 qt-accel-undo = &Zpět
+qt-accel-redo = Zn&ovu
 qt-accel-set-due-date = Nastavit &datum zkoušení...
 qt-accel-forget = Za&pomenout
