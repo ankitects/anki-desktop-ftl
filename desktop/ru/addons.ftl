@@ -1,4 +1,4 @@
-addons-possibly-involved = Причиной могли послужить: { $addons }
+addons-possibly-involved = Возможно присутствуют следующие дополнения: { $addons }
 addons-failed-to-load =
     Установленное дополнение не было загружено. Если проблема сохраняется, выберите в меню «Инструменты»—«Дополнения» и отключите или удалите это дополнение.
     
@@ -8,10 +8,10 @@ addons-failed-to-load =
 addons-config-window-title = Настроить '{ $name }'
 addons-config-validation-error = Возникла проблема с данной конфигурацией: { $problem }, по пути { $path }, против схемы { $schema }.
 addons-window-title = Дополнения
-addons-addon-has-no-configuration = У дополнения нет настроек.
-addons-addon-installation-error = Ошибка при установке дополнения
-addons-addon-was-not-downloaded-from-ankiweb = Дополнение не было загружено с AnkiWeb.
-addons-browse-addons = Посмотреть дополнения
+addons-addon-has-no-configuration = У надстройки отсутствует конфигурация.
+addons-addon-installation-error = Ошибка при установке надстройки
+addons-addon-was-not-downloaded-from-ankiweb = Надстройка не загружена с AnkiWeb.
+addons-browse-addons = Поиск по надстройкам
 addons-changes-will-take-effect-when-anki = Изменения вступят в силу при перезапуске Anki.
 addons-check-for-updates = Проверить обновления
 addons-checking = Проверяется...
