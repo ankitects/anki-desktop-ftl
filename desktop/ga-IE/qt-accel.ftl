@@ -30,5 +30,6 @@ qt-accel-support-anki = &Cabhraigh le hAnki...
 qt-accel-switch-profile = &Athraigh Próifíl
 qt-accel-tools = &Uirlisí
 qt-accel-undo = &Cealaigh
+qt-accel-redo = At&hdhéan
 qt-accel-set-due-date = Socraigh &Dáta Staidéir
 qt-accel-forget = &Lig i nDearmad

@@ -68,3 +68,4 @@ addons-delete-the-numd-selected-addon =
        *[other] Scrios na { $count } breiseán atá roghnaithe?
     }
 addons-choose-update-window-title = Nuashonraigh Breiseáin
+addons-choose-update-update-all = Nuashonraigh Gach Rud

@@ -29,14 +29,17 @@ qt-misc-manage-note-types = Bainistigh Cineálacha Nótaí
 qt-misc-name-exists = Ainm ann cheana féin.
 qt-misc-non-unicode-text = <téacs nach bhfuil in unicode>
 qt-misc-optimizing = Ag optamú...
-qt-misc-please-connect-a-microphone-and-ensure = Ceangail mícreafón, agus cinntigh nach bhfuil an gléas fuaime á oibriú ag clár eile.
+qt-misc-unable-to-record =
+    Níorbh fhéidir taifead a dhéanamh. Bí cinnte go bhfuil micreafón ceangailte agus go bhfuil cead ag Anki
+    feidhm as bhaint as an micreafón. Má tá an micreafón á oibriú ag bogearra eile, dún é go bhfeice tú.
+    
+    Bunearráid: { $error }
 qt-misc-please-ensure-a-profile-is-open = Déan cainnte go bhfuil próifíl ar oscailt agat agus nach bhfuil Anki róghnóthach, agus ansin bain triail arís as.
 qt-misc-please-select-1-card = (roghnaigh aon chárta amháin le do thoil)
 qt-misc-please-select-a-deck = Roghnaigh paca.
 qt-misc-please-use-fileimport-to-import-this = Úsáid Comhad>Iompórtáil chun an comhad a iompórtáil.
 qt-misc-processing = Ag próiseáil...
 qt-misc-replace-your-collection-with-an-earlier = Cuir cóip chúltaca níos sine in áit do chnuasach?
-qt-misc-resume-now = Fill Ar an Staidéar
 qt-misc-revert-to-backup = Fill ar chúltacú
 qt-misc-reverted-to-state-prior-to = Fillte chuig staid roimh '{ $val }'.
 qt-misc-segoe-ui = "Segoe UI"
@@ -56,7 +59,6 @@ qt-misc-unable-to-move-existing-file-to = Ní féidir an comhad a aistriú chuig
 qt-misc-undo = Cealaigh
 qt-misc-undo2 = Cealaigh { $val }
 qt-misc-unexpected-response-code = Cód freagra mí-oiriúnach: { $val }
-qt-misc-waiting-for-editing-to-finish = Ag fanacht ar eagarthóireacht
 qt-misc-would-you-like-to-download-it = Íoslódáil anois?
 qt-misc-your-collection-file-appears-to-be = Is cosúil go bhfuil comhad an chnuasaigh truaillithe. D'fheádfadh sé seo tarlú nuair a chóipeáiltear (nó a bhogtar) an comhad agus Anki ar oscailt, nó nuair atá an cnuasach lonnaithe ar thiomántán líonra nó ar néalthiomántán. Má bhíonn an deacracht seo fós ann tar éis an ríomhaire a atosú, oscail cúltacú uathoibríoch ón bhfuinneog phróifíle.
 qt-misc-your-computers-storage-may-be-full = An bhfuil an stóras lán ar an ríomhaire? Déan spás agus bain triail eile as.
@@ -75,3 +77,9 @@ qt-misc-second =
         [many] { $count } soicind
        *[other] { $count } soicind
     }
+
+## deprecated- these strings will be removed in the future, and do not need
+## to be translated
+
+qt-misc-resume-now = Fill Ar an Staidéar
+qt-misc-waiting-for-editing-to-finish = Ag fanacht ar eagarthóireacht
