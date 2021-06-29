@@ -57,7 +57,7 @@ addons-to-browse-addons-please-click-the = Chun breiseáin a bhrabhsáil, buail 
 addons-toggle-enabled = Díchumasaigh/Athchumasaigh
 addons-unable-to-update-or-delete-addon = Níorbh féidir an breiseán a nuashonrú nó a scriosadh. Atosaigh Anki leis an cnaipe SHIFT coinnithe síos, chun breiseán a dhíchumasú (go sealadach), agus bain triail eile as.  Sonraí dífhabhtaithe: { $val }
 addons-unknown-error = Earráid anaithnid: { $val }
-addons-view-addon-page = Féach Leathanach na mBreiseán
+addons-view-addon-page = Féach Leathanach an Bhreiseáin
 addons-view-files = Amharc ar chomhaid
 addons-delete-the-numd-selected-addon =
     { $count ->
