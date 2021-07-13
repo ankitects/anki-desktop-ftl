@@ -5,6 +5,7 @@ addons-failed-to-load =
     { $traceback }
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Nastavení „{ $name }“
+addons-config-validation-error = Nastal problém s poskytnutým nastavením: { $problem }, v cestě { $path }, proti schématu { $schema }.
 addons-window-title = Doplňky
 addons-addon-has-no-configuration = Doplněk nemá žádné nastavení.
 addons-addon-installation-error = Chyba instalace doplňku
