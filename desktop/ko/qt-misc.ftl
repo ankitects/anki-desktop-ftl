@@ -28,14 +28,12 @@ qt-misc-manage-note-types = 노트 타입 관리
 qt-misc-name-exists = 이미 존재하는 이름.
 qt-misc-non-unicode-text = <비 유니코드 텍스트>
 qt-misc-optimizing = 최적화하는 중...
-qt-misc-please-connect-a-microphone-and-ensure = 마이크를 연결하고, 다른 프로그램이 오디오 장치를 사용하고 있지 않은지 확인하세요.
 qt-misc-please-ensure-a-profile-is-open = 프로필이 열려 있는 상태이고, Anki가 다른 작업을 진행 중은 아닌지 확인하고, 다시 시도하세요.
 qt-misc-please-select-1-card = (카드 1개 선택해주세요)
 qt-misc-please-select-a-deck = 뭉치를 선택하세요.
 qt-misc-please-use-fileimport-to-import-this = 이 파일을 가져오려면, 파일>가져오기 메뉴를 사용하세요.
 qt-misc-processing = 처리 중...
 qt-misc-replace-your-collection-with-an-earlier = 당신의 컬렉션을 백업된 것으로 교체하시겠습니까?
-qt-misc-resume-now = 다시 진행
 qt-misc-revert-to-backup = 백업한 것으로 돌아가기
 qt-misc-reverted-to-state-prior-to = '{ $val }' 이전 상태도 되돌리기
 qt-misc-segoe-ui = "Segoe UI"
@@ -55,11 +53,19 @@ qt-misc-unable-to-move-existing-file-to = 존재하는 파일을 휴지통으로
 qt-misc-undo = 실행 취소
 qt-misc-undo2 = { $val } 취소
 qt-misc-unexpected-response-code = 예상하지 못한 응답 코드: { $val }
-qt-misc-waiting-for-editing-to-finish = 편집이 끝나길 기다리고 있습니다.
 qt-misc-would-you-like-to-download-it = 지금 다운로드하시겠습니까?
 qt-misc-your-collection-file-appears-to-be = 당신의 컬렉션이 망가졌다고 나타납니다. 이것은 Anki가 실행 중일 때 파일이 복사되거나 옮겨졌기 때문이거나 컬렉션이 네트워크나 cloud 드라이브에 저장되었기 때문입니다. 만약 컴퓨터 재부팅 후에 문제가 지속되면 프로필 전환 창에서 (자동) 백업을 열어주세요.
 qt-misc-your-computers-storage-may-be-full = 컴퓨터의 저장 용량이 부족합니다. 필요 없는 파일들을 삭제한 다음 다시 시도하세요.
 qt-misc-your-firewall-or-antivirus-program-is = Anki가 연결을 하는 것을 방화벽이나 백신이  막고 있습니다. Anki를 예외 항목에 추가해주세요.
-qt-misc-second = { $count ->
-   *[other] { $count }초
-  }
+qt-misc-anki-is-running = Anki 이미 실행 중
+qt-misc-if-instance-is-not-responding = 이미 실행중인 Anki 인스턴스가 응답하지 않을 경우, 작업 관리자를 사용하여 종료하거나 컴퓨터를 재시작하세요.
+qt-misc-second =
+    { $count ->
+       *[other] { $count }초
+    }
+
+## deprecated- these strings will be removed in the future, and do not need
+## to be translated
+
+qt-misc-resume-now = 다시 진행
+qt-misc-waiting-for-editing-to-finish = 편집이 끝나길 기다리고 있습니다.
