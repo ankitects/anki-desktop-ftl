@@ -63,3 +63,4 @@ addons-delete-the-numd-selected-addon =
        *[other] 删除{ $count }个已选择的插件？
     }
 addons-choose-update-window-title = 更新插件
+addons-choose-update-update-all = 全部更新
