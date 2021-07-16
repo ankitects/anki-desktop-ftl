@@ -42,6 +42,7 @@ addons-invalid-configuration = 지원하지 않는 형식
 addons-invalid-configuration-top-level-object-must = 지원하지 않는 형식 : 최상단에는 반드시 맵이어야 함.
 addons-no-updates-available = 새로운 업데이트 없음.
 addons-one-or-more-errors-occurred = 하나 이상의 오류 발생:
+addons-packaged-anki-addon = 패키지된 Anki 확장 프로그램
 addons-please-check-your-internet-connection = 인터넷 연결 상태를 확인하십시오.
 addons-please-report-this-to-the-respective = 이 문제를 해당 확장 프로그램의 개발자에게 전달하십시오.
 addons-please-restart-anki-to-complete-the = <b>설치 후에 Anki를 재시작해 주세요.</b>
@@ -49,6 +50,7 @@ addons-please-select-a-single-addon-first = 한개의 확장 프로그램을 선
 addons-requires = ({ $val }초 필요)
 addons-restored-defaults = 설정이 초기화되었습니다.
 addons-the-following-addons-are-incompatible-with = 해당 확장 프로그램은 { $name } 와 호환되지 않아 비활성화 되었습니다: { $found }
+addons-the-following-addons-have-updates-available = 다음 확장 프로그램은 업데이트가 있습니다. 지금 설치하시겠습니까?
 addons-the-following-conflicting-addons-were-disabled = 다음 확장 프로그램이 비활성화 되었습니다.
 addons-this-addon-is-not-compatible-with = 이 확장 프로그램은 이 Anki 버전과 호환되지 않습니다.
 addons-to-browse-addons-please-click-the = 확장 프로그램을 찾으려면, 아래 버튼을 클릭하십시오. <br><br> 적당한 확장 프로그램을 찾으면, 밑에 있는 코드를 복사해 아래에 넣어주십시오. 2개 이상의 코드를 입력하려면 코드 사이에 스페이스로 구분해주십시오.
@@ -61,3 +63,5 @@ addons-delete-the-numd-selected-addon =
     { $count ->
        *[other] 선택한 확장 프로그램 { $count }개를 삭제합니까?
     }
+addons-choose-update-window-title = 확장 프로그램 업데이트
+addons-choose-update-update-all = 모두 업데이트
