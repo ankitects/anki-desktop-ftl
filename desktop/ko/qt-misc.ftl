@@ -3,6 +3,7 @@ qt-misc-addons = 확장 프로그램
 qt-misc-all-cards-notes-and-media-for = 현재 프로필의 모든 카드, 노트, 미디어 파일이 삭제됩니다. 계속 진행하겠습니까?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki 업데이트</h1>Anki { $val } 버전이 공개되었습니다.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = 복원 후 자동 동기화 및 백업기능이 비활성화 되었습니다. 다시 활성화하려면 프로필 창을 닫은 후 Anki를 다시 실행해주십시오.
+qt-misc-back-side-only = 뒷면만
 qt-misc-backing-up = 백업중...
 qt-misc-browse = 탐색
 qt-misc-change-note-type-ctrlandn = 노트 유형 바꾸기 (Ctrl+N)
@@ -28,6 +29,11 @@ qt-misc-manage-note-types = 노트 타입 관리
 qt-misc-name-exists = 이미 존재하는 이름.
 qt-misc-non-unicode-text = <비 유니코드 텍스트>
 qt-misc-optimizing = 최적화하는 중...
+qt-misc-unable-to-record =
+    녹음할 수 없습니다. 마이크가 연결되어 있고 Anki가 마이크를 사용할 권한이 있는지 확인해 주세요.
+    만약 다른 프로그램들이 마이크를 사용하고 있다면, 다른 프로그램들을 종료하는 것이 도움이 될 수 있습니다.
+    
+    원본 오류: { $error }
 qt-misc-please-ensure-a-profile-is-open = 프로필이 열려 있는 상태이고, Anki가 다른 작업을 진행 중은 아닌지 확인하고, 다시 시도하세요.
 qt-misc-please-select-1-card = (카드 1개 선택해주세요)
 qt-misc-please-select-a-deck = 뭉치를 선택하세요.
@@ -57,6 +63,10 @@ qt-misc-would-you-like-to-download-it = 지금 다운로드하시겠습니까?
 qt-misc-your-collection-file-appears-to-be = 당신의 컬렉션이 망가졌다고 나타납니다. 이것은 Anki가 실행 중일 때 파일이 복사되거나 옮겨졌기 때문이거나 컬렉션이 네트워크나 cloud 드라이브에 저장되었기 때문입니다. 만약 컴퓨터 재부팅 후에 문제가 지속되면 프로필 전환 창에서 (자동) 백업을 열어주세요.
 qt-misc-your-computers-storage-may-be-full = 컴퓨터의 저장 용량이 부족합니다. 필요 없는 파일들을 삭제한 다음 다시 시도하세요.
 qt-misc-your-firewall-or-antivirus-program-is = Anki가 연결을 하는 것을 방화벽이나 백신이  막고 있습니다. Anki를 예외 항목에 추가해주세요.
+qt-misc-error = 에러
+qt-misc-no-temp-folder = 사용 가능한 임시 폴더를 찾지 못했습니다. C:\\temp 폴더가 존재하거나 환경 변수의 TEMP 변수가 사용 가능하고 쓰기 가능한 폴더로 가리키는지 확인해 주세요.
+qt-misc-incompatible-video-driver = 그래픽 드라이버가 호환되지 않습니다. Anki를 재시작하면 Anki가 느리지만 호환되는 모드로 변경합니다.
+qt-misc-error-loading-graphics-driver = '{ $mode }' 그래픽 드라이버를 불러오는데 에러가 발생했습니다.. 다름 드라이버를 시도하기 위해 Anki를 다시 시작해 보세요. { $context }
 qt-misc-anki-is-running = Anki 이미 실행 중
 qt-misc-if-instance-is-not-responding = 이미 실행중인 Anki 인스턴스가 응답하지 않을 경우, 작업 관리자를 사용하여 종료하거나 컴퓨터를 재시작하세요.
 qt-misc-second =
