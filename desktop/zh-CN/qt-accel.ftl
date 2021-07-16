@@ -30,5 +30,6 @@ qt-accel-support-anki = 支持Anki(&S)
 qt-accel-switch-profile = 切换账户(&S)
 qt-accel-tools = 工具(&T)
 qt-accel-undo = 撤销(&U)
+qt-accel-redo = 重做 (&R)
 qt-accel-set-due-date = 设置到期日(&D)...
 qt-accel-forget = 忘记(&F)
