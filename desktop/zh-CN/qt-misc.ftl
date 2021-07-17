@@ -29,14 +29,16 @@ qt-misc-manage-note-types = 管理笔记模板
 qt-misc-name-exists = 名称已存在.
 qt-misc-non-unicode-text = <非unicode文本>
 qt-misc-optimizing = 优化中...
-qt-misc-please-connect-a-microphone-and-ensure = 请连接一个麦克风, 并保证其他程序没有在使用音频设备.
+qt-misc-unable-to-record =
+    无法录制。请确保已连接麦克风，且 Anki 已取得麦克风使用权限。
+    若有其他程序正在使用麦克风，请尝试关闭这些程序。
+    原始错误：{ $error }
 qt-misc-please-ensure-a-profile-is-open = 请确保打开了一个配置文件并且Anki没有处于繁忙中，然后再试一次。
 qt-misc-please-select-1-card = (请选择一张卡片)
 qt-misc-please-select-a-deck = 请选择一个牌组.
 qt-misc-please-use-fileimport-to-import-this = 请使用 文件>导入 来导入这个文件.
 qt-misc-processing = 处理中...
 qt-misc-replace-your-collection-with-an-earlier = 用较早的备份替换现有的集合吗？
-qt-misc-resume-now = 现在恢复
 qt-misc-revert-to-backup = 恢复备份
 qt-misc-reverted-to-state-prior-to = 返回到"{ $val }"之前的状态。
 qt-misc-segoe-ui = Segoe UI字体
@@ -56,7 +58,6 @@ qt-misc-unable-to-move-existing-file-to = 无法删除现存的文件 - 请重�
 qt-misc-undo = 撤销
 qt-misc-undo2 = 撤销 { $val }
 qt-misc-unexpected-response-code = 未知响应代码：{ $val }
-qt-misc-waiting-for-editing-to-finish = 等待编辑完成.
 qt-misc-would-you-like-to-download-it = 你想现在就下载？
 qt-misc-your-collection-file-appears-to-be = 您的集合文件似乎已损坏。当Anki还在运行时就拷贝文件或者将其存储于网络或云存储时就会发生这种情况。如果在重启电脑后问题依旧存在，请在资料页面打开一个自动备份。
 qt-misc-your-computers-storage-may-be-full = 您的电脑存储可能已满。请删除不需要的文件，然后重试一次。
@@ -71,3 +72,9 @@ qt-misc-second =
     { $count ->
        *[other] { $count } 秒
     }
+
+## deprecated- these strings will be removed in the future, and do not need
+## to be translated
+
+qt-misc-resume-now = 现在恢复
+qt-misc-waiting-for-editing-to-finish = 等待编辑完成.
