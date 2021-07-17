@@ -21,3 +21,4 @@ errors-accessing-db =
     - 硬盘出错了。
     你可以执行「工具」>「检查数据库」以确认你的集合没有损坏。
 errors-unable-open-collection = Anki 无法打开您的集合文件。如果您尝试重启电脑后此问题仍然存在，请在主菜单中选择“切换用户”，在其界面中点击“打开备份”。
+errors-windows-tts-runtime-error = 无法使用 TTS（文字转语音）服务。请确保您已安装 Windows 更新，尝试重启电脑、更换 TTS 音源。
