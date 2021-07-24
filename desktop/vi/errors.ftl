@@ -1,3 +1,27 @@
+-errors-support-site = [trang hỗ trợ](https://help.ankiweb.net)
+errors-standard-popup =
+    # Lỗi
+    
+    Đã xảy ra lỗi. Vui lòng sử dụng ** Công cụ> Kiểm tra cơ sở dữ liệu ** để xem nếu
+    điều đó khắc phục được sự cố.
+    
+    Nếu sự cố vẫn tiếp diễn, vui lòng báo cáo sự cố trên { -errors-support-site } của chúng tôi.
+    Vui lòng sao chép và dán thông tin bên dưới vào báo cáo của bạn.
+-errors-addon-support-site = [trang tiện ích](https://help.ankiweb.net/discussions/add-ons/)
+errors-addons-active-popup =
+    # Lỗi
+    
+    Đã xảy ra lỗi. Vui lòng khởi động Anki trong khi giữ phím shift, 
+    điều này sẽ tạm thời vô hiệu hóa các tiện ích bạn đã cài đặt.
+    
+    Nếu sự cố chỉ xảy ra khi bật tiện ích, vui lòng sử dụng
+    Công cụ > Danh mục Tiện ích để tắt một số tiện ích và khởi động lại Anki, 
+    lặp lại cho đến khi bạn phát hiện ra tiện ích đang gây ra sự cố.
+    
+    Khi bạn phát hiện ra tiện ích bổ sung đang gây ra sự cố, vui lòng
+    báo cáo sự cố trên { -errors-addon-support-site }.
+    
+    Thông tin gỡ lỗi:
 errors-accessing-db =
     Có lỗi xảy ra khi truy cập cơ sở dữ liệu.
     
@@ -10,4 +34,3 @@ errors-accessing-db =
     - Đĩa cứng bị lỗi.
     
     Bạn nên chạy Công cụ > Kiểm tra CSDL để bảo đảm bộ sưu tập của bạn không bị hỏng.
-
