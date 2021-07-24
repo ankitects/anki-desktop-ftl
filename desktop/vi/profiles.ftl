@@ -3,4 +3,6 @@ profiles-folder-readme =
     để dễ sao lưu. Nếu muốn Anki dùng một vị trí khác,
     xin vui lòng tham khảo:
     
-    {$link}
+    { $link }
+# will appear as 'Downgrade & Quit'
+profiles-downgrade-and-quit = Hạ cấp && Thoát

@@ -34,3 +34,8 @@ errors-accessing-db =
     - Đĩa cứng bị lỗi.
     
     Bạn nên chạy Công cụ > Kiểm tra CSDL để bảo đảm bộ sưu tập của bạn không bị hỏng.
+errors-unable-open-collection =
+    Anki không thể mở tệp bộ sưu tập của bạn. Nếu sự cố vẫn tiếp diễn sau khi khởi động lại máy tính của bạn, vui lòng sử dụng nút Mở Bản sao lưu trong trình quản lý hồ sơ.
+    
+    Thông tin gỡ lỗi:
+errors-windows-tts-runtime-error = Dịch vụ TTS không thành công. Hãy đảm bảo rằng các bản cập nhật Windows đã được cài đặt, thử khởi động lại máy tính của bạn và thử sử dụng một giọng nói khác.
