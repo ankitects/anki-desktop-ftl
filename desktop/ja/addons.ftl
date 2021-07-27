@@ -63,3 +63,5 @@ addons-delete-the-numd-selected-addon =
     { $count ->
        *[other] 選択した{ $count }個のアドオンを削除しますか？
     }
+addons-choose-update-window-title = アドオンをアップデート
+addons-choose-update-update-all = すべてをアップデート
