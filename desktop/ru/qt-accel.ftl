@@ -31,5 +31,5 @@ qt-accel-switch-profile = Сменить профиль
 qt-accel-tools = &Инструменты
 qt-accel-undo = &Отменить
 qt-accel-redo = &Повторить
-qt-accel-set-due-date = Даты создания/к просмотру
+qt-accel-set-due-date = Задать срок...
 qt-accel-forget = &Забыть
