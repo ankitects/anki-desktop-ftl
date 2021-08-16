@@ -3,4 +3,6 @@ profiles-folder-readme =
     pour faciliter les sauvegardes. Si vous souhaitez utiliser un dossier différent,
     allez voir :
     
-    {$link}
+    { $link }
+# will appear as 'Downgrade & Quit'
+profiles-downgrade-and-quit = Quitter

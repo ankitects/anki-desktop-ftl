@@ -12,11 +12,11 @@ addons-addon-has-no-configuration = Le greffon n’a pas de configuration.
 addons-addon-installation-error = Erreur lors de l’installation du greffon
 addons-addon-was-not-downloaded-from-ankiweb = Le greffon n’a pas été téléchargé depuis AnkiWeb.
 addons-browse-addons = Parcourir les greffons
-addons-changes-will-take-effect-when-anki = Les changements seront effectifs au redémarrage de Anki.
+addons-changes-will-take-effect-when-anki = Les changements seront effectifs au redémarrage d’Anki.
 addons-check-for-updates = Vérifier les mises à jour
 addons-checking = Vérification...
 addons-code = Code :
-addons-config = Config
+addons-config = Configuration
 addons-configuration = Configuration
 addons-corrupt-addon-file = Fichier de greffon corrompu.
 addons-disabled = (désactivé)
@@ -46,7 +46,7 @@ addons-packaged-anki-addon = Greffon Anki paqueté
 addons-please-check-your-internet-connection = Veuillez vérifier votre connexion Internet.
 addons-please-report-this-to-the-respective = Veuillez le signaler à l’auteur ou aux auteurs du greffon concerné.
 addons-please-restart-anki-to-complete-the = <b>Veuillez redémarrer Anki pour terminer l’installation.</b>
-addons-please-select-a-single-addon-first = Veuillez sélectionner un seul greffon d’abord.
+addons-please-select-a-single-addon-first = Veuillez ne sélectionner qu’un seul greffon pour l’instant.
 addons-requires = (nécessite { $val })
 addons-restored-defaults = Valeurs par défaut restaurées
 addons-the-following-addons-are-incompatible-with = Les greffons suivants sont incompatibles avec { $name } et ont été désactivés : { $found }
@@ -64,3 +64,5 @@ addons-delete-the-numd-selected-addon =
         [one] Supprimer le greffon { $count } sélectionné ?
        *[other] Supprimer les greffons { $count } sélectionnés ?
     }
+addons-choose-update-window-title = Mise à jour des greffons
+addons-choose-update-update-all = Tout mettre à jour

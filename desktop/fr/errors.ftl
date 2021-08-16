@@ -10,16 +10,16 @@ errors-standard-popup =
 -errors-addon-support-site = [site de support du greffon](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # Erreur
-    ￼
+    
     Une erreur est survenue. Veuillez démarrer Anki en maintenant la touche majuscule enfoncée,
     ce qui désactivera temporairement les greffons que vous avez installés.
-    ￼
+    
     Si le problème ne survient que lorsque les greffons sont activés, veuillez utiliser
     le menu Outils > Greffons afin de désactiver certains greffons. Redémarrez Anki jusqu’à ce que
     vous découvriez le greffon qui cause le problème.
-    ￼
+    
     Une fois ce greffon découvert, merci de signaler le problème sur le { -errors-addon-support-site }.￼
-    ￼
+    
     Information de débogage :
 errors-accessing-db =
     Une erreur est survenue lors de l’accès à la base de données.
@@ -39,3 +39,4 @@ errors-unable-open-collection =
     Anki n’a pas été capable d’ouvrir votre collection. Si le problème persiste après un redémarrage de votre ordinateur, veuillez utiliser le bouton Ouvrir une Sauvegarde dans le gestionnaire de profil.
     
     Information de débogage :
+errors-windows-tts-runtime-error = Le narrateur a échoué. Veuillez vous assurer que Windows est à jour, puis redémarrez votre ordinateur, ou alors utilisez une autre voix.
