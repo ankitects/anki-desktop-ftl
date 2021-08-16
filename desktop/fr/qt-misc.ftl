@@ -3,13 +3,14 @@ qt-misc-addons = Greffons
 qt-misc-all-cards-notes-and-media-for = L’intégralité des cartes, notes et médias du profil seront supprimées. Êtes-vous sûr(e) ?
 qt-misc-anki-updatedanki-has-been-released = <h1>Mise à jour d’Anki</h1>La version { $val } vient de paraître.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = La synchronisation et la sauvegarde automatiques ont été désactivées lors de la restauration. Fermer ce profil ou redémarrer Anki pour les réactiver.
-qt-misc-backing-up = Sauvegarder en cours...
+qt-misc-back-side-only = Seulement la face arrière
+qt-misc-backing-up = Sauvegarde en cours...
 qt-misc-browse = Parcourir
 qt-misc-change-note-type-ctrlandn = Modifier le type de note (Ctrl+N)
 qt-misc-check-the-files-in-the-media = Vérifier les fichiers dans le dossier des médias
 qt-misc-choose-deck = Choisir le paquet
 qt-misc-choose-note-type = Choisir le type de note
-qt-misc-closing = Fermer...
+qt-misc-closing = Fermeture...
 qt-misc-configure-interface-language-and-options = Configurer les options et la langue de l’interface
 qt-misc-copy-to-clipboard = Copier dans le presse-papiers
 qt-misc-create-filtered-deck = Créer un paquet filtré...
@@ -24,19 +25,22 @@ qt-misc-in-order-to-ensure-your-collection = Afin que votre collection fonctionn
 qt-misc-invalid-property-found-on-card-please = Propriété invalide trouvée sur la carte. Veuillez utiliser Outils > Vérifier l’intégrité de la base de données. Si le problème persiste, veuillez demander de l’aide sur le site de support.
 qt-misc-loading = Chargement...
 qt-misc-manage = Gérer
-qt-misc-manage-note-types = Gérer les types de note.
+qt-misc-manage-note-types = Gérer les types de note
 qt-misc-name-exists = Le nom existe déjà.
 qt-misc-non-unicode-text = <texte non-unicode>
 qt-misc-optimizing = Optimisation...
-qt-misc-please-connect-a-microphone-and-ensure = Veuillez connecter le microphone et rassurez-vous que le dispositif audio n’est pas utilisé par un autre logiciel.
-qt-misc-please-ensure-a-profile-is-open = Veuillez vérifier qu’un compte est ouvert, qu’Anki n’est pas occupé et réessayez.
+qt-misc-unable-to-record =
+    Impossible d’enregistrer. Vérifiez que votre microphone est connecté et qu’Anki a la permission de l’utiliser.
+    Si un autre programme utilise votre microphone, fermez celui-ci.
+    
+    Erreur originelle : { $error }
+qt-misc-please-ensure-a-profile-is-open = Veuillez vérifier qu’un profil est ouvert et qu’Anki n’est pas occupé et réessayez.
 qt-misc-please-select-1-card = (veuillez sélectionner 1 carte)
 qt-misc-please-select-a-deck = Veuillez sélectionner un paquet.
-qt-misc-please-use-fileimport-to-import-this = Il faut passer par Fichier > Importer
+qt-misc-please-use-fileimport-to-import-this = Utilisez Fichier > Importer, pour importer ce fichier.
 qt-misc-processing = Traitement...
 qt-misc-replace-your-collection-with-an-earlier = Remplacer votre collection par une sauvegarde précédente ?
-qt-misc-resume-now = Reprendre maintenant
-qt-misc-revert-to-backup = Recharger à la sauvegarde
+qt-misc-revert-to-backup = Charger la sauvegarde
 qt-misc-reverted-to-state-prior-to = Revenu à l’état antérieur à « { $val } ».
 qt-misc-segoe-ui = « Segoe UI »
 qt-misc-shift-key-was-held-down-skipping = La touche majuscule était maintenue enfoncée. Aucune synchronisation automatique ni de chargement de greffons.
@@ -47,7 +51,7 @@ qt-misc-study-deck = Étudier le paquet...
 qt-misc-sync = Synchronisation
 qt-misc-target-deck-ctrlandd = Paquet cible (Ctrl+D)
 qt-misc-the-following-character-can-not-be = Le caractère suivant ne peut pas être utilisé : { $val }
-qt-misc-the-requested-change-will-require-a = Une telle modification suppose de réenvoyer la totalité de la base de données lors de la prochaine synchronisation de la collection.  S’il y a des modifications plus récentes à partir d’un appareil tiers, qui n’ont pu être synchronisées, celles-ci seront perdues. Continuer ?
+qt-misc-the-requested-change-will-require-a = Une telle modification suppose de renvoyer la totalité de la base de données lors de la prochaine synchronisation de la collection.  S’il y a des modifications plus récentes à partir d’un appareil tiers, qui n’ont pu être synchronisées, celles-ci seront perdues. Continuer ?
 qt-misc-there-must-be-at-least-one = Il faut au moins un compte !
 qt-misc-this-file-exists-are-you-sure = Ce fichier existe. Êtes-vous sûr de vouloir l’écraser ?
 qt-misc-unable-to-access-anki-media-folder = Impossible d’accéder au dossier média d’Anki. Les permissions du dossier temporaire de votre système peuvent être incorrectes.
@@ -55,12 +59,24 @@ qt-misc-unable-to-move-existing-file-to = Impossible de déplacer le fichier à 
 qt-misc-undo = Annuler
 qt-misc-undo2 = Annuler { $val }
 qt-misc-unexpected-response-code = Réponse inattendue, code : { $val }
-qt-misc-waiting-for-editing-to-finish = Finissez de modifier la carte pour continuer.
-qt-misc-would-you-like-to-download-it = Souhaitez-vous la télécharger tout de suite ?
-qt-misc-your-collection-file-appears-to-be = Le fichier contenant votre collection semble être corrompu. Cela peut se produire si le fichier est copié ou déplacé alors qu’Anki est ouvert. Cela peut aussi se produire si ce fichier est stocké à distance. Si les problèmes persistent après le redémarrage de votre ordinateur, ouvrez une sauvegarde automatique à partir de l’écran de profil.
+qt-misc-would-you-like-to-download-it = Souhaitez-vous la télécharger maintenant ?
+qt-misc-your-collection-file-appears-to-be = Votre fichier de collection semble être corrompu. Cela peut se produire si le fichier est copié ou déplacé alors qu’Anki est ouvert. Cela peut aussi se produire si ce fichier est stocké à distance. Si les problèmes persistent après le redémarrage de votre ordinateur, ouvrez une sauvegarde automatique à partir de l’écran de profil.
 qt-misc-your-computers-storage-may-be-full = La mémoire de votre ordinateur est peut-être pleine. Veuillez supprimer certains fichiers inutiles, puis réessayez.
-qt-misc-your-firewall-or-antivirus-program-is = Un pare-feu ou un antivirus empêche Anki de se connecter à lui-même. S.v.p. ajoutez une exception pour Anki.
-qt-misc-second = { $count ->
-    [one] { $count } seconde
-   *[other] { $count } secondes
-  }
+qt-misc-your-firewall-or-antivirus-program-is = Un pare-feu ou un antivirus empêche Anki de se connecter à lui-même. S’il-vous-plaît, ajoutez une exception pour Anki.
+qt-misc-error = Erreur
+qt-misc-no-temp-folder = Aucun dossier à usage temporaire trouvé. Assurez-vous que C:\\temp ou C:\\ existe et qu’il dirige vers un dossier valide.
+qt-misc-incompatible-video-driver = Votre pilote vidéo est incompatible. Veuillez redémarrer Anki, afin que celui-ci s’optimise.
+qt-misc-error-loading-graphics-driver = Erreur lors du chargement du pilote graphique « { $mode } ». Veuillez redémarrer Anki pour essayer un autre pilote. { $context }
+qt-misc-anki-is-running = Anki est déjà lancé
+qt-misc-if-instance-is-not-responding = Si la fenêtre Anki ne répond pas, fermez Anki à l’aide du gestionnaire de tâches, ou redémarrez votre ordinateur.
+qt-misc-second =
+    { $count ->
+        [one] { $count } seconde
+       *[other] { $count } secondes
+    }
+
+## deprecated- these strings will be removed in the future, and do not need
+## to be translated
+
+qt-misc-resume-now = Reprendre maintenant
+qt-misc-waiting-for-editing-to-finish = Finissez de modifier la carte pour continuer.
