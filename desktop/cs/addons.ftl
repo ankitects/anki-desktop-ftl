@@ -1,3 +1,4 @@
+addons-possibly-involved = Doplňky, kterých se to může týkat: { $addons }
 addons-failed-to-load =
     Doplněk, který jste nainstalovali, nelze načíst. Jestliže problém přetrvává, prosím jděte do nabídky Nástroje>Doplňky a zakažte nebo odstraňte daný doplněk.
     
