@@ -37,3 +37,4 @@ errors-unable-open-collection =
     Anki non è riuscito ad aprire il tuo file della collezione.Se il problema permane dopo il riavvio del computer, usa il pulsante Apri Backup nel gestore dei profili.
     
     Informazioni di debug:
+errors-windows-tts-runtime-error = Il servizio TTS non è riuscito. Assicurati che gli aggiornamenti di Windows siano installati, prova a riavviare il computer e prova a usare una voce diversa.

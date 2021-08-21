@@ -3,4 +3,6 @@ profiles-folder-readme =
     per facilitare i backup. Per utilizzare un altro percorso,
     leggi:
     
-    {$link}
+    { $link }
+# will appear as 'Downgrade & Quit'
+profiles-downgrade-and-quit = Downgrade && Esci

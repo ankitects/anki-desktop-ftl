@@ -64,3 +64,5 @@ addons-delete-the-numd-selected-addon =
         [one] Elimina { $count } add-on selezionato?
        *[other] Elimina i { $count } add-on selezionati?
     }
+addons-choose-update-window-title = Aggiorna add-on
+addons-choose-update-update-all = Aggiorna tutto

@@ -29,14 +29,17 @@ qt-misc-manage-note-types = Gestisci i tipi di note
 qt-misc-name-exists = Il nome esiste.
 qt-misc-non-unicode-text = <testo non-unicode>
 qt-misc-optimizing = Ottimizzazione in corso...
-qt-misc-please-connect-a-microphone-and-ensure = Collega un microfono e assicurati che altri programmi non stiano usando il dispositivo audio.
+qt-misc-unable-to-record =
+    Impossibile registrare. Assicurati che un microfono sia collegato e che Anki abbia il permesso di usare il microfono.
+    Se altri programmi stanno utilizzando il tuo microfono, potrebbe essere utile chiuderli.
+    
+    Errore originale: { $error }
 qt-misc-please-ensure-a-profile-is-open = Assicurati che un profilo sia aperto e che Anki non sia occupato, poi riprova.
 qt-misc-please-select-1-card = (seleziona 1 carta)
 qt-misc-please-select-a-deck = Seleziona un mazzo.
 qt-misc-please-use-fileimport-to-import-this = Utilizza File>Importa per importare questo file.
 qt-misc-processing = Elaborazione...
 qt-misc-replace-your-collection-with-an-earlier = Sostituire la tua collezione con un backup precedente?
-qt-misc-resume-now = Riprendi ora
 qt-misc-revert-to-backup = Ritorna allo stato del backup
 qt-misc-reverted-to-state-prior-to = Ripristinato allo stato precedente a '{ $val }'.
 qt-misc-segoe-ui = "Segoe UI"
@@ -56,12 +59,12 @@ qt-misc-unable-to-move-existing-file-to = Impossibile spostare il file esistente
 qt-misc-undo = Annulla
 qt-misc-undo2 = &Annulla { $val }
 qt-misc-unexpected-response-code = Codice di risposta imprevisto: { $val }
-qt-misc-waiting-for-editing-to-finish = Aspettando la modifica per finire.
 qt-misc-would-you-like-to-download-it = Vuoi scaricarlo ora?
 qt-misc-your-collection-file-appears-to-be = Il file della tua collezione sembra essere corrotto. Questo può succedere se il file viene copiato o spostato mentre Anki è aperto, o quando la collezione è salvata su un dispositivo di rete o su cloud. Se il problema persiste dopo il riavvio del computer, apri un backup automatico dalla schermata di impostazione dei profili.
 qt-misc-your-computers-storage-may-be-full = Lo spazio su disco del tuo computer potrebbe essere esaurito. Elimina qualche file non necessario e riprova.
 qt-misc-your-firewall-or-antivirus-program-is = Il tuo firewall o programma antivirus sta impedendo ad Anki di stabilire una connessione con se stesso. Aggiungi p.f. un'eccezione per Anki.
 qt-misc-error = Errore
+qt-misc-no-temp-folder = Nessuna cartella temporanea utilizzabile trovata. Assicurati che C:\\temp esista o che TEMP nel tuo ambiente punti a una cartella scrivibile valida.
 qt-misc-incompatible-video-driver = Il tuo driver video è incompatibile. Per favore, riavvia Anki, e Anki passerà a una modalità più lenta e compatibile.
 qt-misc-error-loading-graphics-driver = Errore durante il caricamento del driver grafico '{ $mode }'. Riavvia Anki per provare il driver successivo. { $context }
 qt-misc-anki-is-running = Anki è già in esecuzione
@@ -71,3 +74,9 @@ qt-misc-second =
         [one] { $count } secondo
        *[other] { $count } secondi
     }
+
+## deprecated- these strings will be removed in the future, and do not need
+## to be translated
+
+qt-misc-resume-now = Riprendi ora
+qt-misc-waiting-for-editing-to-finish = Aspettando la modifica per finire.
