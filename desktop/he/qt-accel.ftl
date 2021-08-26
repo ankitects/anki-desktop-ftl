@@ -30,5 +30,6 @@ qt-accel-support-anki = &תמוך ב-Anki...‏
 qt-accel-switch-profile = &החלף משתמש
 qt-accel-tools = &כלים
 qt-accel-undo = &בטל
+qt-accel-redo = ובצע שוב
 qt-accel-set-due-date = ה&גדר תאריך יעד...
 qt-accel-forget = ש&כח

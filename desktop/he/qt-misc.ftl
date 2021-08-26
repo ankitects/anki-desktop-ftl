@@ -29,7 +29,11 @@ qt-misc-manage-note-types = נהל סוגי רשומות
 qt-misc-name-exists = שם קיים.
 qt-misc-non-unicode-text = <טקסט שאינו בפורמט unicode>
 qt-misc-optimizing = ממטב...
-qt-misc-please-connect-a-microphone-and-ensure = אנא חבר מיקרופון, ובנוסף וודא שתוכנות אחרות לא משתמשות במכשיר האודיו.
+qt-misc-unable-to-record =
+    לא ניתן להקליט. אנא ודא שמיקרופון מחובר, ולאנקי יש הרשאה להשתמש במיקרופון .¶
+    אם תוכניות אחרות משתמשות במיקרופון שלך, סגירתם עשויה לעזור .¶
+    ¶
+    שגיאה מקורית: { $error }
 qt-misc-please-ensure-a-profile-is-open = נא וודא שפרופיל פתוח ושהתוכנה לא בשימוש, ונסה שנית
 qt-misc-please-select-1-card = (אנא בחר כרטיס 1)
 qt-misc-please-select-a-deck = בחר חפיסה.

@@ -65,3 +65,4 @@ addons-delete-the-numd-selected-addon =
        *[other] מחק את { $count } התוספים הנבחרים?
     }
 addons-choose-update-window-title = עדכון תוספים
+addons-choose-update-update-all = עדכן הכל
