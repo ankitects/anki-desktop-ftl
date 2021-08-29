@@ -54,10 +54,10 @@ addons-the-following-addons-have-updates-available = Доступны обнов
 addons-the-following-conflicting-addons-were-disabled = Отключены данные несовместимые дополнения:
 addons-this-addon-is-not-compatible-with = Это дополнение не совместимо с этой версией Anki.
 addons-to-browse-addons-please-click-the = Для поиска дополнений нажмите кнопку поиска ниже. <br><br>Когда вы найдёте нужное дополнение, введите его код внизу. Вы можете несколько кодов, разделяя их пробелом.
-addons-toggle-enabled = Включить — выключить
+addons-toggle-enabled = Включить — отключить
 addons-unable-to-update-or-delete-addon = Не получается обновить или удалить дополнение. Запустите Anki зажав Shift, чтобы временно отключить дополнения. Потом попробуйте снова.  Отладочная информация: { $val }
 addons-unknown-error = Неизвестная ошибка: { $val }
-addons-view-addon-page = Посмотреть страницу дополнения
+addons-view-addon-page = Открыть страницу дополнения
 addons-view-files = Просмотреть файлы
 addons-delete-the-numd-selected-addon =
     { $count ->
