@@ -30,5 +30,6 @@ qt-accel-support-anki = &Wesprzyj Anki...
 qt-accel-switch-profile = &Przełącz profil
 qt-accel-tools = &Narzędzia
 qt-accel-undo = &Cofnij
+qt-accel-redo = &Ponów
 qt-accel-set-due-date = Ustaw &Termin...
 qt-accel-forget = &Zapomnij

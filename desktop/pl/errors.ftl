@@ -36,3 +36,4 @@ errors-unable-open-collection =
     Anki nie jest w stanie otworzyć pliku kolekcji. Jeśli problem nie zniknie po ponownym uruchomieniu komputera, użyj opcji Otwórz kopię zapasową w menedżerze profili.
     
     Informacja diagnostyczna:
+errors-windows-tts-runtime-error = Usługa syntezy mowy nie działa. Upewnij się, że masz zainstalowane aktualizacje systemu Windows, spróbuj uruchomić ponownie komputer lub użyć innego głosu.

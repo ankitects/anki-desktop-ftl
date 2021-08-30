@@ -66,3 +66,4 @@ addons-delete-the-numd-selected-addon =
        *[other] Usunąć { $count } wybranych dodatków?
     }
 addons-choose-update-window-title = Aktualizacja dodatków
+addons-choose-update-update-all = Aktualizuj wszystkie
