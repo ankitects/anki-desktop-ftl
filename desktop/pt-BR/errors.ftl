@@ -2,7 +2,7 @@
 errors-standard-popup =
     # Erro
     
-    Ocorreu um erro. Por favor, use **Ferramentas > Verificar Banco de Dados** para ver se isso corrige o problema.
+    Ocorreu um erro. Por favor, use **Ferramentas > Verificar banco de dados** para ver se isso corrige o problema.
     
     Se os problemas persistirem, relate-os em nosso { -errors-support-site }.
     Copie e cole a informação abaixo dentro do seu relatório.
