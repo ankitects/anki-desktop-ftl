@@ -42,6 +42,7 @@ qt-misc-processing = Обрабатывается...
 qt-misc-replace-your-collection-with-an-earlier = Заместить вашу коллекцию более ранней резервной копией?
 qt-misc-revert-to-backup = Возврат к резервной копии
 qt-misc-reverted-to-state-prior-to = Возврат к состоянию до '{ $val }'.
+# please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = Была зажата клавиша Shift. Автоматическая синхронизация и загрузка дополнений пропускаются.
 qt-misc-shortcut-key-left-arrow = Горячая клавиша: Стрелка влево
@@ -73,6 +74,7 @@ qt-misc-second =
     { $count ->
         [one] { $count } секунда
         [few] { $count } секунды
+        [many] { $count } секунд
        *[other] { $count } секунд
     }
 
