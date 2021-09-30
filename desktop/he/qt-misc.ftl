@@ -30,9 +30,9 @@ qt-misc-name-exists = שם קיים.
 qt-misc-non-unicode-text = <טקסט שאינו בפורמט unicode>
 qt-misc-optimizing = ממטב...
 qt-misc-unable-to-record =
-    לא ניתן להקליט. אנא ודא שמיקרופון מחובר, ולאנקי יש הרשאה להשתמש במיקרופון .¶
-    אם תוכניות אחרות משתמשות במיקרופון שלך, סגירתם עשויה לעזור .¶
-    ¶
+    לא ניתן להקליט. אנא ודא שמיקרופון מחובר, ולאנקי יש הרשאה להשתמש במיקרופון .
+    אם תוכניות אחרות משתמשות במיקרופון שלך, סגירתם עשויה לעזור .
+    
     שגיאה מקורית: { $error }
 qt-misc-please-ensure-a-profile-is-open = נא וודא שפרופיל פתוח ושהתוכנה לא בשימוש, ונסה שנית
 qt-misc-please-select-1-card = (אנא בחר כרטיס 1)
@@ -42,6 +42,7 @@ qt-misc-processing = מעבד...
 qt-misc-replace-your-collection-with-an-earlier = להחליף את האוסף עם גיבוי מוקדם יותר?
 qt-misc-revert-to-backup = חזור לגיבוי
 qt-misc-reverted-to-state-prior-to = הוחזר למצב הקודם ל- '{ $val }'.
+# please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Arial"
 qt-misc-shift-key-was-held-down-skipping = המקש Shift היה לחוץ. מדלג על סינכרון אוטומטי והטענת תוספים.
 qt-misc-shortcut-key-left-arrow = מקש קיצור: חץ שמאלי
