@@ -31,4 +31,5 @@ qt-accel-switch-profile = Mudar &perfil
 qt-accel-tools = &Ferramentas
 qt-accel-undo = &Desfazer
 qt-accel-redo = &Refazer
+qt-accel-set-due-date = Definir &Data de Revisão...
 qt-accel-forget = &Esquecer
