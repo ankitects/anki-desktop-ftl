@@ -1,8 +1,8 @@
 qt-misc-addon-will-be-installed-when-a = A extensão será instalada quando um perfil for aberto.
 qt-misc-addons = Extensões
 qt-misc-all-cards-notes-and-media-for = Todos os cartões, notas e mídia para este usuário serão excluídos. Você está certo disso?
-qt-misc-anki-updatedanki-has-been-released = <h1>Anki Atualizado</h1>para a versão { $val }.<br><br>
-qt-misc-automatic-syncing-and-backups-have-been = Sincronização automática e cópias de segurança foram desabilitados durante a restauração. Para habilitá-los novamente, feche o perfil ou reinicie o Anki.
+qt-misc-anki-updatedanki-has-been-released = <h1>'Anki' Atualizado</h1>O 'Anki' { $val } está disponível. <br><br>
+qt-misc-automatic-syncing-and-backups-have-been = Sincronização automática e cópias de segurança foram desabilitados durante a restauração. Para habilitá-los novamente, feche o perfil ou reinicie o 'Anki'.
 qt-misc-back-side-only = Apenas o Verso
 qt-misc-backing-up = Fazendo Cópia de Segurança...
 qt-misc-browse = Painel
