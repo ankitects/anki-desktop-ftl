@@ -10,7 +10,6 @@ addons-config-validation-error = Возникла проблема с данно
 addons-window-title = Дополнения
 addons-addon-has-no-configuration = У дополнения нет настроек.
 addons-addon-installation-error = Ошибка при установке дополнения
-addons-addon-was-not-downloaded-from-ankiweb = Дополнение не было загружено с AnkiWeb.
 addons-browse-addons = Посмотреть дополнения
 addons-changes-will-take-effect-when-anki = Перезапустите Anki, чтобы применить изменения.
 addons-check-for-updates = Проверить обновления
