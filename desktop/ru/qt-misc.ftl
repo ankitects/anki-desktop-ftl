@@ -16,16 +16,14 @@ qt-misc-copy-to-clipboard = Копировать в буфер обмена
 qt-misc-create-filtered-deck = Создать фильтрованную колоду…
 qt-misc-debug-console = Консоль отладки
 qt-misc-deck-will-be-imported-when-a = Колода будет импортирована после открытия профиля.
-qt-misc-default = По умолчанию
 qt-misc-empty-cards = Пустые карточки…
 qt-misc-error-during-startup = Ошибка при запуске: { $val }
-qt-misc-filtered-deck = Фильтрованная колода { $val }
 qt-misc-ignore-this-update = Игнорировать это обновление
 qt-misc-in-order-to-ensure-your-collection = Чтобы избежать проблем при переносе коллекций между устройствами, Anki требует, чтобы встроенные часы компьютера были установлены правильно. Даже если система показывает точное местное время, настройки встроенных часов могут быть неверны.  Перейдите к настройкам времени компьютера и проверьте:  — AM/PM, — отставание и убегание вперёд, — число, месяц и год, — часовой пояс, — настройки летнего времени.  Разница с правильным временем: { $val }.
 qt-misc-invalid-property-found-on-card-please = Недопустимое свойство карточки. Выберите в меню «Инструменты»—«Проверить базу данных». Если проблема повторилась, перейдите на сайт поддержки.
 qt-misc-loading = Грузится...
-qt-misc-manage = Управлять
-qt-misc-manage-note-types = Управлять типами записей
+qt-misc-manage = Править
+qt-misc-manage-note-types = Править типы записей
 qt-misc-name-exists = Имя уже существует.
 qt-misc-non-unicode-text = <текст не в юникоде>
 qt-misc-optimizing = Оптимизируется...
@@ -41,7 +39,6 @@ qt-misc-please-use-fileimport-to-import-this = Используйте «Файл
 qt-misc-processing = Обрабатывается...
 qt-misc-replace-your-collection-with-an-earlier = Заместить вашу коллекцию более ранней резервной копией?
 qt-misc-revert-to-backup = Возврат к резервной копии
-qt-misc-reverted-to-state-prior-to = Возврат к состоянию до '{ $val }'.
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = Была зажата клавиша Shift. Автоматическая синхронизация и загрузка дополнений пропускаются.
@@ -57,8 +54,6 @@ qt-misc-there-must-be-at-least-one = Должен остаться хотя бы
 qt-misc-this-file-exists-are-you-sure = Этот файл уже существует. Вы уверены, что хотите перезаписать его?
 qt-misc-unable-to-access-anki-media-folder = Не получается получить доступ к папке с медиафайлами. Возможно, в системе неправильные права доступа к папке временных файлов.
 qt-misc-unable-to-move-existing-file-to = Невозможно переместить существующий файл в корзину — пожалуйста, перезагрузите свой комп.
-qt-misc-undo = Отмена
-qt-misc-undo2 = Отменить - { $val }
 qt-misc-unexpected-response-code = Неожиданный код ответа: { $val }
 qt-misc-would-you-like-to-download-it = Вы желаете скачать её сейчас?
 qt-misc-your-collection-file-appears-to-be = Представляется, что файл вашей коллекции разрушен. Это могло произойти, когда файл скопировали или переместили при работающей Anki, либо когда коллекция хранилась на сетевом или облачном диске. Если проблема сохраняется и после перезапуска вашего компьютера, пожалуйста, откройте автоматическую резервную копию из экрана профилей.
@@ -81,5 +76,3 @@ qt-misc-second =
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
-qt-misc-resume-now = Продолжить сейчас
-qt-misc-waiting-for-editing-to-finish = Ожидание окончания правки.
