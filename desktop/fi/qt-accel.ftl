@@ -31,4 +31,5 @@ qt-accel-switch-profile = &Vaihda profiilia
 qt-accel-tools = T&yökalut
 qt-accel-undo = &Kumoa
 qt-accel-redo = &Tee uudelleen
+qt-accel-set-due-date = Aseta &eräpäivä...
 qt-accel-forget = &Unohda

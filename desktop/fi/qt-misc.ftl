@@ -3,6 +3,7 @@ qt-misc-addons = Lisäosat
 qt-misc-all-cards-notes-and-media-for = Kaikki tämän käyttäjätilin kortit, muistiinpanot ja mediatiedostot poistetaan. Oletko varma?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki on päivitetty</h1>Anki { $val } on julkaistu.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = Automaattinen synkronointi ja varmuuskopiointi on poistettu käytöstä palautuksen ajaksi. Voit ottaa ne uudelleen käyttöön sulkemalla profiilin tai käynnistämällä Ankin uudelleen.
+qt-misc-back-side-only = Vain kääntöpuoli
 qt-misc-backing-up = Tehdään varmuuskopiota...
 qt-misc-browse = Selaa
 qt-misc-change-note-type-ctrlandn = Vaihda muistiinpanotyyppiä (Ctrl + N)
