@@ -3,4 +3,6 @@ profiles-folder-readme =
     että varmuuskopiointi olisi helpompaa. Jos halut Ankin</ br>
     käyttävän eri sijaintia, katso:</ br>
     </ br>
-    {$link}</ br>
+    { $link }</ br>
+# will appear as 'Downgrade & Quit'
+profiles-downgrade-and-quit = Siirry aiempaan versioon ja poistu
