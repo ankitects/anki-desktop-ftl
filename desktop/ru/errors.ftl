@@ -8,7 +8,7 @@ errors-standard-popup =
     скопировав информацию ниже в отчёт об ошибке.
 -errors-addon-support-site = [дополнения на сайте поддержки](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
-    Ошибка
+    # Ошибка
     
     Произошла ошибка. Запустите Anki, зажав Shift, чтобы временно отключить дополнения.
     
