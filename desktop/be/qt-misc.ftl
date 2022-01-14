@@ -10,7 +10,7 @@ qt-misc-study-deck = Вучыць калоду...
 qt-misc-sync = Сінхранізаваць
 qt-misc-target-deck-ctrlandd = Мэтавая калода (Ctrl+D)
 qt-misc-the-following-character-can-not-be = Наступны сімвал не можа быць ужыты: { $val }
-qt-misc-there-must-be-at-least-one = Патрэбны як мінімум адзін профіль.
+qt-misc-there-must-be-at-least-one = Павінен быць як мінімум адзін профіль.
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
