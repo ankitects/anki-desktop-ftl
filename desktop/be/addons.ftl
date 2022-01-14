@@ -1,0 +1,14 @@
+addons-window-title = Дадатковыя кампаненты
+addons-addon-installation-error = Памылка ўсталявання дадатковага кампанента
+addons-browse-addons = Агляд дадатковых кампанентаў
+addons-check-for-updates = Праверыць абнаўленні
+addons-checking = Праверка...
+addons-downloaded-fnames = { $fname } спампаваны
+addons-downloading-adbd-kb02fkb = Спампоўванне { $part }/{ $total } ({ $kilobytes }КБ)...
+addons-install-addon = Усталяваць дадатковы кампанент
+addons-install-addons = Усталяваць дадатковы(-я) кампанент(-ы)
+addons-install-anki-addon = Усталяваць дадатковы кампанент Anki
+addons-install-from-file = Усталяваць з файла...
+addons-installed-names = { $name } усталяваны
+addons-installed-successfully = Усталявана.
+addons-invalid-code = Памылковы код.
