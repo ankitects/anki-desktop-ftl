@@ -9,6 +9,7 @@ addons-install-addon = Усталяваць дадатковы кампанен�
 addons-install-addons = Усталяваць дадатковы(-я) кампанент(-ы)
 addons-install-anki-addon = Усталяваць дадатковы кампанент Anki
 addons-install-from-file = Усталяваць з файла...
+addons-installation-complete = Усталяванне выканана
 addons-installed-names = { $name } усталяваны
 addons-installed-successfully = Усталявана.
 addons-invalid-code = Памылковы код.
