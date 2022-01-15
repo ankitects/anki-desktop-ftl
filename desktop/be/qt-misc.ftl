@@ -37,6 +37,7 @@ qt-misc-second =
     { $count ->
         [one] { $count } секунда
         [few] { $count } секунды
+        [many] { $count } секунд
        *[other] { $count } секунд
     }
 
