@@ -20,6 +20,7 @@ qt-misc-name-exists = Назва існуе.
 qt-misc-optimizing = Аптымізацыя...
 qt-misc-please-select-1-card = (выберыце 1 карту)
 qt-misc-please-select-a-deck = Выберыце калоду.
+qt-misc-please-use-fileimport-to-import-this = Перайдзіце ў «Файл > Імпартаваць», каб імпартаваць гэты файл
 qt-misc-processing = Апрацоўка...
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
