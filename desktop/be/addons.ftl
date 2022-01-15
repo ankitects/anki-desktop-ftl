@@ -1,6 +1,6 @@
 addons-window-title = Дадатковыя кампаненты
 addons-addon-installation-error = Памылка ўсталявання дадатковага кампанента
-addons-browse-addons = Агляд дадатковых кампанентаў
+addons-browse-addons = Прагляд дадатковых кампанентаў
 addons-check-for-updates = Праверыць абнаўленні
 addons-checking = Праверка...
 addons-downloaded-fnames = { $fname } спампаваны

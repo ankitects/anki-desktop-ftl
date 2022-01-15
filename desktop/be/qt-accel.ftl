@@ -1,5 +1,5 @@
 qt-accel-about = &Аб праграме
-qt-accel-browse-and-install = А&глядзець і ўсталяваць...
+qt-accel-browse-and-install = Пра&глядзець і ўсталяваць...
 qt-accel-cards = &Карткі
 qt-accel-check-database = &Праверыць базу даных
 qt-accel-check-media = Праверыць &медыя
