@@ -6,7 +6,7 @@ qt-misc-automatic-syncing-and-backups-have-been = 自動同步和備份已在恢
 qt-misc-back-side-only = 僅背面
 qt-misc-backing-up = 備份中...
 qt-misc-browse = 瀏覽
-qt-misc-change-note-type-ctrlandn = 變更筆記類型 (Ctrl+N)
+qt-misc-change-note-type-ctrlandn = 更改筆記類型 (Ctrl+N)
 qt-misc-check-the-files-in-the-media = 檢查媒體資料夾檔案
 qt-misc-choose-deck = 選擇牌組
 qt-misc-choose-note-type = 選擇筆記類型
@@ -33,7 +33,7 @@ qt-misc-unable-to-record =
     
     原始錯誤：{ $error }
 qt-misc-please-ensure-a-profile-is-open = 請確定已開啟設定檔，而且 Anki 不在忙碌中，然後再試一次。
-qt-misc-please-select-1-card = （請選取一張卡片）
+qt-misc-please-select-1-card = (請選取一張卡片)
 qt-misc-please-select-a-deck = 請選取一個牌組。
 qt-misc-please-use-fileimport-to-import-this = 請使用「檔案>匯入」來匯入這個檔案。
 qt-misc-processing = 處理中...
@@ -49,7 +49,7 @@ qt-misc-study-deck = 學習牌組...
 qt-misc-sync = 同步
 qt-misc-target-deck-ctrlandd = 目標牌組 (Ctrl+D)
 qt-misc-the-following-character-can-not-be = 不可使用下列字元：{ $val }
-qt-misc-the-requested-change-will-require-a = 此變動會使你下一次同步集合時，需要完整上傳資料庫。如果同步的話，你在其他的裝置上尚未同步的複習或其他變更將會遺失，要繼續嗎？
+qt-misc-the-requested-change-will-require-a = 更改後，你在下一次同步集合時需要完整上傳資料庫。若你在其他裝置上作出複習或其他更動，且還沒有同步到這裡，則那些更動將全部遺失。繼續？
 qt-misc-there-must-be-at-least-one = 至少要有一個設定檔。
 qt-misc-this-file-exists-are-you-sure = 檔案已存在。確定要覆蓋檔案嗎？
 qt-misc-unable-to-access-anki-media-folder = 無法存取 Anki 媒體資料夾。你的系統的暫存資料夾權限設定可能錯誤。
