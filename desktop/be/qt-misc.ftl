@@ -1,5 +1,5 @@
 qt-misc-addons = Дадатковыя кампаненты
-qt-misc-back-side-only = Толькі зваротны бок
+qt-misc-back-side-only = Толькі адваротны бок
 qt-misc-backing-up = Рэзервовае капіяванне...
 qt-misc-browse = Прагляд
 qt-misc-change-note-type-ctrlandn = Змяніць тып нататкі (Ctrl+N)
