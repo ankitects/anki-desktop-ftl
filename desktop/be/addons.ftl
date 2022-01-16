@@ -19,6 +19,7 @@ addons-no-updates-available = Няма даступных абнаўленняў
 addons-packaged-anki-addon = Спакаваны дадатковы кампанент Anki
 addons-requires = (патрабуецца { $val })
 addons-restored-defaults = Адноўленыя перадвызначаныя налады
+addons-this-addon-is-not-compatible-with = Гэты дадатковы кампанент несумяшчальны з вашай версіяй Anki.
 addons-toggle-enabled = Уключыць/Выключыць
 addons-unknown-error = Невядомая памылка: { $val }
 addons-view-addon-page = Праглядзець старонку дадатковага кампанента
