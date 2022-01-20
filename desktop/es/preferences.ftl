@@ -1,6 +1,8 @@
-# shown instead of the 'night mode' option when night mode is forced on because
-# macOS is in dark mode
-preferences-dark-mode-active = macOS está en modo nocturno
-preferences-dark-mode-disable =
-    Para mostrar Anki en modo diurno mientras macOS está en modo nocturno, por favor
-    lea la sección del manual sobre Modo Nocturno.
+## Video drivers/hardware acceleration. Please avoid translating 'OpenGL' and 'ANGLE'.
+
+preferences-video-driver = Driver (controlador) de video:
+preferences-video-driver-opengl-mac = OpenGL (recomendado en Mac)
+preferences-video-driver-software-mac = Software (no recomendado)
+preferences-video-driver-opengl-other = OpenGL (más rápido, puede causar problemas)
+preferences-video-driver-software-other = Software (más lento)
+preferences-video-driver-angle = (puede funcionar mejor que OpenGL)

@@ -10,7 +10,6 @@ addons-config-validation-error = Hubo un problema con la configuración proporci
 addons-window-title = Complementos
 addons-addon-has-no-configuration = El Complemento no tiene configuración.
 addons-addon-installation-error = Error de la instalación del complemento
-addons-addon-was-not-downloaded-from-ankiweb = El complemento no se descargó de AnkiWeb.
 addons-browse-addons = Explorar complementos
 addons-changes-will-take-effect-when-anki = Los cambios tendrán efecto cuando Anki se reinicie
 addons-check-for-updates = Comprobar actualizaciones
@@ -64,3 +63,5 @@ addons-delete-the-numd-selected-addon =
         [one] ¿Quiere eliminar { $count } complemento seleccionado?
        *[other] ¿Quiere eliminar los { $count } complementos seleccionados?
     }
+addons-choose-update-window-title = Actualizar complementos
+addons-choose-update-update-all = Actualizar todo

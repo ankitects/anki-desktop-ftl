@@ -34,3 +34,4 @@ errors-unable-open-collection =
     Anki ha sido incapaz de abrir el archivo de la colección. Si los problemas persisten después de reiniciar tu ordenador, por favor usa el botón de abrir cópia de seguridad en el administrador de perfiles.
     
     Información de depuración:
+errors-windows-tts-runtime-error = El servicio TTS falló. Asegúrese de que las actualizaciones de Windows estén instaladas, intente reiniciar su computadora e intente usar una voz diferente.
