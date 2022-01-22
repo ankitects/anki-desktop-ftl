@@ -1,4 +1,6 @@
+qt-misc-addon-will-be-installed-when-a = Дадатковы кампанент будзе ўсталяваны пры адкрыцці профілю.
 qt-misc-addons = Дадатковыя кампаненты
+qt-misc-all-cards-notes-and-media-for = Усе карткі, нататкі і медыя будуць выдалены для гэтага профілю. Вы ўпэўнены?
 qt-misc-back-side-only = Толькі адваротны бок
 qt-misc-backing-up = Рэзервовае капіяванне...
 qt-misc-browse = Прагляд
@@ -31,6 +33,7 @@ qt-misc-target-deck-ctrlandd = Мэтавая калода (Ctrl+D)
 qt-misc-the-following-character-can-not-be = Наступны сімвал не можа быць ужыты: { $val }
 qt-misc-there-must-be-at-least-one = Павінен быць як мінімум адзін профіль.
 qt-misc-this-file-exists-are-you-sure = Гэты файл існуе. Вы ўпэўнены, што хочаце яго перазапісаць?
+qt-misc-unexpected-response-code = Нечаканы код адказу: { $val }
 qt-misc-would-you-like-to-download-it = Вы хочаце спампаваць яе зараз?
 qt-misc-error = Памылка
 qt-misc-anki-is-running = Anki ужо запушчаны
