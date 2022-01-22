@@ -33,6 +33,7 @@ qt-misc-target-deck-ctrlandd = Мэтавая калода (Ctrl+D)
 qt-misc-the-following-character-can-not-be = Наступны сімвал не можа быць ужыты: { $val }
 qt-misc-there-must-be-at-least-one = Павінен быць як мінімум адзін профіль.
 qt-misc-this-file-exists-are-you-sure = Гэты файл існуе. Вы ўпэўнены, што хочаце яго перазапісаць?
+qt-misc-unable-to-move-existing-file-to = Немагчыма перанесці існуючы файл у сметніцу - паспрабуйце перазапусціць камп'ютар.
 qt-misc-unexpected-response-code = Нечаканы код адказу: { $val }
 qt-misc-would-you-like-to-download-it = Вы хочаце спампаваць яе зараз?
 qt-misc-error = Памылка
