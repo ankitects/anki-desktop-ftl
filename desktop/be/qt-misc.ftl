@@ -23,6 +23,7 @@ qt-misc-loading = Загрузка...
 qt-misc-manage = Кіраваць
 qt-misc-manage-note-types = Кіраваць тыпамі нататак
 qt-misc-name-exists = Назва існуе.
+qt-misc-non-unicode-text = <тэкст не ў унікодзе>
 qt-misc-optimizing = Аптымізацыя...
 qt-misc-please-select-1-card = (выберыце 1 карту)
 qt-misc-please-select-a-deck = Выберыце калоду.
@@ -32,6 +33,7 @@ qt-misc-replace-your-collection-with-an-earlier = Замяніць вашу ка
 qt-misc-revert-to-backup = Вярнуць да рэзервовай копіі
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
+qt-misc-shift-key-was-held-down-skipping = Утрымлівалася клавіша Shift. Аўтаматычная сінхранізацыя і загрузка дадатковых кампанентаў прапускаюцца.
 qt-misc-shortcut-key-left-arrow = Клавіятурны скарот: Стрэлка ўлева
 qt-misc-shortcut-key-right-arrow-or-enter = Клавіятурны скарот: Стрэлка ўправа або Enter
 qt-misc-stats = Статыстыка
