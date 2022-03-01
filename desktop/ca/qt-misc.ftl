@@ -16,10 +16,8 @@ qt-misc-copy-to-clipboard = Copiar al Portapapers
 qt-misc-create-filtered-deck = Crear mall filtrat...
 qt-misc-debug-console = Consola de depuració
 qt-misc-deck-will-be-imported-when-a = S'importarà el mall tan bon punt s'obri un perfil.
-qt-misc-default = Per defecte
 qt-misc-empty-cards = Targetes buides...
 qt-misc-error-during-startup = Error a l'inici: { $val }
-qt-misc-filtered-deck = Mall filtrat { $val }
 qt-misc-ignore-this-update = Ignora aquesta actualització
 qt-misc-in-order-to-ensure-your-collection = Per assegurar que la teva col·lecció funcioni correctament en ser transferida entre dispositius, Anki necessita que el rellotge intern del teu ordinador estigui ajustat correctament. El rellotge intern pot estar malament ajustat tot i que el teu sistema mostri correctament l'hora local.  Si us plau, accedeix als ajustos horaris al teu ordinador i comprova el següent:  - AM / PM - Desviació del rellotge - Dia, mes i any - Zona horària - Horari d'estiu  Diferència amb el temps correcte: { $val }.
 qt-misc-invalid-property-found-on-card-please = S'ha trobat alguna propietat incorrecta en les targetes. Si us plau, fes servir Eines-> Comprovar base de dades, i si el problema persisteix contacta amb el servei d'assistència a la web.
@@ -29,16 +27,19 @@ qt-misc-manage-note-types = Gestiona els Tipus de Nota
 qt-misc-name-exists = El nom ja existeix
 qt-misc-non-unicode-text = <text no unicode>
 qt-misc-optimizing = Optimitzant....
-qt-misc-please-connect-a-microphone-and-ensure = Sisplau, conecta el micròfon, i assegura't que altres programes no estiguin utilitzant el dispositiu de só.
+qt-misc-unable-to-record =
+    No s'ha pogut enregistrar. Assegureu-vos que hi hagi un micròfon connectat, i que Anki té permís per utilitzar-lo.
+    Si altres programes estan utilitzant el micròfon, tancant-los pot ajudar.
+    
+    Error original: { $error }
 qt-misc-please-ensure-a-profile-is-open = Sisplau, assegura't que hi ha un perfil obert i que Anki no està ocupat, i torna a intentar-ho.
 qt-misc-please-select-1-card = Sisplau, selecciona una targeta
 qt-misc-please-select-a-deck = Sisplau seleccionael mall.
 qt-misc-please-use-fileimport-to-import-this = Utilitza Arxiu->Importar per importar aquest arxiu.
 qt-misc-processing = S'està processant...
 qt-misc-replace-your-collection-with-an-earlier = Reemplaçar la teva col·lecció per una còpia de seguretat anterior?
-qt-misc-resume-now = Continua ara
 qt-misc-revert-to-backup = Revertir a còpia de seguretat
-qt-misc-reverted-to-state-prior-to = Reverteix al estat prèvi a '{ $val }'.
+# please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = La tecla Majúscula estava pressionada. Saltant sincronització automàtica i càrrega de complements.
 qt-misc-shortcut-key-left-arrow = Tecla d'accés directe: fletxa esquerra
@@ -53,10 +54,7 @@ qt-misc-there-must-be-at-least-one = Deu haver-hi almenys un perfil.
 qt-misc-this-file-exists-are-you-sure = Aquest fitxer ja existeix. Esteu segur que el voleu sobreescriure?
 qt-misc-unable-to-access-anki-media-folder = No s'ha pogut accedir al directori de Anki media. Els permisos del teu sistema de directori temporals porden estar incorrectes.
 qt-misc-unable-to-move-existing-file-to = No s'ha pogut moure l'arxiu existent a la paparera, sisplau intenta reiniciar el seu ordinador.
-qt-misc-undo = Desfer
-qt-misc-undo2 = Desfés { $val }
 qt-misc-unexpected-response-code = Codi de resposta inesperada: { $val }
-qt-misc-waiting-for-editing-to-finish = Esperant que finalitzis l'edició.
 qt-misc-would-you-like-to-download-it = Voleu baixar-ho ara?
 qt-misc-your-collection-file-appears-to-be = Sembla que la teva col·lecció està corrupte. Aixó pot succeir quan l'arxiu és copiat o mogut mentre l'Anki està obert, o bé quan la col·lecció es emmegantzemada en un disc dur en línia o al núvol. Si els errors persisteixen després de reiniciar l'ordinador, sisplau obre una còpia de seguretat des del gestor de perfils.
 qt-misc-your-computers-storage-may-be-full = És possible que el emmegatzematge del seu equip estigui ple. Elimini els arxius que no necesits, aleshores torni-ho a intentar.
@@ -72,3 +70,7 @@ qt-misc-second =
         [one] { $count } segon
        *[other] { $count } segons
     }
+
+## deprecated- these strings will be removed in the future, and do not need
+## to be translated
+

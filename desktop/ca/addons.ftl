@@ -10,7 +10,6 @@ addons-config-validation-error = Hi va hagut un problema amb la configuració pr
 addons-window-title = Complements
 addons-addon-has-no-configuration = El complement no te cap configuració
 addons-addon-installation-error = Error de la instal·lació del complement
-addons-addon-was-not-downloaded-from-ankiweb = EL complement no va ser descargat des de AnkiWeb.
 addons-browse-addons = Navegar complements
 addons-changes-will-take-effect-when-anki = Els canvis tindran efecte quen l'Anki es reiniciï
 addons-check-for-updates = Comprova si hi ha actualitzacions
@@ -64,3 +63,5 @@ addons-delete-the-numd-selected-addon =
         [one] Eliminar la { $count } extensió seleccionada?
        *[other] Eliminar les { $count } extensions seleccionades?
     }
+addons-choose-update-window-title = Actualitza els complements
+addons-choose-update-update-all = Actualitza-ho tot
