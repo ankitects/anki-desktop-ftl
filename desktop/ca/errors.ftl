@@ -39,3 +39,4 @@ errors-unable-open-collection =
     Anki ha estat incapaç d'obrir la seva col·lecció. Si els problemes persisteixen després de reiniciar el seu ordinador, sisplau utilitzi el butó d'obrir còpies de seguretat del gestor de perfils. 
     
     Informació de depuració:
+errors-windows-tts-runtime-error = El servei de conversió de text a parla ha fallat. Assegureu-vos que les actualitzacions de Windows estiguin instal·lades, proveu de reiniciar l'ordinador o bé una veu diferent.
