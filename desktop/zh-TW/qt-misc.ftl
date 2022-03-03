@@ -1,4 +1,4 @@
-qt-misc-addon-will-be-installed-when-a = 附加元件將在開啟任意設定檔後完成安裝。
+qt-misc-addon-will-be-installed-when-a = 附加元件將在打開任意設定檔後完成安裝。
 qt-misc-addons = 附加元件
 qt-misc-all-cards-notes-and-media-for = 確定要刪除此設定檔的所有卡片、筆記和媒體檔？
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki 已更新</h1>Anki { $val } 已發佈。<br><br>
@@ -15,9 +15,9 @@ qt-misc-configure-interface-language-and-options = 設定介面語言與選項
 qt-misc-copy-to-clipboard = 複製到剪貼簿
 qt-misc-create-filtered-deck = 建立篩選牌組...
 qt-misc-debug-console = 除錯指令列
-qt-misc-deck-will-be-imported-when-a = 牌組將在設定檔開啟後匯入。
+qt-misc-deck-will-be-imported-when-a = 牌組將在打開設定檔後匯入。
 qt-misc-empty-cards = 空白卡片...
-qt-misc-error-during-startup = 開啟時發生錯誤：{ $val }
+qt-misc-error-during-startup = 打開時發生錯誤：{ $val }
 qt-misc-ignore-this-update = 忽略更新
 qt-misc-in-order-to-ensure-your-collection = 為了確保你的集合能在不同裝置中運作，Anki 要求你電腦的內部時鐘設定正確。即使系統顯示的當地時間是對的，內部時鐘還是可能出錯。<br><br>請在電腦上的時間設定中檢查：<br><br>- 上午/下午<br>- 時間飄移 (clock drift)<br>- 年月日<br>- 時區<br>- 夏令時間<br><br>與正確時間的差異：{ $val }。
 qt-misc-invalid-property-found-on-card-please = 卡片上有無效的屬性，請按 工具>檢查資料庫。如果問題再次出現，請至支援網站提問。
@@ -32,7 +32,7 @@ qt-misc-unable-to-record =
     若有其他程式正在使用麥克風，請嘗試關閉這些程式。
     
     原始錯誤：{ $error }
-qt-misc-please-ensure-a-profile-is-open = 請確定已開啟設定檔，而且 Anki 不在忙碌中，然後再試一次。
+qt-misc-please-ensure-a-profile-is-open = 請確定已打開設定檔，而且 Anki 不在忙碌中，然後再試一次。
 qt-misc-please-select-1-card = (請選取一張卡片)
 qt-misc-please-select-a-deck = 請選取一個牌組。
 qt-misc-please-use-fileimport-to-import-this = 請使用「檔案>匯入」來匯入這個檔案。
@@ -53,10 +53,10 @@ qt-misc-the-requested-change-will-require-a = 更改後，你在下一次同步�
 qt-misc-there-must-be-at-least-one = 至少要有一個設定檔。
 qt-misc-this-file-exists-are-you-sure = 檔案已存在。確定要覆蓋檔案嗎？
 qt-misc-unable-to-access-anki-media-folder = 無法存取 Anki 媒體資料夾。你的系統的暫存資料夾權限設定可能錯誤。
-qt-misc-unable-to-move-existing-file-to = 無法將現存檔案移到垃圾桶——請嘗試重新啟動電腦。
+qt-misc-unable-to-move-existing-file-to = 無法將現存檔案移到垃圾桶 - 請嘗試重新啟動電腦。
 qt-misc-unexpected-response-code = 未預期的回應代碼：{ $val }
 qt-misc-would-you-like-to-download-it = 你想要立即下載嗎？
-qt-misc-your-collection-file-appears-to-be = 你的集合檔案似乎已損毀。原因可能是檔案在 Anki 開啟時被複製/移動，或集合儲存於網路/雲端硬碟。如果在重新啟動電腦後問題仍然發生，請開啟設定檔畫面上的自動備份。
+qt-misc-your-collection-file-appears-to-be = 你的集合檔案似乎已損毀。原因可能是檔案在 Anki 尚未關閉時被複製/移動，或集合儲存於網路/雲端硬碟。如果在重新啟動電腦後問題仍然發生，請打開設定檔畫面上的自動備份。
 qt-misc-your-computers-storage-may-be-full = 你的電腦儲存空間可能已滿。請刪除一些不需要的檔案，然後再試一次。
 qt-misc-your-firewall-or-antivirus-program-is = 你的防火牆或防毒軟體程式正在阻止 Anki 建立與自身的連接。請將 Anki 添加到例外清單中。
 qt-misc-error = 錯誤
