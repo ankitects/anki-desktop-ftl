@@ -38,4 +38,4 @@ errors-unable-open-collection =
     Anki ei pystynyt avaamaan kokoelmatiedostoa. Jos ongelmat jatkuvat tietokoneen uudelleenkäynnistyksen jälkeen, käytä profiilinhallinnan Avaa varmuuskopio -painiketta.
     
     Vianmääritystiedot:
-errors-windows-tts-runtime-error = Teksti puheeksi (TTS) -palvelu kohtasi virheen. Varmista, että Windowsin päivitykset on asennettu, yritä käynnistää tietokone uudelleen ja yritä käyttää eri ääntä.
+errors-windows-tts-runtime-error = Teksti puheeksi (TTS) -palvelu kohtasi virheen. Varmista, että Windowsin päivitykset on asennettu, kokeile käynnistää tietokone uudelleen ja kokeile käyttää toista teksti puheeksi -ääntä.
