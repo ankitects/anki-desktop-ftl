@@ -10,7 +10,6 @@ addons-config-validation-error = Bhí fadhb leis na socruithe: { $problem }, ag 
 addons-window-title = Forlíontáin
 addons-addon-has-no-configuration = Níl cumraíocht ag an mbreiseán.
 addons-addon-installation-error = Earráid le linn shuiteáil an bhreiseáin
-addons-addon-was-not-downloaded-from-ankiweb = Níor íosládaladh an breiseán ó AnkiWeb.
 addons-browse-addons = Brabhsáil Breiseáin
 addons-changes-will-take-effect-when-anki = Tiocfaidh na athruithe i bhfeidhm nuair a atosófar Anki.
 addons-check-for-updates = Deimhnigh an bhfuil Nuashonrú Ann
@@ -57,8 +56,8 @@ addons-to-browse-addons-please-click-the = Chun breiseáin a bhrabhsáil, buail 
 addons-toggle-enabled = Díchumasaigh/Athchumasaigh
 addons-unable-to-update-or-delete-addon = Níorbh féidir an breiseán a nuashonrú nó a scriosadh. Atosaigh Anki leis an cnaipe SHIFT coinnithe síos, chun breiseán a dhíchumasú (go sealadach), agus bain triail eile as.  Sonraí dífhabhtaithe: { $val }
 addons-unknown-error = Earráid anaithnid: { $val }
-addons-view-addon-page = Féach Leathanach an Bhreiseáin
-addons-view-files = Amharc ar chomhaid
+addons-view-addon-page = Breathnaigh Leathanach an Bhreiseáin
+addons-view-files = Breathnaigh Comhaid
 addons-delete-the-numd-selected-addon =
     { $count ->
         [one] Scrios an breiseán atá roghnaithe?
