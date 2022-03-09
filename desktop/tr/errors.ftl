@@ -1,3 +1,4 @@
+-errors-support-site = [destek sitesi](https://help.ankiweb.net)
 errors-accessing-db =
     Veritabanına ulaşırken bir hata gerçekleşti.
     
@@ -10,4 +11,3 @@ errors-accessing-db =
     - Hard diskiniz hata veriyor olabilir.
     
     Koleksiyonunuzun bozulmadığına emin olmak için Araçlar>Veritabanını Kontrol Et'i çalıştırmak faydalı olacaktır.
-

@@ -1,4 +1,11 @@
 addons-checking = Kontrol ediliyor...
 addons-code = Kod:
 addons-install-addon = Eklenti yükleyin
+addons-installation-complete = Yükleme tamamlandı
+addons-installed-names = { $name } yüklendi
 addons-invalid-code = Hatalı kod.
+addons-no-updates-available = Güncelleme mevcut değil.
+addons-please-check-your-internet-connection = Lütfen internet bağlantınızı kontrol edin.
+addons-unknown-error = Bilinmeyen hata: { $val }
+addons-view-files = Dosyaları görüntüle
+addons-choose-update-update-all = Tümünü güncelle
