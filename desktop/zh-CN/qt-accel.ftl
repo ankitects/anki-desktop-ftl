@@ -33,3 +33,7 @@ qt-accel-undo = 撤销(&U)
 qt-accel-redo = 重做 (&R)
 qt-accel-set-due-date = 设置到期日(&D)...
 qt-accel-forget = 忘记(&F)
+qt-accel-full-screen = 打开/关闭全屏显示 (&F)
+qt-accel-zoom-in = 放大 (&I)
+qt-accel-zoom-out = 缩小 (&O)
+qt-accel-reset-zoom = 重置缩放 (&R)
