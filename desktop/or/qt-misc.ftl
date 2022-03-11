@@ -8,6 +8,7 @@ qt-misc-name-exists = ନାମ ବିଦ୍ୟମାନ ଅଛି।
 qt-misc-please-select-a-deck = ଦୟାକରି ଗୋଟେ ତାସଖଣ୍ଡ ବାଛନ୍ତୁ।
 qt-misc-stats = ପରିସଂଖ୍ୟାନ
 qt-misc-there-must-be-at-least-one = ଅତି କମରେ ଗୋଟିଏ ପ୍ରୋଫାଇଲ୍ ରହିବା ଆବଶ୍ୟକ।
+qt-misc-your-firewall-or-antivirus-program-is = ଆପଣଙ୍କ ଫାୟାରୱାଲ୍ କିମ୍ୱା ଆଣ୍ଟିଭାଇରସ୍ ପ୍ରୋଗ୍ରାମ୍ Ankiକୁ ନିଜ ସହିତ ଏକ ସଂଯୋଗ ସୃଷ୍ଟି କରିବାକୁ ଦେଉନି। ଦୟାକରି Anki ପାଇଁ ଏକ ବ୍ୟତିକ୍ରମ ଯୋଡ଼ନ୍ତୁ।
 qt-misc-error = ତ୍ରୁଟି
 qt-misc-anki-is-running = Anki ଆଗରୁ ଚାଲୁଛି
 qt-misc-second =
