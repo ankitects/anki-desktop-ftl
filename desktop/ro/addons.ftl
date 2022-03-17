@@ -58,5 +58,11 @@ addons-unable-to-update-or-delete-addon = Nu se poate actualiza sau șterge supl
 addons-unknown-error = Eroare necunoscută: { $val }
 addons-view-addon-page = Vezi pagina suplimentului
 addons-view-files = Vezi fişiere
+addons-delete-the-numd-selected-addon =
+    { $count ->
+        [one] Ștergi suplimentul?
+        [few] Ștergi { $count }  suplimente?
+       *[other] Ștergi { $count }  suplimente?
+    }
 addons-choose-update-window-title = Actualizare suplimente
 addons-choose-update-update-all = Actualizează-le pe toate
