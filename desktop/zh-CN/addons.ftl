@@ -1,7 +1,7 @@
-addons-possibly-involved = 相关扩展:{ $addons }
+addons-possibly-involved = 相关扩展：{ $addons }
 addons-failed-to-load =
-    您安装的某个插件加载失败。如果此问题仍无法解决，请移步 工具-插件 菜单，并禁用或者删除插件。
-    When loading '{ $name }':
+    部分插件加载失败。如果问题持续出现，请在“工具>插件”界面中禁用或删除该插件。
+    加载“{ $name }”时：
     { $traceback }
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = 配置{ $name }
@@ -9,7 +9,6 @@ addons-config-validation-error = 提供的配置存在问题：针对数据库�
 addons-window-title = 插件
 addons-addon-has-no-configuration = 插件没有配置界面
 addons-addon-installation-error = 插件安装错误
-addons-addon-was-not-downloaded-from-ankiweb = 插件不是来自 AnkiWeb
 addons-browse-addons = 打开插件官网
 addons-changes-will-take-effect-when-anki = 更改将在Anki重启后生效
 addons-check-for-updates = 检查更新
