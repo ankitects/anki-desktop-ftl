@@ -1,24 +1,40 @@
--errors-support-site = [Anki帮助](https://help.ankiweb.net)
+-errors-support-site = [支持网站]（https://help.ankiweb.net）
 errors-standard-popup =
-    <h1>错误信息</h1>
+    # 错误
     
-    <p> 发生了一个错误. 请尝试使用 <b>工具 &gt; 检查数据库</b>功能修复.</p>
+    发生了一个错误。
+    请使用「工具」>「检查数据库」功能尝试修复。
     
-    <p>如果问题仍然存在, 请复制粘贴下列信息并报告到{ -errors-support-site }</p>
--errors-addon-support-site = [插件支持](https://help.ankiweb.net/discussions/add-ons/)
+    如果问题仍然存在, 请在网站{ -errors-support-site }上反馈。
+    请在您的反馈中粘贴以下信息。
+-errors-addon-support-site = [插件支持网站]（https://help.ankiweb.net/discussions/add-ons/）
 errors-addons-active-popup =
-    <h1>错误</h1>
-    <p>有一个错误发生了.请在按住shift键的同时启动Anki，这样可以临时的禁用您已经安装的插件。</p>
-    <p>如果仅仅是因为插件引起的问题，请选择工具&gt;插件菜单项来将出错的的插件设置成失效，然后重启Anki，重复以上的步骤直到你发现了具体是哪个插件引起的问题。</p>
-    <p>当你已经发现是因为插件引起的问题，请在我们的支持网站上 { -errors-addon-support-site } 上报告问题。</p>
-    <p>调试信息：</p>
+    # 错误
+    
+    发生了一个错误。请在启动Anki时按住Shift键，
+    以临时禁用已经安装的插件。
+    如果仅在插件启用时出现问题，
+    请在使用「工具」>「插件」功能禁用部分插件后然后重启Anki，
+    重复以上步骤直至找到引起问题的插件。
+    
+    当您找到引起问题的插件后，请网站{ -errors-addon-support-site }上反馈。
+    调试信息：
 errors-accessing-db =
-    访问数据库时出现错误，可能的原因是：
-    - 反病毒、防火墙、备份或数据同步软件可能干扰了Anki。试着禁用这些软件，看看问题是否消失。
-    - 磁盘容量满了。
-    - 文档/Anki 文件夹可能是网络硬盘。
-    - 文档/Anki 文件夹不可写.
-    - 硬盘出错了。
-    你可以执行「工具」>「检查数据库」以确认你的集合没有损坏。
-errors-unable-open-collection = Anki 无法打开您的集合文件。如果您尝试重启电脑后此问题仍然存在，请在主菜单中选择“切换用户”，在其界面中点击“打开备份”。
-errors-windows-tts-runtime-error = 无法使用 TTS（文字转语音）服务。请确保您已安装 Windows 更新，尝试重启电脑、更换 TTS 音源。
+    访问数据库时出错。
+    
+    可能的原因：
+    
+    - 杀毒软件、防火墙、备份或数据同步软件干扰了Anki。
+    请尝试禁用这些软件后查看问题是否解决。
+    
+    - 您的存储空间已满。
+    - Documents/Anki文件夹位于网络驱动器上。
+    - Documents/Anki文件夹不可写。
+    - 您的硬盘存在错误。
+    
+    您可以使用「工具」>「检查数据库」功能确认您的集合是否已经损坏。
+errors-unable-open-collection =
+    您的集合文件无法打开。请您尝试重启电脑，如问题仍然存在，请在使用账户管理器中的「打开备份」。
+    
+    调试信息：
+errors-windows-tts-runtime-error = 文字转语音服务（TTS）启用失败。请确认您已安装Windows更新，请尝试重启电脑并更换其他声音。
