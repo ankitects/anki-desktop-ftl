@@ -40,3 +40,4 @@ qt-accel-zoom-out = &Loitonna
 qt-accel-reset-zoom = &Nollaa lähennys/loitonnus
 qt-accel-zoom-editor-in = &Lähennä muokkausnäkymää
 qt-accel-zoom-editor-out = &Loitonna muokkausnäkymää
+qt-accel-create-backup = Luo &varmuuskopio
