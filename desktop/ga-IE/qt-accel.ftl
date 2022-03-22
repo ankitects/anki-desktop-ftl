@@ -40,3 +40,4 @@ qt-accel-zoom-out = Zúmáil &Amach
 qt-accel-reset-zoom = &Bain Zúmáil
 qt-accel-zoom-editor-in = Athraigh Zúmáil &Isteach
 qt-accel-zoom-editor-out = Athraigh Zúmáil &Amach
+qt-accel-create-backup = Déan @Cóip Chúltaca
