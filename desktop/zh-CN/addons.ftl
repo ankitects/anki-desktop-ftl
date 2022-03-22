@@ -1,6 +1,7 @@
-addons-possibly-involved = 相关扩展：{ $addons }
+addons-possibly-involved = 相关插件：{ $addons }
 addons-failed-to-load =
-    部分插件加载失败。如果持续出现该问题，请在「工具」>「插件」界面中禁用或删除该插件。
+    部分插件加载失败。如果该问题持续出现，请使在「工具」>「插件」中禁用或删除该插件。
+    
     加载“{ $name }”时：
     { $traceback }
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
@@ -8,7 +9,7 @@ addons-config-window-title = 配置“{ $name }”
 addons-config-validation-error = 提供的配置存在问题：{ $problem }，位于路径{ $path }，依据模式{ $schema }。
 addons-window-title = 插件
 addons-addon-has-no-configuration = 插件无配置界面。
-addons-addon-installation-error = 插件安装错误
+addons-addon-installation-error = 插件安装出错
 addons-browse-addons = 打开插件官网
 addons-changes-will-take-effect-when-anki = 更改将在Anki重启后生效。
 addons-check-for-updates = 检查更新
@@ -20,7 +21,7 @@ addons-corrupt-addon-file = 损坏的插件文件。
 addons-disabled = （已禁用）
 addons-disabled2 = （已禁用）
 addons-download-complete-please-restart-anki-to = 下载完成。请重启Anki以应用更改。
-addons-downloaded-fnames = { $fname }下载成功
+addons-downloaded-fnames = 已下载{ $fname }
 addons-downloading-adbd-kb02fkb = 下载中{ $part }/{ $total } ({ $kilobytes }KB)...
 addons-error-downloading-ids-errors = 下载出错<i>{ $id }</i>: { $error }
 addons-error-installing-bases-errors = 安装出错<i>{ $base }</i>: { $error }
@@ -38,22 +39,22 @@ addons-invalid-code = 无效代码。
 addons-invalid-code-or-addon-not-available = 代码无效或该插件无法适用于当前版本的Anki
 addons-invalid-configuration = 无效配置：
 addons-invalid-configuration-top-level-object-must = 无效配置：顶层对象必须为map。
-addons-no-updates-available = 没有可用更新。
-addons-one-or-more-errors-occurred = 出现了至少一个错误：
+addons-no-updates-available = 无可用更新。
+addons-one-or-more-errors-occurred = 出现错误：
 addons-packaged-anki-addon = 已打包的Anki插件
-addons-please-check-your-internet-connection = 请检查您的网络连接。
+addons-please-check-your-internet-connection = 请检查网络连接。
 addons-please-report-this-to-the-respective = 请将此内容反馈给相应的插件开发者。
-addons-please-restart-anki-to-complete-the = <b>请重新启动Anki来完成安装。</b>
+addons-please-restart-anki-to-complete-the = <b>请重启Anki以完成安装。</b>
 addons-please-select-a-single-addon-first = 请先选择一个插件。
 addons-requires = （需要{ $val }）
-addons-restored-defaults = 已恢复默认设置
+addons-restored-defaults = 已恢复默认
 addons-the-following-addons-are-incompatible-with = 以下插件与{ $name }不兼容，已被禁用：{ $found }
-addons-the-following-addons-have-updates-available = 以下插件有可用更新。需要立即安装吗？
-addons-the-following-conflicting-addons-were-disabled = 以下发生冲突的插件已被禁用：
-addons-this-addon-is-not-compatible-with = 此插件与您的Anki版本不兼容。
-addons-to-browse-addons-please-click-the = 浏览插件请点击下方「浏览」按钮。<br><br>如果您已找到合适的插件，请将其代码粘贴到下方文本框中。如需输入多个代码，请以空格分隔。
+addons-the-following-addons-have-updates-available = 以下插件有可用更新。是否立即安装？
+addons-the-following-conflicting-addons-were-disabled = 以下插件发生冲突，已被禁用：
+addons-this-addon-is-not-compatible-with = 此插件与当前Anki版本不兼容。
+addons-to-browse-addons-please-click-the = 浏览插件请点击下方「打开插件官网」按钮。<br><br>如您已找到合适的插件，请将其代码粘贴到代码框中。如需输入多个代码，请以空格分隔。
 addons-toggle-enabled = 启用/禁用
-addons-unable-to-update-or-delete-addon = 无法更新或删除插件。请在打开Anki时按住Shift键以临时禁用插件，然后重试一次。 调试信息： { $val }
+addons-unable-to-update-or-delete-addon = 无法更新或删除插件。请在打开Anki时按住「Shift」键以临时禁用插件，然后重试。 调试信息： { $val }
 addons-unknown-error = 未知错误：{ $val }
 addons-view-addon-page = 浏览插件页面
 addons-view-files = 浏览本地文件
