@@ -4,4 +4,6 @@ profiles-folder-readme =
     kullanmasını söylemek için,
     lütfen bakın:
     
-    {$link}
+    { $link }
+# will appear as 'Downgrade & Quit'
+profiles-downgrade-and-quit = Eski sürüme geç && Çıkış yap
