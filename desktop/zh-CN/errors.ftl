@@ -4,14 +4,14 @@ errors-standard-popup =
     发生了一个错误。
     请使用「工具」>「检查数据库」功能尝试修复。
     如未能解决。请在网站{ -errors-support-site }上反馈。
-    请在您的反馈内容中粘贴以下信息。
--errors-addon-support-site = [插件支持网站]（https://help.ankiweb.net/discussions/add-ons/）
+    请您将以下信息粘贴在反馈内容中。
 errors-addons-active-popup =
     # 错误
-    发生了一个错误。请在启动Anki时按住「Shift」键临时禁用已装插件。
-    如仅在插件启用时错误，请使用「工具」>「插件」功能禁用部分插件后重启Anki，
+    
+    发生了一个错误。请在启动Anki时按住「Shift」键临时禁用插件加载。
+    如仅在插件启用时出错，请使用「工具」>「插件」功能禁用部分插件后重启Anki，
     请重复上述步骤直至找到引起错误的插件。
-    找到引起错误的插件后，请在网站{ -errors-addon-support-site }上反馈。
+    找到引起错误的插件后，请反馈给插件作者。
     调试信息：
 errors-accessing-db =
     访问数据库时出错。
@@ -29,3 +29,7 @@ errors-unable-open-collection =
     
     调试信息：
 errors-windows-tts-runtime-error = 无法使用文字转语音服务(TTS)。请确认已安装 Windows更新，并尝试重启电脑、更换 TTS 音源。
+
+## OBSOLETE; you do not need to translate this
+
+-errors-addon-support-site = [插件支持网站]（https://help.ankiweb.net/discussions/add-ons/）
