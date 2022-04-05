@@ -40,3 +40,4 @@ qt-accel-zoom-out = &Отдалить
 qt-accel-reset-zoom = &Сбросить приближение
 qt-accel-zoom-editor-in = &Приблизить редактор
 qt-accel-zoom-editor-out = &Отдалить редактор
+qt-accel-create-backup = Создать &резервную копию
