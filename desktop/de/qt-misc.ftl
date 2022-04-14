@@ -16,10 +16,8 @@ qt-misc-copy-to-clipboard = In die Zwischenablage kopieren
 qt-misc-create-filtered-deck = &Auswahlstapel erstellen…
 qt-misc-debug-console = Fehlerkonsole
 qt-misc-deck-will-be-imported-when-a = Der Stapel wird importiert, sobald ein Profil geöffnet wird.
-qt-misc-default = Standard
 qt-misc-empty-cards = &Leere Karten…
 qt-misc-error-during-startup = Fehler beim Start: { $val }
-qt-misc-filtered-deck = Auswahlstapel { $val }
 qt-misc-ignore-this-update = Dieses Update ignorieren
 qt-misc-in-order-to-ensure-your-collection = Um die Sammlung fehlerfrei zwischen verschiedenen Geräten auszutauschen, müssen Datum und Uhrzeit des Rechners korrekt eingestellt sein. Dazu genügt es nicht, wenn die korrekte Uhrzeit angezeigt wird.  Bitte die Datums- und Uhrzeiteinstellungen außerdem überprüfen auf:  - Tag, Monat, Jahr, - Zeitzone sowie - Sommerzeit/Winterzeit.  Differenz zur Ortszeit: { $val }.
 qt-misc-invalid-property-found-on-card-please = Karten mit ungültigen Eigenschaften gefunden. Bitte Extras → Datenbank prüfen ausführen. Sollte das Problem weiterhin bestehen, bitte den Entwicklern melden.
@@ -40,7 +38,7 @@ qt-misc-please-use-fileimport-to-import-this = Bitte diese Datei mit Datei>Impor
 qt-misc-processing = Verarbeitung läuft …
 qt-misc-replace-your-collection-with-an-earlier = Möchten Sie Ihre Sammlung mit einer zuvor erstellen Sicherheitskopie ersetzen?
 qt-misc-revert-to-backup = Zum in der Sicherungskopie gespeicherten Zustand zurückkehren
-qt-misc-reverted-to-state-prior-to = »{ $val }« rückgängig gemacht.
+# please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = Die Umschalttaste wurde gedrückt gehalten. Automatische Synchronisation wird übersprungen, Erweiterungen nicht geladen.
 qt-misc-shortcut-key-left-arrow = Tastenkürzel: Linkspfeil
@@ -50,13 +48,10 @@ qt-misc-study-deck = &Stapel lernen…
 qt-misc-sync = Synchronisieren
 qt-misc-target-deck-ctrlandd = Zielstapel (Strg+D)
 qt-misc-the-following-character-can-not-be = Das folgende Zeichen kann nicht verwendet werden: { $val }
-qt-misc-the-requested-change-will-require-a = Die beabsichtigten Änderungen werden es erforderlich machen, bei der nächsten Synchronisation erforderlich die gesamte Sammlung neu hochzuladen. Falls auf einem anderen Gerät Änderungen vorgenommen wurden, die noch nicht synchronisiert worden sind, gehen diese verloren. Trotzdem fortfahren?
+qt-misc-the-requested-change-will-require-a = Die beabsichtigten Änderungen werden es erforderlich machen, bei der nächsten Synchronisation die gesamte Sammlung neu hochzuladen. Falls auf einem anderen Gerät Änderungen vorgenommen wurden, die noch nicht synchronisiert worden sind, gehen diese verloren. Trotzdem fortfahren?
 qt-misc-there-must-be-at-least-one = Mindestens ein Profil muss erstellt werden.
 qt-misc-this-file-exists-are-you-sure = Diese Datei ist bereits vorhanden. Wirklich überschreiben?
 qt-misc-unable-to-access-anki-media-folder = Es kann nicht auf den Medienordner von Anki zugegriffen werden. Die Zugriffsrechte auf den temporären Ordner Ihres Systems könnten ggf. falsch gesetzt sein.
-qt-misc-unable-to-move-existing-file-to = Die vorhandene Datei konnte nicht in den Papierkorb verschoben werden - bitte ziehen Sie einen Neustart Ihres Computers in Erwägung.
-qt-misc-undo = Rückgängig
-qt-misc-undo2 = Letzte Aktion rückgängig machen: { $val }
 qt-misc-unexpected-response-code = Unerwarteter Antwortcode: { $val }
 qt-misc-would-you-like-to-download-it = Jetzt herunterladen?
 qt-misc-your-collection-file-appears-to-be = Die Datei Ihrer Sammlung scheint fehlerhaft zu sein. Zu diesem Zustand kann es kommen, wenn die Datei während einer laufenden Sitzung des Programms kopiert oder verschoben wird, oder wenn die Sammlung auf einem Netzlaufwerk oder Cloudspeicher gespeichert wird. Sollte das Problem nach einem Neustart des Computers weiterhin bestehen, bitten wir Sie, eine automatisch erstellte Sicherungskopie über die Profileinstellungen einzuspielen.
@@ -77,5 +72,3 @@ qt-misc-second =
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
-qt-misc-resume-now = Jetzt fortfahren
-qt-misc-waiting-for-editing-to-finish = Warte auf Ende der Bearbeitung.
