@@ -13,13 +13,11 @@ qt-misc-choose-note-type = Wybierz typ notatki
 qt-misc-closing = Zamykanie...
 qt-misc-configure-interface-language-and-options = Konfiguracja języka interfejsu i opcji
 qt-misc-copy-to-clipboard = Skopiuj do schowka
-qt-misc-create-filtered-deck = Stwórz talię filtrowaną...
+qt-misc-create-filtered-deck = Utwórz talię filtrowaną...
 qt-misc-debug-console = Konsola debugowania
 qt-misc-deck-will-be-imported-when-a = Talia zostanie zaimportowana przy otwarciu profilu.
-qt-misc-default = Domyślna
 qt-misc-empty-cards = Puste karty...
 qt-misc-error-during-startup = Błąd podczas uruchamiania: { $val }
-qt-misc-filtered-deck = Talia filtrowana { $val }
 qt-misc-ignore-this-update = Ignoruj tę aktualizację
 qt-misc-in-order-to-ensure-your-collection = Aby zapewnić, że Twoja kolekcja działa poprawnie na wszystkich urządzeniach, Anki potrzebuje poprawnie ustawionego zegara systemowego. Zegar systemowy może chodzić źle nawet jeśli Twój system pokazuje poprawny czas lokalny.  Otwórz ustawienia czasu swojego komputera i sprawdź:  - AM/PM - spóźnienie zegara - dzień, miesiąc i rok - strefę czasową - czas zimowy/letni  Różnica w stosunku do poprawnego czasu: { $val }
 qt-misc-invalid-property-found-on-card-please = Karta zawiera nieprawidłową wartość. Uruchom Narzędzia->Sprawdź bazę danych, jeśli problem powtórzy się, zadaj pytanie na stronie wsparcia technicznego.
@@ -41,7 +39,7 @@ qt-misc-please-use-fileimport-to-import-this = Użyj Plik>Import, by zaimportowa
 qt-misc-processing = Przetwarzanie...
 qt-misc-replace-your-collection-with-an-earlier = Zastąpić kolekcję przez poprzednią kopię zapasową?
 qt-misc-revert-to-backup = Przywróć kopię zapasową
-qt-misc-reverted-to-state-prior-to = Przywrócono do stanu sprzed '{ $val }'.
+# please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = Przytrzymano klawisz Shift. Pomijanie automatycznej synchronizacji i ładowania dodatków.
 qt-misc-shortcut-key-left-arrow = Klawisz skrótu: Strzałka w lewo
@@ -55,9 +53,6 @@ qt-misc-the-requested-change-will-require-a = Żądana zmiana wymagać będzie p
 qt-misc-there-must-be-at-least-one = Musi istnieć przynajmniej jeden profil.
 qt-misc-this-file-exists-are-you-sure = Plik już istnieje. Na pewno chcesz go nadpisać?
 qt-misc-unable-to-access-anki-media-folder = Odmowa dostępu do folderu plików Anki. Być może uprawnienia do systemowego katalogu tymczasowego są niepoprawne.
-qt-misc-unable-to-move-existing-file-to = Nie udało się przenieść pliku do kosza - spróbuj zrestartować komputer
-qt-misc-undo = Cofnij
-qt-misc-undo2 = Cofnij { $val }
 qt-misc-unexpected-response-code = Niespodziewany kod odpowiedzi: { $val }
 qt-misc-would-you-like-to-download-it = Czy chcesz pobrać ją teraz?
 qt-misc-your-collection-file-appears-to-be = Twój plik kolekcji wydaje się być zepsuty. Może to nastąpić przez kopiowanie lub przenoszenie pliku gdy Anki działa albo gdy kolekcja jest przechowywana na dysku sieciowym lub w chmurze. Jeśli problem  nie zniknie po ponownym uruchomieniu komputera, użyj opcji automatycznej kopii zapasowej w menedżerze profili.
@@ -79,5 +74,3 @@ qt-misc-second =
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
-qt-misc-resume-now = Wznów teraz
-qt-misc-waiting-for-editing-to-finish = Oczekiwanie na zakończenie edycji.
