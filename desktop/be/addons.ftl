@@ -35,6 +35,7 @@ addons-no-updates-available = Няма даступных абнаўленняў
 addons-one-or-more-errors-occurred = Адбылася адна ці больш памылак:
 addons-packaged-anki-addon = Спакаваны дадатковы кампанент Anki
 addons-please-check-your-internet-connection = Праверце сваё інтэрнэт-злучэнне.
+addons-please-restart-anki-to-complete-the = <b>Перазапусціце Anki, каб завяршыць усталяванне.</b>
 addons-please-select-a-single-addon-first = Спачатку выберыце адзін дадатковы кампанент.
 addons-requires = (патрабуецца { $val })
 addons-restored-defaults = Адноўленыя перадвызначаныя параметры
