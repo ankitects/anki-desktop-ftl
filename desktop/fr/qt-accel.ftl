@@ -32,3 +32,7 @@ qt-accel-redo = &Avancer
 qt-accel-set-due-date = Définir une &date d’échéance
 qt-accel-forget = &Oublier
 qt-accel-view = %Vue
+qt-accel-full-screen = Basculer en &Plein écran
+qt-accel-zoom-in = &Zoomer
+qt-accel-zoom-out = &Dézoomer
+qt-accel-create-backup = Créer une &Sauvegarde
