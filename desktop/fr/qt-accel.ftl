@@ -35,6 +35,7 @@ qt-accel-view = &Affichage
 qt-accel-full-screen = Basculer en &Plein écran
 qt-accel-zoom-in = &Zoomer
 qt-accel-zoom-out = &Dézoomer
+qt-accel-reset-zoom = Zoom par défau&t
 qt-accel-zoom-editor-in = &Zoomer l'éditeur
 qt-accel-zoom-editor-out = &Dézoomer l'éditeur
 qt-accel-create-backup = Créer une &Sauvegarde
