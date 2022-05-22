@@ -5,4 +5,4 @@ profiles-folder-readme =
     
     { $link }
 # will appear as 'Downgrade & Quit'
-profiles-downgrade-and-quit = Bajar de versión y salir
+profiles-downgrade-and-quit = Bajar a una versión anterior de Anki y salir
