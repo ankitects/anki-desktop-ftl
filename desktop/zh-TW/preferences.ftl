@@ -3,6 +3,6 @@
 preferences-video-driver = 視訊驅動程式：{ $driver }
 preferences-video-driver-opengl-mac = OpenGL (推薦 Mac 使用)
 preferences-video-driver-software-mac = 軟體 (不推薦)
-preferences-video-driver-opengl-other = OpenGL (較快，可能出錯)
+preferences-video-driver-opengl-other = OpenGL (較快，可能出現錯誤)
 preferences-video-driver-software-other = 軟體 (較慢)
 preferences-video-driver-angle = ANGLE (可能優於 OpenGL)
