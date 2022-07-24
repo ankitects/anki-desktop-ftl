@@ -1,6 +1,6 @@
 addons-possibly-involved = アドオンが関連している可能性があります：{ $addons }
 addons-failed-to-load =
-    インストールしたアドオンの読み込みに失敗しました。問題が続く場合は、メニューバーの[ツール]→[アドオン...]で表示されるアドオン管理画面で、そのアドオンを無効化するか削除してください。
+    インストールしたアドオンの読み込みに失敗しました。問題が続く場合は、メニューバーの[ツール]→[アドオン]で表示されるアドオン管理画面で、そのアドオンを無効化するか削除してください。
     
     '{ $name }' 読み込みの際:
     { $traceback }
@@ -10,7 +10,6 @@ addons-config-validation-error = 与えられた条件の設定に問題があ�
 addons-window-title = アドオン
 addons-addon-has-no-configuration = このアドオンの設定は変更できません。
 addons-addon-installation-error = アドオンインストールのエラー
-addons-addon-was-not-downloaded-from-ankiweb = アドオンがAnkiWebからダウンロードされませんでした。
 addons-browse-addons = アドオン一覧
 addons-changes-will-take-effect-when-anki = 変更を反映させるにはAnkiを再起動してください。
 addons-check-for-updates = 既存アドオンのアップデート
