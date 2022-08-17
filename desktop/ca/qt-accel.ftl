@@ -1,6 +1,6 @@
 qt-accel-about = &Quant a...
 qt-accel-cards = &Targetes
-qt-accel-check-database = &verificar la Base de dades
+qt-accel-check-database = &Verifica la base de dades
 qt-accel-check-media = Comprovar &multimèdia...
 qt-accel-edit = &Edita
 qt-accel-exit = &Surt
@@ -24,7 +24,7 @@ qt-accel-preferences = &Preferències...
 qt-accel-previous-card = Targeta &anterior
 qt-accel-select-all = Selecciona-ho &tot
 qt-accel-select-notes = Seleccionar &Notes
-qt-accel-support-anki = &Dóna suport  a Anki...
+qt-accel-support-anki = &Dona suport a Anki…
 qt-accel-switch-profile = &Canviar de perfil
 qt-accel-tools = &Eines
 qt-accel-undo = Desfés (&U)
