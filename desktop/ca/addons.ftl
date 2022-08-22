@@ -1,67 +1,67 @@
-addons-possibly-involved = Complements potencialment involucrats: { $addons }
+addons-possibly-involved = Complements que potser hi estan involucrats: { $addons }
 addons-failed-to-load =
-    Una extensió que has instalat ha fallat al carregar-se. Si els problemes persisteixen, sisplau ves a Eines>Menú d'extensions o deshabilita aquesta extensió.
+    Un complement que heu instal·lat no s'ha pogut carregar. Si aquest problema persisteix, deshabiliteu-lo en el menú Eines > Complements.
     
-    Mentres carregant '{ $name }'
+    Mentre es carregava '{ $name }'
     { $traceback }
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
-addons-config-window-title = Configurar '{ $name }'
-addons-config-validation-error = Hi va hagut un problema amb la configuració proporcionada: { $problem }, en la ruta { $path }, contra l'esquema { $schema }.
+addons-config-window-title = Configura '{ $name }'
+addons-config-validation-error = Hi ha hagut un problema amb la configuració que heu proporcionat: { $problem }, en la ruta { $path }, contra l'esquema { $schema }.
 addons-window-title = Complements
-addons-addon-has-no-configuration = El complement no te cap configuració
-addons-addon-installation-error = Error de la instal·lació del complement
-addons-browse-addons = Navegar complements
-addons-changes-will-take-effect-when-anki = Els canvis tindran efecte quen l'Anki es reiniciï
+addons-addon-has-no-configuration = Aquest complement no té cap configuració.
+addons-addon-installation-error = S'ha produït un error en instal·lar el complement
+addons-browse-addons = Explora els complements
+addons-changes-will-take-effect-when-anki = Els canvis s'aplicaran quan reinicieu Anki.
 addons-check-for-updates = Comprova si hi ha actualitzacions
-addons-checking = S'està comprovant...
+addons-checking = S'està comprovant…
 addons-code = Codi:
-addons-config = Config.
+addons-config = Configuració
 addons-configuration = Configuració
-addons-corrupt-addon-file = L'arxiu del complement està danyat.
-addons-disabled = (deshabilitat)
+addons-corrupt-addon-file = El fitxer del complement està malmès.
+addons-disabled = (desactivat)
 addons-disabled2 = (desactivat)
-addons-download-complete-please-restart-anki-to = Descarga completada. Reinicia Anki per aplicar els canvis.
-addons-downloaded-fnames = s'ha descargat { $fname }
-addons-downloading-adbd-kb02fkb = Descargant { $part }/{ $total } ({ $kilobytes }KB)...
-addons-error-downloading-ids-errors = Error al descargar <i>{ $id }</i>: { $error }
-addons-error-installing-bases-errors = Error al instal·lar <i>{ $base }</i>: { $error }
-addons-get-addons = Conseguir extensions...
-addons-important-as-addons-are-programs-downloaded = <b>Important</b>: Com que els complements son programes descargats d'Internet, son potencialment maliciosos.<b>Instal·li només els complements en els que confii.</b><br><br>Està segur de que vol continuar amb la instal·lació del(s) següent(s) complement(s) Anki?<br><br>%(names)s
-addons-install-addon = Intalar complement
-addons-install-addons = Instal·lar complement(s)
-addons-install-anki-addon = Instal·lar complement d'Anki
-addons-install-from-file = Instal·lar des d'un arxiu…
-addons-installation-complete = Instal·lació completada
+addons-download-complete-please-restart-anki-to = S'ha completat la descàrrega. Reinicieu Anki per a aplicar els canvis.
+addons-downloaded-fnames = S'ha descarregat { $fname }
+addons-downloading-adbd-kb02fkb = S'està descarregant { $part }/{ $total } ({ $kilobytes } KB)…
+addons-error-downloading-ids-errors = S'ha produït un error en descarregar <i>{ $id }</i>: { $error }
+addons-error-installing-bases-errors = S'ha produït un error en instal·lar <i>{ $base }</i>: { $error }
+addons-get-addons = Descarrega complements…
+addons-important-as-addons-are-programs-downloaded = <b>Important</b>: els complements que descarregueu d'internet poden contenir programari maliciós.<b>Instal·leu només aquells complements en què confieu.</b><br><br>Esteu segur que voleu continuar amb la instal·lació del(s) següent(s) complement(s) d'Anki?<br><br>%(names)s
+addons-install-addon = Instal·la el complement
+addons-install-addons = Instal·la el(s) complement(s)
+addons-install-anki-addon = Instal·la un complement d'Anki
+addons-install-from-file = Instal·la des d'un fitxer…
+addons-installation-complete = S'ha completat la instal·lació
 addons-installed-names = S'ha instal·lat { $name }
-addons-installed-successfully = Instal·lat correctament.
+addons-installed-successfully = S'ha instal·lat correctament.
 addons-invalid-addon-manifest = El manifiest del complement no es vàlid.
-addons-invalid-code = Còdig no vàlid.
-addons-invalid-code-or-addon-not-available = Codi invàlid, o l'extensió no està disponible per a la teva versió d'Anki.
-addons-invalid-configuration = Configuració no válida:
-addons-invalid-configuration-top-level-object-must = Configuració invàlida: L'objete del nivel superior ha de ser un mapa
+addons-invalid-code = El codi no és vàlid.
+addons-invalid-code-or-addon-not-available = El codi no és vàlid o l'extensió no està disponible per a la vostra versió d'Anki.
+addons-invalid-configuration = Configuració no vàlida:
+addons-invalid-configuration-top-level-object-must = Configuració no vàlida: l'objecte del nivell superior ha de ser un mapa
 addons-no-updates-available = No hi ha actualitzacions disponibles.
-addons-one-or-more-errors-occurred = Un o més errors han ocorregut:
+addons-one-or-more-errors-occurred = S'han produït un o més errors:
 addons-packaged-anki-addon = Complement empaquetat d'Anki
-addons-please-check-your-internet-connection = Si us plau, comprovi la seva connexió a Internet.
-addons-please-report-this-to-the-respective = INformi d'aixó als respectius autors del complement.
-addons-please-restart-anki-to-complete-the = <b>Sisplau, reinicia Anki para completar la instal·lació.</b>
-addons-please-select-a-single-addon-first = Primer seleccini un únic complement.
+addons-please-check-your-internet-connection = Comproveu la vostra connexió a internet.
+addons-please-report-this-to-the-respective = Informeu-ne els autors del complement.
+addons-please-restart-anki-to-complete-the = <b>Reinicieu Anki per a completar la instal·lació.</b>
+addons-please-select-a-single-addon-first = Primer heu de seleccionar un sol complement.
 addons-requires = (requereix { $val })
-addons-restored-defaults = S'an restaurat la configuració per defecte
-addons-the-following-addons-are-incompatible-with = Els següents complements són incompatibles { $name } i s'han desactivat: { $found }
-addons-the-following-addons-have-updates-available = Els següents complements tenen actualitzacions disponibles. Instal·lar-les ara?
-addons-the-following-conflicting-addons-were-disabled = Els següents complements son incompatibles i s'han desactivat:
-addons-this-addon-is-not-compatible-with = Aquest complement no és compatible amb la teva versió d'Anki.
-addons-to-browse-addons-please-click-the = Per explorar extensions, sisplau fes clic al butó més abaix. <br><br>Quan haguis trobat una extensió que t'interesi, engantza el codi aqui abaix. Pots engantzar varis codis, separats per un espai.
-addons-toggle-enabled = Commuta Habilitar
-addons-unable-to-update-or-delete-addon = No es pot actualitzar ni eliminar el complement. Si us plau, inicii Anki mantenint premuda la tecla Mayús per desactivar temporalment els complements, i a continuació, intanta-ho de nou.   Informació de depuració: { $val }
-addons-unknown-error = Error desconegut: { $val }
-addons-view-addon-page = Visitar pàguina de la extensió
-addons-view-files = Visualitza fitxers
+addons-restored-defaults = S'ha restaurat la configuració per defecte
+addons-the-following-addons-are-incompatible-with = Els següents complements no són compatibles amb { $name } i s'han desactivat: { $found }
+addons-the-following-addons-have-updates-available = Els següents complements tenen actualitzacions disponibles. Voleu instal·lar-les ara?
+addons-the-following-conflicting-addons-were-disabled = Els següents complements no són compatibles i s'han desactivat:
+addons-this-addon-is-not-compatible-with = Aquest complement no és compatible amb la vostra versió d'Anki.
+addons-to-browse-addons-please-click-the = Per a explorar els complements, feu clic en el botó de davall. <br><br>Quan trobeu un complement que us interessi, introduïu-ne el codi a sota. Podeu introduir-hi diveros codis separats per un espai.
+addons-toggle-enabled = Activa/desactiva
+addons-unable-to-update-or-delete-addon = No s'ha pogut actualitzar ni eliminar el complement. Inicieu Anki mentre manteniu premuda la tecla de majúscules per a desactivar temporalment els complements i torneu-ho a intentar.   Informació de depuració: { $val }
+addons-unknown-error = S'ha produït un error desconegut: { $val }
+addons-view-addon-page = Consulta la pàgina del complement
+addons-view-files = Visualitza'n els fitxers
 addons-delete-the-numd-selected-addon =
     { $count ->
-        [one] Eliminar la { $count } extensió seleccionada?
-       *[other] Eliminar les { $count } extensions seleccionades?
+        [one] Voleu eliminar aquest complement?
+       *[other] Voleu eliminar els { $count } complements que heu seleccionat?
     }
 addons-choose-update-window-title = Actualitza els complements
 addons-choose-update-update-all = Actualitza-ho tot
