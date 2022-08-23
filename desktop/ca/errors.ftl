@@ -2,41 +2,41 @@
 errors-standard-popup =
     # Error
     
-    S'ha produït un error. Feu servir **Eines> Comprovar la base de dades ** per veure si
-    es soluciona el problema.
+    S'ha produït un error. Feu servir **«Eines > Comprova la base de dades»**
+    per a tractar de solucionar el problema.
     
-    Si els problemes continuen, informi del problema al nostre { -errors-support-site } .
-    Copii i enganxi la informació següent al vostre informe.
--errors-addon-support-site = [lloc de suport d'extensions](https://help.ankiweb.net/discussions/add-ons/)
+    Si el problema persisteix, informeu-ne mitjançant el nostre { -errors-support-site }.
+    Copieu i enganxeu la informació següent en el vostre informe:
 errors-addons-active-popup =
     # Error
     
-    S'ha produït un error. Inicii Anki mantenint premuda la tecla majúscula, 
-    que desactivarà temporalment els complements que te instal·lats.
+    S'ha produït un error. Inicieu Anki mentre manteniu premuda la tecla de majúscules
+    per a desactivar temporalment els complements que heu instal·lat.
     
-    Si el problema només es produeix quan els complements estan habilitats, utilitzi
-    Eines> Menú de complements per desactivar alguns complements i reiniciar Anki, 
-    repetint el procés fins a que descobreixi el complement que causa el problema.
+    Si el problema només es produeix quan els complements estan habilitats, feu servir
+    el menú «Eines > Complements» per a desactivar alguns complements i reinicieu Anki.
+    Repetiu aquest procés fins que descobriu quin complement provoca el problema.
     
-    Quan hagi descobert el complement que causa el problema,
-    informi del problema a { -errors-addon-support-site } .
+    Quan l'hàgiu descobert, informeu-ne l'autor del complement.
     
     Informació de depuració:
 errors-accessing-db =
-    S'ha produït un error al accedir a la base de dades.
-    
+    S'ha produït un error en accedir a la base de dades.
     
     Causes possibles:
     
-    - Antivirus, talla-focs, còpia de segurerat o programari de sincronització pot interferir amb Anki. Intenti deshabilitar l'esmentat anteriorment per tal de veure si els problemes desapareixen.
-    - El seu disc dur està ple.
-    - Els documents o la carpeta de l'Anki estan en un disc dur en línia.
-    - Els arxius o la carpeta de l'Anki no poden ser escrits.
-    - EL seu disc dur pot tenir problemes.
+    - Els programes antivirus, els tallafocs, les còpies de segurerat i el programari de sincronització poden interferir amb Anki. Intenteu deshabilitar aquests programes i comproveu si s'ha resolt el problema.
+    - El disc dur està ple.
+    - La carpeta «Documents/Anki» està en un disc dur compartit en xarxa.
+    - Els fitxers o la carpeta d'Anki no tenen permís d'escriptura.
+    - El disc dur té problemes.
     
-    És bona idea executar Eines->Comprovar base de dades per tal de assegurar-se que la seva base de dades no está corrupte.
+    Feu servir el menú «Eines > Verifica la base de dades» per a assegurar-vos que la vostra base de dades no està malmesa.
 errors-unable-open-collection =
-    Anki ha estat incapaç d'obrir la seva col·lecció. Si els problemes persisteixen després de reiniciar el seu ordinador, sisplau utilitzi el butó d'obrir còpies de seguretat del gestor de perfils. 
+    Anki no ha pogut obrir la vostra col·lecció. Si reinicieu l'ordinador i el problema persisteix, feu servir el el botó «Obre una còpia de seguretat…» del gestor de perfils.
     
     Informació de depuració:
-errors-windows-tts-runtime-error = El servei de conversió de text a parla ha fallat. Assegureu-vos que les actualitzacions de Windows estiguin instal·lades, proveu de reiniciar l'ordinador o bé una veu diferent.
+errors-windows-tts-runtime-error = El servei de síntesi de veu ha fallat. Assegureu-vos que el Windows està actualitzat, proveu de reiniciar l'ordinador o feu servir una veu diferent.
+
+## OBSOLETE; you do not need to translate this
+

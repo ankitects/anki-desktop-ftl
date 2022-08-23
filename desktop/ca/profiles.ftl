@@ -1,7 +1,7 @@
 profiles-folder-readme =
     En aquesta carpeta s'emmagatzema tota la informació d'Anki.
-    Per tal de facilitar-ne les còpies de seguretat, només es fa servir aquesta localització.
-    Per a indicar una localització diferent, consulteu:
+    Per a facilitar-ne les còpies de seguretat, només es fa servir aquesta localització.
+    Si voleu indicar-ne una localització diferent, consulteu:
     
     { $link }
 # will appear as 'Downgrade & Quit'
