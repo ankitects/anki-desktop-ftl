@@ -38,7 +38,7 @@ qt-misc-please-select-a-deck = Seleccioneu un mall.
 qt-misc-please-use-fileimport-to-import-this = Feu servir el menú «Fitxer > Importa» per a importar aquest fitxer.
 qt-misc-processing = S'està processant…
 qt-misc-replace-your-collection-with-an-earlier = Voleu substituir la vostra col·lecció per una còpia de seguretat anterior?
-qt-misc-revert-to-backup = Reverteix a una còpia de seguretat
+qt-misc-revert-to-backup = Restaura una còpia de seguretat
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = Heu premut la tecla de majúscules. Anki s'ha saltat la sincronització automàtica i no ha carregat cap complement.
