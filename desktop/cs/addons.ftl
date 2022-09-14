@@ -10,7 +10,6 @@ addons-config-validation-error = Nastal problém s poskytnutým nastavením: { $
 addons-window-title = Doplňky
 addons-addon-has-no-configuration = Doplněk nemá žádné nastavení.
 addons-addon-installation-error = Chyba instalace doplňku
-addons-addon-was-not-downloaded-from-ankiweb = Doplněk nebyl stažen z AnkiWebu.
 addons-browse-addons = Procházet doplňky
 addons-changes-will-take-effect-when-anki = Změny se projeví po restartování Anki.
 addons-check-for-updates = Zkontrolovat aktualizace
@@ -61,9 +60,9 @@ addons-view-addon-page = Zobrazit stránku doplňku
 addons-view-files = Zobrazit soubory
 addons-delete-the-numd-selected-addon =
     { $count ->
-        [one] Smazat { $count } vybraný doplněk?
-        [few] Smazat { $count } vybrané doplňky?
-       *[other] Smazat { $count } vybraných doplňků?
+        [one] Odstranit { $count } vybraný doplněk?
+        [few] Odstranit { $count } vybrané doplňky?
+       *[other] Odstranit { $count } vybraných doplňků?
     }
 addons-choose-update-window-title = Aktualizovat doplňky
 addons-choose-update-update-all = Aktualizovat vše

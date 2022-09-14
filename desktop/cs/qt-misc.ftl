@@ -1,6 +1,6 @@
 qt-misc-addon-will-be-installed-when-a = Doplněk se nainstaluje při otevření profilu.
 qt-misc-addons = Doplňky
-qt-misc-all-cards-notes-and-media-for = Všechny karty, poznámky a média tohoto profilu budou smazány. Jste si jistý?
+qt-misc-all-cards-notes-and-media-for = Všechny karty, poznámky a média tohoto profilu budou odstraněny. Jste si jistý?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki aktualizováno</h1>Byla vydána Anki verze { $val }.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = Automatická synchronizace a zálohování byly zrušeny během procesu obnovení. Pro obnovení těchto nastavení zavřete profil, nebo restartujte Anki.
 qt-misc-back-side-only = Pouze zadní strana
@@ -56,7 +56,7 @@ qt-misc-unable-to-access-anki-media-folder = Nelze přistoupit ke složce s méd
 qt-misc-unexpected-response-code = Neočekávaný kód odpovědi: { $val }
 qt-misc-would-you-like-to-download-it = Chcete ji stáhnout nyní?
 qt-misc-your-collection-file-appears-to-be = Váš soubor kolekce se jeví jako poškozený. To může nastat, když se soubor kopíruje nebo přesouvá, zatímco je Anki otevřeno, nebo když je kolekce uložena na síti nebo kloudovém disku. Jestliže problém přetrvává po restartování vašeho počítače, prosím otevřete automatickou zálohu z obrazovky s profily.
-qt-misc-your-computers-storage-may-be-full = Úložiště počítače může být plné. Smažte prosím některé nechtěné soubory, poté to zkuste znovu.
+qt-misc-your-computers-storage-may-be-full = Úložiště počítače může být plné. Odstraňte prosím některé nechtěné soubory, poté to zkuste znovu.
 qt-misc-your-firewall-or-antivirus-program-is = Váš firewall nebo antivirus program brání Anki vytvořit připojení. Prosím přidejte výjimku pro Anki.
 qt-misc-error = Chyba
 qt-misc-no-temp-folder = Nenalezena žádná použitelná dočasná složka. Ujistěte se, že C:\\temp existuje nebo TEMP ve vašem prostředí odkazuje na platný, zapisovatelný adresář.
