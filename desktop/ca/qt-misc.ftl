@@ -69,6 +69,9 @@ qt-misc-second =
         [one] Un segon
        *[other] { $count } segons
     }
+qt-misc-layout-auto-enabled = S'ha activat la disposició responsiva
+qt-misc-layout-vertical-enabled = S'ha activat la disposició vertical
+qt-misc-layout-horizontal-enabled = S'ha activat la disposició horitzontal
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
