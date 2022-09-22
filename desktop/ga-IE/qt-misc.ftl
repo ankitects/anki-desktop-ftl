@@ -16,10 +16,8 @@ qt-misc-copy-to-clipboard = Cóipeáil don ghearrthaisce
 qt-misc-create-filtered-deck = Cruthaigh paca scagtha...
 qt-misc-debug-console = Consól Dífhabhtaithe
 qt-misc-deck-will-be-imported-when-a = Déanfar an paca a iompórtáil nuair a osclaítear próifíl.
-qt-misc-default = Réamhshocrú
 qt-misc-empty-cards = Cártaí Folmha...
 qt-misc-error-during-startup = Earráid i rith tosú: { $val }
-qt-misc-filtered-deck = Paca Scagtha { $val }
 qt-misc-ignore-this-update = Déan neamhaird ar an nuashonrú seo
 qt-misc-in-order-to-ensure-your-collection = Chun cinntiú go bhfeidhmíonn do chnuasach i gceart nuair a aistrítear idir gléasanna é, teastaíonn ó Anki go raibh do chlog cruinn. D'fhéadfaí an clog a bheith míchruinn fiú agus an t-am ceart á thaispeáint ar do chóras.<br><br>Téigh chuig roghanna ama ar do ríomhaire agus seiceáil:<br><br>- AM/PM<br>- Féithiú cloig<br>- Lá, mí agus bliain<br>- Amchrios<br>- Am coigilte sholas an lae<br>Difear ón am cruinn: { $val }.
 qt-misc-invalid-property-found-on-card-please = Airí neamhbhailí ar an gcárta. Bain triail as Uirlisí>Seiceáil Bunachar Sonraí, agus má bhíonn an deacracht seo arís agat, cuir ceist ar an láithreán tacaíochta.
@@ -41,7 +39,7 @@ qt-misc-please-use-fileimport-to-import-this = Úsáid Comhad>Iompórtáil chun 
 qt-misc-processing = Ag próiseáil...
 qt-misc-replace-your-collection-with-an-earlier = Cuir cóip chúltaca níos sine in áit do chnuasach?
 qt-misc-revert-to-backup = Fill ar chúltacú
-qt-misc-reverted-to-state-prior-to = Fillte chuig staid roimh '{ $val }'.
+# please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = SHIFT brúite. Fágfar sioncronú agus breiseáin ar lár an uair seo.
 qt-misc-shortcut-key-left-arrow = Cnaipe aicearra: Saighead chlé
@@ -55,9 +53,6 @@ qt-misc-the-requested-change-will-require-a = I gcás an athraithe seo, teastói
 qt-misc-there-must-be-at-least-one = Teastaíonn próifíl amháin ar a laghad.
 qt-misc-this-file-exists-are-you-sure = Tá an comhad seo ann cheana. An bhfuil tú cinnte gur mian leat é a fhorscríobh?
 qt-misc-unable-to-access-anki-media-folder = Níl rochtain ar fhillteán meáin Anki. Seiceáil na ceadanna ar an bhfillteán sealadach ar do ríomhaire.
-qt-misc-unable-to-move-existing-file-to = Ní féidir an comhad a aistriú chuig an mbruscar - atosaigh an ríomhaire.
-qt-misc-undo = Cealaigh
-qt-misc-undo2 = Cealaigh { $val }
 qt-misc-unexpected-response-code = Cód freagra mí-oiriúnach: { $val }
 qt-misc-would-you-like-to-download-it = Íoslódáil anois?
 qt-misc-your-collection-file-appears-to-be = Is cosúil go bhfuil comhad an chnuasaigh truaillithe. D'fheádfadh sé seo tarlú nuair a chóipeáiltear (nó a bhogtar) an comhad agus Anki ar oscailt, nó nuair atá an cnuasach lonnaithe ar thiomántán líonra nó ar néalthiomántán. Má bhíonn an deacracht seo fós ann tar éis an ríomhaire a atosú, oscail cúltacú uathoibríoch ón bhfuinneog phróifíle.
@@ -77,9 +72,10 @@ qt-misc-second =
         [many] { $count } soicind
        *[other] { $count } soicind
     }
+qt-misc-layout-auto-enabled = Leagan amach freagrúil i bhfeidhm
+qt-misc-layout-vertical-enabled = Leagan amach ingearach i bhfeidhm
+qt-misc-layout-horizontal-enabled = Leagan amach cothramánach i bhfeidhm
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
-qt-misc-resume-now = Fill Ar an Staidéar
-qt-misc-waiting-for-editing-to-finish = Ag fanacht ar eagarthóireacht
