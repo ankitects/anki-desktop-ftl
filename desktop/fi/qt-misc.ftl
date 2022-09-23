@@ -53,7 +53,6 @@ qt-misc-the-requested-change-will-require-a = Pyytämäsi muutos vaatii tietokan
 qt-misc-there-must-be-at-least-one = On luotava vähintään yksi käyttäjätili.
 qt-misc-this-file-exists-are-you-sure = Tiedosto on olemassa. Haluatko korvata sen?
 qt-misc-unable-to-access-anki-media-folder = Anki-mediakansioon ei päästä käsiksi. Järjestelmäsi väliaikaisen kansion käyttöoikeudet voivat olla virheelliset.
-qt-misc-unable-to-move-existing-file-to = Olemassa olevaa tiedostoa ei voida siirtää roskakoriin – yritä käynnistää tietokone uudelleen.
 qt-misc-unexpected-response-code = Odottamaton vastauskoodi: { $val }
 qt-misc-would-you-like-to-download-it = Haluatko ladata sen nyt?
 qt-misc-your-collection-file-appears-to-be = Kokoelmatiedostosi näyttää olevan vioittunut. Näin voi tapahtua, kun tiedosto kopioidaan tai siirretään Ankin ollessa auki tai kun kokoelma on tallennettu verkko- tai pilvipalveluun. Jos ongelmat jatkuvat tietokoneen uudelleenkäynnistämisen jälkeen, avaa automaattinen varmuuskopio profiilinäkymästä.
@@ -70,6 +69,9 @@ qt-misc-second =
         [one] { $count } sekunti
        *[other] { $count } sekuntia
     }
+qt-misc-layout-auto-enabled = Automaattinen asettelu käytössä
+qt-misc-layout-vertical-enabled = Pystysuuntainen asettelu käytössä
+qt-misc-layout-horizontal-enabled = Vaakasuuntainen asettelu käytössä
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
