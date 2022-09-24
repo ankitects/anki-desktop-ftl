@@ -68,6 +68,9 @@ qt-misc-second =
     { $count ->
        *[other] { $count } 秒鐘
     }
+qt-misc-layout-auto-enabled = 已啟用適應性佈局
+qt-misc-layout-vertical-enabled = 已啟用垂直佈局
+qt-misc-layout-horizontal-enabled = 已啟用水平佈局
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
