@@ -52,7 +52,6 @@ qt-misc-the-requested-change-will-require-a = 更改后，下次同步时需将�
 qt-misc-there-must-be-at-least-one = 请至少保留一个账户。
 qt-misc-this-file-exists-are-you-sure = 文件已存在。是否覆盖?
 qt-misc-unable-to-access-anki-media-folder = 无法访问Anki媒体文件夹。系统临时文件夹权限可能不正确。
-qt-misc-unable-to-move-existing-file-to = 无法将现有文件移至回收站 - 请尝试重启电脑。
 qt-misc-unexpected-response-code = 未知响应代码：{ $val }
 qt-misc-would-you-like-to-download-it = 是否立即下载？
 qt-misc-your-collection-file-appears-to-be = 集合文件可能已经损坏。在Anki运行时复制、移动集合或将集合存储在网络或云盘时可能发生上述情况。如果在重启电脑后仍未解决，请在账户界面打开一个自动备份。
@@ -68,6 +67,9 @@ qt-misc-second =
     { $count ->
        *[other] { $count }秒
     }
+qt-misc-layout-auto-enabled = 已启用响应布局
+qt-misc-layout-vertical-enabled = 已启用垂直布局
+qt-misc-layout-horizontal-enabled = 已启用水平布局
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
