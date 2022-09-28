@@ -70,6 +70,9 @@ qt-misc-second =
         [few] { $count } sekundy
        *[other] { $count } sekund
     }
+qt-misc-layout-auto-enabled = Reagující rozložení povoleno
+qt-misc-layout-vertical-enabled = Vertikální rozložení povoleno
+qt-misc-layout-horizontal-enabled = Horizontální rozložení povoleno
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
