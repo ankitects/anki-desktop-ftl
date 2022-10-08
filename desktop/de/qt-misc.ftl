@@ -68,6 +68,9 @@ qt-misc-second =
         [one] { $count } Sekunde
        *[other] { $count } Sekunden
     }
+qt-misc-layout-auto-enabled = Responsives Layout aktiviert
+qt-misc-layout-vertical-enabled = Vertikales Layout aktiviert
+qt-misc-layout-horizontal-enabled = Horizontales Layout aktiviert
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
