@@ -1,6 +1,6 @@
 about-a-big-thanks-to-all-the = 謹向所有曾提供建議、回報錯誤與贊助資金的各位致以莫大的感謝。
 about-about-anki = 關於 Anki
-about-anki-is-a-friendly-intelligent-spaced = Anki 是個好用、智慧型的間隔式學習系統，免費且開放原始碼。
+about-anki-is-a-friendly-intelligent-spaced = Anki 是個好用的智慧型間隔式學習系統，免費且開放原始碼。
 about-anki-is-licensed-under-the-agpl3 = Anki 採用 AGPL-3.0 授權條款。更多資訊請參閱軟體原始碼的授權檔案。
 about-copied-to-clipboard = 已複製到剪貼簿
 about-copy-debug-info = 複製除錯資訊
