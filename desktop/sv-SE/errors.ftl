@@ -1,3 +1,4 @@
+-errors-support-site = [hjälpsida](https://help.ankiweb.net)
 errors-accessing-db =
     Ett fel inträffade medan när databasen försöket kommas åt. 
     
@@ -14,3 +15,6 @@ errors-unable-open-collection =
     Anki kunde inte öppna filen med din samling. Om problemet kvarstår när du startat om din dator, vänligen använd "Öppna säkerhetskopia" i profilhanteraren.
     
     Debuginformation:
+
+## OBSOLETE; you do not need to translate this
+
