@@ -11,23 +11,23 @@ errors-standard-popup =
 errors-addons-active-popup =
     <h1>Error</h1>
     
-    <p> Se ha producido un error. Por favor inicia la Anki manteniendo presionadas ples teclas Mayús y la flecha hacia abajo, lo que desactivará temporalmente los extensiones que tienes instaladas. </p>
+    <p>Se ha producido un error. Por favor inicia la Anki manteniendo presionadas ples teclas Mayús y la flecha hacia abajo, lo que desactivará temporalmente los extensiones que tienes instaladas.</p>
     
-    <p> Si este error persiste sólo cuando tienes las extensiones activadas, utiliza Herramientas > Menú de Extensiones para deshabilitar alguna extensión y reinicia el Anki, repitiendo este proceso hasta que descubras qué extensión en concreto es la que causa el problema </p>
+    <p>Si este error persiste sólo cuando tienes las extensiones activadas, utiliza Herramientas > Menú de Extensiones para deshabilitar alguna extensión y reinicia el Anki, repitiendo este proceso hasta que descubras qué extensión en concreto es la que causa el problema</p>
     
-    <p> Cuando hayas descubierto la extensión que causaba el problema, por favor informa de esto a { -errors-addon-support-site }. </p>
+    <p>Cuando hayas descubierto la extensión que causaba el problema, por favor informa de esto a { -errors-addon-support-site }.</p>
     
-    <p>Información de depuración: </p>
+    <p>Información de depuración:</p>
 errors-accessing-db =
     Ha ocurrido un error accediendo a la base de datos.
     
     Posibles causas:
     
-    -  Un antivirus, cortafuegos o software para sincronizar archivos puede estar interfiriendo con Anki. Prueba a desactivarlos y mira si el problema desaparece.
+    - Un antivirus, cortafuegos o software para sincronizar archivos puede estar interfiriendo con Anki. Prueba a desactivarlos y mira si el problema desaparece.
     - Tu disco duro puede estar lleno.
-    -  La carpeta Documentos/Anki puede estar compartida en red.
+    - La carpeta Documentos/Anki puede estar compartida en red.
     - Los archivos en la carpeta Documentos/Anki pueden no tener permiso de escritura.
-    -  Tu disco duro puede tener errores.
+    - Tu disco duro puede tener errores.
     
     Es una buena idea ejecutar Herramientas>Comprobar base de datos para asegurar que tu colección no está corrupta.
 errors-unable-open-collection =
