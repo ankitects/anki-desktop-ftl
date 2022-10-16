@@ -6,7 +6,7 @@ errors-accessing-db =
     
     -Antivirus-, brandvägg-, backup- eller synkroniseringsprogram kan störa Anki. Försök att avaktivera sådan programvara och se om problemet löses.
     -Din hårddisk kan vara full.
-    - Mappen Dokument/Anki kan befinna sig på en nätverksenhet.
+    -Mappen Dokument/Anki kan befinna sig på en nätverksenhet.
     -Filer i mappen Dokument/Anki kan vara skrivskyddade.
     -Din hårddisk kan ha defekter.
     
