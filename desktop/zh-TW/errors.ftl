@@ -31,7 +31,7 @@ errors-unable-open-collection =
     Anki 無法打開你的集合檔案。若問題在重新啟動電腦後仍然存在，請使用設定檔管理器內的「打開備份」按鈕。
     
     除錯資訊：
-errors-windows-tts-runtime-error = 無法使用 TTS (文字轉語音) 服務。請確保你已安裝 Windows 更新，嘗試重新啟動電腦、更換 TTS 聲音。
+errors-windows-tts-runtime-error = 無法使用 TTS（文字轉語音）服務。請確保你已安裝 Windows 更新，嘗試重新啟動電腦、更換 TTS 聲音。
 
 ## OBSOLETE; you do not need to translate this
 
