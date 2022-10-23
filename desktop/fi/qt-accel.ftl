@@ -1,6 +1,6 @@
 qt-accel-about = &Tietoja...
 qt-accel-cards = &Kortit
-qt-accel-check-database = &Tarkasta tietokanta
+qt-accel-check-database = &Tarkista tietokanta
 qt-accel-check-media = Tarkista &media
 qt-accel-edit = &Muokkaa
 qt-accel-exit = &Lopeta
