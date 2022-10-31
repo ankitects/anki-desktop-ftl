@@ -39,7 +39,7 @@ qt-misc-processing = 正在处理...
 qt-misc-replace-your-collection-with-an-earlier = 是否用较早的备份替换当前集合？
 qt-misc-revert-to-backup = 恢复备份
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
-qt-misc-segoe-ui = "Segoe UI字体"
+qt-misc-segoe-ui = "Segoe UI", "Microsoft YaHei UI"
 qt-misc-shift-key-was-held-down-skipping = 已按住「Shift」键，已跳过自动同步和插件加载。
 qt-misc-shortcut-key-left-arrow = 快捷键：左方向键
 qt-misc-shortcut-key-right-arrow-or-enter = 快捷键：右方向键或Enter键
