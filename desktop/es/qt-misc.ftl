@@ -52,7 +52,6 @@ qt-misc-the-requested-change-will-require-a = El cambio solicitado hará necesar
 qt-misc-there-must-be-at-least-one = Debe de haber al menos un perfil.
 qt-misc-this-file-exists-are-you-sure = Este archivo ya existe. ¿Seguro que deseas sobrescribirlo?
 qt-misc-unable-to-access-anki-media-folder = No se puede acceder a la carpeta multimedia de Anki. Los permisos de tu sistema sobre directorios temporales  pueden estar incorrectos.
-qt-misc-unable-to-move-existing-file-to = No se ha podido mover el archivo existente al basurero, por favor intente reiniciar su computador.
 qt-misc-unexpected-response-code = Código de respuesta inesperada: { $val }
 qt-misc-would-you-like-to-download-it = ¿Desea descargarlo ahora?
 qt-misc-your-collection-file-appears-to-be = Su archivo de colección parece estar dañado. Esto puede suceder cuando el archivo se copia o se mueve mientras Anki está abierto o cuando la colección se almacena en una red o unidad en la nube. Si los problemas persisten después de reiniciar su ordenador, abra una copia de seguridad automática desde la pantalla de perfil.
@@ -69,6 +68,9 @@ qt-misc-second =
         [one] { $count } segundo
        *[other] { $count } segundos
     }
+qt-misc-layout-auto-enabled = Diseño automático habilitado
+qt-misc-layout-vertical-enabled = Diseño vertical habilitado
+qt-misc-layout-horizontal-enabled = Diseño horizontal habilitado
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
