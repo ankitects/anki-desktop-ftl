@@ -16,10 +16,8 @@ qt-misc-copy-to-clipboard = העתק ללוח
 qt-misc-create-filtered-deck = צור חפיסה מסוננת...
 qt-misc-debug-console = קונסולת ניפוי שגיאות
 qt-misc-deck-will-be-imported-when-a = חפיסה תיובא כאשר פרופיל ייפתח.
-qt-misc-default = ברירת-מחדל
 qt-misc-empty-cards = כרטיסים ריקים...
 qt-misc-error-during-startup = שגיאה בעת הפעלה: { $val }
-qt-misc-filtered-deck = חפיסה מסוננת { $val }
 qt-misc-ignore-this-update = התעלם מעדכון זה
 qt-misc-in-order-to-ensure-your-collection = כדי לוודא שהמאגר שלך יעבוד כשורה כאשר יועבר בין מכשירים, Anki דורש שהשעון הפנימי של המחשב שלך יהיה מכוון. השעון הפנימי יכול לטעות אפילו אם המערכת מראה את הזמן המקומי נכון.<br><br>אנא לך אל הגדרות הזמן במחשב שלך ובדוק:<br><br>- AM/PM<br>- סטיית שעון (Clock drift)<br>- יום, חודש ושנה<br>- אזור זמן<br>- שעון קיץ<br><br>הבדל בין הזמן הנכון: { $val }.
 qt-misc-invalid-property-found-on-card-please = נמצא מאפיין לא חוקי בכרטיס. נא השתמש ב- כלים->בדוק בסיס נתונים, ואם הבעיה ממשיכה פנה לאתר התמיכה.
@@ -41,7 +39,6 @@ qt-misc-please-use-fileimport-to-import-this = בחר באפשרות קובץ>י
 qt-misc-processing = מעבד...
 qt-misc-replace-your-collection-with-an-earlier = להחליף את האוסף עם גיבוי מוקדם יותר?
 qt-misc-revert-to-backup = חזור לגיבוי
-qt-misc-reverted-to-state-prior-to = הוחזר למצב הקודם ל- '{ $val }'.
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Arial"
 qt-misc-shift-key-was-held-down-skipping = המקש Shift היה לחוץ. מדלג על סינכרון אוטומטי והטענת תוספים.
@@ -56,9 +53,6 @@ qt-misc-the-requested-change-will-require-a = השינוי המבוקש דורש
 qt-misc-there-must-be-at-least-one = מוכרח להיות לפחות פרופיל אחד.
 qt-misc-this-file-exists-are-you-sure = קובץ זה קיים האם ברצונך לשכתב אותו?
 qt-misc-unable-to-access-anki-media-folder = לא ניתן לגשת לתיקיית המדיה. יתכן שההרשאות של המערכת אינן מאפשרות גישה לתיקיית TEMP.
-qt-misc-unable-to-move-existing-file-to = לא הצלחנו למחוק - נסה להפעיל את המחשב מחדש.
-qt-misc-undo = בטל
-qt-misc-undo2 = בטל { $val }
 qt-misc-unexpected-response-code = תגובה לא צפויה: { $val }
 qt-misc-would-you-like-to-download-it = האם ברצונך להוריד עכשיו?
 qt-misc-your-collection-file-appears-to-be = הקובץ פגום. יתכן שהקובץ הועתק או הועבר בעוד התוכנה פעילה, או שהקובץ מאוחסן בענן. אם הבעיה ממשיכה לאחר אתחול המחשב מחדש, פתח גיבוי אוטומטי ממסך הפרופיל.
@@ -75,9 +69,10 @@ qt-misc-second =
         [one] { $count } שניה
        *[other] { $count } שניות
     }
+qt-misc-layout-auto-enabled = פריסה תגובה מופעלת
+qt-misc-layout-vertical-enabled = פריסה לאורך מופעלת
+qt-misc-layout-horizontal-enabled = פריסה לרוחב מופעלת
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
-qt-misc-resume-now = המשך כעת
-qt-misc-waiting-for-editing-to-finish = ממתין לסיום עריכה.
