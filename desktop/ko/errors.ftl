@@ -6,7 +6,6 @@ errors-standard-popup =
     
     문제가 지속되면 { -errors-support-site } (지원 사이트)에 보고해 주십시오.
     보고할 때 아래 정보를 복사해 함께 보내주십시오.
--errors-addon-support-site = [확장 프로그램 지원 사이트](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # 오류
     
@@ -32,9 +31,12 @@ errors-accessing-db =
     - 내 문서/Anki 폴더가 쓰기 불가 상태일 수도 있습니다.
     - 하드디스크에 오류가 있을 수도 있습니다.
     
-    "도구>데이터베이스 검사"를 실행해서 모음집이 깨진 것은 아닌지 확인하는 것도 좋은 방법입니다.
+    "도구>데이터베이스 검사"를 실행해서 컬렉션이 깨진 것은 아닌지 확인하는 것도 좋은 방법입니다.
 errors-unable-open-collection =
-    컬랙션 파일을 열 수 없습니다. 컴퓨터를 재시작 한 후에도 문제가 지속되면, 프로필 관리에서 백업 열기 버튼을 사용해주십시오.
+    컬렉션 파일을 열 수 없습니다. 컴퓨터를 재시작한 후에도 문제가 계속되면, 프로필 관리에서 백업 열기 버튼을 사용해주십시오.
     
     디버그 정보:
 errors-windows-tts-runtime-error = TTS 서비스에 오류가 발생했습니다. 윈도우 업데이트를 확인해주시고, 컴퓨터를 재시작해보신 다음, 다른 음성을 선택해 보세요.
+
+## OBSOLETE; you do not need to translate this
+
