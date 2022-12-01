@@ -16,12 +16,10 @@ qt-misc-copy-to-clipboard = 클립보드에 복사하기
 qt-misc-create-filtered-deck = 여과된 뭉치 만들기...
 qt-misc-debug-console = 디버그 콘솔
 qt-misc-deck-will-be-imported-when-a = 프로필을 열 때 뭉치를 가져올 것입니다.
-qt-misc-default = 기본
 qt-misc-empty-cards = 빈 카드...
 qt-misc-error-during-startup = 프로그램 시작 오류: { $val }
-qt-misc-filtered-deck = 여과된 묶음 { $val }
 qt-misc-ignore-this-update = 이 업데이트 무시
-qt-misc-in-order-to-ensure-your-collection = 모음집을 장치간 이동했을 때 Anki가 정확히 동작하도록 하기 위하여, 컴퓨터의 내부 시간 설정이 정확해야 합니다. 표시되는 시간이 정확하더라도 컴퓨터 내부 시계는 틀릴 수 있습니다.  컴퓨터 시간 설정에서 다음을 체크해 주세요.  - 오전/오후 - 시계 속도차 - 년, 월, 일 - 표준 시간대 - 일광 절약 시간  정확한 시각과의 시차: { $val }.
+qt-misc-in-order-to-ensure-your-collection = 컬렉션을 장치간 이동했을 때 Anki가 정확히 동작하도록 하기 위하여, 컴퓨터의 내부 시간 설정이 정확해야 합니다. 표시되는 시간이 정확하더라도 컴퓨터 내부 시계는 틀릴 수 있습니다.  컴퓨터 시간 설정에서 다음을 체크해 주세요.  - 오전/오후 - 시계 속도차 - 년, 월, 일 - 표준 시간대 - 일광 절약 시간  정확한 시각과의 시차: { $val }.
 qt-misc-invalid-property-found-on-card-please = 카드에 유효하지 않은 설정이 발견되었습니다. 도구 > 데이터베이스 검사를 실행해 보시고, 이후에도 문제가 지속될 경우 고객지원 웹사이트에 문의해 주세요.
 qt-misc-loading = 여는 중...
 qt-misc-manage = 관리
@@ -39,9 +37,9 @@ qt-misc-please-select-1-card = (카드 1개 선택해주세요)
 qt-misc-please-select-a-deck = 뭉치를 선택하세요.
 qt-misc-please-use-fileimport-to-import-this = 이 파일을 가져오려면, 파일>가져오기 메뉴를 사용하세요.
 qt-misc-processing = 처리 중...
-qt-misc-replace-your-collection-with-an-earlier = 당신의 컬렉션을 백업된 것으로 교체하시겠습니까?
+qt-misc-replace-your-collection-with-an-earlier = 당신의 컬렉션을 이전에 백업된 것으로 교체하시겠습니까?
 qt-misc-revert-to-backup = 백업한 것으로 돌아가기
-qt-misc-reverted-to-state-prior-to = '{ $val }' 이전 상태도 되돌리기
+# please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = Shift 키가 눌러진 채로 실행되었습니다. 자동 동기화와 확장 프로그램 실시를 하지 않습니다.
 qt-misc-shortcut-key-left-arrow = 단축키: 왼쪽 화살표
@@ -55,9 +53,6 @@ qt-misc-the-requested-change-will-require-a = 이 변경 사항을 적용할 경
 qt-misc-there-must-be-at-least-one = 적어도 하나의 프로필은 반드시 있어야합니다.
 qt-misc-this-file-exists-are-you-sure = 파일이 이미 존재합니다. 덮어쓸까요?
 qt-misc-unable-to-access-anki-media-folder = Anki 미디어 폴더에 접근하지 못했습니다. 시스템 임시 폴더에 대한 허가가 정확하지 않을 수 있습니다.
-qt-misc-unable-to-move-existing-file-to = 존재하는 파일을 휴지통으로 옮길 수 없습니다. - 컴퓨터 재부팅을 시도해주세요.
-qt-misc-undo = 실행 취소
-qt-misc-undo2 = { $val } 취소
 qt-misc-unexpected-response-code = 예상하지 못한 응답 코드: { $val }
 qt-misc-would-you-like-to-download-it = 지금 다운로드하시겠습니까?
 qt-misc-your-collection-file-appears-to-be = 당신의 컬렉션이 망가졌다고 나타납니다. 이것은 Anki가 실행 중일 때 파일이 복사되거나 옮겨졌기 때문이거나 컬렉션이 네트워크나 cloud 드라이브에 저장되었기 때문입니다. 만약 컴퓨터 재부팅 후에 문제가 지속되면 프로필 전환 창에서 (자동) 백업을 열어주세요.
@@ -77,5 +72,3 @@ qt-misc-second =
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
-qt-misc-resume-now = 다시 진행
-qt-misc-waiting-for-editing-to-finish = 편집이 끝나길 기다리고 있습니다.
