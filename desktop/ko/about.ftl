@@ -1,6 +1,6 @@
 about-a-big-thanks-to-all-the = 제안, 버그 신고, 기부를 해주신 모든 분께 감사드립니다.
 about-about-anki = Anki 소개
-about-anki-is-a-friendly-intelligent-spaced = Anki는 사용하기 편하고, 영리한 분산 학습 시스템입니다. 무료로 제공하는 오픈 소스 프로그램입니다.
+about-anki-is-a-friendly-intelligent-spaced = Anki는 사용하기 편하고, 영리한 간격 반복 학습 시스템입니다. 무료로 제공되는 오픈 소스 프로그램입니다.
 about-anki-is-licensed-under-the-agpl3 = Anki는 AGPL3 라이센스를 따릅니다.  더 자세한 정보는 소스 배포판의 라이센스 파일을 참고하세요.
 about-copied-to-clipboard = 클립보드에 복사됨
 about-copy-debug-info = 디버그 정보 복사
