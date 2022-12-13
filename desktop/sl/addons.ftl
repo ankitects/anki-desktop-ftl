@@ -51,3 +51,19 @@ addons-restored-defaults = Obnovljeno privzeto
 addons-the-following-addons-are-incompatible-with = Naslednji dodatki niso kompatibilni s/z { $name } in so bili onemogočeni: { $found }
 addons-the-following-addons-have-updates-available = Naslednji dodatki imajo na voljo posodobitve. Ali jih namestim sedaj?
 addons-the-following-conflicting-addons-were-disabled = Naslednji dodatki, ki so v sporu, so bili onemogočeni:
+addons-this-addon-is-not-compatible-with = Ta dodatek ni združljiv z vašo različico programa Anki.
+addons-to-browse-addons-please-click-the = Za iskanje dodatkov kliknite spodnji gumb.<br><br>Ko najdete dodatek, ki vam je všeč, prosimo prilepite njegovo kodo spodaj. Prilepite lahko več kod, ločenih s presledkom.
+addons-toggle-enabled = Preklapljanje omogočeno
+addons-unable-to-update-or-delete-addon = Dodatka ni bilo možno posodobiti ali izbrisati. Prosimo, zaženite program Anki tako, da ob zagonu držite pritisnjeno tipko Shift, da boste začasno onemogočili dodatke. Informacije za razhroščevanje: { $val }
+addons-unknown-error = Neznana napaka: { $val }
+addons-view-addon-page = Poglej stran z dodatki
+addons-view-files = Poglej datoteke
+addons-delete-the-numd-selected-addon =
+    { $count ->
+        [one] Izbriši { $count } izbran dodatek?
+        [two] Izbriši { $count } izbrana dodatka?
+        [few] Izbriši { $count } izbrane dodatke?
+       *[other] Izbriši { $count } izbranih dodatkov?
+    }
+addons-choose-update-window-title = Posodobi dodatke
+addons-choose-update-update-all = Posodobi vse
