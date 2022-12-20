@@ -68,6 +68,9 @@ qt-misc-second =
     { $count ->
        *[other] { $count }초
     }
+qt-misc-layout-auto-enabled = 반응형 레이아웃이 적용됩니다
+qt-misc-layout-vertical-enabled = 세로 레이아웃이 적용됩니다
+qt-misc-layout-horizontal-enabled = 가로 레이아웃이 적용됩니다
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated

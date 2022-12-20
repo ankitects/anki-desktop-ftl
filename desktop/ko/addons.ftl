@@ -1,19 +1,19 @@
 addons-possibly-involved = 관여된 것으로 추정되는 확장 프로그램:{ $addons }
 addons-failed-to-load =
-    설치한 확장 프로그램이 동작하지 않습니다. 문제가 계속되면 도구>확장 프로그램 메뉴를 사용해 확장 프로그램을 비활성화 하거나 삭제하십시오.
+    설치한 확장 프로그램을 불러올 수 없었습니다. 문제가 계속되면 도구>확장 프로그램 메뉴에서 확장 프로그램을 비활성화 하거나 삭제하세요.
     
-     '{ $name }' 로딩 중 :
+    '{ $name }'를 불러오는 동안:
     { $traceback }
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = '{ $name }' 설정
-addons-config-validation-error = 설정을 불러오는데 문제 발생: { $problem }, { $path } 경로에서, { $schema } 스키마에 대해
+addons-config-validation-error = 설정에 오류가 있습니다: { $problem }, { $path } 경로에서 { $schema } 스키마와 충돌합니다.
 addons-window-title = 확장 프로그램
 addons-addon-has-no-configuration = 이 확장 프로그램은 설정 기능이 없습니다.
 addons-addon-installation-error = 확장 프로그램 설치 오류
-addons-browse-addons = 확장 프로그램 탐색
-addons-changes-will-take-effect-when-anki = 변경한 내용은 Anki를 다시 실행하면 반영됩니다.
+addons-browse-addons = 확장 프로그램 찾아보기
+addons-changes-will-take-effect-when-anki = 변경 사항은 Anki를 재시작하면 반영됩니다.
 addons-check-for-updates = 업데이트 확인
-addons-checking = 검사 중...
+addons-checking = 확인 중...
 addons-code = 코드:
 addons-config = 설정
 addons-configuration = 설정
