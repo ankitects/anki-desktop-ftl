@@ -70,6 +70,9 @@ qt-misc-second =
         [few] { $count } sekundy
        *[other] { $count } sekund
     }
+qt-misc-layout-auto-enabled = Włączono układ automatyczny
+qt-misc-layout-vertical-enabled = Włączono układ pionowy
+qt-misc-layout-horizontal-enabled = Włączono układ poziomy
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
