@@ -1,10 +1,16 @@
+qt-misc-addon-will-be-installed-when-a = Dodatek bo nameščen, ko bo odprt profil.
+qt-misc-addons = Dodatki
 qt-misc-all-cards-notes-and-media-for = Vse kartice, zapiski in mediji tega profila bodo izbrisani. Ali ste prepričani?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki je bil posodobljen</h1>Anki { $val } je zadnja izdana različica.<br><br>
+qt-misc-automatic-syncing-and-backups-have-been = Pri ponovni vzpostavitvi so bili onemogočeni samodejna sinhronizacija in rezervne kopije. Za ponovno omogočenje zaprite profil ali ponovno zaženite Anki.
+qt-misc-back-side-only = Samo zadnja stran
+qt-misc-backing-up = Ustvarjanje rezervne kopije...
 qt-misc-browse = Brskaj
 qt-misc-change-note-type-ctrlandn = Spremeni tip zapiska (Ctrl+N)
 qt-misc-check-the-files-in-the-media = Preveri datoteke v mapi medijev
 qt-misc-choose-deck = Izberi paket
 qt-misc-choose-note-type = Izberi tip zapiska
+qt-misc-closing = Zapiranje...
 qt-misc-configure-interface-language-and-options = Nastavi možnosti in jezik vmesnika
 qt-misc-copy-to-clipboard = Kopirano v beležnico
 qt-misc-create-filtered-deck = Ustvari filtriran paket...
