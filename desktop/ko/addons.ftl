@@ -1,8 +1,8 @@
-addons-possibly-involved = 관여된 것으로 추정되는 확장 프로그램:{ $addons }
+addons-possibly-involved = 아마 관련 있는 확장 프로그램:{ $addons }
 addons-failed-to-load =
     설치한 확장 프로그램을 불러올 수 없었습니다. 문제가 계속되면 도구>확장 프로그램 메뉴에서 확장 프로그램을 비활성화 하거나 삭제하세요.
     
-    '{ $name }'를 불러오는 동안:
+    '{ $name }' 불러오는 동안:
     { $traceback }
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = '{ $name }' 설정
