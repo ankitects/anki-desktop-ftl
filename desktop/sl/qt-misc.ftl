@@ -27,19 +27,43 @@ qt-misc-manage-note-types = Upravljaj tipe zapiskov
 qt-misc-name-exists = Ime obstaja.
 qt-misc-non-unicode-text = <non-unicode text>
 qt-misc-optimizing = Optimiranje...
+qt-misc-unable-to-record =
+    Snemanje ni možno. Prosimo, preverite, ali je mikrofon priklopljen in ali ima Anki dovoljenje za koriščenje mikrofona.
+    V kolikor mikrofon uporabljajo drugi programi, jih zaprite.
+    
+    Napaka: { $error }
 qt-misc-please-ensure-a-profile-is-open = Preverite, da je profil odprt, ter da Anki ni zaseden. Nato poskusite še enkrat.
+qt-misc-please-select-1-card = (prosimo, izberite 1 kartico)
 qt-misc-please-select-a-deck = Izberite paket.
 qt-misc-please-use-fileimport-to-import-this = Uporabite Datoteka->Uvoz za uvoz te datoteke.
 qt-misc-processing = V obdelavi ...
+qt-misc-replace-your-collection-with-an-earlier = Ali zamenjam vašo kolekcijo s predhodno rezervno kopijo?
+qt-misc-revert-to-backup = Povrni na stanje rezervne kopije
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
+qt-misc-shift-key-was-held-down-skipping = Pridržana je bila tipka Shift. Preskočili bomo samodejno sinhronizacijo in nalaganje dodatkov.
+qt-misc-shortcut-key-left-arrow = Bližnjica: leva puščica
+qt-misc-shortcut-key-right-arrow-or-enter = Bližnjica: desna puščica ali Enter
 qt-misc-stats = Statistika
 qt-misc-study-deck = Paket za učenje...
+qt-misc-sync = Sinhronizacija
 qt-misc-target-deck-ctrlandd = Ciljni paket (Ctrl+D)
+qt-misc-the-following-character-can-not-be = Ni bilo možno uporabiti znaka: { $val }
 qt-misc-the-requested-change-will-require-a = Zahtevana sprememba bo zahtevala prenos celotne zbirke podatkov ob naslednji sinhroniziraciji. Pregledi ali druge spremembe na ostalih napravah, ki še niso bile sinhronizirane, bodo izgubljeni. Nadaljujem?
 qt-misc-there-must-be-at-least-one = Obstajati mora vsaj en profil.
 qt-misc-this-file-exists-are-you-sure = Ta datoteka obstaja. Ali ste prepričani, da jo želite prepisati?
+qt-misc-unable-to-access-anki-media-folder = Dostop do mape z medijskimi datotekami je bil zavrnjen. Dovoljenja do vaših trenutnih začasnih datotek so lahko napačno nastavljena.
+qt-misc-unexpected-response-code = Nepričakovana koda odgovora: { $val }
 qt-misc-would-you-like-to-download-it = Ali ga želite prenesti sedaj?
+qt-misc-your-collection-file-appears-to-be = Izgleda, kot da je vaša kolekcija okvarjena. To se lahko zgodi, kadar kopirate ali premaknete datoteke med odprtim programom Anki, ali kadar je datoteka shanjena na omrežnem pogonu ali v oblaku. Če se težava pojavi tudi po ponovnem zagonu računalnika, prosimo, da odprete samodejno rezervno kopijo v oknu za profile.
+qt-misc-your-computers-storage-may-be-full = Pogon vašega računalnika je lahko poln. Prosimo, da izbrišete nekaj nepotrebnih datotek in poskusite znova.
+qt-misc-your-firewall-or-antivirus-program-is = Vaš požarni zid ali antivirusni program preprečuje Ankiju, da bi ustvaril povezavo. Prosimo, dodajte izjemo za program Anki.
+qt-misc-error = Napaka
+qt-misc-no-temp-folder = Ni bilo možno najti uporabne mape za začasne datoteke. Poskrbite, da obstaja C:\\temp ali da vrednost TEMP v vašem programskem okolju kaže na obstoječo mapo z možnostjo zapisovanja.
+qt-misc-incompatible-video-driver = Vaš gonilnik za video ni združljiv z Ankijem. Prosimo, ponovno zaženite Anki, ki bo preklopil na počasnejši, a zaneslivejši gonilnik.
+qt-misc-error-loading-graphics-driver = Napaka pri nalaganju '{ $mode }' grafičnega gonilnika. Prosimo, ponovno zaženite Anki, da poskusimo z naslednjim gonilnikom. { $context }
+qt-misc-anki-is-running = Anki se že izvaja
+qt-misc-if-instance-is-not-responding = Če se obstoječa izvedba Ankija ne odziva, ga zaprite z uporabo Upravitelja opravil ali ponovno zaženite računalnik.
 qt-misc-second =
     { $count ->
         [one] { $count } sekunda
@@ -47,6 +71,9 @@ qt-misc-second =
         [few] { $count } sekundi
        *[other] { $count } sekunde
     }
+qt-misc-layout-auto-enabled = Omogočena odzivna postavitev
+qt-misc-layout-vertical-enabled = Omogočena navpična postavitev
+qt-misc-layout-horizontal-enabled = Omogočena vodoravna postavitev
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
