@@ -41,7 +41,7 @@ qt-misc-replace-your-collection-with-an-earlier = Sostituire la tua collezione c
 qt-misc-revert-to-backup = Ritorna allo stato del backup
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
-qt-misc-shift-key-was-held-down-skipping = Il tasto Shift era premuto. Saltati la sincronizzazione automatica e il caricamento degli add-on.
+qt-misc-shift-key-was-held-down-skipping = Il tasto Shift era premuto. Salto la sincronizzazione automatica e il caricamento degli add-on.
 qt-misc-shortcut-key-left-arrow = Tasto di scorciatoia: Freccia sinistra
 qt-misc-shortcut-key-right-arrow-or-enter = Tasto di scorciatoia: Freccia destra o Invio
 qt-misc-stats = Statistiche
