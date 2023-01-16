@@ -16,13 +16,11 @@ qt-misc-copy-to-clipboard = Copia negli appunti
 qt-misc-create-filtered-deck = Crea mazzo filtrato...
 qt-misc-debug-console = Console di debug
 qt-misc-deck-will-be-imported-when-a = Il mazzo verrà importato all'apertura di un profilo.
-qt-misc-default = Predefinito
 qt-misc-empty-cards = Carte vuote...
 qt-misc-error-during-startup = Errore durante l'avvio: { $val }
-qt-misc-filtered-deck = Mazzo filtrato { $val }
 qt-misc-ignore-this-update = Ignora questo aggiornamento
 qt-misc-in-order-to-ensure-your-collection = Per poter scambiare correttamente la tua collezione tra diversi dispositivi, è necessario che l'orologio del tuo computer sia impostato correttamente. Non è sufficiente che la data e l'ora vengano visualizzati correttamente.  Va nelle impostazioni di data e ora del tuo computer e verifica quanto segue:  - AM/PM - Giorno, mese, anno - Fuso orario - Ora legale  Differenza rispetto all'ora corretta: { $val }.
-qt-misc-invalid-property-found-on-card-please = Trovato proprietà della carta non valide. Usa Strumenti>Controlla il database, e se il problema si ripete, chiedi sul sito di supporto.
+qt-misc-invalid-property-found-on-card-please = Trovata proprietà non valida nella carta. Usa Strumenti>Controlla il database, e, se il problema si ripete, chiedi sul sito di supporto.
 qt-misc-loading = Caricamento in corso...
 qt-misc-manage = Gestisci
 qt-misc-manage-note-types = Gestisci i tipi di note
@@ -41,7 +39,7 @@ qt-misc-please-use-fileimport-to-import-this = Utilizza File>Importa per importa
 qt-misc-processing = Elaborazione...
 qt-misc-replace-your-collection-with-an-earlier = Sostituire la tua collezione con un backup precedente?
 qt-misc-revert-to-backup = Ritorna allo stato del backup
-qt-misc-reverted-to-state-prior-to = Ripristinato allo stato precedente a '{ $val }'.
+# please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = Il tasto Shift era premuto. Salto la sincronizzazione automatica e il caricamento degli add-on.
 qt-misc-shortcut-key-left-arrow = Tasto di scorciatoia: Freccia sinistra
@@ -55,9 +53,6 @@ qt-misc-the-requested-change-will-require-a = La modifica richiesta provocherà 
 qt-misc-there-must-be-at-least-one = Dev'esserci almeno un profilo.
 qt-misc-this-file-exists-are-you-sure = Questo file esiste. Vuoi sovrascriverlo?
 qt-misc-unable-to-access-anki-media-folder = Impossibile accedere alla cartella multimediale di Anki. I diritti di accesso alla cartella temporanea del tuo sistema potrebbero essere impostati in modo non corretto.
-qt-misc-unable-to-move-existing-file-to = Impossibile spostare il file esistente nel cestino - prova a riavviare il computer.
-qt-misc-undo = Annulla
-qt-misc-undo2 = &Annulla { $val }
 qt-misc-unexpected-response-code = Codice di risposta imprevisto: { $val }
 qt-misc-would-you-like-to-download-it = Vuoi scaricarlo ora?
 qt-misc-your-collection-file-appears-to-be = Il file della tua collezione sembra essere corrotto. Questo può succedere se il file viene copiato o spostato mentre Anki è aperto, o quando la collezione è salvata su un dispositivo di rete o su cloud. Se il problema persiste dopo il riavvio del computer, apri un backup automatico dalla schermata di impostazione dei profili.
@@ -78,5 +73,3 @@ qt-misc-second =
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
-qt-misc-resume-now = Riprendi ora
-qt-misc-waiting-for-editing-to-finish = Aspettando la modifica per finire.
