@@ -1,4 +1,4 @@
-addons-possibly-involved = Add-on che possono essere coinvolti: { $addons }
+addons-possibly-involved = Add-on che potrebbero essere coinvolti: { $addons }
 addons-failed-to-load =
     Un add-on che hai installato non ha potuto essere caricato. Se il problema permane, vai nel menu Strumenti>Add-on, e disabilita o elimina l'add-on.
     
@@ -10,7 +10,6 @@ addons-config-validation-error = C'è stato un problema con la configurazione fo
 addons-window-title = Add-on
 addons-addon-has-no-configuration = L'add-on non ha configurazioni.
 addons-addon-installation-error = Errore di installazione dell'add-on
-addons-addon-was-not-downloaded-from-ankiweb = L'add-on non è stato scaricato da AnkiWeb.
 addons-browse-addons = Sfoglia add-on
 addons-changes-will-take-effect-when-anki = I cambiamenti avranno effetto dopo il riavvio di Anki.
 addons-check-for-updates = Controlla aggiornamenti
@@ -45,7 +44,7 @@ addons-one-or-more-errors-occurred = Si sono verificati uno o più errori:
 addons-packaged-anki-addon = Add-on di Anki impachettato
 addons-please-check-your-internet-connection = Verifica la tua connessione ad internet.
 addons-please-report-this-to-the-respective = Segnalalo al rispettivo autore dell'add-on.
-addons-please-restart-anki-to-complete-the = <b>Riavvia Anki per completare l'installazione per favore.</b>
+addons-please-restart-anki-to-complete-the = <b>Per favore riavvia Anki per completare l'installazione.</b>
 addons-please-select-a-single-addon-first = Seleziona dapprima un singolo add-on.
 addons-requires = (richiede { $val })
 addons-restored-defaults = Ripristinato le impostazioni
@@ -54,7 +53,7 @@ addons-the-following-addons-have-updates-available = I seguenti add-on hanno deg
 addons-the-following-conflicting-addons-were-disabled = Gli add-on seguenti in conflitto tra di loro sono stati disattivati:
 addons-this-addon-is-not-compatible-with = Questo add-on non è compatibile con la tua versione di Anki.
 addons-to-browse-addons-please-click-the = Per sfogliare gli add-on, clicca sul pulsante sfoglia qui sotto.<br><br>Quando hai trovato un add-on che vuoi installare, incolla il suo codice qui sotto. Puoi inserire anche più codici separati da uno spazio.
-addons-toggle-enabled = Attiva/disattiva abilitato
+addons-toggle-enabled = Attiva/Disattiva
 addons-unable-to-update-or-delete-addon = L'add-on non ha potuto essere aggiornato o eliminato. Avvia Anki tenendo premuto il tasto Maiusc per disattivare temporaneamente gli add-on, e riprova.  Informazioni di debug: { $val }
 addons-unknown-error = Errore sconosciuto: { $val }
 addons-view-addon-page = Visualizza la pagina degli add-on

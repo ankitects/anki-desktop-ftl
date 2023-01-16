@@ -40,4 +40,6 @@ qt-accel-layout-horizontal = &Orizzontale
 qt-accel-zoom-in = &Aumenta Zoom
 qt-accel-zoom-out = &Diminuisci Zoom
 qt-accel-reset-zoom = &Ripristina Zoom
+qt-accel-zoom-editor-in = &Aumenta Zoom (Editor)
+qt-accel-zoom-editor-out = &Diminuisce Zoom (Editor)
 qt-accel-create-backup = Crea &Backup
