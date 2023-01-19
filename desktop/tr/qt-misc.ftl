@@ -1,3 +1,4 @@
+qt-misc-addon-will-be-installed-when-a = Bir profil açıldığında eklenti yüklenecek.
 qt-misc-addons = Eklentiler
 qt-misc-all-cards-notes-and-media-for = Bu profil için bütün kartlar, notlar ve medya dosyaları silinecek. Emin misiniz?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki Güncellendi</h1>Anki { $val } sürümü çıktı.<br><br>
@@ -12,7 +13,7 @@ qt-misc-configure-interface-language-and-options = Dil ve seçenekler arayüzün
 qt-misc-copy-to-clipboard = Panoya kopyala
 qt-misc-create-filtered-deck = Filtreli Deste Yaratın...
 qt-misc-debug-console = Hata Ayıklama Konsolu
-qt-misc-deck-will-be-imported-when-a = Bir oturum açıldığında deste içe aktarılacaktır.
+qt-misc-deck-will-be-imported-when-a = Bir profil açıldığında deste içe aktarılacaktır.
 qt-misc-empty-cards = Kartları kaldır
 qt-misc-error-during-startup = Başlatılma hatası: { $val }
 qt-misc-ignore-this-update = Bu güncelemeyi yoksay
