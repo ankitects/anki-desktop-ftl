@@ -1,6 +1,6 @@
 qt-misc-addon-will-be-installed-when-a = Bir profil açıldığında eklenti yüklenecek.
 qt-misc-addons = Eklentiler
-qt-misc-all-cards-notes-and-media-for = Bu profil için bütün kartlar, notlar ve medya dosyaları silinecek. Emin misiniz?
+qt-misc-all-cards-notes-and-media-for = Bu profil için tüm kartlar, notlar ve medya dosyaları silinecek. Emin misiniz?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki Güncellendi</h1>Anki { $val } sürümü çıktı.<br><br>
 qt-misc-backing-up = Yedekleniyor...
 qt-misc-browse = Aç
