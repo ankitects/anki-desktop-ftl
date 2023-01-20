@@ -26,3 +26,4 @@ qt-accel-support-anki = &Anki'ye Destek Ol...
 qt-accel-switch-profile = &Profil Değiştir
 qt-accel-tools = &Araçlar
 qt-accel-undo = &Geri Al
+qt-accel-forget = Unut
