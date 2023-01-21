@@ -13,7 +13,7 @@ qt-misc-configure-interface-language-and-options = Dil ve seçenekler arayüzün
 qt-misc-copy-to-clipboard = Panoya kopyala
 qt-misc-create-filtered-deck = Filtreli Deste Yaratın...
 qt-misc-debug-console = Hata Ayıklama Konsolu
-qt-misc-deck-will-be-imported-when-a = Bir profil açıldığında deste içe aktarılacaktır.
+qt-misc-deck-will-be-imported-when-a = Bir profil açıldığında deste içeri aktarılacaktır.
 qt-misc-empty-cards = Kartları kaldır
 qt-misc-error-during-startup = Başlatılma hatası: { $val }
 qt-misc-ignore-this-update = Bu güncelemeyi yoksay
@@ -26,7 +26,7 @@ qt-misc-optimizing = Optimize ediliyor...
 qt-misc-please-ensure-a-profile-is-open = Lütfen bir profil açıkken ve Anki meşgul değilken sağlayın, sonra tekrar deneyin.
 qt-misc-please-select-1-card = (lütfen 1 kart seçin)
 qt-misc-please-select-a-deck = Lütfen bir deste seçin
-qt-misc-please-use-fileimport-to-import-this = Lütfen bu dosyayı içe aktarma için Dosya>İçe Aktar'ı kullanın.
+qt-misc-please-use-fileimport-to-import-this = Lütfen bu dosyayı içeri aktarmak için Dosya>İçeri Aktar'ı kullanın.
 qt-misc-processing = İşleniyor...
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
