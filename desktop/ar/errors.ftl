@@ -6,7 +6,6 @@ errors-standard-popup =
     
     إذا استمرت المشكلة، الرجاء الإبلاغ عنها في { -errors-support-site }. 
     انسخ المعلومات في الأسفل والصقها في تقريرك.
--errors-addon-support-site = [موقع الدعم الخاص بالإضافة](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # خطأ
     
@@ -37,4 +36,7 @@ errors-unable-open-collection =
     لم يستطع أنكي فتح ملف مجموعتك. إذا استمرت المشكلة بعد إعادة تشغيل الحاسوب، استخدم زر فتح النسخ الاحتياطية في مدير الملف الشخصي.
     
     معلومات التصحيح:
-errors-windows-tts-runtime-error = فشلت خدمة تحويل النص إلى كلام. تأكد من تثبيت آخر تحديثات ويندوز، وأعد تشغيل حاسوبك، وجرب استخدام صوت آخر.
+errors-windows-tts-runtime-error = فشلت خدمة تحويل النص إلى كلام. تأكد من تثبيت آخر تحديثات ويندوز، أو أعد تشغيل حاسوبك، أو جرب استخدام صوت آخر.
+
+## OBSOLETE; you do not need to translate this
+
