@@ -1,3 +1,9 @@
+addons-possibly-involved = Dâhil olmuş olabilen eklentiler: { $addons }
+addons-failed-to-load =
+    Yüklediğiniz bir eklenti yüklenemedi. Sorunlar devam ederse, lütfen Araçlar>Eklentiler menüsüne gidin ve eklentiyi devre dışı bırakın veya silin.
+    
+    '{ $name }' yüklendiğinde:
+    { $traceback }
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = '{ $name }' yapılandır
 addons-window-title = Eklentiler
