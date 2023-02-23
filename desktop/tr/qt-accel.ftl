@@ -1,6 +1,6 @@
 qt-accel-about = &Hakkında...
 qt-accel-cards = &Kartlar
-qt-accel-check-database = &Veritabanını kontrol et
+qt-accel-check-database = Veri Tabanını &Kontrol Et
 qt-accel-check-media = Kontrol & Veritabanı
 qt-accel-edit = Dü&zenle
 qt-accel-exit = Kapat
