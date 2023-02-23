@@ -6,6 +6,7 @@ addons-failed-to-load =
     { $traceback }
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = '{ $name }' yapılandır
+addons-config-validation-error = Sağlanan yapılandırmayla ilgili bir sorun vardı: { $problem }, { $path } konumunda, { $schema } şemasına karşı.
 addons-window-title = Eklentiler
 addons-addon-has-no-configuration = Eklentinin yapılandırması yok.
 addons-addon-installation-error = Eklenti yükleme hatası
@@ -17,12 +18,15 @@ addons-code = Kod:
 addons-config = Yapılandırma
 addons-configuration = Yapılandırma
 addons-corrupt-addon-file = Bozuk eklenti dosyası.
+addons-disabled = (devre dışı bırakıldı)
+addons-disabled2 = (devre dışı bırakıldı)
 addons-download-complete-please-restart-anki-to = İndirme tamamlandı. Değişiklikleri uygulamak için lütfen Anki'yi yeniden başlatınız.
 addons-downloaded-fnames = { $fname } indirildi
 addons-downloading-adbd-kb02fkb = İndiriliyor { $part }/{ $total } ({ $kilobytes }KB)...
 addons-error-downloading-ids-errors = <i>{ $id }</i> indirilirken hata oluştu: { $error }
 addons-error-installing-bases-errors = <i>{ $base }</i> yüklenirken hata oluştu: { $error }
 addons-get-addons = Eklenti Alın...
+addons-important-as-addons-are-programs-downloaded = <b>Önemli</b>: Eklentiler internetten indirilen programlar olduğu için kötü niyetli olabilir.<b>Sadece güvendiğiniz eklentileri yüklemelisiniz.</b><br><br>Aşağıdaki Anki eklentilerini yüklemeye devam etmek istediğinizden emin misiniz?<br><br>%(names)s
 addons-install-addon = Eklentiyi Yükleyin
 addons-install-addons = Eklenti(leri) Yükleyin
 addons-install-anki-addon = Anki eklentisini yükleyin
