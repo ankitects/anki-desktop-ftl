@@ -11,3 +11,10 @@ errors-accessing-db =
     - Hard diskiniz hata veriyor olabilir.
     
     Koleksiyonunuzun bozulmadığına emin olmak için Araçlar>Veritabanını Kontrol Et'i çalıştırmak faydalı olacaktır.
+errors-unable-open-collection =
+    Anki koleksiyon dosyanızı açamadı. Bilgisayarınızı yeniden başlattıktan sonra sorun devam ederse, lütfen profil yöneticisindeki Yedek Aç düğmesini kullanın.
+    
+    Hata ayıklama bilgisi:
+
+## OBSOLETE; you do not need to translate this
+
