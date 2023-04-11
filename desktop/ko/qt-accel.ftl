@@ -1,6 +1,6 @@
 qt-accel-about = 정보(&A)...
 qt-accel-cards = 카드(&C)
-qt-accel-check-database = DB검사(&C)
+qt-accel-check-database = 데이터베이스 검사(&C)
 qt-accel-check-media = 미디어 검사(&M)...
 qt-accel-edit = 편집(&E)
 qt-accel-exit = 종료(&X)
