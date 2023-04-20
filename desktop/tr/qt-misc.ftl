@@ -31,6 +31,7 @@ qt-misc-please-select-1-card = (lütfen 1 kart seçin)
 qt-misc-please-select-a-deck = Lütfen bir deste seçin
 qt-misc-please-use-fileimport-to-import-this = Lütfen bu dosyayı içeri aktarmak için Dosya>İçeri Aktar'ı kullanın.
 qt-misc-processing = İşleniyor...
+qt-misc-replace-your-collection-with-an-earlier = Koleksiyonun önceki bir yedekle değiştirilsin mi?
 qt-misc-revert-to-backup = Yedeğe geri dön
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
