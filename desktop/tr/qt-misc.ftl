@@ -46,6 +46,7 @@ qt-misc-the-following-character-can-not-be = Aşağıdaki karakter kullanılamı
 qt-misc-the-requested-change-will-require-a = İstenen değişiklik, koleksiyonunuzu bir sonraki senkronize ettiğinizde veritabanının tam bir şekilde yüklenmesini gerektirir. Başka bir cihazda henüz senkronize edilmemiş bekleyen incelemeler veya diğer değişiklikleriniz varsa, bunlar kaybolacaktır. Devam et?
 qt-misc-there-must-be-at-least-one = En az bir profil olmalı.
 qt-misc-this-file-exists-are-you-sure = Bu dosya mevcut. Üzerine yazmak istediğinizden emin misiniz?
+qt-misc-unable-to-access-anki-media-folder = Anki medya klasörüne erişilemedi. Sisteminizin geçici klasöründeki izinler yanlış olabilir.
 qt-misc-unexpected-response-code = Beklenmeyen yanıt kodu: { $val }
 qt-misc-would-you-like-to-download-it = Şimdi indirmek istermisin ?
 qt-misc-error = Hata
