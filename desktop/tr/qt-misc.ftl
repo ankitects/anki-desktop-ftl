@@ -49,6 +49,7 @@ qt-misc-this-file-exists-are-you-sure = Bu dosya mevcut. Üzerine yazmak istedi�
 qt-misc-unexpected-response-code = Beklenmeyen yanıt kodu: { $val }
 qt-misc-would-you-like-to-download-it = Şimdi indirmek istermisin ?
 qt-misc-error = Hata
+qt-misc-incompatible-video-driver = Video sürücünüz uyumsuzdur. Lütfen Anki'yi yeniden başlatınız ve Anki daha yavaş, daha uyumlu moda geçecek.
 qt-misc-error-loading-graphics-driver = '{ $mode }' grafik sürücüsü yüklenirken bir hata oldu. Sonraki sürücüyü denemek için lütfen Anki'yi yeniden başlatınız. { $context }
 qt-misc-anki-is-running = Anki Zaten Çalışıyor
 qt-misc-if-instance-is-not-responding = Eğer mevcut Anki yanıt vermiyorsa, lütfen görev yöneticisini kullanarak kapatınız, veya bilgisayarınızı yeniden başlatınız.
