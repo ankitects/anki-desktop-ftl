@@ -19,6 +19,7 @@ qt-misc-deck-will-be-imported-when-a = Bir profil açıldığında deste içeri 
 qt-misc-empty-cards = Kartları kaldır
 qt-misc-error-during-startup = Başlatılma hatası: { $val }
 qt-misc-ignore-this-update = Bu güncelemeyi yoksay
+qt-misc-in-order-to-ensure-your-collection = Koleksiyonunun cihazların arasında taşındıktan sonra doğru şekilde çalışacağından emin olmak için Anki, bilgisayarının dahili saatinin doğru şekilde ayarlanmasını gerektirir. Sistem doğru yerel saati gösteriyorsa da dahili saat yanlış olabilir.<br><br>Lütfen bilgisayarındaki saat ayarlarına gidip aşağıdakileri kontrol edin:<br><br>- Öğleden önce/sonra<br>- Saatın kaymasını<br>- Gün, ay ve yıl<br>- Saat dilimi<br>- Yaz saati<br><br>Doğru saatten farklılık: { $val }.
 qt-misc-invalid-property-found-on-card-please = Kartta geçersiz özellik bulundu. Lütfen Araçlar>Veri Tabanını Kontrol Et'i kullanın, ve problem tekrarlanırsa, lütfen destek sitesine sorun.
 qt-misc-loading = Yükleniyor...
 qt-misc-manage = Yönet
