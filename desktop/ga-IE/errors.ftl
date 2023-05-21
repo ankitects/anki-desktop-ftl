@@ -2,11 +2,10 @@
 errors-standard-popup =
     # Earráid
     
-    Thárla botún. Bain triail as **Uirlisí > Seiceáil Bunachar Sonraí** chun an deacracht a scaoileadh.
+    Tharla earráid. Bain triail as **Uirlisí > Seiceáil Bunachar Sonraí** chun an deacracht a scaoileadh.
     
-    Má bhíonn an deacracht ann go leanúnach, cuir tráchtaireacht chugainn ar ár { -errors-support-site }.
+    Má bhíonn an deacracht ann go leanúnach, cuir tráchtaireacht chugainn ar { -errors-support-site }.
     Cóipeáil agus greamaigh na sonraí thíos i do theachtaireacht.
--errors-addon-support-site = [láithreán tacaíochta breiseán](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # Earráid
     
@@ -18,8 +17,8 @@ errors-addons-active-popup =
     díchumasú, agus atosaigh Anki.  Coinnigh ort go dtí go dtuige
     tú cén breiseán is cúis leis an deacracht.
     
-    Nuair a bheidh a fhios agat cén breiseán is cúis leis and eacracht,
-    cuir teachtaireacht chugainn ar an { -errors-addon-support-site }.
+    Nuair a bheidh a fhios agat cén breiseán is cúis leis an deacracht,
+    cuir scéala chuig údar an bhreiseáin.
     
     Sonraí dífhabhtaithe:
 errors-accessing-db =
@@ -41,3 +40,6 @@ errors-unable-open-collection =
     
     Sonraí dífhabhtaithe:
 errors-windows-tts-runtime-error = Theip ar an tseirbhís TTS (TGT). Deimhnigh an bhfuil nua-shonraithe Windows suite, atosaigh an ríomhaire, agus bain triail as guth eile.
+
+## OBSOLETE; you do not need to translate this
+
