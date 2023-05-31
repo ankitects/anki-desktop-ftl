@@ -63,7 +63,7 @@ qt-misc-no-temp-folder = 找不到可用的暫存資料夾。請檢查資料夾�
 qt-misc-incompatible-video-driver = 你的視訊驅動程式不相容。請重新啟動 Anki，之後 Anki 將會切換為較慢但更相容的模式。
 qt-misc-error-loading-graphics-driver = 載入圖形驅動程式「{ $mode }」時發生錯誤。請重新啟動 Anki 來嘗試下一個驅動程式。{ $context }
 qt-misc-anki-is-running = Anki 已在執行中
-qt-misc-if-instance-is-not-responding = 若現有的 Anki 實體沒有回應，請使用工作管理員關閉 Anki，或重新啟動你的電腦。
+qt-misc-if-instance-is-not-responding = 若現有的 Anki 執行個體沒有回應，請使用工作管理員關閉 Anki，或重新啟動你的電腦。
 qt-misc-second =
     { $count ->
        *[other] { $count } 秒鐘
