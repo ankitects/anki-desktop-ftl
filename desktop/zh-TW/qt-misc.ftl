@@ -19,8 +19,8 @@ qt-misc-deck-will-be-imported-when-a = 牌組將在打開設定檔後匯入。
 qt-misc-empty-cards = 空白卡片...
 qt-misc-error-during-startup = 打開時發生錯誤：{ $val }
 qt-misc-ignore-this-update = 忽略更新
-qt-misc-in-order-to-ensure-your-collection = 為了確保你的集合能在不同裝置中運作，Anki 要求你電腦的內部時鐘設定正確。即使系統顯示的當地時間是對的，內部時鐘還是可能出現錯誤。<br><br>請在電腦上的時間設定中檢查：<br><br>- 上午/下午<br>- 時間是否準確<br>- 年月日<br>- 時區<br>- 夏令時間<br><br>與正確時間的差異：{ $val }。
-qt-misc-invalid-property-found-on-card-please = 卡片上有無效的屬性，請按 工具>檢查資料庫。如果問題再次出現，請至支援網站提問。
+qt-misc-in-order-to-ensure-your-collection = 為了確保你的集合能在不同裝置之間正常運作，Anki 需要你正確設定電腦的內部時鐘。即使系統顯示的當地時間是對的，內部時鐘仍可能有誤。<br><br>請前往電腦的時間設定並檢查以下項目：<br><br>- 上午/下午<br>- 時鐘漂移<br>- 年月日<br>- 時區<br>- 夏令時間<br><br>與正確時間的差異：{ $val }。
+qt-misc-invalid-property-found-on-card-please = 卡片帶有無效屬性，請使用「工具」>「檢查資料庫」，如果問題再次出現，請至支援網站提問。
 qt-misc-loading = 載入中...
 qt-misc-manage = 管理
 qt-misc-manage-note-types = 管理筆記類型
@@ -28,14 +28,14 @@ qt-misc-name-exists = 名稱已存在。
 qt-misc-non-unicode-text = <非 unicode 文字>
 qt-misc-optimizing = 最佳化中...
 qt-misc-unable-to-record =
-    無法錄製。請確保以連接麥克風，且 Anki 已取得麥克風存取權限。
+    無法錄製。請確保已連接麥克風，並確認 Anki 已取得麥克風存取權限。
     若有其他程式正在使用麥克風，請嘗試關閉這些程式。
     
     原始錯誤：{ $error }
 qt-misc-please-ensure-a-profile-is-open = 請確定已打開設定檔，而且 Anki 不在忙碌中，然後再試一次。
 qt-misc-please-select-1-card = (請選取一張卡片)
 qt-misc-please-select-a-deck = 請選取一個牌組。
-qt-misc-please-use-fileimport-to-import-this = 請使用「檔案>匯入」來匯入這個檔案。
+qt-misc-please-use-fileimport-to-import-this = 請使用「檔案」>「匯入」來匯入這個檔案。
 qt-misc-processing = 處理中...
 qt-misc-replace-your-collection-with-an-earlier = 是否用較早的備份取代你的集合？
 qt-misc-revert-to-backup = 回復備份
@@ -49,7 +49,7 @@ qt-misc-study-deck = 學習牌組...
 qt-misc-sync = 同步
 qt-misc-target-deck-ctrlandd = 目標牌組 (Ctrl+D)
 qt-misc-the-following-character-can-not-be = 不可使用下列字元：{ $val }
-qt-misc-the-requested-change-will-require-a = 更改後，你在下一次同步集合時需要完整上傳資料庫。若你在其他裝置上作出複習或其他更動，且還沒有同步到這裡，則那些更動將全部遺失。繼續？
+qt-misc-the-requested-change-will-require-a = 更改後，下一次同步集合時需要完整上傳資料庫。若在其他裝置上複習或做出其他更動後尚未同步到此裝置，則在其他裝置上所作更動將被遺失。繼續？
 qt-misc-there-must-be-at-least-one = 至少要有一個設定檔。
 qt-misc-this-file-exists-are-you-sure = 檔案已存在。確定要覆蓋檔案嗎？
 qt-misc-unable-to-access-anki-media-folder = 無法存取 Anki 媒體資料夾。你的系統的暫存資料夾權限設定可能錯誤。
@@ -59,7 +59,7 @@ qt-misc-your-collection-file-appears-to-be = 你的集合檔案似乎已損毀�
 qt-misc-your-computers-storage-may-be-full = 你的電腦儲存空間可能已滿。請刪除一些不需要的檔案，然後再試一次。
 qt-misc-your-firewall-or-antivirus-program-is = 你的防火牆或防毒軟體程式正在阻止 Anki 建立與自身的連接。請將 Anki 添加到例外清單中。
 qt-misc-error = 錯誤
-qt-misc-no-temp-folder = 找不到可用的暫存資料夾。請確保 C:\\temp 存在或你環境中的 TEMP 變數指向一個有效且可寫入的資料夾。
+qt-misc-no-temp-folder = 找不到可用的暫存資料夾。請檢查資料夾「C:\\temp」是否存在，或確保環境中的 TEMP 變數指向一個有效且可寫入的資料夾。
 qt-misc-incompatible-video-driver = 你的視訊驅動程式不相容。請重新啟動 Anki，之後 Anki 將會切換為較慢但更相容的模式。
 qt-misc-error-loading-graphics-driver = 載入圖形驅動程式「{ $mode }」時發生錯誤。請重新啟動 Anki 來嘗試下一個驅動程式。{ $context }
 qt-misc-anki-is-running = Anki 已在執行中
