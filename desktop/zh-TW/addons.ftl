@@ -60,7 +60,7 @@ addons-view-addon-page = 檢視附加元件頁面
 addons-view-files = 檢視檔案
 addons-delete-the-numd-selected-addon =
     { $count ->
-       *[other] 刪除選取的 { $count } 個附加元件？
+       *[other] 要刪除選取的 { $count } 個附加元件嗎？
     }
 addons-choose-update-window-title = 更新附加元件
 addons-choose-update-update-all = 全部更新

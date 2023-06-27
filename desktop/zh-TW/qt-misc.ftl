@@ -41,7 +41,7 @@ qt-misc-replace-your-collection-with-an-earlier = 是否用較早的備份取代
 qt-misc-revert-to-backup = 回復備份
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI", "Microsoft JhengHei UI"
-qt-misc-shift-key-was-held-down-skipping = 已按下 Shift 鍵。略過自動同步及載入附加元件。
+qt-misc-shift-key-was-held-down-skipping = 已按下 Shift 鍵。將略過自動同步及載入附加元件。
 qt-misc-shortcut-key-left-arrow = 快速鍵：左方向鍵
 qt-misc-shortcut-key-right-arrow-or-enter = 快速鍵：右方向鍵 或 Enter 鍵
 qt-misc-stats = 統計
@@ -66,7 +66,7 @@ qt-misc-anki-is-running = Anki 已在執行中
 qt-misc-if-instance-is-not-responding = 若現有的 Anki 執行個體沒有回應，請使用工作管理員關閉 Anki，或重新啟動你的電腦。
 qt-misc-second =
     { $count ->
-       *[other] { $count } 秒鐘
+       *[other] { $count } 秒
     }
 qt-misc-layout-auto-enabled = 已啟用適應性佈局
 qt-misc-layout-vertical-enabled = 已啟用垂直佈局
