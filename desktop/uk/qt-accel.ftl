@@ -28,6 +28,7 @@ qt-accel-support-anki = &Підтримати Anki...
 qt-accel-switch-profile = &Змінити профіль
 qt-accel-tools = &Інструменти
 qt-accel-undo = &Скасувати
+qt-accel-view = &Вигляд
 qt-accel-full-screen = &Повний екран
 qt-accel-zoom-in = При&близити
 qt-accel-zoom-out = &Віддалити
