@@ -16,10 +16,8 @@ qt-misc-copy-to-clipboard = Copier dans le presse-papiers
 qt-misc-create-filtered-deck = Créer un paquet filtré...
 qt-misc-debug-console = Console de débogage
 qt-misc-deck-will-be-imported-when-a = Le paquet sera importé quand un compte sera ouvert.
-qt-misc-default = Par défaut
 qt-misc-empty-cards = Chercher des cartes vides...
 qt-misc-error-during-startup = Erreur au démarrage :  { $val }
-qt-misc-filtered-deck = Paquet filtré { $val }
 qt-misc-ignore-this-update = Ignorer cette mise à jour
 qt-misc-in-order-to-ensure-your-collection = Afin que votre collection fonctionne correctement lors des déplacements entre appareils, Anki requiert que l’horloge interne de votre ordinateur soit correcte. Cette horloge interne peut être fausse même si votre système affiche une heure valide.  Veuillez aller dans les réglages de l’horloge de votre ordinateur, et vérifier :  - Réglage AM/PM - Dérive de l’horloge - Jour, mois et année - Fuseau horaire  - Heure d’été  Différence avec l’heure correcte : { $val }.
 qt-misc-invalid-property-found-on-card-please = Propriété invalide trouvée sur la carte. Veuillez utiliser Outils > Vérifier l’intégrité de la base de données. Si le problème persiste, veuillez demander de l’aide sur le site de support.
@@ -41,7 +39,7 @@ qt-misc-please-use-fileimport-to-import-this = Utilisez Fichier > Importer, po
 qt-misc-processing = Traitement...
 qt-misc-replace-your-collection-with-an-earlier = Remplacer votre collection par une sauvegarde précédente ?
 qt-misc-revert-to-backup = Charger la sauvegarde
-qt-misc-reverted-to-state-prior-to = Revenu à l’état antérieur à « { $val } ».
+# please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = La touche majuscule était maintenue enfoncée. Aucune synchronisation automatique ni de chargement de greffons.
 qt-misc-shortcut-key-left-arrow = Raccourci clavier : flèche gauche
@@ -55,9 +53,6 @@ qt-misc-the-requested-change-will-require-a = Une telle modification suppose de 
 qt-misc-there-must-be-at-least-one = Il faut au moins un compte !
 qt-misc-this-file-exists-are-you-sure = Ce fichier existe. Êtes-vous sûr de vouloir l’écraser ?
 qt-misc-unable-to-access-anki-media-folder = Impossible d’accéder au dossier média d’Anki. Les permissions du dossier temporaire de votre système peuvent être incorrectes.
-qt-misc-unable-to-move-existing-file-to = Impossible de déplacer le fichier à la corbeille - s.v.p. réessayer après un redémarrage de l’ordinateur.
-qt-misc-undo = Annuler
-qt-misc-undo2 = Annuler { $val }
 qt-misc-unexpected-response-code = Réponse inattendue, code : { $val }
 qt-misc-would-you-like-to-download-it = Souhaitez-vous la télécharger maintenant ?
 qt-misc-your-collection-file-appears-to-be = Votre fichier de collection semble être corrompu. Cela peut se produire si le fichier est copié ou déplacé alors qu’Anki est ouvert. Cela peut aussi se produire si ce fichier est stocké à distance. Si les problèmes persistent après le redémarrage de votre ordinateur, ouvrez une sauvegarde automatique à partir de l’écran de profil.
@@ -74,9 +69,10 @@ qt-misc-second =
         [one] { $count } seconde
        *[other] { $count } secondes
     }
+qt-misc-layout-auto-enabled = Mise en page réactive activée
+qt-misc-layout-vertical-enabled = Mise en page verticale activée
+qt-misc-layout-horizontal-enabled = Mise en page horizontale activée
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
-qt-misc-resume-now = Reprendre maintenant
-qt-misc-waiting-for-editing-to-finish = Finissez de modifier la carte pour continuer.
