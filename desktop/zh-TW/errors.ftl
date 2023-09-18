@@ -2,7 +2,7 @@
 errors-standard-popup =
     # 錯誤
     
-    發生了一個錯誤。請嘗試使用「工具」>「檢查資料庫」解決問題。
+    發生了一個錯誤。請嘗試使用**「工具」>「檢查資料庫」**來修正問題。
     
     如果問題持續，請到網站{ -errors-support-site }上回報問題。請將下方資訊複製貼上到你的回報中。
 errors-addons-active-popup =
