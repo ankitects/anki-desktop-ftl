@@ -6,3 +6,4 @@ preferences-video-driver-software-mac = Software (non consigliato)
 preferences-video-driver-opengl-other = OpenGL (più veloce, potrebbe causare dei problemi)
 preferences-video-driver-software-other = Software (più lento)
 preferences-video-driver-angle = ANGLE (potrebbe funzionare meglio di OpenGL)
+preferences-video-driver-default = predefinito
