@@ -2,10 +2,10 @@ addons-possibly-involved = 相关插件：{ $addons }
 addons-failed-to-load =
     下列插件加载失败。如果该问题持续出现，请在「工具」>「插件」中禁用或删除此插件。
     
-    加载{ $name }时：
+    加载 { $name } 时：
     { $traceback }
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
-addons-config-window-title = { $name }-插件设置
+addons-config-window-title = { $name } 插件设置
 addons-config-validation-error = 提供的设置存在问题：{ $problem }，位于路径{ $path }，依据模式{ $schema }。
 addons-window-title = 插件
 addons-addon-has-no-configuration = 插件无设置界面。
@@ -22,7 +22,7 @@ addons-disabled = （已禁用）
 addons-disabled2 = （已禁用）
 addons-download-complete-please-restart-anki-to = 下载完成。请重启 Anki 以应用更改。
 addons-downloaded-fnames = 已下载 { $fname }
-addons-downloading-adbd-kb02fkb = 正在下载{ $part }/{ $total } ({ $kilobytes }KB)...
+addons-downloading-adbd-kb02fkb = 正在下载 { $part }/{ $total }（{ $kilobytes } KB）…
 addons-error-downloading-ids-errors = 下载出错<i>{ $id }</i>: { $error }
 addons-error-installing-bases-errors = 安装出错<i>{ $base }</i>: { $error }
 addons-get-addons = 获取插件…

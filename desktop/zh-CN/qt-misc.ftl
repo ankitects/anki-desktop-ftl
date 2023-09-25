@@ -1,7 +1,7 @@
 qt-misc-addon-will-be-installed-when-a = 插件将在打开任意账户后完成安装。
 qt-misc-addons = 插件
 qt-misc-all-cards-notes-and-media-for = 该帐户下的所有卡片、笔记和媒体文件都会被删除，是否确定？
-qt-misc-anki-updatedanki-has-been-released = <h1>Anki有更新</h1>Anki { $val } 已发布。<br><br>
+qt-misc-anki-updatedanki-has-been-released = <h1>Anki 有更新</h1>Anki { $val } 已发布。<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = 自动同步和备份在还原时已被禁用，如需启用请关闭账户并重启Anki。
 qt-misc-back-side-only = 仅背面
 qt-misc-backing-up = 正在备份…
@@ -60,7 +60,7 @@ qt-misc-your-firewall-or-antivirus-program-is = 防火墙或杀毒软件阻止�
 qt-misc-error = 错误
 qt-misc-no-temp-folder = 找不到可用的临时文件夹。请确保路径 C:\\temp 存在，或者TEMP环境变量指向的位置有效可写。
 qt-misc-incompatible-video-driver = 您的视频驱动程序不兼容。请重启Anki切换至较慢但兼容的模式。
-qt-misc-error-loading-graphics-driver = 载入图形驱动“{ $mode }”时发生错误。请重启Anki以尝试下一个驱动程序。{ $context }
+qt-misc-error-loading-graphics-driver = 载入图形驱动「{ $mode }」时发生错误。请重启 Anki 以尝试下一个驱动程序。{ $context }
 qt-misc-anki-is-running = Anki已在运行
 qt-misc-if-instance-is-not-responding = 若已打开的Anki实例无响应，请使用任务管理器将其关闭或重启电脑。
 qt-misc-second =
