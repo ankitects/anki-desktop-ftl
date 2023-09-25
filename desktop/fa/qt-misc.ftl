@@ -67,9 +67,9 @@ qt-misc-second =
     { $count ->
        *[other] { $count } ثانیه
     }
-qt-misc-layout-auto-enabled = چینش واکنشگرا فعال شد
-qt-misc-layout-vertical-enabled = قالب عمودی فعال شد
-qt-misc-layout-horizontal-enabled = قالب افقی فعال شد
+qt-misc-layout-auto-enabled = چیدمان واکنشگرا فعال شد
+qt-misc-layout-vertical-enabled = چیدمان عمودی فعال شد
+qt-misc-layout-horizontal-enabled = چیدمان افقی فعال شد
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
