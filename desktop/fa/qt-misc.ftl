@@ -27,6 +27,10 @@ qt-misc-manage-note-types = مدیریت انواع یادداشت‌ها
 qt-misc-name-exists = نام موجود است.
 qt-misc-non-unicode-text = <متن غیر یونیکد>
 qt-misc-optimizing = درحال بهینه‌سازی ...
+qt-misc-unable-to-record =
+    ناتوانی در ضبط. لطفا مطمئن شوید یک صدابر متصل است، و آنکی اجازه استفاده از صدابر را دارد.
+    اگر برنامه‌ها دارند از صدابر استفاده میکنند، بستن آنها ممکن است کمک کند.
+    خطای اصلی: { $error }
 qt-misc-please-ensure-a-profile-is-open = لطفا مطمئن شوید که یک پروفایل باز است و آنکی مشغول نیست، سپس مجدداً سعی نمایید.
 qt-misc-please-select-1-card = (لطفا یک کارت انتخاب کنید)
 qt-misc-please-select-a-deck = لطفا یک دسته انتخاب کنید.
@@ -63,6 +67,7 @@ qt-misc-second =
     { $count ->
        *[other] { $count } ثانیه
     }
+qt-misc-layout-auto-enabled = چینش واکنشگرا فعال شد
 qt-misc-layout-vertical-enabled = قالب عمودی فعال شد
 qt-misc-layout-horizontal-enabled = قالب افقی فعال شد
 
