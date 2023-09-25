@@ -10,7 +10,6 @@ addons-config-validation-error = مشکلی در پیکربندی ورودی و�
 addons-window-title = افزونه‌ها
 addons-addon-has-no-configuration = افزونه فاقد پیکربندی است.
 addons-addon-installation-error = خطا در نصب افزونه
-addons-addon-was-not-downloaded-from-ankiweb = افزونه از AnkiWeb دانلود نشده است.
 addons-browse-addons = جستجوی افزونه
 addons-changes-will-take-effect-when-anki = تغییرات پس از ری‌استارت کردن آنکی اعمال خواهند شد.
 addons-check-for-updates = بررسی نسخۀ برنامه
@@ -63,3 +62,5 @@ addons-delete-the-numd-selected-addon =
     { $count ->
        *[other] حذف { $count } افزونۀ انتخاب شده؟
     }
+addons-choose-update-window-title = بروزرسانی افزونه‌ها
+addons-choose-update-update-all = بروزرسانی همه

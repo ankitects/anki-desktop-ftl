@@ -6,7 +6,6 @@ errors-standard-popup =
     
     اگر مشکل همچنان ادامه داشت، لطفاً مشکل را در { -errors-support-site } گزارش دهید.
     لطفاً اطلاعات زیر را کپی و آن را در گزارش خود در وبسایت جایگذاری کنید.
--errors-addon-support-site = [وبسایت پشتیبانی افزونه](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # خطا
     
@@ -39,3 +38,7 @@ errors-unable-open-collection =
     آنکی قادر به باز کردن فایل مجموعه شما نبود. اگر مشکل بعد از ری‌استارت کردن سیستم همچنان ادامه دات، لطفاً در صفحۀ مدیریت پروفایل‌ها از دکمۀ باز کردن فایل پشتیبان استفاده کنید.
     
     اطلاعات رفع مشکل:
+errors-windows-tts-runtime-error = کارساز TTS شکست خورد. لطفا مطمئن شوید بروزرسانی‌های ویندوز نصب شده‌اند، تلاش کنید رایانه‌تان را شروع دوباره کنید، با صدای دیگری را امتحان کنید.
+
+## OBSOLETE; you do not need to translate this
+

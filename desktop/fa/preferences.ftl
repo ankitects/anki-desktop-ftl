@@ -1,6 +1,9 @@
-# shown instead of the 'night mode' option when night mode is forced on because
-# macOS is in dark mode
-preferences-dark-mode-active = macOS در حالت تاریک قرار دارد
-preferences-dark-mode-disable =
-    برای استفاده از آنکی در حالت روشن در حالی که macOS در حالت تاریک قرار دارد، لطفاً
-    به قسما حالت شب در راهنما مراجعه نمایید.
+## Video drivers/hardware acceleration. Please avoid translating 'OpenGL' and 'ANGLE'.
+
+preferences-video-driver = درایور ویدئو
+preferences-video-driver-opengl-mac = OpenGL (توصیه شده در مک‌ها)
+preferences-video-driver-software-mac = نرم‌افزار (توصیه نشده)
+preferences-video-driver-opengl-other = OpenGL (سریع‌تر، ممکن است باعث مشکلاتی شود)
+preferences-video-driver-software-other = نرم‌افزار (کندتر)
+preferences-video-driver-angle = ANGEL (ممکن است بهتر از OpenGL کار کند)
+preferences-video-driver-default = پیش‌فرض

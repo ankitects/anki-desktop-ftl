@@ -1,6 +1,6 @@
 about-a-big-thanks-to-all-the = از همۀ کسانی که پیشنهاد، خطاهای رخ داده و هدیه ارسال می کنند کمال تشکر را داریم.
 about-about-anki = دربارۀ آنکی
-about-anki-is-a-friendly-intelligent-spaced = آنکی یک سیستم یادگیری هوشمند و دوستانه است. این نرم افزار مجانی و اوپن سورس می باشد.
+about-anki-is-a-friendly-intelligent-spaced = آنکی یک سیستم یادگیری هوشمند و دوستانه است. این نرم افزار آزاد و منبع‌باز می باشد.
 about-anki-is-licensed-under-the-agpl3 = آنکی تحت مجوز AGPL3 می باشد. لطفا برای اطلاعات بیشتر  فایل مجوز را در محل توزیع ببینید.
 about-copied-to-clipboard = به حافظه کپی شد
 about-copy-debug-info = کپی مشخصات مشکل‌یابی
