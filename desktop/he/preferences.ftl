@@ -1,6 +1,6 @@
 ## Video drivers/hardware acceleration. Please avoid translating 'OpenGL' and 'ANGLE'.
 
-preferences-video-driver = דרייבר וידאו: { $driver }
+preferences-video-driver = דרייבר וידאו:
 preferences-video-driver-opengl-mac = OpenGL (מומלץ למחשבי Mac).
 preferences-video-driver-software-mac = תוכנה (לא מומלץ)
 preferences-video-driver-opengl-other = OpenGL (מהיר יותר, עלול לגרום לבעיות)
