@@ -1,4 +1,4 @@
--errors-support-site = [支持网站]（https://help.ankiweb.net）
+-errors-support-site = [支持网站](https://help.ankiweb.net)
 errors-standard-popup =
     # 错误
     运行出错。请使用「工具」>「检查数据库」功能尝试修复。
@@ -25,7 +25,7 @@ errors-unable-open-collection =
     无法打开集合文件。请尝试重启电脑，如未能解决，请使用账户管理器中的「打开备份」。
     
     调试信息：
-errors-windows-tts-runtime-error = 无法使用文字转语音服务(TTS)。请确认已安装 Windows更新，并尝试重启电脑、更换 TTS 音源。
+errors-windows-tts-runtime-error = 无法使用文字转语音服务（TTS）。请确认已安装 Windows 更新，并尝试重启电脑、更换 TTS 音源。
 
 ## OBSOLETE; you do not need to translate this
 
