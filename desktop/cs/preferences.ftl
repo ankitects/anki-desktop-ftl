@@ -6,3 +6,4 @@ preferences-video-driver-software-mac = Softwarový (nedoporučeno)
 preferences-video-driver-opengl-other = OpenGL (rychlejší, může způsobovat problémy)
 preferences-video-driver-software-other = Softwarový (pomalejší)
 preferences-video-driver-angle = ANGLE (může pracovat lépe než OpenGL)
+preferences-video-driver-default = výchozí
