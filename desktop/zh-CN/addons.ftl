@@ -13,7 +13,7 @@ addons-addon-installation-error = 插件安装出错
 addons-browse-addons = 插件官网
 addons-changes-will-take-effect-when-anki = 更改将在 Anki 重启后生效。
 addons-check-for-updates = 检查更新
-addons-checking = 正在检查...
+addons-checking = 正在检查…
 addons-code = 代码：
 addons-config = 插件设置
 addons-configuration = 设置
@@ -22,7 +22,7 @@ addons-disabled = （已禁用）
 addons-disabled2 = （已禁用）
 addons-download-complete-please-restart-anki-to = 下载完成。请重启 Anki 以应用更改。
 addons-downloaded-fnames = 已下载 { $fname }
-addons-downloading-adbd-kb02fkb = 正在下载 { $part }/{ $total }（{ $kilobytes } KB）…
+addons-downloading-adbd-kb02fkb = 正在下载 { $part }/{ $total } ({ $kilobytes }KB)...
 addons-error-downloading-ids-errors = 下载出错 <i>{ $id }</i>：{ $error }
 addons-error-installing-bases-errors = 安装出错 <i>{ $base }</i>：{ $error }
 addons-get-addons = 获取插件…
@@ -30,7 +30,7 @@ addons-important-as-addons-are-programs-downloaded = <b>重要</b>：互联网�
 addons-install-addon = 安装插件
 addons-install-addons = 安装插件
 addons-install-anki-addon = 安装 Anki 插件
-addons-install-from-file = 本地安装...
+addons-install-from-file = 本地安装…
 addons-installation-complete = 安装完成
 addons-installed-names = 已安装 { $name }
 addons-installed-successfully = 安装成功。
@@ -54,13 +54,13 @@ addons-the-following-conflicting-addons-were-disabled = 以下插件发生冲突
 addons-this-addon-is-not-compatible-with = 此插件与当前 Anki 版本不兼容。
 addons-to-browse-addons-please-click-the = 浏览插件请点击下方「插件官网」按钮。<br><br>并将您想要安装插件的代码粘贴到下方代码框中。如需输入多个代码，请以空格分隔。
 addons-toggle-enabled = 启用/禁用
-addons-unable-to-update-or-delete-addon = 无法更新或删除插件。请在打开Anki时按住「Shift」键以临时插件加载，然后重试。 调试信息： { $val }
+addons-unable-to-update-or-delete-addon = 无法更新或删除插件。请在打开 Anki 时按住 <kbd>Shift</kbd> 键以临时插件加载，然后重试。 调试信息： { $val }
 addons-unknown-error = 未知错误：{ $val }
 addons-view-addon-page = 插件网页
 addons-view-files = 插件文件
 addons-delete-the-numd-selected-addon =
     { $count ->
-       *[other] 确定要删除已选中的{ $count }个插件吗？
+       *[other] 确定要删除已选中的 { $count } 个插件吗？
     }
 addons-choose-update-window-title = 更新插件
 addons-choose-update-update-all = 全部更新
