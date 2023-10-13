@@ -1,6 +1,7 @@
 qt-misc-addon-will-be-installed-when-a = 插件将在打开任意账户后完成安装。
 qt-misc-addons = 插件
 qt-misc-all-cards-notes-and-media-for = 该帐户下的所有卡片、笔记和媒体文件都会被删除，是否确定？
+qt-misc-all-cards-notes-and-media-for2 = 确定要将帐户「{ $name }」下的所有卡片、笔记和媒体文件全都删除？
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki 有更新</h1>Anki { $val } 已发布。<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = 自动同步和备份在还原时已被禁用，如需启用请关闭账户并重启 Anki。
 qt-misc-back-side-only = 仅背面
