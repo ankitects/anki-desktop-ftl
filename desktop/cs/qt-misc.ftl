@@ -1,6 +1,7 @@
 qt-misc-addon-will-be-installed-when-a = Doplněk se nainstaluje při otevření profilu.
 qt-misc-addons = Doplňky
 qt-misc-all-cards-notes-and-media-for = Všechny karty, poznámky a multimédia tohoto profilu budou odstraněny. Jste si jistý?
+qt-misc-all-cards-notes-and-media-for2 = Všechny karty, poznámky a multimédia profilu „{ $name }“ budou odstraněny. Jste si jistý?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki aktualizováno</h1>Byla vydána Anki verze { $val }.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = Automatická synchronizace a zálohování byly zrušeny během procesu obnovení. Pro obnovení těchto nastavení zavřete profil, nebo restartujte Anki.
 qt-misc-back-side-only = Pouze zadní strana
