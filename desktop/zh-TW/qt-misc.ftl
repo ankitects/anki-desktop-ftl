@@ -1,6 +1,7 @@
 qt-misc-addon-will-be-installed-when-a = 附加元件將在打開任意設定檔後完成安裝。
 qt-misc-addons = 附加元件
 qt-misc-all-cards-notes-and-media-for = 確定要刪除此設定檔的所有卡片、筆記和媒體檔？
+qt-misc-all-cards-notes-and-media-for2 = 所有卡片、筆記和媒體檔會從設定檔「{ $name }」中刪除。確定嗎？
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki 已更新</h1>Anki { $val } 已發佈。<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = 自動同步和備份已在回復時被停用。要重新啟用，請關閉設定檔或重新啟動Anki。
 qt-misc-back-side-only = 僅背面
