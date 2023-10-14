@@ -6,3 +6,4 @@ preferences-video-driver-software-mac = תוכנה (לא מומלץ)
 preferences-video-driver-opengl-other = OpenGL (מהיר יותר, עלול לגרום לבעיות)
 preferences-video-driver-software-other = תוכנה (איטי יותר)
 preferences-video-driver-angle = ANGLE (עשוי לפעול טוב יותר מאשר OpenGL)
+preferences-video-driver-default = ברירת מחדל
