@@ -1,6 +1,7 @@
 qt-misc-addon-will-be-installed-when-a = Дополнение будет установлено при открытии профиля.
 qt-misc-addons = Дополнения
 qt-misc-all-cards-notes-and-media-for = Все карточки, записи и медиафайлы этого профиля будут удалены. Вы уверены?
+qt-misc-all-cards-notes-and-media-for2 = Все карточки, записи и медиафайлы профиля «{ $name }» будут удалены. Вы уверены?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki обновлена</h1>Была выпущена Anki { $val }.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = Автоматическая синхронизация и резервное копирование были отключены при восстановлении. Чтобы включить их снова, закройте профиль или перезапустите Anki.
 qt-misc-back-side-only = Только обратная сторона
