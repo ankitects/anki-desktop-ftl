@@ -1,6 +1,7 @@
 qt-misc-addon-will-be-installed-when-a = プロファイルを開いた時にアドオンがインストールされます。
 qt-misc-addons = アドオン
 qt-misc-all-cards-notes-and-media-for = このプロファイルのすべてのカード、ノート、メディア（画像・音声・動画）ファイルが削除されます。よろしいですか？
+qt-misc-all-cards-notes-and-media-for2 = プロファイル "{ $name }" のすべてのカード、ノート、メディア（画像・音声・動画）ファイルが削除されます。よろしいですか？
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki アップデート</h1>Anki { $val } がリリースされました。<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = 復元中、自動で行われる同期とバックアップが無効化されました。プロファイルを閉じ、Ankiを再起動させることで再び自動で行われるようになります。
 qt-misc-back-side-only = 裏面のみ
@@ -67,6 +68,7 @@ qt-misc-second =
     { $count ->
        *[other] { $count }秒
     }
+qt-misc-layout-auto-enabled = エディタの配置を自動調整にしました
 qt-misc-layout-vertical-enabled = エディタをテーブルの下側に配置しました
 qt-misc-layout-horizontal-enabled = エディタをテーブルの右側に配置しました
 
