@@ -67,6 +67,8 @@ qt-misc-second =
     { $count ->
        *[other] { $count }秒
     }
+qt-misc-layout-vertical-enabled = エディタをテーブルの下側に配置しました
+qt-misc-layout-horizontal-enabled = エディタをテーブルの右側に配置しました
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
