@@ -4,6 +4,10 @@ addons-failed-to-load =
     
     حين تشغيل '{ $name }':
     { $traceback }
+addons-failed-to-load2 =
+    فشل تشغيل الإضافات التالية، لذلك تم إيقاف تفعيلها:
+    
+    { $addons }
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = إعداد '{ $name }'
 addons-config-validation-error = هناك مشكلة في الإعدادات المزودة: { $problem }، في المسار { $path }، وفقًا للمخطط { $schema }.
