@@ -4,13 +4,16 @@ addons-failed-to-load =
     
     כאשר '{ $name }' נטען:
     { $traceback }
+addons-failed-to-load2 =
+    טעינת התוספים הבאים נכשלה, ולכן הם הושבתו:
+    
+    { $addons }
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = הגדר '{ $name }'
 addons-config-validation-error = אירעה בעיה בתצורה שסופקה: { $problem }, בנתיב { $path }, נגד סכמה { $schema }.
 addons-window-title = תוספים
 addons-addon-has-no-configuration = לתוסף אין הגדרות.
 addons-addon-installation-error = שגיאת בהתקנת תוסף
-addons-addon-was-not-downloaded-from-ankiweb = תוסף לא הורד מ-AnkiWeb.
 addons-browse-addons = חפש תוספים
 addons-changes-will-take-effect-when-anki = השינויים ייכנסו לתוקף כאשר Anki יותחל מחדש.
 addons-check-for-updates = בדוק אחר עדכונים
