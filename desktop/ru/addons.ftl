@@ -4,6 +4,7 @@ addons-failed-to-load =
     
     При загрузке '{ $name }':
     { $traceback }
+addons-startup-failed = Дополнение не запустилось
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Настроить '{ $name }'
 addons-config-validation-error = Возникла проблема с данной конфигурацией: { $problem }, по адресу { $path }, в отношении схемы { $schema }.
