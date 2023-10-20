@@ -8,6 +8,10 @@ addons-failed-to-load2 =
     فشل تشغيل الإضافات التالية، لذلك تم إيقاف تفعيلها:
     
     { $addons }
+    
+    استخدم أدوات>إضافات للتحقق من التحديثات. تستطيع إيقاف تفعيل الإضافات
+    التي ليس لديها تحديثات أو حذفها لمنع هذه الرسالة من الظهور.
+addons-startup-failed = فشل تشغيل الإضافات
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = إعداد '{ $name }'
 addons-config-validation-error = هناك مشكلة في الإعدادات المزودة: { $problem }، في المسار { $path }، وفقًا للمخطط { $schema }.
