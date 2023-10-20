@@ -4,13 +4,20 @@ addons-failed-to-load =
     
     Ao carregar '{ $name }':
     { $traceback }
+addons-failed-to-load2 =
+    Os seguintes complementos falharam ao carregar:¶
+    { $addons }¶
+    ¶
+    Use Ferramentas>Verificar se há atualizações. Para complementos que não têm¶
+    uma atualização disponível, você pode desativar ou excluir o complemento para evitar que esta¶
+    mensagem apareça.
+addons-startup-failed = Erro na Inicialização do Complemento
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Configurar '{ $name }'
 addons-config-validation-error = Houve um problema com a configuração fornecida: { $problem }, no caminho { $path }, contra o esquema { $schema }.
 addons-window-title = Complementos
 addons-addon-has-no-configuration = A extensão não tem configuração.
 addons-addon-installation-error = Erro na instalação da extensão
-addons-addon-was-not-downloaded-from-ankiweb = A extensão não foi baixada do AnkiWeb.
 addons-browse-addons = Explorar Extensões
 addons-changes-will-take-effect-when-anki = As alterações surtirão efeito quando o Anki for reiniciado.
 addons-check-for-updates = Verificar se há atualizações
