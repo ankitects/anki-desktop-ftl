@@ -5,9 +5,10 @@ addons-failed-to-load =
     載入「{ $name }」時：
     { $traceback }
 addons-failed-to-load2 =
-    已停用以下無法載入的附加元件：
-    
+    以下附加元件載入失敗：
     { $addons }
+    
+    請到「工具」>「附加元件」中檢查更新。若有附加元件沒有更新可用，你可以停用或刪除這些附加元件來避免此訊息出現。
 addons-startup-failed = 附加元件啟動失敗
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = 設定「{ $name }」
