@@ -8,6 +8,7 @@ addons-failed-to-load2 =
     已停用以下無法載入的附加元件：
     
     { $addons }
+addons-startup-failed = 附加元件啟動失敗
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = 設定「{ $name }」
 addons-config-validation-error = 提供的設定存在問題：{ $problem }，位於路徑 { $path }，對於結構描述 { $schema }。
