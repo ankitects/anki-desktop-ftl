@@ -8,7 +8,7 @@ addons-failed-to-load2 =
     Os seguintes complementos falharam ao carregar:¶
     { $addons }¶
     ¶
-    Use Ferramentas>Verificar se há atualizações. Para complementos que não têm¶
+    Use Ferramentas > Verificar se há atualizações. Para complementos que não têm¶
     uma atualização disponível, você pode desativar ou excluir o complemento para evitar que esta¶
     mensagem apareça.
 addons-startup-failed = Erro na Inicialização do Complemento
