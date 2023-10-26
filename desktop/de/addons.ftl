@@ -1,19 +1,25 @@
-addons-possibly-involved = Möglicherweise beteiligte Erweiterungen: { $addons }
+addons-possibly-involved = Möglicherweise ursächliche Erweiterungen: { $addons }
 addons-failed-to-load =
     Eine der installierten Erweiterungen konnte nicht geladen werden. Wenn das Problem weiter besteht, bitte über den Menüpunkt Extras → Erweiterungen die Erweiterungen deaktivieren oder deinstallieren
     
     Beim Laden von '{ $name }':
     { $traceback }
+addons-failed-to-load2 =
+    Die folgenden Erweiterungen konnten nicht geladen werden:
+    { $addons }
+    Evtl. müssen diese Erweiterungen geupdatet werden, damit sie mit dieser Version von Anki funktionieren. Klicken Sie in diesem Fenster unten auf "{ addons-check-for-updates }", um zu prüfen, ob bereits Updates dafür vorhanden sind.
+    
+    Falls keine Updates dafür vorhanden sein sollten und Sie nicht möchten, dass Ihnen dieser Hinweis beim Start weiter angezeigt wird, können Sie die Erweiterungen auch deaktivieren (oder sogar löschen) unter: Extras > Erweiterungen
+addons-startup-failed = Manche Erweiterungen konnten nicht geladen werden
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = '{ $name }' konfigurieren
 addons-config-validation-error = Es gab ein Problem mit der bereitgestellten Konfiguration: { $problem }, im Pfad { $path }, gegenüber Schema { $schema }.
 addons-window-title = Erweiterungen
 addons-addon-has-no-configuration = Die Erweiterung bietet keine Konfigurationsmöglichkeiten.
 addons-addon-installation-error = Erweiterung - Installationsfehler
-addons-addon-was-not-downloaded-from-ankiweb = Die Erweiterung wurde nicht von AnkiWeb heruntergeladen.
 addons-browse-addons = Erweiterungen durchsuchen
 addons-changes-will-take-effect-when-anki = Änderungen werden nach einem Neustart von Anki wirksam.
-addons-check-for-updates = Auf Aktualisierungen überprüfen
+addons-check-for-updates = Nach Updates suchen
 addons-checking = Überprüfung läuft …
 addons-code = Code:
 addons-config = Konfiguration
@@ -55,7 +61,12 @@ addons-the-following-conflicting-addons-were-disabled = Die folgenden miteinande
 addons-this-addon-is-not-compatible-with = Diese Erweiterung ist nicht mit Ihrer Anki-Version kompatibel.
 addons-to-browse-addons-please-click-the = Um die Sammlung der verfügbaren Erweiterungen aufzurufen, klicken Sie bitte auf den entsprechenden Button unten.<br><br>Wenn Sie eine Erweiterung gefunden haben, die Sie installieren möchten, dann geben Sie bitte ihren entsprechenden Code unten ein. Sie können auch mehrere Codes mit Leerzeichen voneinander getrennt einfügen.
 addons-toggle-enabled = Aktivieren/Deaktivieren
-addons-unable-to-update-or-delete-addon = Erweiterung konnte nicht aktualisiert oder entfernt werden. Bitte starten Sie Anki bei gedrückter Umschalttaste, um Erweiterungen zu deaktivieren und versuchen Sie es erneut.  Debug-Information: { $val }
+addons-unable-to-update-or-delete-addon =
+    Erweiterung konnte nicht geupdatet oder entfernt werden. Bitte tun Sie folgendes:
+    
+    Starten Sie Anki, während Sie gleichzeitig die Shift-Taste (= Pfeil nach oben ganz links auf der Tastatur) gedrückt halten, um alle Erweiterungen zu deaktivieren, und versuchen Sie es anschließend erneut.
+    
+    Debug-Information: { $val }
 addons-unknown-error = Unbekannter Fehler: { $val }
 addons-view-addon-page = Webseite der Erweiterung öffnen
 addons-view-files = Dateien anzeigen
@@ -64,5 +75,5 @@ addons-delete-the-numd-selected-addon =
         [one] Möchten Sie die { $count } ausgewählte Erweiterung löschen?
        *[other] Möchten Sie die { $count } ausgewählten Erweiterungen löschen?
     }
-addons-choose-update-window-title = Erweiterungen aktualisieren
-addons-choose-update-update-all = Alle aktualisieren
+addons-choose-update-window-title = Erweiterungen updaten
+addons-choose-update-update-all = Alle updaten
