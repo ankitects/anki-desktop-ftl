@@ -8,8 +8,10 @@ addons-failed-to-load2 =
     Os seguintes complementos falharam ao carregar:¶
     { $addons }¶
     ¶
-    Use Ferramentas > Verificar se há atualizações. Para complementos que não têm¶
-    uma atualização disponível, você pode desativar ou excluir o complemento para evitar que esta¶
+    Eles podem precisar ser atualizados para suportar esta versão do Anki. Clique no botão { addons-check-for-updates }¶
+    para ver se há atualizações disponíveis.¶
+    ¶
+    Para complementos que não têm uma atualização disponível, você pode desativar ou deletar o complemento para evitar que esta¶
     mensagem apareça.
 addons-startup-failed = Erro na Inicialização do Complemento
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
