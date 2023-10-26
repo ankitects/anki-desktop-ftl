@@ -6,11 +6,12 @@ addons-failed-to-load =
     { $traceback }
 addons-failed-to-load2 =
     فشل تشغيل الإضافات التالية، لذلك تم إيقاف تفعيلها:
-    
     { $addons }
     
-    استخدم أدوات>إضافات للتحقق من التحديثات. تستطيع إيقاف تفعيل الإضافات
-    التي ليس لديها تحديثات أو حذفها لمنع هذه الرسالة من الظهور.
+    قد تحتاج هذه الإضافات إلى التحديث لدعم هذا الإصدار من أنكي. انقر فوق الزر { addons-check-for-updates }
+    لمعرفة ما إذا كانت هناك أي تحديثات متاحة.
+    
+    تستطيع إيقاف تفعيل الإضافات التي ليس لديها تحديثات أو حذفها لمنع هذه الرسالة من الظهور.
 addons-startup-failed = فشل تشغيل الإضافات
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = إعداد '{ $name }'
