@@ -4,6 +4,14 @@ addons-failed-to-load =
     
     加载 { $name } 时：
     { $traceback }
+addons-failed-to-load2 =
+    以下插件加载失败：
+    { $addons }
+    
+    这些插件需要更新至支持本版本的 Anki，请到「工具」>「插件」点击 { addons-check-for-updates } 按钮来查看是否有可用的更新。
+    
+    对于无可用更新的插件，您可以禁用或删除它们来阻止这条消息的出现。
+addons-startup-failed = 插件启动失败
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = { $name } 插件设置
 addons-config-validation-error = 提供的设置存在问题：{ $problem }，位于路径{ $path }，依据模式{ $schema }。
