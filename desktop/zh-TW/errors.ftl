@@ -8,7 +8,7 @@ errors-standard-popup =
 errors-addons-active-popup =
     # 錯誤
     
-    發生錯誤。請按住 Shift 鍵啟動 Anki，這將暫時停用你已安裝的附加元件。
+    發生錯誤。請在啟動 Anki 時按住 Shift 鍵，這將暫時停用你安裝的附加元件。
     
     若問題只在啟用附加元件時發生，請使用「工具」>「附加元件」選單停用部分附加元件，然後重新啟動 Anki，重複此步驟直到找到導致問題的附加元件。
     

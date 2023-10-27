@@ -1,4 +1,4 @@
-addons-possibly-involved = 可能涉及的附加元件：{ $addons }
+addons-possibly-involved = 可能與以下附加元件有關：{ $addons }
 addons-failed-to-load =
     無法載入你安裝的一個附加元件。如果問題持續出現，請前往「工具」>「附加元件」選單，並停用或刪除此附加元件。
     
