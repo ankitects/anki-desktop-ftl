@@ -5,7 +5,6 @@ errors-standard-popup =
     Ein Fehler ist aufgetreten. Bitte benutzen Sie **Extras > Datenbank überprüfen**, um das Problem evtl. zu lösen.
     
     Sollte das Problem fortbestehen, wenden Sie sich bitte mit Ihrem Problem an die { -errors-support-site }. Bitte fügen Sie in diesem Fall die folgenden Informationen in den Problembericht ein.
--errors-addon-support-site = [Support-Seite für Erweiterungen](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # Fehler
     
@@ -28,4 +27,7 @@ errors-accessing-db =
     
     Sie sollten sicherstellen, dass Ihre Datenbank nicht beschädigt ist. Wählen Sie dazu Extras → Datenbank überprüfen.
 errors-unable-open-collection = Anki konnte die Datei Ihrer Samlung nicht öffnen. Sollte das Problem nach einem Neustart Ihres Computers weiterhin bestehen, bitten wir Sie darum, die Wiederherstellungsmöglichkeit im Profilmanager zu nutzen.
-errors-windows-tts-runtime-error = Der TTS-Dienst ist fehlgeschlagen. Bitte stellen Sie sicher, dass Windows-Updates installiert sind, versuchen Sie, den Computer neuzustarten und versuchen Sie, eine andere Stimme zu verwenden.
+errors-windows-tts-runtime-error = Der TTS-Dienst (Text-To-Speech) ist fehlgeschlagen. Bitte prüfen Sie, ob die aktuellen Windows-Updates installiert sind, starten Sie den Computer neu oder versuchen Sie, eine andere Stimme zu verwenden.
+
+## OBSOLETE; you do not need to translate this
+
