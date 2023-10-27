@@ -4,6 +4,14 @@ addons-failed-to-load =
     
     Ladattaessa kohdetta '{ $name }':
     { $traceback }
+addons-failed-to-load2 =
+    Seuraavien lisäosien lataaminen epäonnistui:
+    { $addons }
+    
+    Ne on ehkä päivitettävä tukemaan tätä versiota Ankista. Napsauta { addons-check-for-updates } -painiketta nähdäksesi, onko päivityksiä saatavilla.
+    
+    Jos lisäosalle ei ole saatavilla päivitystä, voit poistaa lisäosan käytöstä tai kokonaan, jotta tämä viesti ei enää ilmestyisi.
+addons-startup-failed = Lisäosan käynnistäminen epäonnistui
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Määritä '{ $name }'
 addons-config-validation-error = Annetussa määrityksessä oli ongelma: { $problem }, polussa { $path }, koskien skeemaa { $schema }.

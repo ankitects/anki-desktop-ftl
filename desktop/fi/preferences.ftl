@@ -1,6 +1,6 @@
 ## Video drivers/hardware acceleration. Please avoid translating 'OpenGL' and 'ANGLE'.
 
-preferences-video-driver = Videoajuri: { $driver }
+preferences-video-driver = Videoajuri
 preferences-video-driver-opengl-mac = OpenGL (suositellaan Mac-tietokoneille)
 preferences-video-driver-software-mac = Ohjelmisto (ei suositella)
 preferences-video-driver-opengl-other = OpenGL (nopeampi, voi aiheuttaa ongelmia)
