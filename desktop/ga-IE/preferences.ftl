@@ -7,7 +7,7 @@ preferences-dark-mode-disable =
 
 ## Video drivers/hardware acceleration. Please avoid translating 'OpenGL' and 'ANGLE'.
 
-preferences-video-driver = Tiománaí físe: { $driver }
+preferences-video-driver = Tiománaí físe
 preferences-video-driver-opengl-mac = OpenGL (molta ar ríomhairí Mac)
 preferences-video-driver-software-mac = Bogearraí (gan mholadh)
 preferences-video-driver-opengl-other = OpenGL (níos tapa, corrdheacrachtaí)

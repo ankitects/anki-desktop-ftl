@@ -1,6 +1,6 @@
 ## Video drivers/hardware acceleration. Please avoid translating 'OpenGL' and 'ANGLE'.
 
-preferences-video-driver = Trình điều khiển video: { $driver }
+preferences-video-driver = Trình điều khiển video
 preferences-video-driver-opengl-mac = OpenGL (khuyến nghị trên máy Mac)
 preferences-video-driver-software-mac = Phần mềm (không khuyến khích)
 preferences-video-driver-opengl-other = OpenGL (nhanh hơn, có thể gây ra sự cố)

@@ -5,7 +5,7 @@ preferences-dark-mode-disable = Aby włączyć w Anki tryb jasny podczas gdy mac
 
 ## Video drivers/hardware acceleration. Please avoid translating 'OpenGL' and 'ANGLE'.
 
-preferences-video-driver = Sterownik graficzny: { $driver }
+preferences-video-driver = Sterownik graficzny
 preferences-video-driver-opengl-mac = OpenGL (zalecany na makach)
 preferences-video-driver-software-mac = Systemowy (niezalecany)
 preferences-video-driver-opengl-other = OpenGL (szybszy, może powodować problemy)

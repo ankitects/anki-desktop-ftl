@@ -1,6 +1,6 @@
 ## Video drivers/hardware acceleration. Please avoid translating 'OpenGL' and 'ANGLE'.
 
-preferences-video-driver = 그래픽 드라이버: { $driver }
+preferences-video-driver = 그래픽 드라이버
 preferences-video-driver-opengl-mac = OpenGL (맥에서 사용 권장)
 preferences-video-driver-software-mac = 소프트웨어 (권장되지 않음)
 preferences-video-driver-opengl-other = OpenGL (빠르지만 문제를 일으킬 수 있음)
