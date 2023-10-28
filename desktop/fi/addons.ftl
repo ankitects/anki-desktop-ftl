@@ -10,6 +10,8 @@ addons-failed-to-load2 =
     
     Ne on ehkä päivitettävä tukemaan tätä versiota Ankista. Napsauta { addons-check-for-updates } -painiketta nähdäksesi, onko päivityksiä saatavilla.
     
+    Voit käyttää { about-copy-debug-info } -painiketta saadaksesi vianmääritystietoja. Jos haluat lähettää lisäosan kehittäjälle virheraportin, voit liittää nämä tiedot siihen.
+    
     Jos lisäosalle ei ole saatavilla päivitystä, voit poistaa lisäosan käytöstä tai kokonaan, jotta tämä viesti ei enää ilmestyisi.
 addons-startup-failed = Lisäosan käynnistäminen epäonnistui
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
