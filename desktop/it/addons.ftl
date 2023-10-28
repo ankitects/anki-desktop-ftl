@@ -8,8 +8,14 @@ addons-failed-to-load2 =
     Anki non è riuscito a caricare i seguenti Add-on:
     { $addons }
     
-    Vai a Strumenti>Add-on per verificare la disponibilità di aggiornamenti.
-    Per gli add-on che non dispongono di un aggiornamento disponibile, puoi disattivarli o eliminarli per evitare che questo messaggio ricompaia.
+    Potrebbero aver bisogno di essere aggiornati per supportare questa versione di Anki. Clicca sul pulsante { addons-check-for-updates } per vedere 
+    se sono disponibili aggiornamenti.
+    
+    Puoi utilizzare il pulsante { about-copy-debug-info } per ottenere informazioni che puoi incollare 
+    in un report da inviare all'autore dell'Add-on.
+    
+    Per gli Add-on che non hanno un aggiornamento disponibile, puoi disattivarli o eliminarli per evitare 
+    che questo messaggio ricompaia.
 addons-startup-failed = Avvio dell'add-on non riuscito
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Configura '{ $name }'
