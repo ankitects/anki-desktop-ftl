@@ -4,6 +4,16 @@ addons-failed-to-load =
     
     '{ $name }' 読み込みの際:
     { $traceback }
+addons-failed-to-load2 =
+    次のアドオンの読み込みに失敗しました:
+    { $addons }
+    
+    上記のアドオンは、このバージョンのAnkiをサポートするためにはアップデートが必要な可能性があります。{ addons-check-for-updates } ボタンをクリックして、利用可能なアップデートがないか確認してください。
+    
+    { about-copy-debug-info } ボタンを使用すると、 アドオンの作者に問い合わせを行う際に記載すると役立つ情報を取得できます。
+    
+    利用可能なアップデートがないアドオンについては、そのアドオンを無効にするか削除することで、このメッセージが表示されないようにすることができます。
+addons-startup-failed = アドオンのスタートアップ失敗
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = 「{ $name }」を設定
 addons-config-validation-error = 与えられた条件の設定に問題がありました：{ $problem }、at path = { $path }、against schema = { $schema }
