@@ -10,6 +10,8 @@ addons-failed-to-load2 =
     
     这些插件需要更新至支持本版本的 Anki，请到「工具」>「插件」点击 { addons-check-for-updates } 按钮来查看是否有可用的更新。
     
+    您可以使用 { about-copy-debug-info } 按钮来复制调试信息，以向插件作者反馈。
+    
     对于无可用更新的插件，您可以禁用或删除它们来阻止这条消息的出现。
 addons-startup-failed = 插件启动失败
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
