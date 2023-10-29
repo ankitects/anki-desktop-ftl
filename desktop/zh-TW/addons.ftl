@@ -8,7 +8,11 @@ addons-failed-to-load2 =
     以下附加元件載入失敗：
     { $addons }
     
-    請到「工具」>「附加元件」中檢查更新。若有附加元件沒有更新可用，你可以停用或刪除這些附加元件來避免此訊息出現。
+    你可能需要更新這些附加元件來支援這個版本的 Anki。按一下「{ addons-check-for-updates }」按鈕來檢查有沒有更新可用。
+    
+    向附加元件作者回報時，你可以使用「{ about-copy-debug-info }」按鈕，在回報中附上取得的資訊。
+    
+    若有附加元件沒有更新可用，你可以停用或刪除這些附加元件來避免此訊息出現。
 addons-startup-failed = 附加元件啟動失敗
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = 設定「{ $name }」
