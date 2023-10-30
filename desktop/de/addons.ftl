@@ -5,11 +5,14 @@ addons-failed-to-load =
     Beim Laden von '{ $name }':
     { $traceback }
 addons-failed-to-load2 =
-    Die folgenden Erweiterungen konnten nicht geladen werden:
+    Anki konnte die folgenden Erweiterungen beim Start nicht laden:
     { $addons }
+    
     Evtl. müssen diese Erweiterungen geupdatet werden, damit sie mit dieser Version von Anki funktionieren. Klicken Sie in diesem Fenster unten auf "{ addons-check-for-updates }", um zu prüfen, ob bereits Updates dafür vorhanden sind.
     
-    Falls keine Updates dafür vorhanden sein sollten und Sie nicht möchten, dass Ihnen dieser Hinweis beim Start weiter angezeigt wird, können Sie die Erweiterungen auch deaktivieren (oder sogar löschen) unter: Extras > Erweiterungen
+    Wenn Sie dem jeweiligen Entwickler detaillierte Informationen zu dem Problem mitteilen möchten, klicken Sie auf "{ about-copy-debug-info }", um einen Fehlerbericht in die Zwischenablage zu kopieren.
+    
+    Falls bisher keine Updates verfügbar sind und Sie nicht möchten, dass Ihnen dieser Hinweis beim Start weiter angezeigt wird, können Sie die Erweiterungen auch deaktivieren (oder sogar löschen) unter: Extras > Erweiterungen
 addons-startup-failed = Manche Erweiterungen konnten nicht geladen werden
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = '{ $name }' konfigurieren
