@@ -1,6 +1,7 @@
 qt-misc-addon-will-be-installed-when-a = Die Erweiterung wird installiert, sobald ein Profil geöffnet wird.
 qt-misc-addons = Er&weiterungen
 qt-misc-all-cards-notes-and-media-for = Alle Karten, Notizen und Medien dieses Profils werden gelöscht. Fortfahren?
+qt-misc-all-cards-notes-and-media-for2 = Alle Karten, Notizen und Mediendateien des Profils "{ $name }" werden gelöscht. Weiter?
 qt-misc-anki-updatedanki-has-been-released = <h1>Ein Update ist verfügbar.</h1>Anki { $val } wurde veröffentlicht.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = Die automatische Synchronisation und Sicherung wurde bei der Wiederherstellung deaktiviert. Um sie wieder zu aktivieren, müssen Sie das Profil schließen oder Anki neu starten.
 qt-misc-back-side-only = Nur Rückseite
