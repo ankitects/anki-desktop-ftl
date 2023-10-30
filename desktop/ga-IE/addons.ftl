@@ -4,6 +4,7 @@ addons-failed-to-load =
     
     Le linn lódáil '{ $name }':
     { $traceback }
+addons-startup-failed = Theip ar an mBreiseán Oscailt
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Socraigh'{ $name }'
 addons-config-validation-error = Bhí fadhb leis na socruithe: { $problem }, ag cosán { $path }, i gcoinne scéimre { $schema }.

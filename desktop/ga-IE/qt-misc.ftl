@@ -1,6 +1,7 @@
 qt-misc-addon-will-be-installed-when-a = Suiteálfar an breiseán nuair a osclaítear próifíl.
 qt-misc-addons = Breiseáin
-qt-misc-all-cards-notes-and-media-for = Scriosfar gach cárta, nóta agus meán a bhaineann leis an bpróifíl seo. An bhfuil tú cinnte?
+qt-misc-all-cards-notes-and-media-for = Scriosfar gach uile chárta, nóta, agus comhad meán a bhaineann leis an bpróifíl seo. An bhfuil tú cinnte?
+qt-misc-all-cards-notes-and-media-for2 = Scriosfar gach uile chárta, nóta, agus comhad meán a bhaineann leis an bpróifíl "{ $name }". An bhfuil tú cinnte?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki Nuashonraithe</h1>Anki { $val } ar fáil.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = Tá sioncronú uathoibríoch agus cúltacú díchumasaithe agus aischur ar siúl. Chun iad a chur ar fáil arís, dún an phróifíl nó atosaigh Anki.
 qt-misc-back-side-only = Taobh Thiar Amháin
