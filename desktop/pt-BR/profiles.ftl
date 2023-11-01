@@ -5,4 +5,4 @@ profiles-folder-readme =
     
     { $link }
 # will appear as 'Downgrade & Quit'
-profiles-downgrade-and-quit = Rebaixar e Sair
+profiles-downgrade-and-quit = Voltar versão anterior e Sair
