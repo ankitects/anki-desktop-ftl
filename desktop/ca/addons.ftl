@@ -4,6 +4,7 @@ addons-failed-to-load =
     
     Mentre es carregava '{ $name }'
     { $traceback }
+addons-startup-failed = L’activació del complement ha fallat
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Configura '{ $name }'
 addons-config-validation-error = Hi ha hagut un problema amb la configuració que heu proporcionat: { $problem }, en la ruta { $path }, contra l'esquema { $schema }.
@@ -36,7 +37,7 @@ addons-installed-names = S'ha instal·lat { $name }
 addons-installed-successfully = S'ha instal·lat correctament.
 addons-invalid-addon-manifest = El manifiest del complement no es vàlid.
 addons-invalid-code = El codi no és vàlid.
-addons-invalid-code-or-addon-not-available = El codi no és vàlid o l'extensió no està disponible per a la vostra versió d'Anki.
+addons-invalid-code-or-addon-not-available = El codi no és vàlid o el complement no està disponible per a la vostra versió d’Anki.
 addons-invalid-configuration = Configuració no vàlida:
 addons-invalid-configuration-top-level-object-must = Configuració no vàlida: l'objecte del nivell superior ha de ser un mapa
 addons-no-updates-available = No hi ha actualitzacions disponibles.
