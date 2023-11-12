@@ -24,6 +24,7 @@ qt-accel-support-anki = &Υποστήξη του Anki...
 qt-accel-switch-profile = &Αλλαγή προφίλ
 qt-accel-tools = &Εργαλεία
 qt-accel-undo = &Αναίρεση
+qt-accel-redo = &Ακύρωση αναίρεσης
 qt-accel-view = &Προβολή
 qt-accel-layout = &Διάταξη
 qt-accel-layout-vertical = &Κάθετα

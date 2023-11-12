@@ -29,9 +29,11 @@ qt-misc-please-select-a-deck = Παρακαλώ επιλέξτε μια τράπ
 qt-misc-please-use-fileimport-to-import-this = Παρακαλούμε χρησιμοποιήστε Αρχείο>Εισαγωγή για να εισάγετε αυτό το αρχείο.
 qt-misc-processing = Επεξεργασία...
 qt-misc-replace-your-collection-with-an-earlier = Αντικατάσταση της συλλογής σας με ένα νεότερο αντίγραφο;
+qt-misc-shortcut-key-left-arrow = Συντόμευση πληκτρολογίου: Αριστερό βέλος
 qt-misc-shortcut-key-right-arrow-or-enter = Συντόμευση πληκτρολογίου: Δεξί βέλος ή Enter
 qt-misc-stats = Στατιστικά
 qt-misc-study-deck = Μελέτη τράπουλας...
+qt-misc-sync = Συγχρονισμός
 qt-misc-the-following-character-can-not-be = Ο ακόλουθος χαρακτήρας δεν μπορεί να χρησιμοποιηθεί: { $val }
 qt-misc-the-requested-change-will-require-a = Η απαιτούμενη αλλαγή προϋποθέτει το πλήρες ανέβασμα της βάσης βεδομένων την επόμενη φορά που θα συγχρονίσετε την συλλογή σας. Αν έχετε επαναλήψεις ή άλλες αλλαγές σε άλλη συσκευή που δεν έχουν συγχρονιστεί, θα χαθούν. Θέλετε να συνεχίσετε;
 qt-misc-there-must-be-at-least-one = Θα πρέπει να υπάρχει τουλάχιστον ένα προφίλ.
@@ -49,6 +51,8 @@ qt-misc-second =
         [one] { $count } δευτερόλεπτο
        *[other] { $count } δευτερόλεπτα
     }
+qt-misc-layout-vertical-enabled = Κάθετη διάταξη ενεργοποιημένη
+qt-misc-layout-horizontal-enabled = Οριζόντια διάταξη ενεργοποιημένη
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
