@@ -44,6 +44,7 @@ qt-misc-your-computers-storage-may-be-full = Ο αποθηκευτικός χώ�
 qt-misc-your-firewall-or-antivirus-program-is = Το τείχος προστασίας ή το λογισμικό προστασίας από ιούς εμποδίζει το Anki από τη δημιουργία σύνδεσης στο ίδιο. Παρακαλούμε προσθέστε μια εξαίρεση για το Anki.
 qt-misc-error = Σφάλμα
 qt-misc-incompatible-video-driver = Ο οδηγός βίντεό σας είναι μη συμβατός. Παρακαλούμε κάνετε ξανά εκκίνηση του Anki και αυτό θα μεταβεί σε έναν πιο αργό, πιο συμβατό οδηγό.
+qt-misc-error-loading-graphics-driver = Σφάλμα φόρτωσης του '{ $mode }' οδηγού γραφικών. Παρακαλούμε εκκινήστε πάλι το Anki και δοκιμάστε τον επόμενο οδηγό. { $context }
 qt-misc-anki-is-running = Το Anki εκτελείται ήδη
 qt-misc-if-instance-is-not-responding = Αν το Anki δεν ανταποκρίνεται, παρακαλούμε κλείστε το χρησιμοποιώντας τη διαχείριση εργασιών ή επανεκκινήστε τον υπολογιστή σας.
 qt-misc-second =

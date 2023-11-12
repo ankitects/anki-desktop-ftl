@@ -27,6 +27,8 @@ addons-check-for-updates = Έλεγχος για ενημερώσεις
 addons-checking = Έλεγχος...
 addons-code = Κωδικός:
 addons-corrupt-addon-file = Κατεστραμμένο αρχείο πρόσθετου.
+addons-disabled = (απενεργοποιημένο)
+addons-disabled2 = (απενεργοποιημένο)
 addons-download-complete-please-restart-anki-to = Η λήψη ολοκληρώθηκε. Παρακαλώ κάνετε επανεκκίνηση του Anki για την εφαρμογή των αλλαγών.
 addons-downloading-adbd-kb02fkb = Λήψη { $part }/{ $total }({ $kilobytes }KB)...
 addons-error-downloading-ids-errors = Σφάλμα λήψης <i>{ $id }</i>: { $error }
@@ -44,6 +46,7 @@ addons-invalid-code-or-addon-not-available = Μη έγκυρος κώδικας 
 addons-invalid-configuration = Μη έγκυρη ρύθμιση:
 addons-no-updates-available = Καμία διαθέσιμη ενημέρωση.
 addons-one-or-more-errors-occurred = Προέκυψαν ένα ή περισσότερα σφάλματα:
+addons-packaged-anki-addon = Πακεταρισμένο πρόσθετο Anki
 addons-please-check-your-internet-connection = Παρακαλώ ελέγξτε τη σύνδεση σας στο διαδίκτυο.
 addons-please-report-this-to-the-respective = Παρακαλούμε κάνετε αναφορά στον συγγραφέα/είς του πρόσθετου.
 addons-please-restart-anki-to-complete-the = <b>Παρακαλώ κάνετε επανεκκίνηση του Anki για την ολοκλήρωση της εγκατάστασης.</b>
@@ -56,5 +59,10 @@ addons-this-addon-is-not-compatible-with = Αυτό το πρόσθετο δεν
 addons-unknown-error = Άγνωστο σφάλμα: { $val }
 addons-view-addon-page = Προβολή σελίδας πρόσθετου
 addons-view-files = Προβολή αρχείων
+addons-delete-the-numd-selected-addon =
+    { $count ->
+        [one] Διαγραφή του επιλεγμένου πρόσθετου;
+       *[other] Διαγραφή των { $count } επιλεγμένων πρόσθετων;
+    }
 addons-choose-update-window-title = Ενημέρωση πρόσθετων
 addons-choose-update-update-all = Ενημέρωση όλων
