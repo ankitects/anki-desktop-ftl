@@ -4,6 +4,18 @@ addons-failed-to-load =
     
     When loading '{ $name }':
     { $traceback }
+addons-failed-to-load2 =
+    Τα ακόλουθα πρόσθετα απέτυχαν να φορτωθούν:
+    { $addons }
+    
+    Ίσως χρειάζεται να ενημερωθούν ώστε να υποστηρίζουν αυτή την έκδοση του Anki. Πατήστε το κουμπί { addons-check-for-updates }
+    για να δείτε αν υπάρχουν διαθέσιμες ενημερώσεις.
+    
+    Μπορείτε να χρησιμοποιήσετε το κουμπί { about-copy-debug-info } για να λάβετε πληροφορίες που μπορείτε να επικολλήσετε σε μια αναφορά στον
+    συγγραφές του πρόσθετου.
+    
+    Για πρόσθετα που δεν έχουν ενημερώσεις, μπορείτε να απενεργοποιήσετε ή να διαγράψετε το πρόσθετο έτσι ώστε 
+    να μην εμφανίζεται αυτό το μήνυμα.
 addons-startup-failed = Η εκκίνηση του πρόσθετου απέτυχε
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Ρύθμιση '{ $name }'
@@ -20,6 +32,7 @@ addons-downloading-adbd-kb02fkb = Λήψη { $part }/{ $total }({ $kilobytes }KB
 addons-error-downloading-ids-errors = Σφάλμα λήψης <i>{ $id }</i>: { $error }
 addons-error-installing-bases-errors = Σφάλμα εγκατάστασης <i>{ $base }</i>: { $error }
 addons-get-addons = Λήψη πρόσθετων
+addons-important-as-addons-are-programs-downloaded = <b>Σημαντικό</b>: Τα πρόσθετα είναι προγράμματα που κατεβαίνουν από το διαδίκτυο και μπορεί να είναι κακόβουλα.<b> Θα πρέπει να κάνετε εγκατάσταση μόνο πρόσθετων που εμπιστεύεστε.</b><br><br> Είστε σίγουροι ότι θέλετε να συνεχίσετε με την εγκατάσταση των παρακάτω πρόσθετων;<br><br>%(names)s
 addons-install-addon = Εγκατάσταση Πρόσθετου
 addons-install-addons = Εγκατάσταση πρόσθετου/ων
 addons-install-anki-addon = Εγκατάσταση πρόσθετου Anki
