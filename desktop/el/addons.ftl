@@ -1,4 +1,17 @@
 addons-checking = Έλεγχος...
 addons-code = Κωδικός:
+addons-download-complete-please-restart-anki-to = Η λήψη ολοκληρώθηκε. Παρακαλώ κάνετε επανεκκίνηση του Anki για την εφαρμογή των αλλαγών.
+addons-error-downloading-ids-errors = Σφάλμα λήψης <i>{ $id }</i>: { $error }
 addons-install-addon = Εγκατάσταση Πρόσθετου
+addons-install-from-file = Εγκατάσταση από αρχείο...
+addons-installation-complete = Η εγκατάσταση ολοκληρώθηκε
+addons-installed-successfully = Εγκαταστάθηκε επιτυχώς.
 addons-invalid-code = Μη έγκυρος κώδικας.
+addons-invalid-configuration = Μη έγκυρη ρύθμιση:
+addons-please-check-your-internet-connection = Παρακαλώ ελέγξτε τη σύνδεση σας στο διαδίκτυο.
+addons-please-restart-anki-to-complete-the = <b>Παρακαλώ κάνετε επανεκκίνηση του Anki για την ολοκλήρωση της εγκατάστασης.</b>
+addons-requires = (απαιτεί { $val })
+addons-the-following-addons-are-incompatible-with = Τα παρακάτω πρόσθετα δεν είναι συμβατά με { $name } και έχουν απενεργοποιηθεί: { $found }
+addons-the-following-addons-have-updates-available = Τα ακόλουθα πρόσθετα έχουν διαθέσιμες ενημερώσεις. Εγκατάσταση τους τώρα;
+addons-this-addon-is-not-compatible-with = Αυτό το πρόσθετο δεν είναι συμβατό με αυτή την έκδοση Anki.
+addons-unknown-error = Άγνωστο σφάλμα: { $val }
