@@ -26,6 +26,7 @@ addons-changes-will-take-effect-when-anki = Οι αλλαγές θα εφαρμ�
 addons-check-for-updates = Έλεγχος για ενημερώσεις
 addons-checking = Έλεγχος...
 addons-code = Κωδικός:
+addons-configuration = Ρύθμιση
 addons-corrupt-addon-file = Κατεστραμμένο αρχείο πρόσθετου.
 addons-disabled = (απενεργοποιημένο)
 addons-disabled2 = (απενεργοποιημένο)
