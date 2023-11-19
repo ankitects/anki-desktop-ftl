@@ -57,6 +57,7 @@ addons-requires = (απαιτεί { $val })
 addons-restored-defaults = Επαναφορά προεπιλογών
 addons-the-following-addons-are-incompatible-with = Τα παρακάτω πρόσθετα δεν είναι συμβατά με { $name } και έχουν απενεργοποιηθεί: { $found }
 addons-the-following-addons-have-updates-available = Τα ακόλουθα πρόσθετα έχουν διαθέσιμες ενημερώσεις. Εγκατάσταση τους τώρα;
+addons-the-following-conflicting-addons-were-disabled = Τα παρακάτω αλληλοσυγκρουόμενα πρόσθετα απενεργοποιήθηκαν:
 addons-this-addon-is-not-compatible-with = Αυτό το πρόσθετο δεν είναι συμβατό με αυτή την έκδοση Anki.
 addons-unknown-error = Άγνωστο σφάλμα: { $val }
 addons-view-addon-page = Προβολή σελίδας πρόσθετου

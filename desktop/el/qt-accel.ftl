@@ -30,6 +30,7 @@ qt-accel-undo = &Αναίρεση
 qt-accel-redo = &Ακύρωση αναίρεσης
 qt-accel-view = &Προβολή
 qt-accel-layout = &Διάταξη
+qt-accel-layout-auto = &Αυτόματα
 qt-accel-layout-vertical = &Κάθετα
 qt-accel-layout-horizontal = &Οριζόντια
 qt-accel-create-backup = Δημιουργία &αντιγράφου ασφαλείας
