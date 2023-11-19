@@ -37,6 +37,7 @@ qt-misc-shortcut-key-right-arrow-or-enter = Συντόμευση πληκτρο�
 qt-misc-stats = Στατιστικά
 qt-misc-study-deck = Μελέτη τράπουλας...
 qt-misc-sync = Συγχρονισμός
+qt-misc-target-deck-ctrlandd = Τράπουλα στόχος (Ctrl+D)
 qt-misc-the-following-character-can-not-be = Ο ακόλουθος χαρακτήρας δεν μπορεί να χρησιμοποιηθεί: { $val }
 qt-misc-the-requested-change-will-require-a = Η απαιτούμενη αλλαγή προϋποθέτει το πλήρες ανέβασμα της βάσης βεδομένων την επόμενη φορά που θα συγχρονίσετε την συλλογή σας. Αν έχετε επαναλήψεις ή άλλες αλλαγές σε άλλη συσκευή που δεν έχουν συγχρονιστεί, θα χαθούν. Θέλετε να συνεχίσετε;
 qt-misc-there-must-be-at-least-one = Θα πρέπει να υπάρχει τουλάχιστον ένα προφίλ.

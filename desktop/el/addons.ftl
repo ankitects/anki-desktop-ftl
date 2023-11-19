@@ -22,6 +22,7 @@ addons-config-window-title = Ρύθμιση '{ $name }'
 addons-window-title = Πρόσθετα
 addons-addon-has-no-configuration = Το πρόσθετο δεν έχει ρυθμίσεις.
 addons-addon-installation-error = Σφάλμα εγκατάστασης πρόσθετου
+addons-browse-addons = Περιήγηση σε πρόσθετα
 addons-changes-will-take-effect-when-anki = Οι αλλαγές θα εφαρμοστούν μετά από επανεκκίνηση του Anki.
 addons-check-for-updates = Έλεγχος για ενημερώσεις
 addons-checking = Έλεγχος...
