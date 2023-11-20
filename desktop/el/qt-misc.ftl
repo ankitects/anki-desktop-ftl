@@ -3,6 +3,7 @@ qt-misc-addons = Πρόσθετα
 qt-misc-all-cards-notes-and-media-for = Όλες οι κάρτες, σημειώσεις, και αρχεία πολυμέσων γι΄αυτό το προφίλ θα διαγραφούν. Είστε σίγουρος;
 qt-misc-all-cards-notes-and-media-for2 = Όλες οι κάρτες, σημειώσεις, και πολυμέσα για το προφίλ "{ $name }" θα διαγραφούν. Είστε σίγουροι;
 qt-misc-anki-updatedanki-has-been-released = <h1>Το Anki αναβαθμίστηκε</h1> Κυκλοφόρησε το Anki { $val }.<br><br>
+qt-misc-automatic-syncing-and-backups-have-been = Ο αυτόματος συγχρονισμός και τα αντίγραφα ασφαλείας απενεργοποιήθηκαν κατά την αποκατάσταση. Για την επανενεργοποίησή τους κλείστε το προφίλ ή επανεκκινήστε το Anki.
 qt-misc-backing-up = Δημιουργώντας αντίγραφο ασφαλείας...
 qt-misc-browse = Εξερεύνηση
 qt-misc-change-note-type-ctrlandn = Αλλαγή τύπου σημείωσης  (Ctrl+N)
