@@ -1,6 +1,7 @@
 qt-misc-addon-will-be-installed-when-a = Доповнення буде встановлено після відкриття профілю.
 qt-misc-addons = Доповнення
 qt-misc-all-cards-notes-and-media-for = Всі картки, нотатки та медіа-файли для цього профілю будуть видалені. Ви впевнені, що хочете це зробити?
+qt-misc-all-cards-notes-and-media-for2 = Усі картки, нотатки та медіафайли для профіля «{ $name }» буде видалено. Ви впевнені?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki оновлено</h1>Вийшла нова версія Anki { $val }.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = Автоматична синхронізація і резервне копіювання вимкнені при відновлені. Для увімкнення закрийте профіль чи перезапустіть Anki.
 qt-misc-back-side-only = Тільки зворотня сторона
@@ -16,10 +17,8 @@ qt-misc-copy-to-clipboard = Копіювати до буферу обміну
 qt-misc-create-filtered-deck = Створити відфільтровану колоду...
 qt-misc-debug-console = Консоль зневаджування
 qt-misc-deck-will-be-imported-when-a = Колоду буде імпортовано під час відкриття профілю.
-qt-misc-default = Типовий
 qt-misc-empty-cards = Порожні картки...
 qt-misc-error-during-startup = Помилка під час запуску: { $val }
-qt-misc-filtered-deck = Відфільтрована колода { $val }
 qt-misc-ignore-this-update = Ігнорувати це оновлення
 qt-misc-in-order-to-ensure-your-collection = Щоб забезпечити правильну роботу вашої колекції при переміщенні між пристроями, Anki вимагає, щоб внутрішній годинник вашого комп'ютера був правильно налаштований. Внутрішній годинник може йти неправильно, навть якщо ваша система показує правильний місцевий час.  <br><br>Перейдіть до налаштувань годинника на вашому комп'ютері і перевірте наступне: <br><br> - час вказано до полудня чи після полудня<br> - помилка годинника<br> - день, місяць та рік<br> - часовий пояс<br> - перехід на літній/зимовий час <br><br> Різниця з правильним часом: { $val }.
 qt-misc-invalid-property-found-on-card-please = У картці знайдено недійсну властивість. Будь ласка, виконайте команду Інструменти>Перевірити базу даних, а при повторній появі проблеми поставте про це питання на сайті підтримки.
@@ -29,16 +28,19 @@ qt-misc-manage-note-types = Керувати типами нотаток
 qt-misc-name-exists = Ім'я вже існує.
 qt-misc-non-unicode-text = <текст не в юнікоді>
 qt-misc-optimizing = Оптимізую...
-qt-misc-please-connect-a-microphone-and-ensure = Будь ласка, під'єднайте мікрофон і переконайтеся, що інші програми не використовують аудіо-пристрій.
+qt-misc-unable-to-record =
+    Не можемо записати звук. Будь ласка, впевніться, що мікрофон підʼєднаний та Ankl має дозвіл на його використання.
+    Якщо інші програми використовують мікрофон, спробуйте зачинити їх.
+    
+    Початкова помилка: { $error }
 qt-misc-please-ensure-a-profile-is-open = Переконайтеся, будь ласка, що профіль відкритий та програма Anki не зайнята, а потім спробуйте знову.
 qt-misc-please-select-1-card = (виберіть 1 картку)
 qt-misc-please-select-a-deck = Оберіть колоду
 qt-misc-please-use-fileimport-to-import-this = Щоб імпортувати цей файл, виконайте команду "Файл>Імпортувати".
 qt-misc-processing = Обробка даних...
 qt-misc-replace-your-collection-with-an-earlier = Замінити колекцію старішею резервною копією?
-qt-misc-resume-now = Продовжити зараз
 qt-misc-revert-to-backup = Відновити до резервної копі
-qt-misc-reverted-to-state-prior-to = Повернення до стану перед '{ $val }'.
+# please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = Під час запуску програми було утримано клавішу «Shift». Вимкнено автоматичну синхронізацію та завантаження доповнень програми під час запуску.
 qt-misc-shortcut-key-left-arrow = Гаряча клавіша: Ліва стрілка
@@ -52,13 +54,11 @@ qt-misc-the-requested-change-will-require-a = Бажані зміни вимаг
 qt-misc-there-must-be-at-least-one = Має бути як мінімум один профіль.
 qt-misc-this-file-exists-are-you-sure = Цей файл вже існує. Ви впевнені що бажаєте перезаписати його?
 qt-misc-unable-to-access-anki-media-folder = Неможливо отримати доступ до медіа теки. Можливо, дозвіл у Вашій системі для теки тимчасових файлів неправильний.
-qt-misc-unable-to-move-existing-file-to = Неможливо перемістити файл до смітника – будь ласка, перезавантажте комп'ютер.
-qt-misc-undo = Скасувати
-qt-misc-undo2 = Скасувати { $val }
 qt-misc-unexpected-response-code = Неочікуваний код відповіді: { $val }
-qt-misc-waiting-for-editing-to-finish = Чекаю на звершення редагування.
 qt-misc-would-you-like-to-download-it = Ви бажаєте завантажити зараз?
+qt-misc-your-collection-file-appears-to-be = Схоже, вашу колекцію пошкоджено. Таке може трапитися, якщо ви скопіювали або перемістили файл, коли Anki було відкрито, чи якщо колекція зберігається у мережі або в хмарному сховищі. Якщо проблема залишається після перезавантаження компʼютера, будь ласка, відчиніть автоматичні резервні копії з вікна профілю.
 qt-misc-your-computers-storage-may-be-full = Пам'ять на Вашому комп'ютері заповнена. Будь ласка, видаліть деякі непотрібні файли та спробуйте потім знову.
+qt-misc-your-firewall-or-antivirus-program-is = Ваш файрвол або антивірусна програма заважає Anki створити зʼєднання. Будь ласка, додайте виняток для Anki.
 qt-misc-error = Помилка
 qt-misc-error-loading-graphics-driver = Помилка завантаження «{ $mode }» графічного драйвера. Будь ласка, запустіть Anki знов щоб спробувати наступний драйвер. { $context }
 qt-misc-anki-is-running = Anki вже запущено
@@ -68,3 +68,7 @@ qt-misc-second =
         [few] { $count } секунди
        *[other] { $count } секунд
     }
+
+## deprecated- these strings will be removed in the future, and do not need
+## to be translated
+

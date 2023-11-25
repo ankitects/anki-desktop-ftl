@@ -4,13 +4,25 @@ addons-failed-to-load =
     
     Під час завантаження «{ $name }»:
     { $traceback }
+addons-failed-to-load2 =
+    Не вдалося завантажити такі доповнення:
+    { $addons }
+    
+    Можливо, їх потрібно оновити, щоб вони запрацювали у цій версії Anki. Натисність кнопку «{ addons-check-for-updates }»
+    щоб побачити, чи доступні якісь оновлення.
+    
+    Ви можете використати кнопку «{ about-copy-debug-info }», щоб отримати інформацію, яку ви можете додати до скарги
+    розробнику доповнення.
+    
+    Якщо для доповнення немає оновлень, ви можете вимкнути або видалити його, щоб це повідомлення
+    не з'являлося.
+addons-startup-failed = Не вдалося запустити доповнення
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Налаштувати «{ $name }»
 addons-config-validation-error = Виникла проблема з цією конфігурацією: { $problem } за шляхом { $path } всупереч схемі { $schema }.
 addons-window-title = Доповнення
 addons-addon-has-no-configuration = Доповнення немає налаштувань.
 addons-addon-installation-error = Помилка при встановлення доповнення
-addons-addon-was-not-downloaded-from-ankiweb = Доповнення не завантажено з AnkiWeb.
 addons-browse-addons = Переглянути доповнення
 addons-changes-will-take-effect-when-anki = Зміни застосуються після перезавантаження Anki.
 addons-check-for-updates = Перевірити оновлення
@@ -65,3 +77,5 @@ addons-delete-the-numd-selected-addon =
         [few] Видалити { $count } вибрані доповнення?
        *[other] Видалити { $count } вибраних доповнень?
     }
+addons-choose-update-window-title = Оновити доповнення
+addons-choose-update-update-all = Оновити все
