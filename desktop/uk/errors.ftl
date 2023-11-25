@@ -6,7 +6,6 @@ errors-standard-popup =
     
     Якщо помилка залишиться, будь ласка, повідомте про помилку на нашому { -errors-support-site }.
     Скопіюйте інформацію у звіт нижче.
--errors-addon-support-site = [сайт підтримки доповнення](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # Помилка
     
@@ -35,3 +34,7 @@ errors-unable-open-collection =
     Anki не вдалося відкрити файл колекції. Якщо проблема залишиться після перезавантаження комп'ютера, відкрийте резервну копію в менеджері профілів.
     
     Інформація налагодження:
+errors-windows-tts-runtime-error = Помилка TTS сервісу. Будь ласка, впевніться, що усі оновлення Windows встановлено, спробуйте перезавантажити компʼютер або оберіть інший голос.
+
+## OBSOLETE; you do not need to translate this
+
