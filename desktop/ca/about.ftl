@@ -1,4 +1,4 @@
-about-a-big-thanks-to-all-the = Moltes gràcies a tothom que ha aportat suggeriments, informes d'errors i donatius.
+about-a-big-thanks-to-all-the = Moltes gràcies a totes les persones que hi han fet suggeriments i donatius i ens han informat dels errors.
 about-about-anki = Quant a Anki
 about-anki-is-a-friendly-intelligent-spaced = Anki és un sistema intel·ligent d'aprenentatge espaiat fàcil d'utilitzar, gratuït i de codi obert.
 about-anki-is-licensed-under-the-agpl3 = Anki està disponible sota la llicència AGPL3. Consulteu el fitxer de la llicència en la distribució font per a obtenir-ne més informació.
