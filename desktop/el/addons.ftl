@@ -65,6 +65,7 @@ addons-the-following-addons-have-updates-available = Τα ακόλουθα πρ�
 addons-the-following-conflicting-addons-were-disabled = Τα παρακάτω αλληλοσυγκρουόμενα πρόσθετα απενεργοποιήθηκαν:
 addons-this-addon-is-not-compatible-with = Αυτό το πρόσθετο δεν είναι συμβατό με αυτή την έκδοση Anki.
 addons-to-browse-addons-please-click-the = Για να περιηγηθείτε σε πρόσθετα, παρακαλούμε πατήστε το κουμπί περιήγησης κάτω.<br><br>Όταν βρείτε το πρόσθετο που σας αρέσει, επικολλήστε τον κωδικό του παρακάτω. Μπορείτε να επικολλήσετε πολλαπλούς κωδικούς, διαχωρισμένους με κενά.
+addons-toggle-enabled = Ενεργοποίηση/απενεργοποίηση
 addons-unable-to-update-or-delete-addon = Αδυναμία ενημέρωσης ή διαγραφής πρόσθετου. Παρακαλούμε εκκινήστε το Anki πατώντας το πλήκτρο shift για την προσωρινή απενεργοποίηση των πρόσθετων και μετά ξαναπροσπαθήστε.  Πληροφορίες αποσφαλμάτωσης: { $val }
 addons-unknown-error = Άγνωστο σφάλμα: { $val }
 addons-view-addon-page = Προβολή σελίδας πρόσθετου

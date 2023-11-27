@@ -30,6 +30,7 @@ qt-accel-tools = &Εργαλεία
 qt-accel-undo = &Αναίρεση
 qt-accel-redo = &Ακύρωση αναίρεσης
 qt-accel-view = &Προβολή
+qt-accel-full-screen = Ενεργοποίηση &πλήρους οθόνης
 qt-accel-layout = &Διάταξη
 qt-accel-layout-auto = &Αυτόματα
 qt-accel-layout-vertical = &Κάθετα
