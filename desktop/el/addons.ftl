@@ -1,6 +1,6 @@
 addons-possibly-involved = Τα πρόσθετα που πιθανόν εμπλέκονται: { $addons }
 addons-failed-to-load =
-    Ένα εγκατεστημένο πρόσθετο απέτυχε να φορτωθεί. Αν τα προβλήματα επιμένουν, παρακαλούμε πηγαίνετε στο μενού Εργαλεία>Πρόσθετα και απενεργοποιήστε ή διαγράψτε το πρόσθετο.
+    Ένα εγκατεστημένο πρόσθετο απέτυχε να φορτωθεί. Αν τα προβλήματα επιμένουν, παρακαλώ πηγαίνετε στο μενού Εργαλεία>Πρόσθετα και απενεργοποιήστε ή διαγράψτε το πρόσθετο.
     
     When loading '{ $name }':
     { $traceback }
@@ -55,18 +55,18 @@ addons-no-updates-available = Καμία διαθέσιμη ενημέρωση.
 addons-one-or-more-errors-occurred = Προέκυψαν ένα ή περισσότερα σφάλματα:
 addons-packaged-anki-addon = Πακεταρισμένο πρόσθετο Anki
 addons-please-check-your-internet-connection = Παρακαλώ ελέγξτε τη σύνδεση σας στο διαδίκτυο.
-addons-please-report-this-to-the-respective = Παρακαλούμε κάνετε αναφορά στον συγγραφέα/είς του πρόσθετου.
+addons-please-report-this-to-the-respective = Παρακαλώ κάνετε αναφορά στον συγγραφέα/είς του πρόσθετου.
 addons-please-restart-anki-to-complete-the = <b>Παρακαλώ κάνετε επανεκκίνηση του Anki για την ολοκλήρωση της εγκατάστασης.</b>
-addons-please-select-a-single-addon-first = Παρακαλούμε επιλέξτε πρώτα ένα πρόσθετο
+addons-please-select-a-single-addon-first = Παρακαλώ επιλέξτε πρώτα ένα πρόσθετο
 addons-requires = (απαιτεί { $val })
 addons-restored-defaults = Επαναφορά προεπιλογών
 addons-the-following-addons-are-incompatible-with = Τα παρακάτω πρόσθετα δεν είναι συμβατά με { $name } και έχουν απενεργοποιηθεί: { $found }
 addons-the-following-addons-have-updates-available = Τα ακόλουθα πρόσθετα έχουν διαθέσιμες ενημερώσεις. Εγκατάσταση τους τώρα;
 addons-the-following-conflicting-addons-were-disabled = Τα παρακάτω αλληλοσυγκρουόμενα πρόσθετα απενεργοποιήθηκαν:
 addons-this-addon-is-not-compatible-with = Αυτό το πρόσθετο δεν είναι συμβατό με αυτή την έκδοση Anki.
-addons-to-browse-addons-please-click-the = Για να περιηγηθείτε σε πρόσθετα, παρακαλούμε πατήστε το κουμπί περιήγησης κάτω.<br><br>Όταν βρείτε το πρόσθετο που σας αρέσει, επικολλήστε τον κωδικό του παρακάτω. Μπορείτε να επικολλήσετε πολλαπλούς κωδικούς, διαχωρισμένους με κενά.
+addons-to-browse-addons-please-click-the = Για να περιηγηθείτε σε πρόσθετα, παρακαλώ πατήστε το κουμπί περιήγησης κάτω.<br><br>Όταν βρείτε το πρόσθετο που σας αρέσει, επικολλήστε τον κωδικό του παρακάτω. Μπορείτε να επικολλήσετε πολλαπλούς κωδικούς, διαχωρισμένους με κενά.
 addons-toggle-enabled = Ενεργοποίηση/απενεργοποίηση
-addons-unable-to-update-or-delete-addon = Αδυναμία ενημέρωσης ή διαγραφής πρόσθετου. Παρακαλούμε εκκινήστε το Anki πατώντας το πλήκτρο shift για την προσωρινή απενεργοποίηση των πρόσθετων και μετά ξαναπροσπαθήστε.  Πληροφορίες αποσφαλμάτωσης: { $val }
+addons-unable-to-update-or-delete-addon = Αδυναμία ενημέρωσης ή διαγραφής πρόσθετου. Παρακαλώ εκκινήστε το Anki πατώντας το πλήκτρο shift για την προσωρινή απενεργοποίηση των πρόσθετων και μετά ξαναπροσπαθήστε.  Πληροφορίες αποσφαλμάτωσης: { $val }
 addons-unknown-error = Άγνωστο σφάλμα: { $val }
 addons-view-addon-page = Προβολή σελίδας πρόσθετου
 addons-view-files = Προβολή αρχείων
