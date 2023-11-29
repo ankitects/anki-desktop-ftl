@@ -37,4 +37,7 @@ qt-accel-layout = &Διάταξη
 qt-accel-layout-auto = &Αυτόματα
 qt-accel-layout-vertical = &Κάθετα
 qt-accel-layout-horizontal = &Οριζόντια
+qt-accel-zoom-in = &Μεγέθυνση
+qt-accel-zoom-out = &Σμίκρυνση
+qt-accel-reset-zoom = &Επαναφορά ζουμ
 qt-accel-create-backup = Δημιουργία &αντιγράφου ασφαλείας
