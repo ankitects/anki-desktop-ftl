@@ -1,4 +1,8 @@
 -errors-support-site = [ιστοσελίδα υποστήριξης](https://help.ankiweb.net)
+errors-standard-popup2 = Το Anki αντιμετώπισε ένα πρόβλημα. Παρακαλώ ακολουθήστε τα βήματα επίλυσης προβλημάτων.
+errors-may-be-addon = Για το πρόβλημα μπορεί να ευθύνεται ένα πρόσθετο.
+errors-copy-debug-info-button = Αντιγραφή πληροφοριών αποσφαλμάτωσης
+errors-copied-to-clipboard = Αντιγράφηκε στο πρόχειρο
 errors-standard-popup =
     #Σφάλμα
     

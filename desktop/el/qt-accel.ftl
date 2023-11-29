@@ -30,6 +30,7 @@ qt-accel-tools = &Εργαλεία
 qt-accel-undo = &Αναίρεση
 qt-accel-redo = &Ακύρωση αναίρεσης
 qt-accel-set-due-date = Ορισμός &Προθεσμίας...
+qt-accel-forget = &Επαναφορά
 qt-accel-view = &Προβολή
 qt-accel-full-screen = Ενεργοποίηση &πλήρους οθόνης
 qt-accel-layout = &Διάταξη
