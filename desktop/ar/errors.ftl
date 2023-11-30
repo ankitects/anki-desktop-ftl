@@ -1,4 +1,9 @@
 -errors-support-site = [موقع الدعم](https://help.ankiweb.net)
+errors-standard-popup2 = واجه أنكي مشكلة. يرجى متابعة خطوات استكشاف الأخطاء.
+errors-may-be-addon = قد يكون سبب المشكلة إضافة ما.
+errors-troubleshooting-button = استكشاف الأخطاء
+errors-copy-debug-info-button = نسخ معلومات التصحيح
+errors-copied-to-clipboard = تم النسخ إلى الحافظة
 errors-standard-popup =
     # خطأ
     
