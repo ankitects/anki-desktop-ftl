@@ -1,4 +1,9 @@
 -errors-support-site = [אתר התמיכה](https://help.ankiweb.net)
+errors-standard-popup2 = אנקי נתקל בבעיה. אנא בצע את שלבי פתרון הבעיות.
+errors-may-be-addon = ייתכן שהבעיה נגרמת על ידי תוסף.
+errors-troubleshooting-button = פתרון תקלות
+errors-copy-debug-info-button = העתק מידע על ניפוי באגים
+errors-copied-to-clipboard = הועתק ללוח
 errors-standard-popup =
     # שגיאה
     
