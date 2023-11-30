@@ -1,4 +1,9 @@
 -errors-support-site = [site de suporte](https://help.ankiweb.net)
+errors-standard-popup2 = O Anki encontrou um problema. Por favor, siga os passos de solução de problemas.
+errors-may-be-addon = O problema pode ter sido causado por um complemento.
+errors-troubleshooting-button = Solução de Problemas
+errors-copy-debug-info-button = Copiar Informações de Depuração
+errors-copied-to-clipboard = Copiado para a área de transferência
 errors-standard-popup =
     # Erro
     
@@ -6,7 +11,6 @@ errors-standard-popup =
     
     Se os problemas persistirem, relate-os em nosso { -errors-support-site }.
     Copie e cole a informação abaixo dentro do seu relatório.
--errors-addon-support-site = [site de suporte de extensão](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # Erro
     
@@ -38,3 +42,6 @@ errors-unable-open-collection =
     
     Informação de Debug:
 errors-windows-tts-runtime-error = O serviço 'TTS' falhou. Certifique-se de que as atualizações do 'Windows' estejam instaladas, tente reiniciar o computador e tente usar uma voz diferente.
+
+## OBSOLETE; you do not need to translate this
+
