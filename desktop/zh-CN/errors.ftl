@@ -1,4 +1,9 @@
 -errors-support-site = [支持网站](https://help.ankiweb.net)
+errors-standard-popup2 = Anki 遇到了问题。请按照故障排除步骤进行操作。
+errors-may-be-addon = 该问题可能是由某一插件引起的。
+errors-troubleshooting-button = 故障排除
+errors-copy-debug-info-button = 复制调试信息
+errors-copied-to-clipboard = 复制到剪贴板
 errors-standard-popup =
     # 错误
     运行出错。请使用「工具」>「检查数据库」功能尝试修复。
