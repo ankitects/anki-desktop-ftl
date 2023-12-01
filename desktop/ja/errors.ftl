@@ -1,4 +1,9 @@
 -errors-support-site = [サポートサイト](https://help.ankiweb.net)
+errors-standard-popup2 = Anki で問題が発生しました。次のトラブルシューティングの手順を行ってください。
+errors-may-be-addon = この問題はアドオンが原因である可能性があります。
+errors-troubleshooting-button = トラブルシューティング
+errors-copy-debug-info-button = デバッグ情報をコピー
+errors-copied-to-clipboard = クリップボードにコピーしました。
 errors-standard-popup =
     # エラー
     
