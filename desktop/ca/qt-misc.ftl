@@ -67,7 +67,7 @@ qt-misc-anki-is-running = Ja s'està executant Anki
 qt-misc-if-instance-is-not-responding = Si aquesta finestra d'Anki no respon, tanqueu-la amb l'administrador de tasques o reinicieu l'ordinador.
 qt-misc-second =
     { $count ->
-        [one] Un segon
+        [one] { $count } segon
        *[other] { $count } segons
     }
 qt-misc-layout-auto-enabled = S'ha activat la disposició responsiva
