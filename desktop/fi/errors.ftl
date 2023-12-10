@@ -1,4 +1,9 @@
 -errors-support-site = [tukisivustolle](https://help.ankiweb.net)
+errors-standard-popup2 = Anki kohtasi ongelman. Seuraa vianmääritysohjeita.
+errors-may-be-addon = Ongelma voi johtua lisäosasta.
+errors-troubleshooting-button = Vianmääritys
+errors-copy-debug-info-button = Kopioi vianmääritystiedot
+errors-copied-to-clipboard = Kopioitu leikepöydälle
 errors-standard-popup =
     # Virhe
     
@@ -7,7 +12,6 @@ errors-standard-popup =
     
     Jos ongelmat jatkuvat, ilmoita ongelmasta { -errors-support-site }.
     Kopioi ja liitä alla olevat tiedot raporttiisi.
--errors-addon-support-site = [lisäosien tukisivulle](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     <h1>Virhe</h1>
     
@@ -39,3 +43,6 @@ errors-unable-open-collection =
     
     Vianmääritystiedot:
 errors-windows-tts-runtime-error = Teksti puheeksi (TTS) -palvelu kohtasi virheen. Varmista, että Windowsin päivitykset on asennettu, kokeile käynnistää tietokone uudelleen ja kokeile käyttää toista teksti puheeksi -ääntä.
+
+## OBSOLETE; you do not need to translate this
+
