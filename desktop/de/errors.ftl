@@ -1,4 +1,6 @@
 -errors-support-site = [Support-Webseite](https://help.ankiweb.net)
+errors-may-be-addon = Das Problem wird vielleicht von einer Erweiterung verursacht.
+errors-copied-to-clipboard = In Zwischenablage kopiert
 errors-standard-popup =
     # Fehler
     
