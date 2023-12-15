@@ -1,4 +1,9 @@
 -errors-support-site = [sito di supporto](https://help.ankiweb.net)
+errors-standard-popup2 = Anki ha riscontrato un problema. Segui i passaggi di risoluzione dei problemi.
+errors-may-be-addon = Il problema potrebbe essere causato da un add-on.
+errors-troubleshooting-button = Risoluzione problemi
+errors-copy-debug-info-button = Copia Info Debug
+errors-copied-to-clipboard = Copiato negli appunti
 errors-standard-popup =
     <h1>Errore</h1>
     
