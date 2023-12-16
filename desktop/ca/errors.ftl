@@ -1,4 +1,9 @@
 -errors-support-site = [lloc de suport](https://help.ankiweb.net)
+errors-standard-popup2 = Anki ha trobat un problema. Seguiu els passos de solució de problemes.
+errors-may-be-addon = Un complement podria estar causant aquest problema.
+errors-troubleshooting-button = Solució de problemes
+errors-copy-debug-info-button = Copia la informació de depuració
+errors-copied-to-clipboard = S’ha copiat al porta-retalls
 errors-standard-popup =
     # Error
     
