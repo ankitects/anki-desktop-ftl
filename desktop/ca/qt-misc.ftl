@@ -1,6 +1,6 @@
 qt-misc-addon-will-be-installed-when-a = El complement s'instal·larà quan s'obri un perfil.
 qt-misc-addons = Complements
-qt-misc-all-cards-notes-and-media-for = S'eliminaran totes les targetes, les notes i els fitxers multimèdia d'aquest perfil. N'esteu segur?
+qt-misc-all-cards-notes-and-media-for = S’eliminaran totes les targetes, les notes i els fitxers multimèdia d’aquest perfil. Voleu continuar?
 qt-misc-all-cards-notes-and-media-for2 = S’eliminaran totes les targetes, les notes i els fitxers multimèdia del perfil «{ $name }». Voleu continuar?
 qt-misc-anki-updatedanki-has-been-released = <h1>Actualització d'Anki</h1>La versió { $val } d'Anki està disponible.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = La sincronització simultània i les còpies de seguretat es desactiven mentre es produeix la restauració. Per a tornar-les a habilitar, tanqueu el perfil o reinicieu Anki.
