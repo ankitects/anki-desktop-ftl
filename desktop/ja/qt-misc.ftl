@@ -41,7 +41,7 @@ qt-misc-replace-your-collection-with-an-earlier = 現在のコレクションの
 qt-misc-revert-to-backup = バックアップされたコレクションの復元
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI", "MS PGothic"
-qt-misc-shift-key-was-held-down-skipping = シフトキーを押したまま起動しましたので、自動的な同期とアドオンの読み込みを省略しました。
+qt-misc-shift-key-was-held-down-skipping = Shiftキーを押したまま起動したため、自動的な同期とアドオンの読み込みを省略しました。
 qt-misc-shortcut-key-left-arrow = ショートカットキー：左矢印
 qt-misc-shortcut-key-right-arrow-or-enter = ショートカットキー：右矢印またはエンターキー
 qt-misc-stats = 統計
