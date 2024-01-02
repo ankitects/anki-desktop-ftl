@@ -1,4 +1,4 @@
-addons-possibly-involved = アドオンが関連している可能性があります：{ $addons }
+addons-possibly-involved = アドオンが関係している可能性があります：{ $addons }
 addons-failed-to-load =
     インストールしたアドオンの読み込みに失敗しました。問題が続く場合は、メニューバーの[ツール]→[アドオン]で表示されるアドオン管理画面で、そのアドオンを無効化するか削除してください。
     
@@ -13,21 +13,21 @@ addons-failed-to-load2 =
     { about-copy-debug-info } ボタンを使用すると、 アドオンの作者に問い合わせを行う際に記載すると役立つ情報を取得できます。
     
     利用可能なアップデートがないアドオンについては、そのアドオンを無効にするか削除することで、このメッセージが表示されないようにすることができます。
-addons-startup-failed = アドオンのスタートアップ失敗
+addons-startup-failed = アドオンの起動に失敗
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = 「{ $name }」を設定
 addons-config-validation-error = 与えられた条件の設定に問題がありました：{ $problem }、at path = { $path }、against schema = { $schema }
 addons-window-title = アドオン
-addons-addon-has-no-configuration = このアドオンの設定は変更できません。
-addons-addon-installation-error = アドオンインストールのエラー
+addons-addon-has-no-configuration = このアドオンには設定項目がありません。
+addons-addon-installation-error = アドオンのインストールエラー
 addons-browse-addons = アドオン一覧
 addons-changes-will-take-effect-when-anki = 変更を反映させるにはAnkiを再起動してください。
-addons-check-for-updates = 既存アドオンのアップデート
-addons-checking = チェック中...
+addons-check-for-updates = アップデートを確認する
+addons-checking = 確認中...
 addons-code = コード:
 addons-config = 設定
 addons-configuration = 設定
-addons-corrupt-addon-file = 汚染されたアドオンファイル
+addons-corrupt-addon-file = 破損したアドオンファイル
 addons-disabled = (無効)
 addons-disabled2 = (無効)
 addons-download-complete-please-restart-anki-to = ダウンロードが完了しました。変更を適用するためにAnkiを再起動してください。
@@ -45,7 +45,7 @@ addons-installation-complete = インストール完了
 addons-installed-names = { $name } をインストールしました
 addons-installed-successfully = インストールが完了しました。
 addons-invalid-addon-manifest = 無効なアドオンのマニフェスト
-addons-invalid-code = コードが不正です。
+addons-invalid-code = コードが無効です。
 addons-invalid-code-or-addon-not-available = 無効なコードです。数字が誤っているか、このアドオンがこのバージョンのAnkiに対応していません。
 addons-invalid-configuration = 無効な設定:
 addons-invalid-configuration-top-level-object-must = 無効な設定：トップレベルのオブジェクトはマップである必要があります
@@ -59,7 +59,7 @@ addons-please-select-a-single-addon-first = はじめにアドオンを選択し
 addons-requires = ({ $val }が必要)
 addons-restored-defaults = 初期設定に戻す
 addons-the-following-addons-are-incompatible-with = これらのアドオンは{ $name }と互換性がないため無効化されました：{ $found }
-addons-the-following-addons-have-updates-available = 以下のアドオンにはアップデート版があります。今すぐインストールしますか？
+addons-the-following-addons-have-updates-available = 以下のアドオンにアップデートがあります。今すぐインストールしますか？
 addons-the-following-conflicting-addons-were-disabled = これらの競合するアドオンを無効化しました：
 addons-this-addon-is-not-compatible-with = このアドオンはご使用のAnkiのバージョンとの互換性がありません。
 addons-to-browse-addons-please-click-the = 下の「アドオン一覧」ボタンをクリックすると、使用可能なアドオンの一覧が表示されます。<br><br>使用したいアドオンがある場合は、そのアドオンのコードを下の欄に貼り付けてください。スペースで間隔を空けて複数のコードを入力することも可能です。
