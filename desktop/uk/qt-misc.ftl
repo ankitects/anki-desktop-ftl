@@ -68,6 +68,8 @@ qt-misc-second =
         [few] { $count } секунди
        *[other] { $count } секунд
     }
+qt-misc-layout-vertical-enabled = Ввімкнено вертикальну розкладку
+qt-misc-layout-horizontal-enabled = Ввімкнено горизонтальну розкладку
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
