@@ -1,7 +1,8 @@
 -errors-support-site = [Support-Webseite](https://help.ankiweb.net)
+errors-standard-popup2 = Ein Fehler ist aufgetreten. Sie können diesen möglicherweise beheben, indem Sie der Anleitung zur Fehlerbehebung folgen.
 errors-may-be-addon = Das Problem wird vielleicht von einer Erweiterung verursacht.
 errors-troubleshooting-button = Fehlerbehebung
-errors-copy-debug-info-button = Debug-Informationen kopieren
+errors-copy-debug-info-button = Debug-Infos kopieren
 errors-copied-to-clipboard = In Zwischenablage kopiert
 errors-standard-popup =
     # Fehler
