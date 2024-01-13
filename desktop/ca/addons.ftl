@@ -4,6 +4,15 @@ addons-failed-to-load =
     
     Mentre es carregava '{ $name }'
     { $traceback }
+addons-failed-to-load2 =
+    No s’ha pogut carregar els següents complements:
+    { $addons }
+    
+    És possible que hàgiu d’actualitzar-los perquè siguin compatibles amb aquesta versió d’Anki. Feu clic en { addons-check-for-updates } per a comprovar si n’hi ha actualitzacions disponibles.
+    
+    Podeu fer servir el botó { about-copy-debug-info } per a obtenir informació que pugueu enviar a l’autor del complement.
+    
+    Quant als complements que no tenen cap actualització disponible, podeu desactivar o suprimir el complement per a evitar que aparegui aquest missatge.
 addons-startup-failed = L’activació del complement ha fallat
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Configura '{ $name }'
@@ -31,7 +40,7 @@ addons-important-as-addons-are-programs-downloaded = <b>Important:</b> Els compl
 addons-install-addon = Instal·la el complement
 addons-install-addons = Instal·la el(s) complement(s)
 addons-install-anki-addon = Instal·la un complement d'Anki
-addons-install-from-file = Instal·la des d'un fitxer…
+addons-install-from-file = Instal·la des d’un fitxer…
 addons-installation-complete = S'ha completat la instal·lació
 addons-installed-names = S'ha instal·lat { $name }
 addons-installed-successfully = S'ha instal·lat correctament.
@@ -58,7 +67,7 @@ addons-toggle-enabled = Activa/desactiva
 addons-unable-to-update-or-delete-addon = No s'ha pogut actualitzar ni eliminar el complement. Inicieu Anki mentre manteniu premuda la tecla de majúscules per a desactivar temporalment els complements i torneu-ho a intentar.   Informació de depuració: { $val }
 addons-unknown-error = S'ha produït un error desconegut: { $val }
 addons-view-addon-page = Consulta la pàgina del complement
-addons-view-files = Visualitza'n els fitxers
+addons-view-files = Mostra’n els fitxers
 addons-delete-the-numd-selected-addon =
     { $count ->
         [one] Voleu eliminar aquest complement?
