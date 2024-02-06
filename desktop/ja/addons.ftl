@@ -5,12 +5,12 @@ addons-failed-to-load =
     '{ $name }' を読み込んだ際のエラー:
     { $traceback }
 addons-failed-to-load2 =
-    次のアドオンの読み込みに失敗しました:
+    次のアドオンの読み込みに失敗しました：
     { $addons }
     
-    上記のアドオンは、このバージョンのAnkiをサポートするためにはアップデートが必要な可能性があります。{ addons-check-for-updates } ボタンをクリックして、利用可能なアップデートがないか確認してください。
+    上記のアドオンは、このバージョンのAnkiで使用するためにはアップデートが必要である可能性があります。「{ addons-check-for-updates }」ボタンをクリックして、利用可能なアップデートがないか確認してください。
     
-    { about-copy-debug-info } ボタンを使用すると、 アドオンの作者に問い合わせを行う際に記載すると役立つ情報を取得できます。
+    「{ about-copy-debug-info }」ボタンをクリックすると、 アドオンの作者に問い合わせを行う際に作者にとって参考となる情報を取得できます。
     
     利用可能なアップデートがないアドオンについては、そのアドオンを無効にするか削除することで、このメッセージが表示されないようにすることができます。
 addons-startup-failed = アドオンの起動に失敗
@@ -22,7 +22,7 @@ addons-addon-has-no-configuration = このアドオンには設定項目があ�
 addons-addon-installation-error = アドオンのインストールエラー
 addons-browse-addons = アドオン一覧
 addons-changes-will-take-effect-when-anki = 変更を反映させるにはAnkiを再起動してください。
-addons-check-for-updates = アップデートを確認する
+addons-check-for-updates = アップデートを確認
 addons-checking = 確認中...
 addons-code = コード:
 addons-config = 設定
