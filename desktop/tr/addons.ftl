@@ -4,6 +4,18 @@ addons-failed-to-load =
     
     '{ $name }' yüklendiğinde:
     { $traceback }
+addons-failed-to-load2 =
+    Aşağıdaki eklentiler yüklenemedi:
+    { $addons }
+    
+    Anki'nin bu sürümünü desteklemek için bunları güncellemeniz gerekebilir.
+    Bir güncelleştirmenin mevcut olup olmadığına bakmak için { addons-check-for-updates } düğmesine tıklayın.
+    
+    Eklenti yazarına bir rapora yapıştırabileceğiniz bilgileri almak için 
+    { about-copy-debug-info } düğmesini kullanabilirsiniz.
+    
+    Eklenti için bir güncelleştirme mevcut değilse, 
+    bu mesajın belirmesini önlemek için eklentiyi devre dışı bırakabilir veya silebilirsiniz.
 addons-startup-failed = Eklenti Başlaması Başarısız Oldu
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = '{ $name }' yapılandır

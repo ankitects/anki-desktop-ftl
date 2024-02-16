@@ -5,6 +5,6 @@ about-anki-is-licensed-under-the-agpl3 = Anki AGPL3 lisansı ise lisanslanmışt
 about-copied-to-clipboard = Panoya kopyalandı
 about-copy-debug-info = Hata Ayıklama Bilgisini Kopyala
 about-if-you-have-contributed-and-are = Eğer katkıda bulunmuş ve listede yoksanız, lütfen bizimle iletişim kurunuz.
-about-version = Versiyon { $val }
+about-version = Sürüm { $val }
 about-visit-website = <a href='{ $val }'>Siteye git</a>
 about-written-by-damien-elmes-with-patches = Damien Elmes tarafından yazıldı ve aşağıda listelenenlerden yamalar, çeviriler,    sınamaları ve tasarım içerdi.<p>{ $cont }'den
