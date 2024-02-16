@@ -28,6 +28,11 @@ qt-misc-manage-note-types = Not Tiplerini Yönet
 qt-misc-name-exists = Ad mevcut.
 qt-misc-non-unicode-text = <unicode olmayan yazı>
 qt-misc-optimizing = Optimize ediliyor...
+qt-misc-unable-to-record =
+    Kayıt yapılamıyor. Lütfen bir mikrofonun bağlı olduğundan ve Anki'nin mikrofonu kullanmaya izni olduğundan emin olun.
+    Başka programlar mikrofonunuzu kullanıyorsa, bunları kapatmak yardım edebilir.
+    
+    Orijinal hata: { $error }
 qt-misc-please-ensure-a-profile-is-open = Lütfen bir profil açıkken ve Anki meşgul değilken sağlayın, sonra tekrar deneyin.
 qt-misc-please-select-1-card = (lütfen 1 kart seçin)
 qt-misc-please-select-a-deck = Lütfen bir deste seçin
@@ -51,6 +56,10 @@ qt-misc-this-file-exists-are-you-sure = Bu dosya mevcut. Üzerine yazmak istedi�
 qt-misc-unable-to-access-anki-media-folder = Anki medya klasörüne erişilemedi. Sisteminizin geçici klasöründeki izinler yanlış olabilir.
 qt-misc-unexpected-response-code = Beklenmeyen yanıt kodu: { $val }
 qt-misc-would-you-like-to-download-it = Şimdi indirmek istermisin ?
+qt-misc-your-collection-file-appears-to-be =
+    Koleksiyon dosyanız bozuk gibi görünüyor. Bu durum, Anki açıkken dosya kopyalandığında veya taşındığında 
+    ya da koleksiyon bir ağ veya bulut sürücüsünde depolandığında olabilir. Bilgisayarınızı yeniden başlattıktan sonra 
+    sorunlar devam ederse, lütfen profil ekranından otomatik bir yedek açın.
 qt-misc-error = Hata
 qt-misc-no-temp-folder = Kullanılabilir geçici klasör bulunamadı. C:\\temp'in var olduğundan ya da ortamınızın TEMP'inin geçerli yazılabilir bir klasörü gösterdiğinden emin olun.
 qt-misc-incompatible-video-driver = Video sürücünüz uyumsuzdur. Lütfen Anki'yi yeniden başlatınız ve Anki daha yavaş, daha uyumlu moda geçecek.
