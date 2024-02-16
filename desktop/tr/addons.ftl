@@ -4,6 +4,7 @@ addons-failed-to-load =
     
     '{ $name }' yüklendiğinde:
     { $traceback }
+addons-startup-failed = Eklenti Başlaması Başarısız Oldu
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = '{ $name }' yapılandır
 addons-config-validation-error = Sağlanan yapılandırmayla ilgili bir sorun vardı: { $problem }, { $path } konumunda, { $schema } şemasına karşı.
