@@ -7,17 +7,6 @@ errors-standard-popup =
     
     Si los problemas continúan, informa del problema a nuestro { -errors-support-site }.
     Copia y pega la siguiente información en su informe.
--errors-addon-support-site = [sitio de soporte de extensiones](https://help.ankiweb.net/discussions/add-ons/)
-errors-addons-active-popup =
-    <h1>Error</h1>
-    
-    <p>Se ha producido un error. Por favor inicia la Anki manteniendo presionadas ples teclas Mayús y la flecha hacia abajo, lo que desactivará temporalmente los extensiones que tienes instaladas.</p>
-    
-    <p>Si este error persiste sólo cuando tienes las extensiones activadas, utiliza Herramientas > Menú de Extensiones para deshabilitar alguna extensión y reinicia el Anki, repitiendo este proceso hasta que descubras qué extensión en concreto es la que causa el problema</p>
-    
-    <p>Cuando hayas descubierto la extensión que causaba el problema, por favor informa de esto a { -errors-addon-support-site }.</p>
-    
-    <p>Información de depuración:</p>
 errors-accessing-db =
     Ha ocurrido un error accediendo a la base de datos.
     
@@ -35,3 +24,6 @@ errors-unable-open-collection =
     
     Información de depuración:
 errors-windows-tts-runtime-error = El servicio TTS falló. Asegúrese de que las actualizaciones de Windows estén instaladas, intente reiniciar su computadora e intente usar una voz diferente.
+
+## OBSOLETE; you do not need to translate this
+
