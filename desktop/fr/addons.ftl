@@ -4,13 +4,24 @@ addons-failed-to-load =
     
     Pendant le chargement de « { $name } » :
     { $traceback }
+addons-failed-to-load2 =
+    Les greffons suivants ont échoué à charger:
+    { $addons }
+    
+    Peut-être qu'ils ont besoin d'etre mis a jour pour soutenir cette version d'Anki. Clic le bouton de { addons-check-for-updates }
+    pour voir s’il y a des mis-a-jours disponibles.
+    
+    Vous pouvez utiliser le bouton { about-copy-debug-info } pour obtenir des informations que vous pouvez coller dans un rapport a
+    l'auteur(e) du greffon
+    
+    Pour les greffons qui n'ont pas des mis-a-jours disponibles, vous pouvez désactiver ou supprimer le greffon pour empêcher ce 
+    message d’apparaître
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Paramétrer « { $name } »
 addons-config-validation-error = Il y a eu un problème avec la configuration fournie : { $problem }, depuis le chemin { $path }, contre le schéma { $schema }.
 addons-window-title = Greffons
 addons-addon-has-no-configuration = Le greffon n’a pas de configuration.
 addons-addon-installation-error = Erreur lors de l’installation du greffon
-addons-addon-was-not-downloaded-from-ankiweb = Le greffon n’a pas été téléchargé depuis AnkiWeb.
 addons-browse-addons = Parcourir les greffons
 addons-changes-will-take-effect-when-anki = Les changements seront effectifs au redémarrage d’Anki.
 addons-check-for-updates = Vérifier les mises à jour

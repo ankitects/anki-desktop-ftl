@@ -1,4 +1,9 @@
 -errors-support-site = [site de support](https://help.ankiweb.net)
+errors-standard-popup2 = Anki a rencontré un problème. Suivre les étapes de dépannage.
+errors-may-be-addon = Le problème peut être causé par un greffon.
+errors-troubleshooting-button = Dépannage
+errors-copy-debug-info-button = Copier les informations de débogage
+errors-copied-to-clipboard = Copié dans le presse-papiers
 errors-standard-popup =
     # Erreur
     
@@ -7,7 +12,6 @@ errors-standard-popup =
     
     Si le problème persiste, merci de le signaler sur notre { -errors-support-site }.
     Veuillez copier et coller les informations ci-dessous dans votre signalement.
--errors-addon-support-site = [site de support du greffon](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # Erreur
     
@@ -40,3 +44,6 @@ errors-unable-open-collection =
     
     Information de débogage :
 errors-windows-tts-runtime-error = Le narrateur a échoué. Veuillez vous assurer que Windows est à jour, puis redémarrez votre ordinateur, ou alors utilisez une autre voix.
+
+## OBSOLETE; you do not need to translate this
+
