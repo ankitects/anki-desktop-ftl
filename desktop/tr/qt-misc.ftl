@@ -61,6 +61,7 @@ qt-misc-your-collection-file-appears-to-be =
     ya da koleksiyon bir ağ veya bulut sürücüsünde depolandığında olabilir. Bilgisayarınızı yeniden başlattıktan sonra 
     sorunlar devam ederse, lütfen profil ekranından otomatik bir yedek açın.
 qt-misc-your-computers-storage-may-be-full = Bilgisayarın depolama alanı dolu olabilir. Lütfen bazı gereksiz dosyaları silin, sonra tekrar deneyin.
+qt-misc-your-firewall-or-antivirus-program-is = Güvenlik duvarın veya antivirüs yazılımın Anki'nin kendisiyle bağlantı kurmasını önlüyor. Lütfen Anki için bir istisna ekleyin.
 qt-misc-error = Hata
 qt-misc-no-temp-folder = Kullanılabilir geçici klasör bulunamadı. C:\\temp'in var olduğundan ya da ortamınızın TEMP'inin geçerli yazılabilir bir klasörü gösterdiğinden emin olun.
 qt-misc-incompatible-video-driver = Video sürücünüz uyumsuzdur. Lütfen Anki'yi yeniden başlatınız ve Anki daha yavaş, daha uyumlu moda geçecek.
