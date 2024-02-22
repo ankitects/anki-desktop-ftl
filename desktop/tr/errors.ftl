@@ -1,4 +1,9 @@
 -errors-support-site = [destek sitesi](https://help.ankiweb.net)
+errors-standard-popup2 = Anki bir sorunla karşılaştı. Lütfen sorun giderme adımlarını izleyin.
+errors-may-be-addon = Sorun bir eklentiden kaynaklanıyor olabilir.
+errors-troubleshooting-button = Sorun giderme
+errors-copy-debug-info-button = Hata Ayıklama Bilgisini Kopyala
+errors-copied-to-clipboard = Panoya kopyalandı
 errors-standard-popup =
     # Hata
     
@@ -22,6 +27,7 @@ errors-unable-open-collection =
     Anki koleksiyon dosyanızı açamadı. Bilgisayarınızı yeniden başlattıktan sonra sorun devam ederse, lütfen profil yöneticisindeki Yedek Aç düğmesini kullanın.
     
     Hata ayıklama bilgisi:
+errors-windows-tts-runtime-error = Metin okuma hizmeti başarısız oldu. Lütfen Windows güncellemelerinin yüklü olduğundan emin olun, sonra bilgisayarını yeniden başlatmayı deneyin veya farklı bir ses deneyin.
 
 ## OBSOLETE; you do not need to translate this
 
