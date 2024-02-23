@@ -11,6 +11,20 @@ errors-standard-popup =
     
     Sorun devam ederse, lütfen sorunu { -errors-support-site } adresine bildirin.
     Lütfen aşağıdaki bilgileri kopyalayıp raporunuza yapıştırın.
+errors-addons-active-popup =
+    # Hata
+    
+    Bir hata oluştu. Yüklediğiniz eklentileri geçici olarak devre dışı bırakmak için 
+    lütfen shift tuşunu basılı tutarken Anki'yi başlatın.
+    
+    Eğer bu sorun sadece eklentiler etkinleştirildiğinde ortaya çıkıyorsa, 
+    lütfen bazı eklentiler devre dışı bırakmak için Araçlar > Eklentiler 
+    menü öğesini kullanın, sonra Anki'yi yeniden başlatın. 
+    Soruna hangi eklentinin neden olduğunu bulana kadar bunu tekrarlayın.
+    
+    Sorunu neden olan eklentiyi bulunca lütfen sorunu eklentinin yazarına bildirin.
+    
+    Hata ayıklama bilgisi:
 errors-accessing-db =
     Veritabanına ulaşırken bir hata gerçekleşti.
     
