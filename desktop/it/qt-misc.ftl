@@ -70,7 +70,7 @@ qt-misc-second =
         [one] { $count } secondo
        *[other] { $count } secondi
     }
-qt-misc-layout-auto-enabled = Responsive layout abilitato
+qt-misc-layout-auto-enabled = Layout reattivo abilitato
 qt-misc-layout-vertical-enabled = Layout verticale abilitato
 qt-misc-layout-horizontal-enabled = Layout orizzontale abilitato
 

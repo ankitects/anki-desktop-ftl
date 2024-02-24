@@ -5,16 +5,17 @@ addons-failed-to-load =
     Caricando '{ $name }':
     { $traceback }
 addons-failed-to-load2 =
-    Anki non è riuscito a caricare i seguenti Add-on:
+    Anki non è riuscito a caricare i seguenti add-on:
     { $addons }
     
-    Potrebbero aver bisogno di essere aggiornati per supportare questa versione di Anki. Clicca sul pulsante { addons-check-for-updates } per vedere 
+    Potrebbero aver bisogno di essere aggiornati per supportare questa versione di Anki.
+    Clicca sul pulsante { addons-check-for-updates } per verificare
     se sono disponibili aggiornamenti.
     
     Puoi utilizzare il pulsante { about-copy-debug-info } per ottenere informazioni che puoi incollare 
-    in un report da inviare all'autore dell'Add-on.
+    in una segnalazione da inviare all'autore dell'add-on.
     
-    Per gli Add-on che non hanno un aggiornamento disponibile, puoi disattivarli o eliminarli per evitare 
+    Per gli add-on che non hanno un aggiornamento disponibile, puoi disattivarli o eliminarli per evitare 
     che questo messaggio ricompaia.
 addons-startup-failed = Avvio dell'add-on non riuscito
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
