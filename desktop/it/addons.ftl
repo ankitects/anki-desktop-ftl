@@ -19,7 +19,7 @@ addons-failed-to-load2 =
 addons-startup-failed = Avvio dell'add-on non riuscito
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Configura '{ $name }'
-addons-config-validation-error = C'è stato un problema con la configurazione fornita: { $problem }, nel percorso { $path }, contro lo schema { $schema }.
+addons-config-validation-error = C'è stato un problema con la configurazione fornita: { $problem }, nel percorso { $path }, relativo allo schema { $schema }.
 addons-window-title = Add-on
 addons-addon-has-no-configuration = L'add-on non ha configurazioni.
 addons-addon-installation-error = Errore di installazione dell'add-on

@@ -5,26 +5,27 @@ errors-troubleshooting-button = Risoluzione problemi
 errors-copy-debug-info-button = Copia Info Debug
 errors-copied-to-clipboard = Copiato negli appunti
 errors-standard-popup =
-    <h1>Errore</h1>
+    # Errore
     
-    <p>Si è verificato un errore. Utilizza <b>Strumenti>Controlla il database...</b> per verificare se risolve il problema.
+    Si è verificato un errore. Utilizza **Strumenti>Controlla il database...** per verificare
+    se il problema si risolve.
     
-    
-     Se il problema permane, segnalalo sul nostro { -errors-support-site }.
+     Se il problema persiste, segnalalo sul nostro { -errors-support-site }.
      Copia e incolla le informazioni sottostanti nella tua segnalazione.
 errors-addons-active-popup =
-    <h1>Errore</h1>
+    # Errore
     
-    <p>Si è verificato un errore. Avvia Anki tenendo premuto il tasto Maiusc, disabilitando così temporaneamente gli add-on installati.</p>
+    Si è verificato un errore. Avvia Anki tenendo premuto il tasto Maiusc,
+    disabilitando così temporaneamente gli add-on installati.
     
-    <p>Se il problema si verifica unicamente con gli add-on abilitati, vai nel menu Strumenti>Add-on per disabilitare progressivamente gli add-on e riavvia Anki,
-    fino a capire qual è l'add-on che crea il problema.</p>
+    Se il problema si verifica unicamente con gli add-on abilitati, vai nel menu Strumenti>Add-on
+    per disabilitare progressivamente gli add-on e riavvia Anki,
+    fino a quando non individui l'add-on che causa il problema.
     
-    <p>Quando hai scoperto qual è l'add-on che crea il problema,
-    segnalalo qui { -errors-addon-support-site }.
+    Quando hai scoperto qual è l'add-on che crea il problema,
+    segnalalo allo sviluppatore dell'add-on.
     
-    
-    <p>Informazioni di debug:</p>
+    Informazioni di debug:
 errors-accessing-db =
     Si è verificato un errore durante l'accesso al database.
     
