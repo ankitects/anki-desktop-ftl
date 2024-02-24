@@ -39,7 +39,7 @@ addons-downloading-adbd-kb02fkb = Download { $part }/{ $total } ({ $kilobytes }K
 addons-error-downloading-ids-errors = Errore durante il download <i>{ $id }</i>: { $error }
 addons-error-installing-bases-errors = Errore nell'installazione di <i>{ $base }</i>: { $error }
 addons-get-addons = Scarica Add-on...
-addons-important-as-addons-are-programs-downloaded = <b>Importante</b>: Gli add-on sono programmi scaricati da internet, per questo sono potenzialmente maligni.<b>Installa soltanto add-on sicuri.</b><br><br>Sei sicuro di voler procedere all'installazione del seguente add-on per Anki?<br><br>%(names)s
+addons-important-as-addons-are-programs-downloaded = <b>Importante</b>: Gli add-on sono programmi scaricati da internet, e per questo potenzialmente dannosi.<b>Installa soltanto add-on di cui ti fidi.</b><br><br>Sei sicuro di voler procedere all'installazione del seguente add-on per Anki?<br><br>%(names)s
 addons-install-addon = Installa un Add-on
 addons-install-addons = Installa Add-on
 addons-install-anki-addon = Installa un add-on di Anki
@@ -60,12 +60,12 @@ addons-please-report-this-to-the-respective = Segnalalo al rispettivo autore del
 addons-please-restart-anki-to-complete-the = <b>Riavvia Anki per completare l'installazione.</b>
 addons-please-select-a-single-addon-first = Seleziona dapprima un singolo add-on.
 addons-requires = (richiede { $val })
-addons-restored-defaults = Ripristinato le impostazioni
-addons-the-following-addons-are-incompatible-with = Gli add-on seguenti sono incompatibili con { $name } e sono stati disattivati: { $found }
-addons-the-following-addons-have-updates-available = I seguenti add-on hanno degli aggiornamenti disponibili. Li vuoi installare ora?
+addons-restored-defaults = Ripristinate le impostazioni predefinite
+addons-the-following-addons-are-incompatible-with = I seguenti add-on sono incompatibili con { $name } e sono stati disattivati: { $found }
+addons-the-following-addons-have-updates-available = Sono disponibili aggiornamenti per i seguenti add-on. Vuoi installarli ora?
 addons-the-following-conflicting-addons-were-disabled = Gli add-on seguenti in conflitto tra di loro sono stati disattivati:
 addons-this-addon-is-not-compatible-with = Questo add-on non è compatibile con la tua versione di Anki.
-addons-to-browse-addons-please-click-the = Per sfogliare gli add-on, clicca sul pulsante sfoglia qui sotto.<br><br>Quando hai trovato un add-on che vuoi installare, incolla il suo codice qui sotto. Puoi inserire anche più codici separati da uno spazio.
+addons-to-browse-addons-please-click-the = Per sfogliare gli add-on, clicca sul pulsante sfoglia qui sotto.<br><br>Quando hai trovato un add-on che ti interessa, incolla il suo codice qui sotto. Puoi inserire anche più codici separati da uno spazio.
 addons-toggle-enabled = Attiva/Disattiva
 addons-unable-to-update-or-delete-addon = L'add-on non ha potuto essere aggiornato o eliminato. Avvia Anki tenendo premuto il tasto Maiusc per disattivare temporaneamente gli add-on, e riprova.  Informazioni di debug: { $val }
 addons-unknown-error = Errore sconosciuto: { $val }
@@ -76,5 +76,5 @@ addons-delete-the-numd-selected-addon =
         [one] Elimina { $count } add-on selezionato?
        *[other] Elimina i { $count } add-on selezionati?
     }
-addons-choose-update-window-title = Aggiorna add-on
+addons-choose-update-window-title = Aggiorna gli add-on
 addons-choose-update-update-all = Aggiorna tutto

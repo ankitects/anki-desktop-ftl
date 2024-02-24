@@ -1,7 +1,7 @@
 -errors-support-site = [sito di supporto](https://help.ankiweb.net)
 errors-standard-popup2 = Anki ha riscontrato un problema. Segui i passaggi di risoluzione dei problemi.
 errors-may-be-addon = Il problema potrebbe essere causato da un add-on.
-errors-troubleshooting-button = Risoluzione problemi
+errors-troubleshooting-button = Risoluzione dei problemi
 errors-copy-debug-info-button = Copia Info Debug
 errors-copied-to-clipboard = Copiato negli appunti
 errors-standard-popup =
@@ -31,8 +31,8 @@ errors-accessing-db =
     
     Possibili cause:
     
-    - Antivirus, firewall, backup o un software di sincronizzazione possono interferire con Anki. Prova a disabilitare il software e vedere se il problema scompare.
-    - Il disco potrebbe essere pieno.
+    - Antivirus, firewall, backup o un software di sincronizzazione potrebbero interferire con Anki. Prova a disabilitarli per vedere se il problema si risolve.
+    - Lo spazio su disco potrebbe essere insufficiente.
     - La cartella Documenti/Anki potrebbe essere su un'unità di rete.
     - I files nella cartella Documenti/Anki potrebbero non essere scrivibili.
     - Il disco rigido potrebbe contenere degli errori.
@@ -42,7 +42,7 @@ errors-unable-open-collection =
     Anki non è riuscito ad aprire il file della tua collezione. Se il problema permane dopo il riavvio del computer, usa il pulsante Apri Backup nel gestore dei profili.
     
     Informazioni di debug:
-errors-windows-tts-runtime-error = Il servizio TTS non è riuscito. Assicurati che gli aggiornamenti di Windows siano installati, prova a riavviare il computer e prova a usare una voce diversa.
+errors-windows-tts-runtime-error = Il servizio TTS non funziona. Assicurati che gli aggiornamenti di Windows siano installati, prova a riavviare il computer o prova a usare una voce diversa.
 
 ## OBSOLETE; you do not need to translate this
 

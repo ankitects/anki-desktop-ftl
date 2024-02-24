@@ -1,4 +1,4 @@
-qt-misc-addon-will-be-installed-when-a = L'add-on sarà installato una volta aperto il profilo.
+qt-misc-addon-will-be-installed-when-a = L'add-on sarà installato una volta aperto un profilo.
 qt-misc-addons = Add-on
 qt-misc-all-cards-notes-and-media-for = Tutte le carte, le note e gli elementi multimediali di questo profilo verranno eliminati. Sei sicuro?
 qt-misc-all-cards-notes-and-media-for2 = Tutte le carte, le note e gli elementi multimediali del profilo  "{ $name }" verranno eliminati. Sei sicuro di volere procedere?
@@ -20,8 +20,8 @@ qt-misc-deck-will-be-imported-when-a = Il mazzo verrà importato all'apertura di
 qt-misc-empty-cards = Carte vuote...
 qt-misc-error-during-startup = Errore durante l'avvio: { $val }
 qt-misc-ignore-this-update = Ignora questo aggiornamento
-qt-misc-in-order-to-ensure-your-collection = Per poter scambiare correttamente la tua collezione tra diversi dispositivi, è necessario che l'orologio del tuo computer sia impostato correttamente. Non è sufficiente che la data e l'ora vengano visualizzati correttamente.  Va nelle impostazioni di data e ora del tuo computer e verifica quanto segue:  - AM/PM - Giorno, mese, anno - Fuso orario - Ora legale  Differenza rispetto all'ora corretta: { $val }.
-qt-misc-invalid-property-found-on-card-please = È stata trovata una proprietà non valida nella carta. Usa Strumenti>Controlla il database, e, se il problema si ripete, chiedi sul sito di supporto.
+qt-misc-in-order-to-ensure-your-collection = Per garantire il corretto funzionamento della tua collezione quando viene scambiata tra diversi dispositivi, è fondamentale che l'orologio del tuo computer sia impostato correttamente.  L'orologio interno potrebbe essere errato anche se il sistema mostra l'ora locale corretta. Vai nelle impostazioni di data e ora del tuo computer e verifica quanto segue:<br><br>- AM/PM<br>- Sfasamento dell'orologio<br>- Giorno, mese e anno<br>- Fuso orario<br>- Ora legale<br><br>Differenza rispetto all'ora corretta: { $val }.
+qt-misc-invalid-property-found-on-card-please = È stata trovata una proprietà non valida nella carta. Usa Strumenti>Controlla il database, e, se il problema si ripresenta, consulta il sito di supporto.
 qt-misc-loading = Caricamento in corso...
 qt-misc-manage = Gestisci
 qt-misc-manage-note-types = Gestisci i tipi di note
@@ -29,7 +29,7 @@ qt-misc-name-exists = Il nome esiste.
 qt-misc-non-unicode-text = <testo non-unicode>
 qt-misc-optimizing = Ottimizzazione in corso...
 qt-misc-unable-to-record =
-    Impossibile registrare. Assicurati che un microfono sia collegato e che Anki abbia il permesso di usare il microfono.
+    Impossibile registrare. Assicurati che un microfono sia collegato e che Anki abbia il permesso di usarlo.
     Se altri programmi stanno utilizzando il tuo microfono, potrebbe essere utile chiuderli.
     
     Errore originale: { $error }
@@ -39,7 +39,7 @@ qt-misc-please-select-a-deck = Seleziona un mazzo.
 qt-misc-please-use-fileimport-to-import-this = Utilizza File>Importa per importare questo file.
 qt-misc-processing = In elaborazione...
 qt-misc-replace-your-collection-with-an-earlier = Sostituire la tua collezione con un backup precedente?
-qt-misc-revert-to-backup = Ritorna allo stato del backup
+qt-misc-revert-to-backup = Ripristina il backup
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = Il tasto Shift era premuto. Salto la sincronizzazione automatica e il caricamento degli add-on.
@@ -50,10 +50,10 @@ qt-misc-study-deck = Studia il mazzo...
 qt-misc-sync = Sincronizza
 qt-misc-target-deck-ctrlandd = Mazzo di destinazione (Ctrl+D)
 qt-misc-the-following-character-can-not-be = Il seguente carattere non può essere utilizzato: { $val }
-qt-misc-the-requested-change-will-require-a = La modifica richiesta provocherà il caricamento completo del database la prossima volta che sincronizzi la collezione. Se hai delle ripetizioni o degli altri cambiamenti in sospeso su un altro dispositivo che non sono ancora stati sincronizzati qui, andranno persi. Continuare?
+qt-misc-the-requested-change-will-require-a = La modifica richiesta provocherà il caricamento completo del database la prossima volta che sincronizzi la collezione. Se hai delle ripetizioni o altri cambiamenti in sospeso su un altro dispositivo che non sono ancora stati sincronizzati qui, andranno persi. Continuare?
 qt-misc-there-must-be-at-least-one = Dev'esserci almeno un profilo.
-qt-misc-this-file-exists-are-you-sure = Questo file esiste. Sei sicuro di volerlo sovrascrivere?
-qt-misc-unable-to-access-anki-media-folder = Impossibile accedere alla cartella multimediale di Anki. I diritti di accesso alla cartella temporanea del tuo sistema potrebbero essere impostati in modo non corretto.
+qt-misc-this-file-exists-are-you-sure = Questo file esiste già. Sei sicuro di volerlo sovrascrivere?
+qt-misc-unable-to-access-anki-media-folder = Impossibile accedere alla cartella multimediale di Anki. I diritti di accesso alla cartella temporanea del tuo sistema potrebbero essere impostati in modo errato.
 qt-misc-unexpected-response-code = Codice di risposta imprevisto: { $val }
 qt-misc-would-you-like-to-download-it = Vuoi scaricarlo ora?
 qt-misc-your-collection-file-appears-to-be = Il file della tua collezione sembra essere corrotto. Questo può succedere se il file viene copiato o spostato mentre Anki è aperto, o quando la collezione è salvata su un dispositivo di rete o su cloud. Se il problema persiste dopo il riavvio del computer, apri un backup automatico dalla schermata di impostazione dei profili.
