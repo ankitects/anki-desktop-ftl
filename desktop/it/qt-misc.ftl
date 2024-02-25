@@ -25,7 +25,7 @@ qt-misc-invalid-property-found-on-card-please = È stata trovata una proprietà 
 qt-misc-loading = Caricamento in corso...
 qt-misc-manage = Gestisci
 qt-misc-manage-note-types = Gestisci i tipi di note
-qt-misc-name-exists = Il nome esiste.
+qt-misc-name-exists = Il nome esiste già.
 qt-misc-non-unicode-text = <testo non-unicode>
 qt-misc-optimizing = Ottimizzazione in corso...
 qt-misc-unable-to-record =
@@ -33,7 +33,7 @@ qt-misc-unable-to-record =
     Se altri programmi stanno utilizzando il tuo microfono, potrebbe essere utile chiuderli.
     
     Errore originale: { $error }
-qt-misc-please-ensure-a-profile-is-open = Assicurati che un profilo sia aperto e che Anki non sia occupato, poi riprova.
+qt-misc-please-ensure-a-profile-is-open = Assicurati che un profilo sia aperto e che Anki non sia occupato, quindi riprova.
 qt-misc-please-select-1-card = (seleziona 1 carta)
 qt-misc-please-select-a-deck = Seleziona un mazzo.
 qt-misc-please-use-fileimport-to-import-this = Utilizza File>Importa per importare questo file.

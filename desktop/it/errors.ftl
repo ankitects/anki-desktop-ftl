@@ -2,7 +2,7 @@
 errors-standard-popup2 = Anki ha riscontrato un problema. Segui i passaggi di risoluzione dei problemi.
 errors-may-be-addon = Il problema potrebbe essere causato da un add-on.
 errors-troubleshooting-button = Risoluzione dei problemi
-errors-copy-debug-info-button = Copia Info Debug
+errors-copy-debug-info-button = Copia le info di debug
 errors-copied-to-clipboard = Copiato negli appunti
 errors-standard-popup =
     # Errore
@@ -10,8 +10,8 @@ errors-standard-popup =
     Si è verificato un errore. Utilizza **Strumenti>Controlla il database...** per verificare
     se il problema si risolve.
     
-     Se il problema persiste, segnalalo sul nostro { -errors-support-site }.
-     Copia e incolla le informazioni sottostanti nella tua segnalazione.
+    Se il problema persiste, segnalalo sul nostro { -errors-support-site }.
+    Copia e incolla le informazioni sottostanti nella tua segnalazione.
 errors-addons-active-popup =
     # Errore
     

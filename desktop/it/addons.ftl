@@ -34,7 +34,7 @@ addons-configuration = Configurazione
 addons-corrupt-addon-file = File add-on difettoso.
 addons-disabled = (disabilitato)
 addons-disabled2 = (disabilitato)
-addons-download-complete-please-restart-anki-to = Download completo. Per favore riavvia Anki per applicare le modifiche.
+addons-download-complete-please-restart-anki-to = Download completo. Per favore riavvia Anki per rendere effettive le modifiche.
 addons-downloaded-fnames = Scaricato { $fname }
 addons-downloading-adbd-kb02fkb = Download { $part }/{ $total } ({ $kilobytes }KB)...
 addons-error-downloading-ids-errors = Errore durante il download <i>{ $id }</i>: { $error }
@@ -48,11 +48,11 @@ addons-install-from-file = Installa da file...
 addons-installation-complete = Installazione completata
 addons-installed-names = { $name } installato
 addons-installed-successfully = Installato con successo.
-addons-invalid-addon-manifest = Manifesto add-on non valido.
+addons-invalid-addon-manifest = Il file manifest dell'add-on non è valido.
 addons-invalid-code = Codice non valido.
 addons-invalid-code-or-addon-not-available = Codice non valido, o add-on non disponibile per la tua versione di Anki.
 addons-invalid-configuration = Configurazione non valida:
-addons-invalid-configuration-top-level-object-must = Configurazione non valida: l'oggetto al primo livello deve essere una mappa
+addons-invalid-configuration-top-level-object-must = Configurazione non valida: l'oggetto di primo livello deve essere una mappa
 addons-no-updates-available = Nessun aggiornamento disponibile.
 addons-one-or-more-errors-occurred = Si sono verificati uno o più errori:
 addons-packaged-anki-addon = Add-on di Anki impachettato
@@ -66,7 +66,7 @@ addons-the-following-addons-are-incompatible-with = I seguenti add-on sono incom
 addons-the-following-addons-have-updates-available = Sono disponibili aggiornamenti per i seguenti add-on. Vuoi installarli ora?
 addons-the-following-conflicting-addons-were-disabled = Gli add-on seguenti in conflitto tra di loro sono stati disattivati:
 addons-this-addon-is-not-compatible-with = Questo add-on non è compatibile con la tua versione di Anki.
-addons-to-browse-addons-please-click-the = Per sfogliare gli add-on, clicca sul pulsante sfoglia qui sotto.<br><br>Quando hai trovato un add-on che ti interessa, incolla il suo codice qui sotto. Puoi inserire anche più codici separati da uno spazio.
+addons-to-browse-addons-please-click-the = Per sfogliare gli add-on, clicca sul pulsante "Sfoglia add-on" qui sotto.<br><br>Quando hai trovato un add-on che ti interessa, incolla il suo codice qui sotto. Puoi inserire anche più codici separati da uno spazio.
 addons-toggle-enabled = Attiva/Disattiva
 addons-unable-to-update-or-delete-addon = Non è stato possibile aggiornare o eliminare l'add-on. Avvia Anki tenendo premuto il tasto Maiusc per disattivare temporaneamente gli add-on, e riprova. Informazioni per il debug: { $val }
 addons-unknown-error = Errore sconosciuto: { $val }
@@ -74,8 +74,8 @@ addons-view-addon-page = Visualizza la pagina degli add-on
 addons-view-files = Mostra i file
 addons-delete-the-numd-selected-addon =
     { $count ->
-        [one] Elimina { $count } add-on selezionato?
-       *[other] Elimina i { $count } add-on selezionati?
+        [one] Eliminare { $count } add-on selezionato?
+       *[other] Eliminare i { $count } add-on selezionati?
     }
 addons-choose-update-window-title = Aggiorna gli add-on
 addons-choose-update-update-all = Aggiorna tutto
