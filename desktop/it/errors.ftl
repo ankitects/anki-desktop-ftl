@@ -25,7 +25,7 @@ errors-addons-active-popup =
     Quando hai scoperto qual è l'add-on che crea il problema,
     segnalalo allo sviluppatore dell'add-on.
     
-    Informazioni di debug:
+    Informazioni per il debug:
 errors-accessing-db =
     Si è verificato un errore durante l'accesso al database.
     
@@ -41,7 +41,7 @@ errors-accessing-db =
 errors-unable-open-collection =
     Anki non è riuscito ad aprire il file della tua collezione. Se il problema permane dopo il riavvio del computer, usa il pulsante Apri Backup nel gestore dei profili.
     
-    Informazioni di debug:
+    Informazioni per il debug:
 errors-windows-tts-runtime-error = Il servizio TTS non funziona. Assicurati che gli aggiornamenti di Windows siano installati, prova a riavviare il computer o prova a usare una voce diversa.
 
 ## OBSOLETE; you do not need to translate this
