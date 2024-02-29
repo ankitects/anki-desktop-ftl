@@ -15,7 +15,7 @@ addons-failed-to-load2 =
     { about-copy-debug-info } düğmesini kullanabilirsiniz.
     
     Eklenti için bir güncelleştirme mevcut değilse, 
-    bu mesajın belirmesini önlemek için eklentiyi devre dışı bırakabilir veya silebilirsiniz.
+    bu mesajın görünmesini önlemek için eklentiyi devre dışı bırakabilir veya silebilirsiniz.
 addons-startup-failed = Eklenti Başlaması Başarısız Oldu
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = '{ $name }' yapılandır
