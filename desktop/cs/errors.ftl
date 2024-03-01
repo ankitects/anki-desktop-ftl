@@ -1,4 +1,9 @@
 -errors-support-site = [stránka podpory](https://help.ankiweb.net)
+errors-standard-popup2 = V Anki nastal problém. K vyřešení problému prosím proveďte následující kroky.
+errors-may-be-addon = Problém může být způsoben doplňkem.
+errors-troubleshooting-button = Řešení problémů
+errors-copy-debug-info-button = Zkopírovat ladicí informace
+errors-copied-to-clipboard = Zkopírováno do schránky
 errors-standard-popup =
     # Chyba
     
@@ -7,7 +12,6 @@ errors-standard-popup =
     
     Jestliže problémy přetrvávají, prosím nahlaste problém na { -errors-support-site }.
     Prosím zkopírujte informace níže a vložte je do vaší zprávy.
--errors-addon-support-site = [stránka podpory pro doplňky](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # Chyba
     
@@ -39,3 +43,6 @@ errors-unable-open-collection =
     
     Informace o ladění:
 errors-windows-tts-runtime-error = Služba TTS selhala. Prosím ujistěte se, že jsou nainstalované aktualizace Windows, zkuste restartovat počítač a zkuste použít jiný hlas.
+
+## OBSOLETE; you do not need to translate this
+

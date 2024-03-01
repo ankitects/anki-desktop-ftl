@@ -4,6 +4,7 @@ addons-failed-to-load =
     
     Při načítání „{ $name }“:
     { $traceback }
+addons-startup-failed = Spouštění doplňku selhalo
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Nastavení „{ $name }“
 addons-config-validation-error = Nastal problém s poskytnutým nastavením: { $problem }, v cestě { $path }, proti schématu { $schema }.
