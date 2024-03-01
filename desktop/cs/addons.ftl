@@ -4,6 +4,17 @@ addons-failed-to-load =
     
     Při načítání „{ $name }“:
     { $traceback }
+addons-failed-to-load2 =
+    Následující doplňky se nepodařilo načíst:
+    { $addons }
+    
+    Možná bude potřeba je aktualizovat, aby podporovaly tuto verzi Anki. Klikněte na tlačítko { addons-check-for-updates } a zjistěte, zda jsou k dispozici nějaké aktualizace.
+    
+    Pomocí tlačítka { about-copy-debug-info } můžete získat informace, které můžete vložit do 
+    hlášení pro autora doplňku.
+    
+    U doplňků, které nemají k dispozici aktualizaci, můžete doplněk zakázat nebo odstranit, aby se 
+    tato zpráva již nezobrazovala.
 addons-startup-failed = Spouštění doplňku selhalo
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Nastavení „{ $name }“
