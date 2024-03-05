@@ -62,8 +62,8 @@ qt-misc-error = エラー
 qt-misc-no-temp-folder = 使用できる一時フォルダがみつかりませんでした。C:\\tempが存在するか、あるいは、あなたの環境のTEMPが有効で書き込み可能なフォルダへ向かっているか確認してください。
 qt-misc-incompatible-video-driver = 使用しているビデオドライバと互換性がありません。Ankiを再び起動すると、より速度の遅い互換性のあるモードに切り替わります。
 qt-misc-error-loading-graphics-driver = 「{ $mode }」グラフィックドライバをロード中にエラーが発生しました。Ankiを再び起動し、次のドライバを試してください。{ $context }
-qt-misc-anki-is-running = Ankiはすでに起動しています
-qt-misc-if-instance-is-not-responding = 現在使用中のAnkiから応答がない場合、タスクマネージャーを使用して閉じるか、あなたのコンピュータを再起動させてください。
+qt-misc-anki-is-running = Ankiはすでに起動済みです
+qt-misc-if-instance-is-not-responding = 起動済みのAnkiが反応しない場合、タスクマネージャーを使用してAnkiを終了するか、コンピュータを再起動してください。
 qt-misc-second =
     { $count ->
        *[other] { $count }秒
