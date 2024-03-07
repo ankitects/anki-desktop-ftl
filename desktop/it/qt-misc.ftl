@@ -29,11 +29,11 @@ qt-misc-name-exists = Il nome esiste già.
 qt-misc-non-unicode-text = <testo non-unicode>
 qt-misc-optimizing = Ottimizzazione in corso...
 qt-misc-unable-to-record =
-    Impossibile registrare. Assicurati che un microfono sia collegato e che Anki abbia il permesso di usarlo.
-    Se altri programmi stanno utilizzando il tuo microfono, potrebbe essere utile chiuderli.
+    Impossibile registrare. Assicurarsi che un microfono sia collegato e che Anki abbia il permesso di usarlo.
+    Se altri programmi stanno utilizzando il microfono, potrebbe essere utile chiuderli.
     
     Errore originale: { $error }
-qt-misc-please-ensure-a-profile-is-open = Assicurati che un profilo sia aperto e che Anki non sia occupato, quindi riprova.
+qt-misc-please-ensure-a-profile-is-open = Assicurarsi che un profilo sia aperto e che Anki non sia occupato, quindi riprovare.
 qt-misc-please-select-1-card = (seleziona 1 carta)
 qt-misc-please-select-a-deck = Seleziona un mazzo.
 qt-misc-please-use-fileimport-to-import-this = Utilizza File>Importa per importare questo file.
@@ -53,18 +53,20 @@ qt-misc-the-following-character-can-not-be = Il seguente carattere non può esse
 qt-misc-the-requested-change-will-require-a = La modifica richiesta provocherà il caricamento completo del database la prossima volta che sincronizzi la collezione. Se hai delle ripetizioni o altri cambiamenti in sospeso su un altro dispositivo che non sono ancora stati sincronizzati qui, andranno persi. Continuare?
 qt-misc-there-must-be-at-least-one = Dev'esserci almeno un profilo.
 qt-misc-this-file-exists-are-you-sure = Questo file esiste già. Sovrascriverlo?
-qt-misc-unable-to-access-anki-media-folder = Impossibile accedere alla cartella multimediale di Anki. I diritti di accesso alla cartella temporanea del tuo sistema potrebbero essere impostati in modo errato.
+qt-misc-unable-to-access-anki-media-folder = Impossibile accedere alla cartella multimediale di Anki. I diritti di accesso alla cartella temporanea di questo sistema potrebbero essere impostati in modo errato.
 qt-misc-unexpected-response-code = Codice di risposta imprevisto: { $val }
 qt-misc-would-you-like-to-download-it = Vuoi scaricarlo ora?
-qt-misc-your-collection-file-appears-to-be = Il file della tua collezione sembra essere corrotto. Questo può succedere se il file viene copiato o spostato mentre Anki è aperto, o quando la collezione è salvata su un dispositivo di rete o su cloud. Se il problema persiste dopo il riavvio del computer, apri un backup automatico dalla schermata di impostazione dei profili.
-qt-misc-your-computers-storage-may-be-full = Lo spazio su disco del tuo computer potrebbe essere esaurito. Elimina qualche file non necessario e riprova.
-qt-misc-your-firewall-or-antivirus-program-is = Il tuo firewall o programma antivirus sta impedendo ad Anki di stabilire una connessione con se stesso. Aggiungi per favore un'eccezione per Anki.
+qt-misc-your-collection-file-appears-to-be = Il file della collezione sembra essere corrotto. Questo può succedere se il file viene copiato o spostato mentre Anki è aperto, o quando la collezione è salvata su un dispositivo di rete o su cloud. Se il problema persiste dopo il riavvio del computer, aprire un backup automatico dalla schermata di impostazione dei profili.
+qt-misc-your-computers-storage-may-be-full = Lo spazio su disco di questo computer potrebbe essere esaurito. Eliminare qualche file non necessario e riprovare.
+qt-misc-your-firewall-or-antivirus-program-is = Il firewall o programma antivirus sta impedendo ad Anki di stabilire una connessione con se stesso. Aggiungere un'eccezione per Anki per risolvere il problema.
 qt-misc-error = Errore
-qt-misc-no-temp-folder = Nessuna cartella temporanea utilizzabile trovata. Assicurati che C:\\temp esista o che TEMP nel tuo ambiente punti a una cartella scrivibile valida.
-qt-misc-incompatible-video-driver = Il tuo driver video è incompatibile. Per favore, riavvia Anki, e Anki passerà a una modalità più lenta e compatibile.
-qt-misc-error-loading-graphics-driver = Errore durante il caricamento del driver grafico '{ $mode }'. Riavvia Anki per provare il driver successivo. { $context }
+qt-misc-no-temp-folder =
+    Nessuna cartella temporanea utilizzabile trovata. Assicurarsi che C:\\temp esista
+    o che TEMP nell'ambiente di questo sistema punti a una cartella scrivibile valida.
+qt-misc-incompatible-video-driver = Il driver video è incompatibile. Riavviare Anki per passare a una modalità più lenta ma compatibile.
+qt-misc-error-loading-graphics-driver = Errore durante il caricamento del driver grafico '{ $mode }'. Riavviare Anki per provare il driver successivo. { $context }
 qt-misc-anki-is-running = Anki è già in esecuzione
-qt-misc-if-instance-is-not-responding = Se l'istanza esistente di Anki non risponde, per favore chiudila usando il tuo task manager, o riavvia il tuo computer.
+qt-misc-if-instance-is-not-responding = Se l'istanza esistente di Anki non risponde, è necessario chiuderla usando il proprio task manager, o riavviare il computer.
 qt-misc-second =
     { $count ->
         [one] { $count } secondo

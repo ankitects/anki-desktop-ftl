@@ -1,5 +1,5 @@
 -errors-support-site = [sito di supporto](https://help.ankiweb.net)
-errors-standard-popup2 = Anki ha riscontrato un problema. Segui i passaggi di risoluzione dei problemi.
+errors-standard-popup2 = È stato riscontrato un problema. Segui i passaggi di risoluzione dei problemi.
 errors-may-be-addon = Il problema potrebbe essere causato da un add-on.
 errors-troubleshooting-button = Risoluzione dei problemi
 errors-copy-debug-info-button = Copia le info di debug
@@ -32,15 +32,16 @@ errors-accessing-db =
     
     Possibili cause:
     
-    - Antivirus, firewall, backup o un software di sincronizzazione potrebbero interferire con Anki. Prova a disabilitarli per vedere se il problema si risolve.
+    - Antivirus, firewall, backup o un software di sincronizzazione potrebbero interferire con Anki.
+      Provare a disabilitarli per vedere se il problema si risolve.
     - Lo spazio su disco potrebbe essere insufficiente.
     - La cartella Documenti/Anki potrebbe essere su un'unità di rete.
-    - I files nella cartella Documenti/Anki potrebbero non essere scrivibili.
+    - I file nella cartella Documenti/Anki potrebbero non essere scrivibili.
     - Il disco rigido potrebbe contenere degli errori.
     
-    Prova ad eseguire Strumenti>Controlla il database per assicurarti che la collezione non sia corrotta.
+    Provare ad eseguire Strumenti>Controlla il database per assicurarsi che la collezione non sia corrotta.
 errors-unable-open-collection =
-    Anki non è riuscito ad aprire il file della tua collezione. Se il problema permane dopo il riavvio del computer, usa il pulsante Apri Backup nel gestore dei profili.
+    Non è stato possibile aprire il file della collezione. Se il problema permane dopo il riavvio del computer, utilizzare il pulsante Apri Backup nel gestore dei profili.
     
     Informazioni per il debug:
 errors-windows-tts-runtime-error = Il servizio TTS non funziona. Assicurati che gli aggiornamenti di Windows siano installati, prova a riavviare il computer o prova a usare una voce diversa.
