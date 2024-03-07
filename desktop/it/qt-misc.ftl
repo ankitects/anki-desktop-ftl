@@ -37,7 +37,7 @@ qt-misc-please-ensure-a-profile-is-open = Assicurati che un profilo sia aperto e
 qt-misc-please-select-1-card = (seleziona 1 carta)
 qt-misc-please-select-a-deck = Seleziona un mazzo.
 qt-misc-please-use-fileimport-to-import-this = Utilizza File>Importa per importare questo file.
-qt-misc-processing = In elaborazione...
+qt-misc-processing = Elaborazione in corso...
 qt-misc-replace-your-collection-with-an-earlier = Sostituire la tua collezione con un backup precedente?
 qt-misc-revert-to-backup = Ripristina il backup
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
@@ -52,7 +52,7 @@ qt-misc-target-deck-ctrlandd = Mazzo di destinazione (Ctrl+D)
 qt-misc-the-following-character-can-not-be = Il seguente carattere non può essere utilizzato: { $val }
 qt-misc-the-requested-change-will-require-a = La modifica richiesta provocherà il caricamento completo del database la prossima volta che sincronizzi la collezione. Se hai delle ripetizioni o altri cambiamenti in sospeso su un altro dispositivo che non sono ancora stati sincronizzati qui, andranno persi. Continuare?
 qt-misc-there-must-be-at-least-one = Dev'esserci almeno un profilo.
-qt-misc-this-file-exists-are-you-sure = Questo file esiste già. Sei sicuro di volerlo sovrascrivere?
+qt-misc-this-file-exists-are-you-sure = Questo file esiste già. Sovrascriverlo?
 qt-misc-unable-to-access-anki-media-folder = Impossibile accedere alla cartella multimediale di Anki. I diritti di accesso alla cartella temporanea del tuo sistema potrebbero essere impostati in modo errato.
 qt-misc-unexpected-response-code = Codice di risposta imprevisto: { $val }
 qt-misc-would-you-like-to-download-it = Vuoi scaricarlo ora?
