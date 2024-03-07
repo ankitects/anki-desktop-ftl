@@ -7,11 +7,11 @@ errors-copied-to-clipboard = Copiato negli appunti
 errors-standard-popup =
     # Errore
     
-    Si è verificato un errore. Utilizza **Strumenti>Controlla il database...** per verificare
-    se il problema si risolve.
+    Si è verificato un errore. Utilizzare **Strumenti>Controlla il database...** per verificare
+    se si risolve il problema.
     
-    Se il problema persiste, segnalalo sul nostro { -errors-support-site }.
-    Copia e incolla le informazioni sottostanti nella tua segnalazione.
+    Se il problema persiste, segnalarlo sul { -errors-support-site }.
+    Copiare e incollare le informazioni sottostanti nella segnalazione.
 errors-addons-active-popup =
     # Errore
     
