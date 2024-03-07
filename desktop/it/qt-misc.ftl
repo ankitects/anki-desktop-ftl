@@ -1,7 +1,7 @@
 qt-misc-addon-will-be-installed-when-a = L'add-on sarà installato una volta aperto un profilo.
 qt-misc-addons = Add-on
-qt-misc-all-cards-notes-and-media-for = Tutte le carte, le note e gli elementi multimediali di questo profilo verranno eliminati. Sei sicuro?
-qt-misc-all-cards-notes-and-media-for2 = Tutte le carte, le note e gli elementi multimediali del profilo  "{ $name }" verranno eliminati. Sei sicuro di volere procedere?
+qt-misc-all-cards-notes-and-media-for = Tutte le carte, le note e gli elementi multimediali di questo profilo verranno eliminati. Confermare?
+qt-misc-all-cards-notes-and-media-for2 = Tutte le carte, le note e gli elementi multimediali del profilo  "{ $name }" verranno eliminati. Confermare?
 qt-misc-anki-updatedanki-has-been-released = <h1>Aggiornamento di Anki</h1>È stato rilasciato Anki { $val }.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = Sincronizzazione e backup automatici sono stati disabilitati durante il ripristino. Per riabilitarli chiudi il profilo o riavvia Anki.
 qt-misc-back-side-only = Solo retro
