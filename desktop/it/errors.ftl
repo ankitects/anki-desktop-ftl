@@ -15,15 +15,16 @@ errors-standard-popup =
 errors-addons-active-popup =
     # Errore
     
-    Si è verificato un errore. Avvia Anki tenendo premuto il tasto Maiusc,
+    Si è verificato un errore. Avviare Anki tenendo premuto il tasto Maiusc,
     disabilitando così temporaneamente gli add-on installati.
     
-    Se il problema si verifica unicamente con gli add-on abilitati, vai nel menu Strumenti>Add-on
-    per disabilitare progressivamente gli add-on e riavvia Anki,
-    fino a quando non individui l'add-on che causa il problema.
+    Se il problema si verifica unicamente con gli add-on abilitati,
+    accedere al menu Strumenti>Add-on per disabilitare progressivamente
+    gli add-on e quindi riavviare Anki, fino a quando
+    non viene individuato l'add-on che causa il problema.
     
-    Quando hai scoperto qual è l'add-on che crea il problema,
-    segnalalo allo sviluppatore dell'add-on.
+    Una volta individuato l'add-on problematico,
+    segnalarlo allo sviluppatore dell'add-on.
     
     Informazioni per il debug:
 errors-accessing-db =

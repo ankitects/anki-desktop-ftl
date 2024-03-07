@@ -1,6 +1,6 @@
 addons-possibly-involved = Add-on che potrebbero essere coinvolti: { $addons }
 addons-failed-to-load =
-    Un add-on che hai installato non ha potuto essere caricato. Se il problema permane, vai nel menu Strumenti>Add-on, e disabilita o elimina l'add-on.
+    Un add-on attualmente installato non ha potuto essere caricato. Se il problema permane, accedere al menu Strumenti>Add-on, e disabilitare o eliminare l'add-on in questione.
     
     Caricando '{ $name }':
     { $traceback }
@@ -66,7 +66,7 @@ addons-the-following-addons-are-incompatible-with = I seguenti add-on sono incom
 addons-the-following-addons-have-updates-available = Sono disponibili aggiornamenti per i seguenti add-on. Vuoi installarli ora?
 addons-the-following-conflicting-addons-were-disabled = Gli add-on seguenti in conflitto tra di loro sono stati disattivati:
 addons-this-addon-is-not-compatible-with = Questo add-on non è compatibile con la tua versione di Anki.
-addons-to-browse-addons-please-click-the = Per sfogliare gli add-on, clicca sul pulsante "Sfoglia add-on" qui sotto.<br><br>Quando hai trovato un add-on che ti interessa, incolla il suo codice qui sotto. Puoi inserire anche più codici separati da uno spazio.
+addons-to-browse-addons-please-click-the = Per sfogliare gli add-on, fare clic sul pulsante "Sfoglia add-on" qui sotto.<br><br>Una volta trovato un add-on di proprio interesse, incollare il suo codice qui sotto. È possibile inserire anche più codici separati da uno spazio.
 addons-toggle-enabled = Attiva/Disattiva
 addons-unable-to-update-or-delete-addon = Non è stato possibile aggiornare o eliminare l'add-on. Avvia Anki tenendo premuto il tasto Maiusc per disattivare temporaneamente gli add-on, e riprova. Informazioni per il debug: { $val }
 addons-unknown-error = Errore sconosciuto: { $val }
