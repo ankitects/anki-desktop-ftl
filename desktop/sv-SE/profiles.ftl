@@ -3,4 +3,6 @@ profiles-folder-readme =
     för att underlätta säkerhetskopior. För att säga åt Anki att använda en annan plats,
     vänligen se:
     
-    {$link}
+    { $link }
+# will appear as 'Downgrade & Quit'
+profiles-downgrade-and-quit = Nedgradera && avsluta
