@@ -4,6 +4,21 @@ addons-failed-to-load =
     
     Medan '{ $name }' laddades:
     { $traceback }
+addons-failed-to-load2 =
+    Följande tillägg kunde inte laddas:
+    { $addons }
+    
+    De kan behöva uppdateras för att stödja denna Anki-version. Tryck på { addons-check-for-updates }-knappen
+    för att se om några uppdateringar är tillgängliga
+    
+    Du kan använda { about-copy-debug-info }-knappen för att få information som du kan klistra in i en felanmälan
+    till tilläggets skapare.
+    
+    Tillägg som inte har en tillgänglig uppdatering kan du avaktivera eller ta bort för att förhindra detta
+    meddelande från att synas.
+addons-startup-failed = Tillägg misslyckades att starta
+# Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
+addons-config-window-title = Konfigurera "{ $name }"
 addons-window-title = Tillägg
 addons-changes-will-take-effect-when-anki = Ändringar kommer att träda i kraft när Anki startas om.
 addons-check-for-updates = Sök efter uppdateringar
