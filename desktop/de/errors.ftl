@@ -1,8 +1,8 @@
--errors-support-site = [Support-Webseite](https://help.ankiweb.net)
+-errors-support-site = [Hilfe-Webseite](https://help.ankiweb.net)
 errors-standard-popup2 = Ein Fehler ist aufgetreten. Sie können diesen möglicherweise beheben, indem Sie der Anleitung zur Fehlerbehebung folgen.
 errors-may-be-addon = Das Problem wird vielleicht von einer Erweiterung verursacht.
 errors-troubleshooting-button = Fehlerbehebung
-errors-copy-debug-info-button = Debug-Infos kopieren
+errors-copy-debug-info-button = Fehler-Informationen kopieren
 errors-copied-to-clipboard = In Zwischenablage kopiert
 errors-standard-popup =
     # Fehler
@@ -19,7 +19,7 @@ errors-addons-active-popup =
     
     Wenn Sie die entsprechende Erweiterung herausgefunden haben, dann bitten wir, dass Sie sich mit einem entsprechenden Problembericht an die { -errors-addon-support-site } wenden, damit der Fehler behoben werden kann.
     
-    Debuginformationen:
+    Fehlerinformationen:
 errors-accessing-db =
     Beim Zugriff auf die Datenbank ist ein Fehler aufgetreten.
     
@@ -32,7 +32,7 @@ errors-accessing-db =
     
     Sie sollten sicherstellen, dass Ihre Datenbank nicht beschädigt ist. Wählen Sie dazu Extras → Datenbank überprüfen.
 errors-unable-open-collection = Anki konnte die Datei Ihrer Samlung nicht öffnen. Sollte das Problem nach einem Neustart Ihres Computers weiterhin bestehen, bitten wir Sie darum, die Wiederherstellungsmöglichkeit im Profilmanager zu nutzen.
-errors-windows-tts-runtime-error = Der TTS-Dienst (Text-To-Speech) ist fehlgeschlagen. Bitte prüfen Sie, ob die aktuellen Windows-Updates installiert sind, starten Sie den Computer neu oder versuchen Sie, eine andere Stimme zu verwenden.
+errors-windows-tts-runtime-error = Der TTS-Dienst (Text-To-Speech) ist fehlgeschlagen. Bitte prüfen Sie, ob die aktuellen Windows-Aktualisierungen installiert sind, starten Sie den Computer neu oder versuchen Sie, eine andere Stimme zu verwenden.
 
 ## OBSOLETE; you do not need to translate this
 

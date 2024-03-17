@@ -8,11 +8,11 @@ addons-failed-to-load2 =
     Anki konnte die folgenden Erweiterungen beim Start nicht laden:
     { $addons }
     
-    Evtl. müssen diese Erweiterungen geupdatet werden, damit sie mit dieser Version von Anki funktionieren. Klicken Sie in diesem Fenster unten auf "{ addons-check-for-updates }", um zu prüfen, ob bereits Updates dafür vorhanden sind.
+    Evtl. müssen diese Erweiterungen geupdatet werden, damit sie mit dieser Version von Anki funktionieren. Klicken Sie in diesem Fenster unten auf "{ addons-check-for-updates }", um zu prüfen, ob bereits Aktualisierungen dafür vorhanden sind.
     
     Wenn Sie dem jeweiligen Entwickler detaillierte Informationen zu dem Problem mitteilen möchten, klicken Sie auf "{ about-copy-debug-info }", um einen Fehlerbericht in die Zwischenablage zu kopieren.
     
-    Falls bisher keine Updates verfügbar sind und Sie nicht möchten, dass Ihnen dieser Hinweis beim Start weiter angezeigt wird, können Sie die Erweiterungen auch deaktivieren (oder sogar löschen) unter: Extras > Erweiterungen
+    Falls bisher keine Aktualisierungen verfügbar sind und Sie nicht möchten, dass Ihnen dieser Hinweis beim Start weiter angezeigt wird, können Sie die Erweiterungen auch deaktivieren (oder sogar löschen) unter: Extras > Erweiterungen
 addons-startup-failed = Manche Erweiterungen konnten nicht geladen werden
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = '{ $name }' konfigurieren
@@ -27,7 +27,7 @@ addons-checking = Überprüfung läuft …
 addons-code = Code:
 addons-config = Konfiguration
 addons-configuration = Konfiguration
-addons-corrupt-addon-file = Fehlerhafte Add-on-Datei
+addons-corrupt-addon-file = Fehlerhafte Erweiterung
 addons-disabled = (deaktiviert)
 addons-disabled2 = (deaktiviert)
 addons-download-complete-please-restart-anki-to = Download abgeschlossen. Bitte starten Sie Anki neu, damit die Änderungen wirksam werden.
@@ -36,7 +36,7 @@ addons-downloading-adbd-kb02fkb = { $part }/{ $total } ({ $kilobytes }KB) wird h
 addons-error-downloading-ids-errors = Fehler beim Herunterladen von <i>{ $id }</i>: { $error }
 addons-error-installing-bases-errors = Fehler beim Installieren von <i>{ $base }</i>: { $error }
 addons-get-addons = Erweiterungen herunterladen …
-addons-important-as-addons-are-programs-downloaded = <b>Wichtig</b>: Da Erweiterungen aus dem Internet heruntergeladene Programme sind, sind sie potenziell schädlich.<b>Sie sollten nur Add-ons installieren, denen Sie vertrauen.</b><br><br>Sind Sie sicher, dass Sie mit der Installation der folgenden Anki-Erweiterung(en) fortfahren möchten?<br><br>%(names)s
+addons-important-as-addons-are-programs-downloaded = <b>Wichtig</b>: Da Erweiterungen aus dem Internet heruntergeladene Programme sind, sind sie potenziell schädlich.<b>Sie sollten nur Erweiterungen installieren, denen Sie vertrauen.</b><br><br>Sind Sie sicher, dass Sie mit der Installation der folgenden Anki-Erweiterung(en) fortfahren möchten?<br><br>%(names)s
 addons-install-addon = Erweiterung installieren
 addons-install-addons = Erweiterung(en) installieren
 addons-install-anki-addon = Anki-Erweiterung installieren
@@ -49,7 +49,7 @@ addons-invalid-code = Ungültiger Code.
 addons-invalid-code-or-addon-not-available = Ungültiger Code, oder Erweiterung ist für Ihre Version von Anki nicht verfügbar.
 addons-invalid-configuration = Ungültige Konfiguration:
 addons-invalid-configuration-top-level-object-must = Ungültige Konfiguration: Das Objekt auf oberster Ebene muss eine map-Funktion darstellen.
-addons-no-updates-available = Keine Updates verfügbar.
+addons-no-updates-available = Keine Aktualisierungen verfügbar.
 addons-one-or-more-errors-occurred = Einer oder mehrere Fehler ist/sind aufgetreten:
 addons-packaged-anki-addon = Komprimierte Anki-Erweiterung
 addons-please-check-your-internet-connection = Bitte überprüfen Sie Ihre Internetverbindung.
