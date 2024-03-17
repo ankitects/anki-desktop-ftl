@@ -53,7 +53,7 @@ addons-no-updates-available = Keine Aktualisierungen verfügbar.
 addons-one-or-more-errors-occurred = Einer oder mehrere Fehler ist/sind aufgetreten:
 addons-packaged-anki-addon = Komprimierte Anki-Erweiterung
 addons-please-check-your-internet-connection = Bitte überprüfen Sie Ihre Internetverbindung.
-addons-please-report-this-to-the-respective = BItte setzen Sie den jeweiligen Add-on-Verfasser hierüber in Kenntnis.
+addons-please-report-this-to-the-respective = BItte setzen Sie den jeweiligen Aktualisierungs-Verfasser hierüber in Kenntnis.
 addons-please-restart-anki-to-complete-the = <b>Bitte starten Sie Anki neu, um die Installation abzuschließen.</b>
 addons-please-select-a-single-addon-first = Bitte zuerst eine einzelne Erweiterung auswählen.
 addons-requires = (benötigt { $val })
@@ -62,7 +62,7 @@ addons-the-following-addons-are-incompatible-with = Die folgenden Erweiterungen 
 addons-the-following-addons-have-updates-available = Die folgenden Erweiterungen haben Updates verfügbar. Möchten Sie diese jetzt installieren?
 addons-the-following-conflicting-addons-were-disabled = Die folgenden miteinander in Konflikt stehenden Erweiterungen wurden deaktiviert:
 addons-this-addon-is-not-compatible-with = Diese Erweiterung ist nicht mit Ihrer Anki-Version kompatibel.
-addons-to-browse-addons-please-click-the = Um die Sammlung der verfügbaren Erweiterungen aufzurufen, klicken Sie bitte auf den entsprechenden Button unten.<br><br>Wenn Sie eine Erweiterung gefunden haben, die Sie installieren möchten, dann geben Sie bitte ihren entsprechenden Code unten ein. Sie können auch mehrere Codes mit Leerzeichen voneinander getrennt einfügen.
+addons-to-browse-addons-please-click-the = Um die Sammlung der verfügbaren Erweiterungen aufzurufen, klicken Sie bitte auf den entsprechenden Knopf unten.<br><br>Wenn Sie eine Erweiterung gefunden haben, die Sie installieren möchten, dann geben Sie bitte ihren entsprechenden Code unten ein. Sie können auch mehrere Codes mit Leerzeichen voneinander getrennt einfügen.
 addons-toggle-enabled = Aktivieren/Deaktivieren
 addons-unable-to-update-or-delete-addon =
     Erweiterung konnte nicht geupdatet oder entfernt werden. Bitte tun Sie folgendes:
@@ -78,5 +78,5 @@ addons-delete-the-numd-selected-addon =
         [one] Möchten Sie die { $count } ausgewählte Erweiterung löschen?
        *[other] Möchten Sie die { $count } ausgewählten Erweiterungen löschen?
     }
-addons-choose-update-window-title = Erweiterungen updaten
-addons-choose-update-update-all = Alle updaten
+addons-choose-update-window-title = Erweiterungen aktualisieren
+addons-choose-update-update-all = Alle aktualisieren
