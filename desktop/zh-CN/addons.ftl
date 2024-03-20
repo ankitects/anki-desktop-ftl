@@ -67,7 +67,7 @@ addons-toggle-enabled = 启用/禁用
 addons-unable-to-update-or-delete-addon = 无法更新或删除插件。请在打开 Anki 时按住 <kbd>Shift</kbd> 键以临时插件加载，然后重试。 调试信息：{ $val }
 addons-unknown-error = 未知错误：{ $val }
 addons-view-addon-page = 插件网页
-addons-view-files = 插件文件
+addons-view-files = 查看文件
 addons-delete-the-numd-selected-addon =
     { $count ->
        *[other] 确定要删除已选中的 { $count } 个插件吗？
