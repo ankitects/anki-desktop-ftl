@@ -1,4 +1,5 @@
 -errors-support-site = [strona wsparcia](https://help.ankiweb.net)
+errors-copied-to-clipboard = Skopiowano do schowka
 errors-standard-popup =
     # Błąd
     
@@ -7,7 +8,6 @@ errors-standard-popup =
     
     Jeśli problem nie zniknie, zgłoś go na { -errors-support-site }.
     Skopiuj poniższą informację do Twojego zgłoszenia.
--errors-addon-support-site = [strona wsparcia dla dodatków](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # Błąd
     
@@ -37,3 +37,6 @@ errors-unable-open-collection =
     
     Informacja diagnostyczna:
 errors-windows-tts-runtime-error = Usługa syntezy mowy nie działa. Upewnij się, że masz zainstalowane aktualizacje systemu Windows, spróbuj uruchomić ponownie komputer lub użyć innego głosu.
+
+## OBSOLETE; you do not need to translate this
+
