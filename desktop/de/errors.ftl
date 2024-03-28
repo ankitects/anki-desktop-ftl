@@ -15,9 +15,9 @@ errors-addons-active-popup =
     
     Es ist ein Fehler aufgetreten. Bitte starten Sie Anki neu und halten Sie während des Startvorgangs die Umschalttaste (Shift) gedrückt. Anki startet dann, ohne Erweiterungen zu laden.
     
-    Falls der Fehler nur auftritt, wenn die Erweiterungen aktiviert sind, können Sie unter Extras > Erweiterungen einzelne Erweiterungen deaktivieren, um herauszufinden, welche die Fehlermeldung auslöst.
+    Falls der Fehler nur auftritt, wenn Erweiterungen geladen werden, können Sie unter Extras > Erweiterungen einzelne Erweiterungen deaktivieren, um herauszufinden, durch welche genau die Fehlermeldung ausgelöst wird.
     
-    Sollten Sie herausfinden, welche Erweiterung für den Fehler ursächlich ist, senden Sie gerne einen entsprechenden Fehlerbericht an den Autor, damit dieser den Fehler beheben kann.
+    Sollten Sie herausfinden, welche Erweiterung für den Fehler ursächlich ist, senden Sie gerne einen entsprechenden Fehlerbericht an ihren Autor, damit dieser den Fehler beheben kann.
     
     Fehlerinformationen:
 errors-accessing-db =
@@ -32,7 +32,7 @@ errors-accessing-db =
     
     Sie sollten sicherstellen, dass Ihre Datenbank nicht beschädigt ist. Wählen Sie dazu Extras → Datenbank überprüfen.
 errors-unable-open-collection = Anki konnte die Datei Ihrer Samlung nicht öffnen. Sollte das Problem nach einem Neustart Ihres Computers weiterhin bestehen, bitten wir Sie darum, die Wiederherstellungsmöglichkeit im Profilmanager zu nutzen.
-errors-windows-tts-runtime-error = Der TTS-Dienst (Text-To-Speech) ist fehlgeschlagen. Bitte prüfen Sie, ob die aktuellen Windows-Updates installiert sind, starten Sie den Computer neu oder versuchen Sie, eine andere Stimme zu verwenden.
+errors-windows-tts-runtime-error = Der TTS-Dienst (Text-To-Speech) konnte nicht gestartet werden. Bitte prüfen Sie, ob die aktuellen Windows-Updates installiert sind, starten Sie den Computer neu oder versuchen Sie, eine andere Stimme zu verwenden.
 
 ## OBSOLETE; you do not need to translate this
 
