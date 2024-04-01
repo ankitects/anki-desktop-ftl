@@ -16,6 +16,7 @@ addons-failed-to-load2 =
     
     Pour les greffons qui n'ont pas des mis-a-jours disponibles, vous pouvez désactiver ou supprimer le greffon pour empêcher ce 
     message d’apparaître
+addons-startup-failed = Démarrage des greffons échoué
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Paramétrer « { $name } »
 addons-config-validation-error = Il y a eu un problème avec la configuration fournie : { $problem }, depuis le chemin { $path }, contre le schéma { $schema }.
