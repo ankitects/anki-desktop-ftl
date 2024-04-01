@@ -1,6 +1,7 @@
 qt-misc-addon-will-be-installed-when-a = Le greffon sera installé une fois qu’un profil sera ouvert.
 qt-misc-addons = Greffons
 qt-misc-all-cards-notes-and-media-for = L’intégralité des cartes, notes et médias du profil seront supprimées. Êtes-vous sûr(e) ?
+qt-misc-all-cards-notes-and-media-for2 = L’intégralité des cartes, notes et médias pour le profil "{ $name }" seront supprimées. Êtes-vous sûr(e) ?
 qt-misc-anki-updatedanki-has-been-released = <h1>Mise à jour d’Anki</h1>La version { $val } vient de paraître.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = La synchronisation et la sauvegarde automatiques ont été désactivées lors de la restauration. Fermer ce profil ou redémarrer Anki pour les réactiver.
 qt-misc-back-side-only = Seulement la face arrière
