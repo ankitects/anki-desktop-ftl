@@ -1,4 +1,4 @@
-about-a-big-thanks-to-all-the = Un grand merci à tous ceux qui ont contribué par leurs suggestions, diagnostics, ou dons.
+about-a-big-thanks-to-all-the = Un grand merci à tous ceux qui ont contribué par leurs suggestions, rapports de bugs, ou dons.
 about-about-anki = À propos d’Anki
 about-anki-is-a-friendly-intelligent-spaced = Anki est un logiciel de répétition espacée convivial et intelligent. Il est libre et gratuit.
 about-anki-is-licensed-under-the-agpl3 = Anki est sous licence AGPL3. Veuillez voir le fichier licence dans la distribution source pour plus d’informations.
