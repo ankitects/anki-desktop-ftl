@@ -7,7 +7,7 @@ errors-copied-to-clipboard = Panoya kopyalandı
 errors-standard-popup =
     # Hata
     
-    Bir hata oluştu. Sorunun çözülüp çözülmediğini görmek için lütfen **Araçlar > Veri Tabanını Kontrol Et** kullanın.
+    Bir hata oluştu. Sorunun çözülüp çözülmediğini görmek için lütfen **Araçlar > Veritabanını Kontrol Et** kullanın.
     
     Sorun devam ederse, lütfen sorunu { -errors-support-site } adresine bildirin.
     Lütfen aşağıdaki bilgileri kopyalayıp raporunuza yapıştırın.
