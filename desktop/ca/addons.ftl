@@ -66,7 +66,7 @@ addons-to-browse-addons-please-click-the = Per a explorar els complements, feu c
 addons-toggle-enabled = Activa/desactiva
 addons-unable-to-update-or-delete-addon = No s'ha pogut actualitzar ni eliminar el complement. Inicieu Anki mentre manteniu premuda la tecla de majúscules per a desactivar temporalment els complements i torneu-ho a intentar.   Informació de depuració: { $val }
 addons-unknown-error = S'ha produït un error desconegut: { $val }
-addons-view-addon-page = Ves a la pàgina del complement
+addons-view-addon-page = Obre la pàgina del complement
 addons-view-files = Mostra’n els fitxers
 addons-delete-the-numd-selected-addon =
     { $count ->
