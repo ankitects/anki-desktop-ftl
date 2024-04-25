@@ -1,4 +1,5 @@
 -errors-support-site = [страница поддержки](https://help.ankiweb.net)
+errors-copied-to-clipboard = Скопировано в буфер обмена
 errors-standard-popup =
     # Ошибка
     
@@ -6,7 +7,6 @@ errors-standard-popup =
     
     Если ошибка осталась, пожалуйста, сообщите о ней на { -errors-support-site },
     скопировав информацию ниже в отчёт об ошибке.
--errors-addon-support-site = [дополнения на сайте поддержки](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # Ошибка
     
@@ -33,3 +33,6 @@ errors-unable-open-collection =
     
     Отладочная информация:
 errors-windows-tts-runtime-error = Автоматическая озвучка текста не работает. Проверьте установку обновлений Windows, перезагрузите компьютер и воспользуйтесь другой голосовой службой.
+
+## OBSOLETE; you do not need to translate this
+
