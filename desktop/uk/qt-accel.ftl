@@ -40,4 +40,6 @@ qt-accel-layout-horizontal = &Горизонтальна
 qt-accel-zoom-in = При&близити
 qt-accel-zoom-out = &Віддалити
 qt-accel-reset-zoom = &Звичайний маштаб
+qt-accel-zoom-editor-in = Редактор масштабування &In
+qt-accel-zoom-editor-out = Редактор масштабування &Out
 qt-accel-create-backup = Створити &резервну копію

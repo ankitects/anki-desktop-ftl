@@ -60,14 +60,18 @@ qt-misc-your-collection-file-appears-to-be = Схоже, вашу колекці
 qt-misc-your-computers-storage-may-be-full = Пам'ять на Вашому комп'ютері заповнена. Будь ласка, видаліть деякі непотрібні файли та спробуйте потім знову.
 qt-misc-your-firewall-or-antivirus-program-is = Ваш файрвол або антивірусна програма заважає Anki створити зʼєднання. Будь ласка, додайте виняток для Anki.
 qt-misc-error = Помилка
+qt-misc-no-temp-folder = Не знайдено придатну для використання тимчасову папку. Переконайтеся, що C:\\temp існує або TEMP у вашому середовищі вказує на дійсну папку, доступну для запису.
+qt-misc-incompatible-video-driver = Ваш відеодрайвер несумісний. Будь ласка, запустіть Anki знову, і Anki переключиться на повільніший, більш сумісний режим.
 qt-misc-error-loading-graphics-driver = Помилка завантаження «{ $mode }» графічного драйвера. Будь ласка, запустіть Anki знов щоб спробувати наступний драйвер. { $context }
 qt-misc-anki-is-running = Anki вже запущено
+qt-misc-if-instance-is-not-responding = Якщо наявний екземпляр Anki не відповідає, закрийте його за допомогою диспетчера завдань або перезавантажте комп’ютер.
 qt-misc-second =
     { $count ->
         [one] { $count } секунда
         [few] { $count } секунди
        *[other] { $count } секунд
     }
+qt-misc-layout-auto-enabled = Адаптивний макет увімкнено
 qt-misc-layout-vertical-enabled = Ввімкнено вертикальну розкладку
 qt-misc-layout-horizontal-enabled = Ввімкнено горизонтальну розкладку
 
