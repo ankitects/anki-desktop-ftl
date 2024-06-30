@@ -64,6 +64,7 @@ addons-the-following-conflicting-addons-were-disabled = تۆۋەندىكى تو�
 addons-this-addon-is-not-compatible-with = تۆۋەندىكى قوشۇلما سىزنىڭ Anki نەشرىڭىز بىلەن ماسلاشمايدۇ.
 addons-to-browse-addons-please-click-the = توركۆرگۈ قوشۇلمىسى ئۈچۈن تۆۋەندىكى كۆز يۈگۈرت توپچەنى چېكىڭ.<br><br>سىز ئورناتماقچى بولغان قوشۇلمىنىڭ كودىنى تۆۋەندىكى كاتەكچىگە چاپلاڭ، ئەگەر كۆپ كود كىرگۈزۈش زۆرۈر بولسا، بوشلۇق بىلەن ئايرىڭ.
 addons-toggle-enabled = قوزغات/چەكلە
+addons-unable-to-update-or-delete-addon = قوشۇلمىنى يېڭىلىيالمايدۇ ياكى ئۆچۈرەلمەيدۇ. Anki قوزغىلىۋاتقاندا <kbd>Shift</kbd> كۇنۇپكىسى بېسىپ قوشۇلمىنى ۋاقىتلىق چەكلەپ ئاندىن قايتا سىناڭ. سازلاش ئۇچۇرى: { $val }
 addons-unknown-error = يوچۇن خاتالىق: { $val }
 addons-view-addon-page = قوشۇلما بەتنى كۆرسەت
 addons-view-files = ھۆججەتنى كۆرسەت
