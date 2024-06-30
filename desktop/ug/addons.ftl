@@ -1,4 +1,18 @@
 addons-possibly-involved = مۇناسىۋەتلىك قوشۇلما: { $addons }
+addons-failed-to-load =
+    سىز ئورناتقان قوشۇلمىدىن بىرنى يۈكلىيەلمەىدى. ئەگەر بۇ مەسىلە يەنە كۆرۈلسە، قورال › قوشۇلما تىزىملىكىگە يۆتكىلىپ، قوشۇلمىنى چەكلەڭ ياكى ئۆچۈرۈڭ.
+    
+    «{ $name }» نى يۈكلىگەندە:
+    { $traceback }
+addons-failed-to-load2 =
+    تۆۋەندىكى قوشۇلمانى يۈكلىيەلمىدى:
+    { $addons }
+    
+    بۇ قوشۇلما مەزكۇر نەشرىدىكى Anki نى قوللايدىغان نەشرىگە يېڭىلىنىشى زۆرۈر. { addons-check-for-updates } توپچىنى چېكىپ يېڭى نەشرى بار يوقلۇقىنى تەكشۈرۈڭ.
+    
+    سىز { about-copy-debug-info } توپچىنى چېكىپ سازلاش ئۇچۇرىنى كۆچۈرۈپ، قوشۇلما يازغۇچىغا دوكلات قىلىڭ.
+    
+    يېڭىلىنىشى يوق قوشۇلمىغا نىسبەتەن، قوشۇلمىنى چەكلەپ ياكى ئۆچۈرۈش ئارقىلىق بۇ ئۇچۇرنىڭ كۆرۈنۈشىنىڭ ئالدىنى ئالالايسىز.
 addons-startup-failed = قوشۇلما قوزغىلالمىدى
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = «{ $name }» سەپلىمە
@@ -22,6 +36,7 @@ addons-downloading-adbd-kb02fkb = چۈشۈرۈۋاتىدۇ  { $part }/{ $total }
 addons-error-downloading-ids-errors = چۈشۈرۈۋاتقاندا { $error } خاتالىق كۆرۈلدى<i>{ $id }</i>
 addons-error-installing-bases-errors = <i>{ $base }</i> ئورنىتىۋاتقاندا { $error } خاتالىق كۆرۈلدى
 addons-get-addons = قوشۇلمىغا ئېرىش…
+addons-important-as-addons-are-programs-downloaded = <b>مۇھىم</b>: ئىنتېرنېتتىن چۈشۈرۈلگەن قوشۇلمىغا ئوخشاش پىروگراممىدا زەھەرخەندە كود بولۇشى مۇمكىن، <b>سىز پەقەت ئىشىنىدىغان مەنبەدىن قوشۇلما چۈشۈرۈڭ.</b><br><br>راستتىنلا چۈشۈرگەن قوشۇلمىنى ئورنىتىشنى داۋاملاشتۇرامسىز؟<br><br>%(names)s
 addons-install-addon = قوشۇلما ئورنات
 addons-install-addons = قوشۇلما ئورنات
 addons-install-anki-addon = Anki قوشۇلما ئورنات
@@ -47,6 +62,7 @@ addons-the-following-addons-are-incompatible-with = تۆۋەندىكى قوشۇ�
 addons-the-following-addons-have-updates-available = تۆۋەندىكى قوشۇلمىنىڭ يېڭىلانمىسى بار. ھازىر ئورناتسۇنمۇ؟
 addons-the-following-conflicting-addons-were-disabled = تۆۋەندىكى توقۇنۇشقان قوشۇلما چەكلەنگەن:
 addons-this-addon-is-not-compatible-with = تۆۋەندىكى قوشۇلما سىزنىڭ Anki نەشرىڭىز بىلەن ماسلاشمايدۇ.
+addons-to-browse-addons-please-click-the = توركۆرگۈ قوشۇلمىسى ئۈچۈن تۆۋەندىكى كۆز يۈگۈرت توپچەنى چېكىڭ.<br><br>سىز ئورناتماقچى بولغان قوشۇلمىنىڭ كودىنى تۆۋەندىكى كاتەكچىگە چاپلاڭ، ئەگەر كۆپ كود كىرگۈزۈش زۆرۈر بولسا، بوشلۇق بىلەن ئايرىڭ.
 addons-toggle-enabled = قوزغات/چەكلە
 addons-unknown-error = يوچۇن خاتالىق: { $val }
 addons-view-addon-page = قوشۇلما بەتنى كۆرسەت
