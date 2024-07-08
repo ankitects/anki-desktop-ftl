@@ -1,5 +1,5 @@
+addons-possibly-involved = Complementos (add-ons) possivelmente envolvidos: { $addons }
 addons-addon-has-no-configuration = Complemento não tem configuração.
-addons-addon-was-not-downloaded-from-ankiweb = O add-on não foi descarregado do AnkiWeb.
 addons-changes-will-take-effect-when-anki = As alterações terão efeito quando o Anki for reiniciado.
 addons-check-for-updates = Verificar atualizações
 addons-checking = Verificando...
