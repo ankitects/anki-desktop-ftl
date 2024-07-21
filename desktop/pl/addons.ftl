@@ -4,6 +4,18 @@ addons-failed-to-load =
     
     Przy ładowaniu '{ $name }':
     { $traceback }
+addons-failed-to-load2 =
+    Następujących dodatków nie udało się załadować:
+    { $addons }
+    
+    Możliwe, że trzeba je zaktualizować, aby działały z tą wersją Anki. Kliknij przycisk { addons-check-for-updates } 
+    aby sprawdzić, czy są dostępne uaktualnienia tych dodatków.
+    
+    Możesz uzyć przycisku { about-copy-debug-info }, aby uzyskać informacje, które możesz wkleić w zgłoszeniu do 
+    autora dodatku
+    
+    Jeśli dodatek, nie ma żadnego uaktualnienia, możesz wyłączyć lub usunąć dany dodatek, aby zaprzestać 
+    pojawianiu się tej wiadomości.
 addons-startup-failed = Błąd przy starcie dodatku
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Konfiguruj "{ $name }"
