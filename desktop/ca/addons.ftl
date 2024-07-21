@@ -70,8 +70,8 @@ addons-view-addon-page = Obre la pàgina del complement
 addons-view-files = Mostra’n els fitxers
 addons-delete-the-numd-selected-addon =
     { $count ->
-        [one] Voleu eliminar aquest complement?
-       *[other] Voleu eliminar els { $count } complements que heu seleccionat?
+        [one] Voleu suprimir aquest complement?
+       *[other] Voleu suprimir els { $count } complements seleccionats?
     }
 addons-choose-update-window-title = Actualitza els complements
 addons-choose-update-update-all = Actualitza-ho tot
