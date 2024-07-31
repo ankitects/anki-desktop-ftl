@@ -1,28 +1,28 @@
 addons-possibly-involved = Extensões possivelmente envolvidas: { $addons }
 addons-failed-to-load =
-    Um complemento que você instalou falhou ao ser carregado. Se o problema persistir, vá para Ferramentas > Complementos, e desabilite este complemento.
+    Uma extensão que você instalou falhou ao carregar. Se os problemas persistirem, vá para o menu Ferramentas>Extensões e desabilite ou exclua a extensão.
     
     Ao carregar '{ $name }':
     { $traceback }
 addons-failed-to-load2 =
-    Os seguintes complementos falharam ao carregar:
+    As seguintes extensões falharam ao carregar:
     { $addons }
     
-    Eles podem precisar ser atualizados para suportar esta versão do Anki. Clique no botão { addons-check-for-updates }
+    Eles podem precisar ser atualizados para oferecer suporte a esta versão do Anki. Clique no botão { addons-check-for-updates }
     para ver se há atualizações disponíveis.
     
-    Você pode usar o botão { about-copy-debug-info } para obter informações que você pode colar em um relatório para
+    Você pode usar o botão { about-copy-debug-info } para obter informações que podem ser coladas em um relatório para
     o autor da extensão.
     
-    Para extensões que não têm uma atualização disponível, você pode desativar ou excluir a extensão para evitar que
-    esta mensagem apareça.
-addons-startup-failed = Erro na Inicialização do Complemento
+    Para extensões que não têm uma atualização disponível, você pode desabilitar ou excluir a extensão para evitar que esta
+    mensagem apareça.
+addons-startup-failed = Erro na Inicialização da Extensão
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Configurar '{ $name }'
 addons-config-validation-error = Houve um problema com a configuração fornecida: { $problem }, no caminho { $path }, contra o esquema { $schema }.
-addons-window-title = Complementos
+addons-window-title = Extensões
 addons-addon-has-no-configuration = A extensão não tem configuração.
-addons-addon-installation-error = Erro na instalação da extensão
+addons-addon-installation-error = Erro ao instalar a extensão
 addons-browse-addons = Explorar Extensões
 addons-changes-will-take-effect-when-anki = As alterações surtirão efeito quando o Anki for reiniciado.
 addons-check-for-updates = Verificar se há atualizações
@@ -56,18 +56,18 @@ addons-no-updates-available = Sem atualizações disponíveis.
 addons-one-or-more-errors-occurred = Um ou mais erros ocorreram:
 addons-packaged-anki-addon = Extensão do Anki empacotada
 addons-please-check-your-internet-connection = Por favor, verifique sua conexão internet.
-addons-please-report-this-to-the-respective = Por favor relate isso aos respectivos autor(es) da extensão.
+addons-please-report-this-to-the-respective = Por favor, informe o(s) respectivo(s) autor(es) da extensão.
 addons-please-restart-anki-to-complete-the = <b>Por favor, reinicie o Anki para concluir a instalação.</b>
 addons-please-select-a-single-addon-first = Por favor, selecione uma extensão primeiro.
 addons-requires = (requer { $val })
 addons-restored-defaults = Restaurados os padrões
 addons-the-following-addons-are-incompatible-with = As seguintes extensões são incompatíveis com { $name } e foram desativadas: { $found }
-addons-the-following-addons-have-updates-available = As seguintes extensões possuem atualizações disponíveis. Instalá-los agora?
-addons-the-following-conflicting-addons-were-disabled = As seguintes extensões são incompatíveis e foram desativadas:
-addons-this-addon-is-not-compatible-with = Essa extensão não é compatível com a sua versão do Anki.
-addons-to-browse-addons-please-click-the = Para explorar as extensões, clique no botão abaixo.<br><br>Quando você encontrar uma extensão de seu agrado, cole o código do mesmo abaixo. Você pode colar múltiplos códigos, separados por espaços.
+addons-the-following-addons-have-updates-available = As seguintes extensões têm atualizações disponíveis. Instalar agora?
+addons-the-following-conflicting-addons-were-disabled = As seguintes extensões conflitantes foram desativados:
+addons-this-addon-is-not-compatible-with = Essa extensão não é compatível com sua versão do Anki.
+addons-to-browse-addons-please-click-the = Para navegar pelas extensões, clique no botão abaixo.<br><br>Quando encontrar um complemento que goste, cole o código abaixo. Você pode colar vários códigos, separados por espaços.
 addons-toggle-enabled = Ativar/Desativar
-addons-unable-to-update-or-delete-addon = Não foi possível atualizar ou excluir a extensão. Por favor, inicie o Anki enquanto pressiona a tecla shift para desabilitar as extensões temporariamente e tente novamente.  Informações de depuração: { $val }
+addons-unable-to-update-or-delete-addon = Não foi possível atualizar ou excluir a extensão. Inicie Anki enquanto mantém pressionada a tecla Shift para desativar temporariamente as extensões e tente novamente. Informações de depuração: { $val }
 addons-unknown-error = Erro desconhecido: { $val }
 addons-view-addon-page = Ver Página de Extensões
 addons-view-files = Ver Arquivos

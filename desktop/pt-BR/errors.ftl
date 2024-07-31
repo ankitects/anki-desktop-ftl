@@ -14,17 +14,16 @@ errors-standard-popup =
 errors-addons-active-popup =
     # Erro
     
-    Ocorreu um erro. Por favor, inicie o Anki enquanto segura a tecla shift,
-    isto vai desabilitar temporariamente as extensões que você instalou.
+    Ocorreu um erro. Inicie Anki enquanto mantém pressionada a tecla Shift, que desabilitará temporariamente as extensões que instalou.
     
-    Se o problema ocorrer somente quando as extensões são habilitadas, use o
-    Ferramentas > Extensões para desabilitar algumas extensões e reinicie o Anki,
-    repetindo até descobrir a extensão que está causando o problema.
+    Se o problema ocorrer apenas quando as extensões estiverem ativados, use o item de menu
+    Ferramentas > Extensões para desabilitar algumas extensões e reinicie Anki,
+    repita até descobrir a extensão que está causando o problema.
     
-    Quando você descobrir a extensão que está causando o problema, por favor
-    reporte o problema em { -errors-addon-support-site }.
+    Quando descobrir a extensão que está causando o problema,
+    reporte o problema ao autor da extensão.
     
-    Informações de Depuração:
+    Informações de depuração:
 errors-accessing-db =
     Ocorreu um erro ao acessar o banco de dados. 
     
