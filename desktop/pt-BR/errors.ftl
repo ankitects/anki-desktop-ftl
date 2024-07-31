@@ -1,6 +1,6 @@
 -errors-support-site = [site de suporte](https://help.ankiweb.net)
 errors-standard-popup2 = O Anki encontrou um problema. Por favor, siga os passos de solução de problemas.
-errors-may-be-addon = O problema pode ter sido causado por um complemento.
+errors-may-be-addon = O problema pode ter sido causado por uma extensão.
 errors-troubleshooting-button = Solução de Problemas
 errors-copy-debug-info-button = Copiar Informações de Depuração
 errors-copied-to-clipboard = Copiado para a área de transferência
