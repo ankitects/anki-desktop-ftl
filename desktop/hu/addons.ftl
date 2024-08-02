@@ -4,13 +4,13 @@ addons-failed-to-load =
     
     '{ $name }' betöltésekor:
     { $traceback }
+addons-startup-failed = A bővítmény indítása sikertelen
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = '{ $name }' konfigurálása
 addons-config-validation-error = Probléma merült fel a megadott konfigurációval: { $problem }, { $path } helyen, a { $schema } sémával szemben.
 addons-window-title = Bővítmények
 addons-addon-has-no-configuration = A bővítmény nem rendelkezik konfigurációval.
 addons-addon-installation-error = Kiegészítő-telepítési hiba
-addons-addon-was-not-downloaded-from-ankiweb = A bővítmény nem töltődött le az AnkiWebről.
 addons-browse-addons = Bővítmények keresése
 addons-changes-will-take-effect-when-anki = A módosítások akkor lépnek érvénybe, amikor az Anki újraindult.
 addons-check-for-updates = Frissítések keresése
@@ -64,3 +64,5 @@ addons-delete-the-numd-selected-addon =
         [one] Törli a { $count } kiválasztott kiegészítőt?
        *[other] Törli a { $count } kiválasztott kiegészítőket?
     }
+addons-choose-update-window-title = Bővítmények frissítése
+addons-choose-update-update-all = Összes frissítése
