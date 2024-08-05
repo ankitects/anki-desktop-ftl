@@ -1,6 +1,6 @@
 qt-accel-about = &אודות...
 qt-accel-cards = &כרטיסים
-qt-accel-check-database = &בדוק בסיס נתונים
+qt-accel-check-database = &בדוק מסד נתונים
 qt-accel-check-media = בדוק &מדיה...
 qt-accel-edit = &עריכה
 qt-accel-exit = י&ציאה
