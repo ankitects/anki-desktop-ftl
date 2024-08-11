@@ -33,7 +33,7 @@ qt-misc-unable-to-record =
     Si hi ha altres programes que utilitzen el micròfon, proveu de tancar-los.
     
     Error original: { $error }
-qt-misc-please-ensure-a-profile-is-open = Assegureu-vos que hi ha un perfil obert i que Anki no està ocupat i torneu a intentar-ho.
+qt-misc-please-ensure-a-profile-is-open = Comproveu que hi hagi un perfil obert i que Anki no està ocupat i torneu a intentar-ho.
 qt-misc-please-select-1-card = (seleccioneu una targeta)
 qt-misc-please-select-a-deck = Seleccioneu una baralla.
 qt-misc-please-use-fileimport-to-import-this = Feu servir el menú «Fitxer > Importa» per a importar aquest fitxer.
