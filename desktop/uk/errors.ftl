@@ -1,8 +1,8 @@
 -errors-support-site = [сайт підтримки](https://help.ankiweb.net)
-errors-standard-popup2 = У Anki виникла проблема. Дотримуйтеся вказівок щодо усунення несправностей.
-errors-may-be-addon = Проблема може бути викликана надбудовою.
-errors-troubleshooting-button = Вирішення проблем
-errors-copy-debug-info-button = Скопіювати інформацію налагодження
+errors-standard-popup2 = Anki стикнулась з проблемою. Дотримуйтеся кроків з усунення вад.
+errors-may-be-addon = Проблема може бути спричинена додатком.
+errors-troubleshooting-button = Усунення вад
+errors-copy-debug-info-button = Скопіювати інформацію зневадження
 errors-copied-to-clipboard = Скопійовано до буфера обміну
 errors-standard-popup =
     # Помилка
