@@ -1,6 +1,6 @@
 addons-possibly-involved = Extensões possivelmente envolvidas: { $addons }
 addons-failed-to-load =
-    Uma extensão que você instalou falhou ao carregar. Se os problemas persistirem, vá para o menu Ferramentas>Extensões e desabilite ou exclua a extensão.
+    Um complemento que você instalou falhou ao carregar. Se os problemas persistirem, por favor, vá ao menu Ferramentas > Complementos e desative ou exclua o complemento.
     
     Ao carregar '{ $name }':
     { $traceback }
