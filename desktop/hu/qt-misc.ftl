@@ -62,11 +62,17 @@ qt-misc-your-firewall-or-antivirus-program-is = Tűzfala vagy víruskereső prog
 qt-misc-error = Hiba
 qt-misc-no-temp-folder = Nem találtunk használható ideiglenes mappát. Győződjön meg róla, hogy a C:\\\temp létezik, vagy a TEMP a környezetében egy érvényes, írható mappára mutat.
 qt-misc-incompatible-video-driver = A videó illesztőprogramja nem kompatibilis. Kérjük, indítsa el újra az Anki-t, és az Anki átvált egy lassabb, kompatibilisebb üzemmódra.
+qt-misc-error-loading-graphics-driver = Hiba a '{ $mode }' grafikus vezérlő betöltésekor. Kérjük, indítsa újra az Anki-t, hogy megpróbálhassa a következő illesztőprogramot. { $context }
+qt-misc-anki-is-running = Anki már fut
+qt-misc-if-instance-is-not-responding = Ha az Anki meglévő példánya nem válaszol, kérjük, zárja be a feladatkezelő segítségével, vagy indítsa újra a számítógépet.
 qt-misc-second =
     { $count ->
         [one] { $count } mp
        *[other] { $count } mp
     }
+qt-misc-layout-auto-enabled = A reszponzív elrendezés engedélyezve
+qt-misc-layout-vertical-enabled = Függőleges elrendezés engedélyezve
+qt-misc-layout-horizontal-enabled = Vízszintes elrendezés engedélyezve
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
