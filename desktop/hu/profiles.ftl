@@ -4,3 +4,5 @@ profiles-folder-readme =
     Ankival kapcsolatos adat. Más hely beállításához lásd:
     
     { $link }
+# will appear as 'Downgrade & Quit'
+profiles-downgrade-and-quit = Visszaminősítés && Kilépés

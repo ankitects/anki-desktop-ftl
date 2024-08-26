@@ -4,6 +4,18 @@ addons-failed-to-load =
     
     '{ $name }' betöltésekor:
     { $traceback }
+addons-failed-to-load2 =
+    A következő kiegészítők betöltése nem sikerült:
+    { $addons }
+    
+    Lehet, hogy frissíteni kell őket, hogy támogassák az Anki ezen verzióját. Kattintson a { addons-check-for-updates } gombra.
+    hogy megnézze, elérhetőek-e frissítések.
+    
+    Az { about-copy-debug-info } gomb segítségével olyan információkat kaphat, amelyeket beilleszthet a kiegészítő 
+    szerzőjének küldött jelentésbe.
+    
+    Az olyan bővítmények esetében, amelyekhez nem áll rendelkezésre frissítés, letilthatja vagy törölheti a 
+    bővítményt, hogy ez az üzenet ne jelenjen meg.
 addons-startup-failed = A bővítmény indítása sikertelen
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = '{ $name }' konfigurálása

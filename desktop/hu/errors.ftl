@@ -1,11 +1,15 @@
 -errors-support-site = [támogatási oldal](https://help.ankiweb.net)
+errors-standard-popup2 = Anki problémába ütközött. Kérjük, kövesse a hibaelhárítási lépéseket.
+errors-may-be-addon = A problémát okozhatja egy kiegészítő.
+errors-troubleshooting-button = Hibaelhárítás
+errors-copy-debug-info-button = Hibakeresési információ másolása
+errors-copied-to-clipboard = Átmásolva a vágólapra
 errors-standard-popup =
     # Hiba
     
     Kérjük, használja az **Eszközök > Adatbázis ellenőrzése** menüpontot a probléma megoldásához.
     
     Ha a probléma továbbra is fennáll, kérjük, jelezze { -errors-support-site } honlapunkon. Kérjük az alábbi információkat is csatolja üzenetéhez.
--errors-addon-support-site = [bővítményekre vonatkozó támogatási oldal](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # Hiba
     
@@ -33,3 +37,9 @@ errors-unable-open-collection =
     Az Anki nem tudta megnyitni a gyűjteményfájlt. Ha a számítógép újraindítása után továbbra is problémák merülnek fel, kérjük, használja a Biztonsági mentés megnyitása gombot a profilkezelőben!
     
     Hibakeresési információ:
+errors-windows-tts-runtime-error =
+    A TTS szolgáltatás sikertelen volt. Kérjük, győződjön meg róla, hogy a Windows frissítések telepítve vannak, próbálja meg
+    újraindítani a számítógépet, vagy próbálkozzon egy másik hanggal.
+
+## OBSOLETE; you do not need to translate this
+
