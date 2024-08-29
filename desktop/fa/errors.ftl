@@ -1,4 +1,9 @@
 -errors-support-site = [وبسایت پشتیبانی](https://help.ankiweb.net)
+errors-standard-popup2 = آنکی با مشکل مواجه شده است. لطفا مراحل عیب یابی را دنبال کنید.
+errors-may-be-addon = مشکل ممکن است ناشی از یک افزونه باشد.
+errors-troubleshooting-button = عیب یابی
+errors-copy-debug-info-button = کپی اطلاعات عیب یابی
+errors-copied-to-clipboard = در حافظه کپی شد
 errors-standard-popup =
     # خطا
     

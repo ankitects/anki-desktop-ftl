@@ -4,6 +4,16 @@ addons-failed-to-load =
     
     در هنگام بارگذاری '{ $name }':
     { $traceback }
+addons-failed-to-load2 =
+    بارگذاری افزونه ها با شرح ذیل نا موفق بود:  
+    { $addons }
+    
+    ممکن است برای پشتیبانی از این نسخه از آنکی نیاز به  بروز رسانی داشته باشند. با کلیک بر لینک { addons-check-for-updates } از بروز رسانی های موجود اطلاع یابید.
+    
+    شما می توانید از دکمه { about-copy-debug-info } استفاده کرده و اطلاعات لازم برای ذکر در گزارش عیب به نویسنده افزاونه دریافت کنید.
+    
+    در مورد افزونه‌هایی که بروزرسانی ندارند،  جهت جلوگیری از نمایش این پیام، می توانید افزونه را غیرفعال یا حذف کنید.
+addons-startup-failed = راه اندازی افزونه ناموفق بود.
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = پیکربندی '{ $name } '
 addons-config-validation-error = مشکلی در پیکربندی ورودی وجود داشت: { $problem }، در مسیر { $path }، در شاخۀ { $schema }.

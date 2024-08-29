@@ -1,6 +1,7 @@
 qt-misc-addon-will-be-installed-when-a = افزونه بعد از باز کردن پروفایل نصب خواهد شد.
 qt-misc-addons = افزونه‌ها
 qt-misc-all-cards-notes-and-media-for = تمام کارت‌ها، یادداشت‌ها و فایل‌های رسانه برای این پروفایل حذف خواهد شد. آیا از انجام این عمل اطمینان دارید؟
+qt-misc-all-cards-notes-and-media-for2 = تمامی کارت ها، یادداشت ها، و رسانه های پروفایل "{ $name }" حذف خواهند شد. آیا از انجام این عمل اطمینان دارید؟
 qt-misc-anki-updatedanki-has-been-released = <h1>آنکی به‌روزرسانی شد</h1>آنکی { $val } منتشر شده است.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = همگام‌سازی مجدد در هنگام بازنشانی غیرفعال شدند. برای فعالسازی مجدد، پروفایل را ببندید یا آنکی را ری‌استارت کنید.
 qt-misc-back-side-only = فقط پشت کارت
