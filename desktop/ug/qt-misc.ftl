@@ -37,7 +37,7 @@ qt-misc-please-select-1-card = [1 كارتا تاللاڭ]
 qt-misc-please-select-a-deck = بىر دەستە تاللاڭ.
 qt-misc-please-use-fileimport-to-import-this = بۇ ھۆججەتنى ھۆججەت › ئەكىر ئارقىلىق ئەكىرىڭ
 qt-misc-processing = بىر تەرەپ قىلىۋاتىدۇ…
-qt-misc-replace-your-collection-with-an-earlier = توپلىمىڭىزنى ئىلگىرىكى زاپاس بىلەن ئالماشتۇرامسىز؟
+qt-misc-replace-your-collection-with-an-earlier2 = توپلىمىڭىزنى { $val } دىكى بۇرۇنقىراق زاپاسنى ئەسلىگە كەلتۈرەمسىز؟
 qt-misc-revert-to-backup = زاپاسنى ئەسلىگە قايتۇر
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Calibri", "Segoe UI"
@@ -76,3 +76,4 @@ qt-misc-layout-horizontal-enabled = توغرىسىغا جايلاشتۇرۇش ق
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
+qt-misc-replace-your-collection-with-an-earlier = توپلىمىڭىزنى ئىلگىرىكى زاپاس بىلەن ئالماشتۇرامسىز؟
