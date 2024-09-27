@@ -43,3 +43,4 @@ qt-accel-reset-zoom = &Звичайний маштаб
 qt-accel-zoom-editor-in = Збі&льшити масштаб у редакторі
 qt-accel-zoom-editor-out = Зме&ншити масштаб у редакторі
 qt-accel-create-backup = Створити &резервну копію
+qt-accel-load-backup = Повернутися до резервної копії
