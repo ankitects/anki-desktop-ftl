@@ -43,3 +43,4 @@ qt-accel-reset-zoom = &Redefinir Zoom
 qt-accel-zoom-editor-in = &Ampliar Zoom (Editor)
 qt-accel-zoom-editor-out = &Reduzir Zoom (Editor)
 qt-accel-create-backup = Criar &Backup
+qt-accel-load-backup = &Reverter para Backup
