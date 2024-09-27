@@ -43,3 +43,4 @@ qt-accel-reset-zoom = &Επαναφορά ζουμ
 qt-accel-zoom-editor-in = &Μεγέθυνση επεξεργαστή
 qt-accel-zoom-editor-out = &Σμίκρυνση επεξεργαστή
 qt-accel-create-backup = Δημιουργία &αντιγράφου ασφαλείας
+qt-accel-load-backup = &Επαναφορά σε αντίγραφο ασφαλείας

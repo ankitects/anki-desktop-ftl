@@ -37,7 +37,7 @@ qt-misc-please-select-1-card = (παρακαλώ επιλέξτε 1 κάρτα)
 qt-misc-please-select-a-deck = Παρακαλώ επιλέξτε μια τράπουλα.
 qt-misc-please-use-fileimport-to-import-this = Παρακαλώ χρησιμοποιήστε Αρχείο>Εισαγωγή για να εισάγετε αυτό το αρχείο.
 qt-misc-processing = Επεξεργασία...
-qt-misc-replace-your-collection-with-an-earlier = Αντικατάσταση της συλλογής σας με ένα νεότερο αντίγραφο ασφαλείας;
+qt-misc-replace-your-collection-with-an-earlier2 = Αντικατάσταση της συλλογής σας με ένα νεότερο αντίγραφο ασφαλείας από { $val };
 qt-misc-revert-to-backup = Επαναφορά σε αντίγραφο ασφαλείας
 qt-misc-shift-key-was-held-down-skipping = Πιέστηκε το πλήκτρο shift. Παραλείποντας τον αυτόματο συγχρονισμό και φόρτωση πρόσθετων.
 qt-misc-shortcut-key-left-arrow = Συντόμευση πληκτρολογίου: Αριστερό βέλος
@@ -73,3 +73,4 @@ qt-misc-layout-horizontal-enabled = Οριζόντια διάταξη ενεργ
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
+qt-misc-replace-your-collection-with-an-earlier = Αντικατάσταση της συλλογής σας με ένα νεότερο αντίγραφο ασφαλείας;
