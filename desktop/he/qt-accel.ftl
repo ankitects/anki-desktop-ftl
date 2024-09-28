@@ -43,3 +43,4 @@ qt-accel-reset-zoom = &אפס גודל תצוגה
 qt-accel-zoom-editor-in = הגדל &תצוגת עורך
 qt-accel-zoom-editor-out = &הקטן תצוגת עורך
 qt-accel-create-backup = יצירת &גיבוי
+qt-accel-load-backup = &חזור לגיבוי

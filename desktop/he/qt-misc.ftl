@@ -38,7 +38,7 @@ qt-misc-please-select-1-card = (אנא בחר כרטיס 1)
 qt-misc-please-select-a-deck = בחר חפיסה.
 qt-misc-please-use-fileimport-to-import-this = בחר באפשרות קובץ>ייבוא כדי לייבא את הקובץ הזה.
 qt-misc-processing = מעבד...
-qt-misc-replace-your-collection-with-an-earlier = להחליף את האוסף עם גיבוי מוקדם יותר?
+qt-misc-replace-your-collection-with-an-earlier2 = האם להחליף את האוסף שלך בגיבוי מוקדם יותר מ-{ $val }?
 qt-misc-revert-to-backup = חזור לגיבוי
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Arial"
@@ -77,3 +77,4 @@ qt-misc-layout-horizontal-enabled = פריסה לרוחב מופעלת
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
+qt-misc-replace-your-collection-with-an-earlier = להחליף את האוסף עם גיבוי מוקדם יותר?
