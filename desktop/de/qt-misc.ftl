@@ -37,7 +37,7 @@ qt-misc-please-select-1-card = (bitte 1 Karte auswählen)
 qt-misc-please-select-a-deck = Bitte einen Stapel wählen.
 qt-misc-please-use-fileimport-to-import-this = Bitte diese Datei mit Datei>Importieren importieren.
 qt-misc-processing = Verarbeitung läuft …
-qt-misc-replace-your-collection-with-an-earlier = Möchten Sie Ihre Sammlung mit einer zuvor erstellen Sicherheitskopie ersetzen?
+qt-misc-replace-your-collection-with-an-earlier2 = Ihre Sammlung mit einer zuvor erstellten Sicherungkopie von { $val } ersetzen?
 qt-misc-revert-to-backup = Zum in der Sicherungskopie gespeicherten Zustand zurückkehren
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
@@ -76,3 +76,4 @@ qt-misc-layout-horizontal-enabled = Horizontales Layout aktiviert
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
+qt-misc-replace-your-collection-with-an-earlier = Möchten Sie Ihre Sammlung mit einer zuvor erstellen Sicherheitskopie ersetzen?
