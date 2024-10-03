@@ -38,7 +38,7 @@ qt-misc-please-select-1-card = (請選取一張卡片)
 qt-misc-please-select-a-deck = 請選取一個牌組。
 qt-misc-please-use-fileimport-to-import-this = 請使用「檔案」>「匯入」來匯入這個檔案。
 qt-misc-processing = 處理中...
-qt-misc-replace-your-collection-with-an-earlier = 是否用較早的備份取代你的集合？
+qt-misc-replace-your-collection-with-an-earlier2 = 使用備份「{ $val }」來取代當前集合？
 qt-misc-revert-to-backup = 回復備份
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI", "Microsoft JhengHei UI"
@@ -76,3 +76,4 @@ qt-misc-layout-horizontal-enabled = 已啟用水平佈局
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
+qt-misc-replace-your-collection-with-an-earlier = 是否用較早的備份取代你的集合？
