@@ -43,3 +43,4 @@ qt-accel-reset-zoom = &Resetovat přiblížení
 qt-accel-zoom-editor-in = &Přiblížit editor
 qt-accel-zoom-editor-out = &Oddálit editor
 qt-accel-create-backup = &Vytvořit zálohu
+qt-accel-load-backup = &Obnovit ze zálohy

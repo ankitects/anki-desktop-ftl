@@ -38,7 +38,7 @@ qt-misc-please-select-1-card = (prosím vyberte 1 kartu)
 qt-misc-please-select-a-deck = Prosím vyberte balíček.
 qt-misc-please-use-fileimport-to-import-this = Prosím použijte Soubor>Import pro import tohoto souboru.
 qt-misc-processing = Zpracovává se...
-qt-misc-replace-your-collection-with-an-earlier = Nahradit kolekci předchozí zálohou?
+qt-misc-replace-your-collection-with-an-earlier2 = Nahradit kolekci předchozí zálohou z { $val }?
 qt-misc-revert-to-backup = Obnovit ze zálohy
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
@@ -78,3 +78,4 @@ qt-misc-layout-horizontal-enabled = Horizontální rozložení povoleno
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
+qt-misc-replace-your-collection-with-an-earlier = Nahradit kolekci předchozí zálohou?
