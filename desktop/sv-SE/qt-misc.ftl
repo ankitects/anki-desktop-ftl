@@ -38,7 +38,7 @@ qt-misc-please-select-1-card = (välj ett kort)
 qt-misc-please-select-a-deck = Välj en kortlek.
 qt-misc-please-use-fileimport-to-import-this = Använd Fil>Importera för att importera denna fil.
 qt-misc-processing = Behandlar...
-qt-misc-replace-your-collection-with-an-earlier = Ersätt din samling med en tidigare säkerhetskopia?
+qt-misc-replace-your-collection-with-an-earlier2 = Ersätt din samling med en tidigare säkerhetskopia från { $val }?
 qt-misc-revert-to-backup = Återställ till säkerhetskopia
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
@@ -77,3 +77,4 @@ qt-misc-layout-horizontal-enabled = Vågrät layout aktiverad
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
+qt-misc-replace-your-collection-with-an-earlier = Ersätt din samling med en tidigare säkerhetskopia?
