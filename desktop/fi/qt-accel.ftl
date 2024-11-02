@@ -43,3 +43,4 @@ qt-accel-reset-zoom = &Todellinen koko
 qt-accel-zoom-editor-in = &Lähennä muokkausnäkymää
 qt-accel-zoom-editor-out = &Loitonna muokkausnäkymää
 qt-accel-create-backup = Luo &varmuuskopio
+qt-accel-load-backup = &Palauta varmuuskopio
