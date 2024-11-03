@@ -43,3 +43,4 @@ qt-accel-reset-zoom = &Reestableix el zoom
 qt-accel-zoom-editor-in = &Apropa l'editor
 qt-accel-zoom-editor-out = &Redueix l’editor
 qt-accel-create-backup = Fes una còpia de seguretat
+qt-accel-load-backup = &Restaura una còpia de seguretat
