@@ -43,3 +43,4 @@ qt-accel-reset-zoom = إعادة &ضبط مستوى التكبير
 qt-accel-zoom-editor-in = تك&بير المحرر
 qt-accel-zoom-editor-out = تص&غير المحرر
 qt-accel-create-backup = إنشاء &نسخة احتياطية
+qt-accel-load-backup = &استرجاع نسخة احتياطية

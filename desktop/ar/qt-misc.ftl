@@ -38,7 +38,7 @@ qt-misc-please-select-1-card = (اختر بطاقة واحدة من فضلك)
 qt-misc-please-select-a-deck = اختر رزمة.
 qt-misc-please-use-fileimport-to-import-this = استخدم ملف>استيراد لاستيراد هذا الملف.
 qt-misc-processing = تجري المعالجة...
-qt-misc-replace-your-collection-with-an-earlier = هل تريد استبدال مجموعتك بنسخة احتياطية؟
+qt-misc-replace-your-collection-with-an-earlier2 = هل تريد استبدال مجموعتك بنسخة احتياطية من { $val }؟
 qt-misc-revert-to-backup = إعادة إلى نسخة احتياطية
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
@@ -81,3 +81,4 @@ qt-misc-layout-horizontal-enabled = التصميم الأفقي مفعل
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
+qt-misc-replace-your-collection-with-an-earlier = هل تريد استبدال مجموعتك بنسخة احتياطية؟
