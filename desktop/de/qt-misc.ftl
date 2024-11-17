@@ -33,7 +33,7 @@ qt-misc-unable-to-record =
     
     Ursprünglicher Fehler: { $error }
 qt-misc-please-ensure-a-profile-is-open = Bitte vergewissern, dass ein Profil geöffnet und Anki nicht beschäftigt ist, und noch einmal versuchen.
-qt-misc-please-select-1-card = (bitte 1 Karte auswählen)
+qt-misc-please-select-1-card = (bitte 1 Karte auswählen)
 qt-misc-please-select-a-deck = Bitte einen Stapel wählen.
 qt-misc-please-use-fileimport-to-import-this = Bitte diese Datei mit Datei>Importieren importieren.
 qt-misc-processing = Verarbeitung läuft …
