@@ -1,9 +1,9 @@
-qt-misc-addon-will-be-installed-when-a = Die Erweiterung wird installiert, sobald ein Profil geöffnet wird.
+qt-misc-addon-will-be-installed-when-a = Die Erweiterung wird installiert, sobald ein Benutzerprofil geöffnet wird.
 qt-misc-addons = Er&weiterungen
-qt-misc-all-cards-notes-and-media-for = Alle Karten, Notizen und Medien dieses Profils werden gelöscht. Fortfahren?
-qt-misc-all-cards-notes-and-media-for2 = Alle Karten, Notizen und Mediendateien des Profils "{ $name }" werden gelöscht. Weiter?
+qt-misc-all-cards-notes-and-media-for = Alle Karten, Notizen und Medien dieses Benutzerprofils werden gelöscht. Fortfahren?
+qt-misc-all-cards-notes-and-media-for2 = Alle Karten, Notizen und Mediendateien des Benutzerprofils "{ $name }" werden gelöscht. Weiter?
 qt-misc-anki-updatedanki-has-been-released = <h1>Eine Aktualisierung ist verfügbar.</h1>Anki { $val } wurde veröffentlicht.<br><br>
-qt-misc-automatic-syncing-and-backups-have-been = Die automatische Synchronisierung und Sicherung wurde bei der Wiederherstellung deaktiviert. Um sie wieder zu aktivieren, müssen Sie das Profil schließen oder Anki neu starten.
+qt-misc-automatic-syncing-and-backups-have-been = Die automatische Synchronisierung und Sicherung wurde bei der Wiederherstellung deaktiviert. Um sie wieder zu aktivieren, müssen Sie das Benutzerprofil schließen oder Anki neu starten.
 qt-misc-back-side-only = Nur Rückseite
 qt-misc-backing-up = Sicherungskopie wird erstellt...
 qt-misc-browse = Kartenverwaltung
@@ -16,7 +16,7 @@ qt-misc-configure-interface-language-and-options = Menüsprache und Einstellung 
 qt-misc-copy-to-clipboard = In die Zwischenablage kopieren
 qt-misc-create-filtered-deck = &Auswahlstapel erstellen…
 qt-misc-debug-console = Fehlerkonsole
-qt-misc-deck-will-be-imported-when-a = Der Stapel wird importiert, sobald ein Profil geöffnet wird.
+qt-misc-deck-will-be-imported-when-a = Der Stapel wird importiert, sobald ein Benutzerprofil geöffnet wird.
 qt-misc-empty-cards = &Leere Karten…
 qt-misc-error-during-startup = Fehler beim Start: { $val }
 qt-misc-ignore-this-update = Diese Aktualisierung ignorieren
@@ -32,7 +32,7 @@ qt-misc-unable-to-record =
     Es konnte nicht aufgezeichnet werden. Bitte stellen Sie sicher, dass das Mikrofon angeschlossen ist und Anki Erlaubnis hat, das Mikrofron zu benutzen. Wenn andere Programme Ihr Mikrofon benutzen, dann könnte deren Schließung helfen.
     
     Ursprünglicher Fehler: { $error }
-qt-misc-please-ensure-a-profile-is-open = Bitte vergewissern, dass ein Profil geöffnet und Anki nicht beschäftigt ist, und noch einmal versuchen.
+qt-misc-please-ensure-a-profile-is-open = Bitte vergewissern, dass ein Benutzerprofil geöffnet und Anki nicht beschäftigt ist, und noch einmal versuchen.
 qt-misc-please-select-1-card = (bitte 1 Karte auswählen)
 qt-misc-please-select-a-deck = Bitte einen Stapel wählen.
 qt-misc-please-use-fileimport-to-import-this = Bitte diese Datei mit Datei>Importieren importieren.
@@ -50,12 +50,12 @@ qt-misc-sync = Synchronisieren
 qt-misc-target-deck-ctrlandd = Zielstapel (Strg+D)
 qt-misc-the-following-character-can-not-be = Das folgende Zeichen kann nicht verwendet werden: { $val }
 qt-misc-the-requested-change-will-require-a = Die beabsichtigten Änderungen werden es erforderlich machen, bei der nächsten Synchronisierung die gesamte Sammlung neu hochzuladen. Falls auf einem anderen Gerät Änderungen vorgenommen wurden, die noch nicht synchronisiert worden sind, gehen diese verloren. Trotzdem fortfahren?
-qt-misc-there-must-be-at-least-one = Mindestens ein Profil muss erstellt werden.
+qt-misc-there-must-be-at-least-one = Mindestens ein Benutzerprofil muss erstellt werden.
 qt-misc-this-file-exists-are-you-sure = Diese Datei ist bereits vorhanden. Wirklich überschreiben?
 qt-misc-unable-to-access-anki-media-folder = Es kann nicht auf den Medienordner von Anki zugegriffen werden. Die Zugriffsrechte auf den temporären Ordner Ihres Systems könnten ggf. falsch gesetzt sein.
 qt-misc-unexpected-response-code = Unerwarteter Antwortcode: { $val }
 qt-misc-would-you-like-to-download-it = Jetzt herunterladen?
-qt-misc-your-collection-file-appears-to-be = Ihre Sammlungsdatei scheint fehlerhaft zu sein. Zu diesem Zustand kann es kommen, wenn die Datei kopiert oder verschoben wird, während Anki läuft, oder, wenn die Sammlung auf einem Netzlaufwerk oder einem Cloudservice gespeichert wird. Sollte das Problem nach einem Neustart des Computers weiterhin bestehen, bitten wir Sie, eine automatisch erstellte Sicherungskopie über die Profileinstellungen einzuspielen.
+qt-misc-your-collection-file-appears-to-be = Ihre Sammlungsdatei scheint fehlerhaft zu sein. Zu diesem Zustand kann es kommen, wenn die Datei kopiert oder verschoben wird, während Anki läuft, oder, wenn die Sammlung auf einem Netzlaufwerk oder einem Cloudservice gespeichert wird. Sollte das Problem nach einem Neustart des Computers weiterhin bestehen, bitten wir Sie, eine automatisch erstellte Sicherungskopie über die Benutzerprofileinstellungen einzuspielen.
 qt-misc-your-computers-storage-may-be-full = Der Speicherplatz auf Ihrem Computer dürfte vollständig belegt sein. Bitte löschen Sie einige nicht benötigte Dateien und versuchen Sie es anschließend erneut.
 qt-misc-your-firewall-or-antivirus-program-is = Ihre Firewall oder Ihr Antivirusprogramm verhindert, dass Anki eine Verbindung zu sich selbst aufbauen kann. Bitte fügen Sie eine entsprechende Ausnahme für Anki hinzu.
 qt-misc-error = Fehler
