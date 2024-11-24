@@ -1,6 +1,20 @@
 addons-possibly-involved = កម្មវិធី add-ons អាចពាក់ព័ន្ធ: { $addons }
-addons-failed-to-load =
-    កម្មវិធី add-on ដែលអ្នកបានដំឡើងគឺមិនដំណើរការទេ។ ប្រសិនបើបញ្ហានៅតែបន្តកើតមាន សូមចូលទៅកាន់ម៉ឺនុយ ឧបករណ៍>កម្មវិធី add-ons ហើយបិទឬលុបកម្មវិធី add-on ។¶
-    ¶
-    នៅពេលផ្ទុក '{ $name }':¶
-    { $traceback }
+addons-startup-failed = ការចាប់ផ្តើមកម្មវិធី add-on បានបរាជ័យ
+addons-window-title = កម្មវិធី add-ons
+addons-changes-will-take-effect-when-anki = ការផ្លាស់ប្តូរនឹងមានប្រសិទ្ធភាពនៅពេលដែល Anki ត្រូវបានចាប់ផ្តើមឡើងវិញ។
+addons-check-for-updates = ពិនិត្យរកមើលបច្ចុប្បន្នភាព
+addons-checking = កំពុងពិនិត្យ...
+addons-code = កូដ:
+addons-disabled = (បានបិទ)
+addons-disabled2 = (បានបិទ)
+addons-downloaded-fnames = បានទាញយក { $fname }
+addons-downloading-adbd-kb02fkb = កំពុងទាញយក { $part }/{ $total } ({ $kilobytes }KB)...
+addons-error-downloading-ids-errors = កំហុស​ក្នុង​ការ​ទាញ​យក <i>{ $id }</i>: { $error }
+addons-error-installing-bases-errors = កំហុស​ក្នុង​ការ​ដំឡើង <i>{ $base }</i>៖ { $error }
+addons-install-addon = ដំឡើងកម្មវិធី add-on
+addons-install-addons = ដំឡើងកម្មវិធី add-on(s)
+addons-install-anki-addon = ដំឡើងកម្មវិធី add-on របស់ Anki
+addons-install-from-file = ដំឡើងពីឯកសារ...
+addons-installation-complete = ការដំឡើងបានបញ្ចប់
+addons-installed-names = បានដំឡើង { $name }
+addons-installed-successfully = បានដំឡើងដោយជោគជ័យ។
