@@ -1,7 +1,7 @@
 qt-accel-about = &Hakkında...
 qt-accel-cards = &Kartlar
 qt-accel-check-database = Veritabanını &Kontrol Et
-qt-accel-check-media = Kontrol & Veritabanı
+qt-accel-check-media = &Ortamı Kontrol Et
 qt-accel-edit = Dü&zenle
 qt-accel-exit = Kapat
 qt-accel-export = &Dışa Aktar...
@@ -43,3 +43,4 @@ qt-accel-reset-zoom = Yakınlaştırmayı &Sıfırla
 qt-accel-zoom-editor-in = Düzenleyiciyi &Yakınlaştır
 qt-accel-zoom-editor-out = Düzenleyiciyi &Uzaklaştır
 qt-accel-create-backup = &Yedek Oluştur
+qt-accel-load-backup = Yedeğe &Geri Dön
