@@ -8,7 +8,7 @@ qt-misc-back-side-only = Sadece Arka Taraf
 qt-misc-backing-up = Yedekleniyor...
 qt-misc-browse = Göz At
 qt-misc-change-note-type-ctrlandn = Not Türünü Değiştir
-qt-misc-check-the-files-in-the-media = Medya dizinindeki dosyaları kontrol edin
+qt-misc-check-the-files-in-the-media = Ortam klasöründeki dosyaları kontrol edin
 qt-misc-choose-deck = Deste Seçin
 qt-misc-choose-note-type = Not Türü Seç
 qt-misc-closing = Kapatılıyor...
@@ -38,7 +38,6 @@ qt-misc-please-select-1-card = (lütfen 1 kart seçin)
 qt-misc-please-select-a-deck = Lütfen bir deste seçin
 qt-misc-please-use-fileimport-to-import-this = Lütfen bu dosyayı içeri aktarmak için Dosya>İçeri Aktar'ı kullanın.
 qt-misc-processing = İşleniyor...
-qt-misc-replace-your-collection-with-an-earlier = Koleksiyonun önceki bir yedekle değiştirilsin mi?
 qt-misc-revert-to-backup = Yedeğe geri dön
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
@@ -80,3 +79,4 @@ qt-misc-layout-horizontal-enabled = Yatay düzen etkin
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
+qt-misc-replace-your-collection-with-an-earlier = Koleksiyonun önceki bir yedekle değiştirilsin mi?
