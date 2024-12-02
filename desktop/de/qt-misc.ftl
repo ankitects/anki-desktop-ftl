@@ -66,8 +66,8 @@ qt-misc-anki-is-running = Anki läuft bereits
 qt-misc-if-instance-is-not-responding = Wenn die bereits existierende Instanz von Anki nicht reagiert, dann beenden Sie diese bitte über Ihren Task-Manager oder starten Sie Ihren Computer neu.
 qt-misc-second =
     { $count ->
-        [one] { $count } Sekunde
-       *[other] { $count } Sekunden
+        [one] { $count } Sekunde
+       *[other] { $count } Sekunden
     }
 qt-misc-layout-auto-enabled = Responsives Layout aktiviert
 qt-misc-layout-vertical-enabled = Vertikales Layout aktiviert
