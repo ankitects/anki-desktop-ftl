@@ -5,3 +5,4 @@ addons-config = Keflun.
 addons-configuration = Kefluniadur
 addons-disabled = (lazhet)
 addons-disabled2 = (lazhet)
+addons-install-addon = Staliañ an astenn
