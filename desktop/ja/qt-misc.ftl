@@ -37,8 +37,7 @@ qt-misc-please-select-1-card = (カードを一枚選択してください)
 qt-misc-please-select-a-deck = デッキを選択してください。
 qt-misc-please-use-fileimport-to-import-this = このファイルを読み込むには、 [ファイル] から [インポート] を実行してください。
 qt-misc-processing = 処理中...
-qt-misc-replace-your-collection-with-an-earlier = 現在のコレクションの代わりに、今までにバックアップされたコレクションを使用することができます。リストを開きますか？
-qt-misc-revert-to-backup = バックアップされたコレクションの復元
+qt-misc-revert-to-backup = バックアップデータからコレクションを復元
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI", "MS PGothic"
 qt-misc-shift-key-was-held-down-skipping = Shiftキーを押したまま起動したため、自動的な同期とアドオンの読み込みを省略しました。
@@ -75,3 +74,4 @@ qt-misc-layout-horizontal-enabled = エディタをテーブルの右側に配�
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
+qt-misc-replace-your-collection-with-an-earlier = 現在のコレクションの代わりに、今までにバックアップされたコレクションを使用することができます。リストを開きますか？
