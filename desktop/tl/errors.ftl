@@ -1,4 +1,9 @@
 -errors-support-site = [website pantulong](https://help.ankiweb.net)
+errors-standard-popup2 = Nagkaroon ng problema ang Anki. Pakisunod ang mga hakbang sa pag-troubleshoot.
+errors-may-be-addon = Ang problema ay maaaring dulot ng isang add-on.
+errors-troubleshooting-button = Pag-troubleshoot
+errors-copy-debug-info-button = Kopyahin ang Debug Info
+errors-copied-to-clipboard = Nakopya sa clipboard
 errors-standard-popup =
     # Error
     

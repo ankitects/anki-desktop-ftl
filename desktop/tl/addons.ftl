@@ -4,8 +4,18 @@ addons-failed-to-load =
     
     Kapag naglo-load '{ $name }':
     { $traceback }
+addons-failed-to-load2 =
+    Ang sumusunod na mga add-on ay nabigong mag-load:
+    { $addons }
+    
+    Maaaring kailanganin nilang i-update upang suportahan ang bersyong ito ng Anki. I-click ang { addons-check-for-updates } para makita kung may available na mga update.
+    
+    Maaari mong i-click ang { about-copy-debug-info } upang makuha ang impormasyon na maaari mong i-paste sa ulat para sa may-akda ng add-on.
+    
+    Para sa mga add-on na walang magagamit na update, maaari mong i-disable o i-delete ang add-on upang maiwasan ang pagpapakita ng mensaheng ito.
+addons-startup-failed = Nabigo ang pag-start ng Add-on
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
-addons-config-window-title = I-configure
+addons-config-window-title = I-configure ang '{ $name }'
 addons-config-validation-error = Nagkaroon ng problema sa nabigay na configuration na: { $problem }, sa path na { $path }, laban sa schema na { $schema }.
 addons-window-title = Mga Add-on
 addons-addon-has-no-configuration = Walang configuration ang Add-on.
