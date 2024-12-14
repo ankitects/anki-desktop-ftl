@@ -17,6 +17,7 @@ qt-misc-copy-to-clipboard = I-copy sa clipboard
 qt-misc-create-filtered-deck = Gumawa ng filtered deck...
 qt-misc-debug-console = Debug Console
 qt-misc-deck-will-be-imported-when-a = Ang deck ay mai-import kapag binuksan ang isang profile.
+qt-misc-empty-cards = Walang laman na mga Card...
 qt-misc-error-during-startup = May error habang nag-uumpisa: { $val }
 qt-misc-ignore-this-update = Balewalain ang update na ito
 qt-misc-in-order-to-ensure-your-collection = Para gumana nang tama ang koleksyon sa ibang device, kailangang tama ang orasan ng iyong computer. Maaaring mali ang internal clock kahit tama ang lokal na oras.<br><br>Pakisuri ang mga sumusunod sa oras ng iyong computer:<br><br>- AM/PM<br><br>- Clock Drift<br>- Araw, buwan, at taon<br>- Timezone<br>- Daylight savings<br><br>Pagkakaiba sa tamang oras: { $val }.
@@ -25,6 +26,7 @@ qt-misc-loading = Naglo-load...
 qt-misc-manage = I-manage
 qt-misc-manage-note-types = I-manage ang mga Note Types
 qt-misc-name-exists = Mayroon nang ganitong pangalan.
+qt-misc-non-unicode-text = <non-unicode text>
 qt-misc-optimizing = Ina-optimize...
 qt-misc-unable-to-record =
     Hindi makapag-record. Siguraduhing nakakonekta ang mikropono at may pahintulot ang Anki na gamitin ito.
@@ -47,6 +49,7 @@ qt-misc-study-deck = Pag-aralan ang Deck...
 qt-misc-sync = Sync
 qt-misc-target-deck-ctrlandd = Target Deck (Ctrl+D)
 qt-misc-the-following-character-can-not-be = Hindi maaaring gamitin ang sumusunod na karakter: { $val }
+qt-misc-the-requested-change-will-require-a = Ang pagbabagong ito ay mangangailangan ng buong pag-upload ng database sa susunod na pag-synchronize. Kung may reviews o ibang pagbabago sa ibang device na hindi pa na-synchronize, mawawala ang mga ito. Itutuloy?
 qt-misc-there-must-be-at-least-one = Dapat mayroong kahit isang profile.
 qt-misc-this-file-exists-are-you-sure = Umiiral na ang file na ito. Sigurado ka bang gusto mo itong palitan?
 qt-misc-unable-to-access-anki-media-folder = Hindi ma-access ang Anki media folder. Maaaring mali ang mga pahintulot sa pansamantalang folder ng iyong system.
@@ -61,6 +64,11 @@ qt-misc-incompatible-video-driver = Hindi tugma ang iyong video driver. Mangyari
 qt-misc-error-loading-graphics-driver = Error sa pag-load ng '{ $mode }' graphics driver. Mangyaring i-restart ang Anki upang subukan ang susunod na driver. { $context }
 qt-misc-anki-is-running = Bukas na ang Anki
 qt-misc-if-instance-is-not-responding = Kung hindi tumutugon ang kasalukuyang Anki, mangyaring isara ito gamit ang iyong task manager, o i-restart ang iyong computer.
+qt-misc-second =
+    { $count ->
+        [one] { $count } segundo
+       *[other] { $count } segundo
+    }
 qt-misc-layout-auto-enabled = Naka-enable ang responsive na layout
 qt-misc-layout-vertical-enabled = Naka-enable ang patayo na layout
 qt-misc-layout-horizontal-enabled = Naka-enable ang pahalang na layout

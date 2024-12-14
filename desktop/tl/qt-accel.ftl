@@ -40,5 +40,7 @@ qt-accel-layout-horizontal = Pa&halang
 qt-accel-zoom-in = Palak&ihin
 qt-accel-zoom-out = Paliitin (&O)
 qt-accel-reset-zoom = I-&reset ang Zoom
+qt-accel-zoom-editor-in = Zoom Editor &In
+qt-accel-zoom-editor-out = Zoom Editor &Out
 qt-accel-create-backup = Gumawa ng &Backup
 qt-accel-load-backup = Ibalik mula sa Backup (&R)
