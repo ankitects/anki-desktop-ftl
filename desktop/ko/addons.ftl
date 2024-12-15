@@ -4,6 +4,7 @@ addons-failed-to-load =
     
     '{ $name }' 불러오는 동안:
     { $traceback }
+addons-startup-failed = 애드온(add-on) 구성에 실패했습니다.
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = '{ $name }' 설정
 addons-config-validation-error = 설정에 오류가 있습니다: { $problem }, { $path } 경로에서 { $schema } 스키마와 충돌합니다.

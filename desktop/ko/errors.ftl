@@ -1,4 +1,9 @@
 -errors-support-site = [지원 사이트](https://help.ankiweb.net)
+errors-standard-popup2 = Anki 에 문제가 생겼습니다. 문제 해결 과정을 따라주세요.
+errors-may-be-addon = 애드온(add-on)에 의해 문제가 발생했습니다.
+errors-troubleshooting-button = 문제 해결 과정
+errors-copy-debug-info-button = 디버그 정보 복사
+errors-copied-to-clipboard = 클립보드에 복사됨
 errors-standard-popup =
     # 오류
     
