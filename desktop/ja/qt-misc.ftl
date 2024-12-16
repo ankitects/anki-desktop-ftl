@@ -37,6 +37,7 @@ qt-misc-please-select-1-card = (カードを一枚選択してください)
 qt-misc-please-select-a-deck = デッキを選択してください。
 qt-misc-please-use-fileimport-to-import-this = このファイルを読み込むには、 [ファイル] から [インポート] を実行してください。
 qt-misc-processing = 処理中...
+qt-misc-replace-your-collection-with-an-earlier2 = 現在のコレクションの使用をやめて、バックアップファイル "{ $val }" に保存されているコレクションを開きます。よろしいですか？
 qt-misc-revert-to-backup = バックアップデータからコレクションを復元
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI", "MS PGothic"
