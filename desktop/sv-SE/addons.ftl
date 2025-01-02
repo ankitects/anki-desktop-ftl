@@ -66,10 +66,10 @@ addons-the-following-addons-have-updates-available = Följande tillägg har uppd
 addons-the-following-conflicting-addons-were-disabled = De följande inbördes inkompatibla tilläggen inaktiverades:
 addons-this-addon-is-not-compatible-with = Detta tillägg är inte kompatibelt med din version av Anki.
 addons-to-browse-addons-please-click-the = För att utforska tillägg, klicka på bläddra-knappen nedan.<br><br>När du hittat ett tillägg som du tycker om, klistra in dess kod nedan. Du kan klistra in flera koder, avskiljda med mellanslag.
-addons-toggle-enabled = Växla aktiverade
+addons-toggle-enabled = Växla aktiverad
 addons-unable-to-update-or-delete-addon = Misslyckades med att uppdatera eller ta bort tillägg. Var god starta Anki med shift-tangenten nedtryckt för att temporärt inaktivera tillägg, sedan försök igen.  Felsökningsinfo: { $val }
 addons-unknown-error = Okänt fel: { $val }
-addons-view-addon-page = Visa sida med tillägg
+addons-view-addon-page = Visa tilläggets sida
 addons-view-files = Visa filer
 addons-delete-the-numd-selected-addon =
     { $count ->
