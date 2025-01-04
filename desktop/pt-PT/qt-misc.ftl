@@ -1,3 +1,4 @@
+qt-misc-addons = Complementos
 qt-misc-all-cards-notes-and-media-for = Todas as fichas, notas e média para este usuário serão eliminadas. Tem certeza?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki atualizado</h1>Anki { $val } foi lançado.<br><br>
 qt-misc-backing-up = A fazer cópia de segurança...
