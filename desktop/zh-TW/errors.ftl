@@ -37,6 +37,7 @@ errors-unable-open-collection =
     
     除錯資訊：
 errors-windows-tts-runtime-error = 無法使用 TTS（文字轉語音）服務。請確保你已安裝 Windows 更新，嘗試重新啟動電腦、更換 TTS 聲音。
+errors-windows-ssl-updates = 安全連線失敗。請確保已安裝 Windows 更新，然後再試一次。
 
 ## OBSOLETE; you do not need to translate this
 
