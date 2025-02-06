@@ -40,6 +40,7 @@ errors-unable-open-collection =
     
     Debug info:
 errors-windows-tts-runtime-error = Η υπηρεσία TTS απέτυχε. Παρακαλώ βεβαιωθείτε ότι οι ενημερώσεις των Windows έχουν εγκατασταθεί και μετά δοκιμάστε να επανεκκινήσετε τον υπολογιστή σας ή να χρησιμοποιήσετε μια διαφορετική φωνή.
+errors-windows-ssl-updates = Η ασφαλής σύνδεση απέτυχε. Βεβαιωθείτε ότι έχουν εγκατασταθεί οι ενημερώσεις των Windows και δοκιμάστε ξανά.
 
 ## OBSOLETE; you do not need to translate this
 
