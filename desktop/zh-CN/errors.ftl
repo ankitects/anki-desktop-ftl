@@ -31,6 +31,7 @@ errors-unable-open-collection =
     
     调试信息：
 errors-windows-tts-runtime-error = 无法使用文字转语音服务（TTS）。请确认已安装 Windows 更新，并尝试重启电脑、更换 TTS 音源。
+errors-windows-ssl-updates = 安全连接失败。请确认您已安装 Windows 更新，然后再尝试一次。
 
 ## OBSOLETE; you do not need to translate this
 
