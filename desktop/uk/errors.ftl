@@ -40,6 +40,7 @@ errors-unable-open-collection =
     
     Інформація налагодження:
 errors-windows-tts-runtime-error = Помилка TTS сервісу. Будь ласка, впевніться, що усі оновлення Windows встановлено, спробуйте перезавантажити компʼютер або оберіть інший голос.
+errors-windows-ssl-updates = Помилка безпечного з'єднання. Спробуйте ще раз, переконавшись, що оновлення для Windows встановлено.
 
 ## OBSOLETE; you do not need to translate this
 
