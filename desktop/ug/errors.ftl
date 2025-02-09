@@ -34,6 +34,7 @@ errors-unable-open-collection =
     
     سازلاش ئۇچۇرى:
 errors-windows-tts-runtime-error = TTS يەنى تېكىستتىن ئاۋازغا مۇلازىمىتىنى ئىشلەتكىلى بولمىدى. Windows يېڭىلىنىشى ئورنىتىلغانلىقىنى جەزملەڭ، كومپيۇتېرىڭىزنى قايتا قوزغىتىڭ ياكى پەرقلىق ئاۋازنى سىناڭ.
+errors-windows-ssl-updates = بىخەتەر باغلىنالمىدى. Windows يېڭىلانمىسىنىڭ ئورنىتىلغانلىقىنى جەزملەپ ئاندىن قايتا سىناڭ.
 
 ## OBSOLETE; you do not need to translate this
 
