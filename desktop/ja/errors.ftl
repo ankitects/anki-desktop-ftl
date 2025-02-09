@@ -37,6 +37,7 @@ errors-unable-open-collection =
     
     Debug info:
 errors-windows-tts-runtime-error = TTSサービスに失敗しました。Windowsのアップデートがインストールされていることを確認し、コンピュータを再起動し、別の声をお試しください。
+errors-windows-ssl-updates = 安全な接続に失敗しました。Windows の更新プログラムがインストールされていることを確認してから、もう一度お試しください。
 
 ## OBSOLETE; you do not need to translate this
 
