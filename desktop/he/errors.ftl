@@ -40,6 +40,7 @@ errors-accessing-db =
     זה רעיון טוב להריץ כלים>בדוק מסד נתונים, כדי להבטיח שהאוסף שלך אינו פגום.
 errors-unable-open-collection = Anki לא היה מסוגל לפתוח את קובץ המאגר שלך. אם הבעיות ממשיכות לאחר התחלת המחשב שלך מחדש, אנא השתמש בכפתור "פתח גיבוי" במנהל הפרופיל.
 errors-windows-tts-runtime-error = נכשל שירות הTTS. וודא שעדכוני windows מותקנים, נסה להפעיל מחדש את המחדש ונסה להשתמש בקול אחר.
+errors-windows-ssl-updates = חיבור מאובטח נכשל. ודא שעדכוני Windows מותקנים, ולאחר מכן נסה שוב.
 
 ## OBSOLETE; you do not need to translate this
 
