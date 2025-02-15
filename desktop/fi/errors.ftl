@@ -43,6 +43,7 @@ errors-unable-open-collection =
     
     Vianmääritystiedot:
 errors-windows-tts-runtime-error = Teksti puheeksi (TTS) -palvelu kohtasi virheen. Varmista, että Windowsin päivitykset on asennettu, kokeile käynnistää tietokone uudelleen ja kokeile käyttää toista teksti puheeksi -ääntä.
+errors-windows-ssl-updates = Suojatun yhteyden muodostaminen epäonnistui. Varmista, että Windows-päivitykset on asennettu, ja yritä sitten uudelleen.
 
 ## OBSOLETE; you do not need to translate this
 
