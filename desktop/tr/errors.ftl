@@ -42,6 +42,7 @@ errors-unable-open-collection =
     
     Hata ayıklama bilgisi:
 errors-windows-tts-runtime-error = Metin okuma hizmeti başarısız oldu. Lütfen Windows güncellemelerinin yüklü olduğundan emin olun, sonra bilgisayarını yeniden başlatmayı deneyin veya farklı bir ses deneyin.
+errors-windows-ssl-updates = Güvenli bağlantı başarısız oldu. Lütfen Windows güncellemelerinin yüklü olduğundan emin olun, sonra tekrar deneyin.
 
 ## OBSOLETE; you do not need to translate this
 
