@@ -41,6 +41,7 @@ errors-unable-open-collection =
     
     Informação de Debug:
 errors-windows-tts-runtime-error = O serviço 'TTS' falhou. Certifique-se de que as atualizações do 'Windows' estejam instaladas, tente reiniciar o computador e tente usar uma voz diferente.
+errors-windows-ssl-updates = Conexão segura falhou. Por favor, verifique se as atualizações do Windows estão instaladas, e então tente novamente.
 
 ## OBSOLETE; you do not need to translate this
 
