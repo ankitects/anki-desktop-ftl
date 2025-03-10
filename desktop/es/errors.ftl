@@ -1,4 +1,9 @@
 -errors-support-site = [sitio de soporte](https://help.ankiweb.net)
+errors-standard-popup2 = Anki ha encontrado un problema. Por favor, siga las instrucciones de solución de problemas.
+errors-may-be-addon = El problema podría ser causado por un add-on.
+errors-troubleshooting-button = Solución de problemas
+errors-copy-debug-info-button = Copiar información de depuración
+errors-copied-to-clipboard = Copiado al portapapeles
 errors-standard-popup =
     # Error
     
@@ -24,6 +29,7 @@ errors-unable-open-collection =
     
     Información de depuración:
 errors-windows-tts-runtime-error = El servicio TTS falló. Asegúrese de que las actualizaciones de Windows estén instaladas, intente reiniciar su computadora e intente usar una voz diferente.
+errors-windows-ssl-updates = Conexión segura fallida. Por favor, asegurese de installar todas las actualizaciones de Windows, e intenta de nuevo.
 
 ## OBSOLETE; you do not need to translate this
 

@@ -1,6 +1,7 @@
 qt-misc-addon-will-be-installed-when-a = El complemento se instalará cuando se abra un perfil.
 qt-misc-addons = Complementos
 qt-misc-all-cards-notes-and-media-for = Todas las tarjetas, notas y archivos multimedia de este perfil se eliminarán. ¿Estás seguro?
+qt-misc-all-cards-notes-and-media-for2 = Todas la tarjetas, notas, y multimedia del perfil "{ $name }" serán eliminados. Estás seguro?
 qt-misc-anki-updatedanki-has-been-released = <h1>Actualización de Anki</h1>Anki { $val } está disponible.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = La sincronización simultánea y las copias de seguridad están desactivadas mientras se restaura. Con el fin de volverlas a habilitar, cierra el perfil o reinicia el Anki.
 qt-misc-back-side-only = Solo en el reverso
@@ -36,7 +37,6 @@ qt-misc-please-select-1-card = (por favor, selecciona 1 tarjeta)
 qt-misc-please-select-a-deck = Selecciona un mazo.
 qt-misc-please-use-fileimport-to-import-this = Usa Archivo>Importar para importar este archivo.
 qt-misc-processing = Procesando...
-qt-misc-replace-your-collection-with-an-earlier = ¿Reemplazar tu colección con una copia de seguridad anterior?
 qt-misc-revert-to-backup = Revertir a respaldo
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
@@ -75,3 +75,4 @@ qt-misc-layout-horizontal-enabled = Diseño horizontal habilitado
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
+qt-misc-replace-your-collection-with-an-earlier = ¿Reemplazar tu colección con una copia de seguridad anterior?
