@@ -12,6 +12,17 @@ errors-standard-popup =
     
     Si los problemas continúan, informa del problema a nuestro { -errors-support-site }.
     Copia y pega la siguiente información en su informe.
+errors-addons-active-popup =
+    #Error
+    Ha ocurrido un error. Vuelve a abrir Anki mientras mantegas presionada la tecla mayúscula,
+    lo que deshabilitará temporalmente los complementos que hayas instalado.
+    
+    SI el problema persiste cuando los complementos estén activados,
+    ve a el menu Herramientas > Complementos y deshabilita algunos complementos y reinicia Anki.
+    Repite este paso hasta que descubras el complemento que causa el problema.
+    
+    Cuando descubras que complemento lo causa, por favor reporta el problema con el autor del complemento.
+    Información de depuración:
 errors-accessing-db =
     Ha ocurrido un error accediendo a la base de datos.
     

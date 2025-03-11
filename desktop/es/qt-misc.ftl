@@ -37,6 +37,7 @@ qt-misc-please-select-1-card = (por favor, selecciona 1 tarjeta)
 qt-misc-please-select-a-deck = Selecciona un mazo.
 qt-misc-please-use-fileimport-to-import-this = Usa Archivo>Importar para importar este archivo.
 qt-misc-processing = Procesando...
+qt-misc-replace-your-collection-with-an-earlier2 = Reemplazar tu colección con una copia de seguridad previa de { $val }?
 qt-misc-revert-to-backup = Revertir a respaldo
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
