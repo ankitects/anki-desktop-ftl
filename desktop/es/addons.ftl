@@ -4,6 +4,16 @@ addons-failed-to-load =
     
     Mientras cargando '{ $name }':
     { $traceback }
+addons-failed-to-load2 =
+    No se han podido cargar los siguientes complementos:
+    { $addons }
+    
+    Puede que necesiten ser actualizados para ser compatibles con esta versión de Anki. Haz clic en el botón { addons-check-for-updates } para ver si hay actualizaciones disponibles.
+    
+    Puedes obtener información e informar al creador del complemento usando el botón { about-copy-debug-info }.
+    
+    Puedes deshabilitar los complementos que no tengan actualizaciones disponibles para prevenir que este mensaje aparezca.
+addons-startup-failed = No se ha podido iniciar el complemento.
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Configurar '{ $name }'
 addons-config-validation-error = Hubo un problema con la configuración proporcionada: { $problem }, en la ruta { $path }, contra el esquema { $schema }.
