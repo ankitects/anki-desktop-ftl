@@ -42,6 +42,7 @@ errors-unable-open-collection =
     
     디버그 정보:
 errors-windows-tts-runtime-error = TTS 서비스에 오류가 발생했습니다. 윈도우 업데이트를 확인해주시고, 컴퓨터를 재시작해보신 다음, 다른 음성을 선택해 보세요.
+errors-windows-ssl-updates = 보안 접속 실패. Windows 업데이트 설치를 확인하고 다시 시도하십시오.
 
 ## OBSOLETE; you do not need to translate this
 

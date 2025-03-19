@@ -4,6 +4,15 @@ addons-failed-to-load =
     
     '{ $name }' 불러오는 동안:
     { $traceback }
+addons-failed-to-load2 =
+    다음 확장 프로그램을 불러오는 데 실패했습니다:
+    { $addons }
+    
+    이 Anki 버전을 지원하기 위해 업데이트가 필요할 수 있습니다. { addons-check-for-updates } 버튼을 눌러 업데이트가 가능한지 확인하십시오.
+    
+    { about-copy-debug-info } 버튼을 눌러 확장 프로그램 작성자에게 제출할 정보를 복사할 수 있습니다.
+    
+    이 메시지를 다시 보지 않으려면, 업데이트가 불가한 확장 프로그램을 비활성화하거나 삭제할 수 있습니다.
 addons-startup-failed = 애드온(add-on) 구성에 실패했습니다.
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = '{ $name }' 설정

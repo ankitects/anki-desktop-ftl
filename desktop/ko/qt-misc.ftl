@@ -1,6 +1,7 @@
 qt-misc-addon-will-be-installed-when-a = 프로필을 열 때 확장 프로그램이 설치될 것입니다.
 qt-misc-addons = 확장 프로그램
 qt-misc-all-cards-notes-and-media-for = 현재 프로필의 모든 카드, 노트, 미디어 파일이 삭제됩니다. 계속 진행하겠습니까?
+qt-misc-all-cards-notes-and-media-for2 = "{ $name }" 프로필의 모든 카드, 노트, 미디어 파일이 삭제됩니다. 계속 진행하시겠습니까?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki 업데이트</h1>Anki { $val } 버전이 공개되었습니다.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = 복원 후 자동 동기화 및 백업기능이 비활성화 되었습니다. 다시 활성화하려면 프로필 창을 닫은 후 Anki를 다시 실행해주십시오.
 qt-misc-back-side-only = 뒷면만
@@ -37,7 +38,7 @@ qt-misc-please-select-1-card = (카드 1개 선택해주세요)
 qt-misc-please-select-a-deck = 덱을 선택하세요.
 qt-misc-please-use-fileimport-to-import-this = 이 파일을 가져오려면, 파일>가져오기 메뉴를 사용하세요.
 qt-misc-processing = 처리 중...
-qt-misc-replace-your-collection-with-an-earlier = 당신의 컬렉션을 이전에 백업된 것으로 교체하시겠습니까?
+qt-misc-replace-your-collection-with-an-earlier2 = 컬렉션을 { $val }의 이전 백업으로 교체하시겠습니까?
 qt-misc-revert-to-backup = 백업한 것으로 돌아가기
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
@@ -75,3 +76,4 @@ qt-misc-layout-horizontal-enabled = 가로 레이아웃이 적용됩니다
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
+qt-misc-replace-your-collection-with-an-earlier = 당신의 컬렉션을 이전에 백업된 것으로 교체하시겠습니까?

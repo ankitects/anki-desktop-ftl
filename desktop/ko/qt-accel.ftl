@@ -43,3 +43,4 @@ qt-accel-reset-zoom = 원본 비율 보기(&R)
 qt-accel-zoom-editor-in = 편집기 줌 &인
 qt-accel-zoom-editor-out = 편집기 줌 &아웃
 qt-accel-create-backup = 백업하기(&B)
+qt-accel-load-backup = &백업으로 복원
