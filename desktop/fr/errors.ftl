@@ -44,6 +44,7 @@ errors-unable-open-collection =
     
     Information de débogage :
 errors-windows-tts-runtime-error = Le narrateur a échoué. Veuillez vous assurer que Windows est à jour, puis redémarrez votre ordinateur, ou alors utilisez une autre voix.
+errors-windows-ssl-updates = Echec de la connexion sécurisée. Merci de vérifier que Windows est à jour, puis réessayer.
 
 ## OBSOLETE; you do not need to translate this
 
