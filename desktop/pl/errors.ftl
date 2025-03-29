@@ -41,6 +41,7 @@ errors-unable-open-collection =
     
     Informacja diagnostyczna:
 errors-windows-tts-runtime-error = Usługa syntezy mowy nie działa. Upewnij się, że masz zainstalowane aktualizacje systemu Windows, spróbuj uruchomić ponownie komputer lub użyć innego głosu.
+errors-windows-ssl-updates = Bezpieczne połączenie nieudane. Upewnij się, że aktualizacje systemu Windows są zainstalowane, po czym spróbuj ponownie.
 
 ## OBSOLETE; you do not need to translate this
 
