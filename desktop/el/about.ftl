@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = Αν έχετε συνεισφέρει �
 about-version = Έκδοση { $val }
 about-visit-website = <a href='{ $val }'>Επισκεφτείτε τον ιστοχώρο</a>
 about-written-by-damien-elmes-with-patches = Γραμμένο από τον Damien Elmes με διορθώσεις, μετάφραση, testing και σχεδιασμό από: <p>{ $cont }
+# appended to the end of the contributor list in the about screen
+about-and-others = και άλλοι
