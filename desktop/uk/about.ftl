@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = Якщо ви зробили свій в
 about-version = Версія { $val }
 about-visit-website = <a href='{ $val }'>Відвідати вебсторінку</a>
 about-written-by-damien-elmes-with-patches = Застосунок створив Деміен Елмс (Damien Elmes). Ці люди також допомагали в виправленні помилок, перекладі, тестуванні та дизайні:<p>{ $cont }
+# appended to the end of the contributor list in the about screen
+about-and-others = та інші
