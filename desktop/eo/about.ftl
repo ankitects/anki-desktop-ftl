@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = Bonvolu kontakti nin, se vi kontribuis, 
 about-version = Versio { $val }
 about-visit-website = <a href='{ $val }'>Viziti la retpaĝaron</a>
 about-written-by-damien-elmes-with-patches = Skribita de Damien Elmes, kun flikaĵoj, tradukoj, testado kaj fasono de:<p>{ $cont }
+# appended to the end of the contributor list in the about screen
+about-and-others = kaj aliaj

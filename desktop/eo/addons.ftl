@@ -4,9 +4,11 @@ addons-failed-to-load =
     
     Dum la ŝarĝado de '{ $name }':
     { $traceback }
+# Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
+addons-config-window-title = agordi '{ $name }'
 addons-window-title = Aldonaĵoj
 addons-addon-has-no-configuration = La aldonaĵo ne havas agordojn.
-addons-addon-was-not-downloaded-from-ankiweb = La aldonaĵo ne estas elŝutita de AnkiWeb.
+addons-addon-installation-error = Eraro dum la instalo de aldonaĵo
 addons-browse-addons = Foliumi aldonaĵojn
 addons-changes-will-take-effect-when-anki = Ŝanĝoj efikos post relanĉo de Anki.
 addons-check-for-updates = Serĉi ĝisdatigojn
@@ -15,7 +17,8 @@ addons-code = Kodo:
 addons-config = Agordo
 addons-configuration = Agordo
 addons-corrupt-addon-file = Difekta aldonaĵo-dosiero
-addons-disabled = malvalidigita
+addons-disabled = (malvalidigita)
+addons-disabled2 = (malvalidigita)
 addons-downloaded-fnames = Elŝutis { $fname }
 addons-error-installing-bases-errors = Eraro dum instalado de <i>{ $base }</i>: { $error }
 addons-get-addons = Havigi aldonaĵojn...
@@ -39,6 +42,7 @@ addons-the-following-conflicting-addons-were-disabled = La jenaj malakordaj aldo
 addons-to-browse-addons-please-click-the = Por foliumi aldonaĵojn, bonvolu alklaki la butonon sube.<br><br>Kiam vi trovis aldonaĵon, kiu plaĉas al vi, bonvolu enmeti ĝian kodon sube. Vi povas enmeti plurajn kodojn, disigitaj per spacetoj.
 addons-toggle-enabled = Baskuli aktivecon
 addons-unable-to-update-or-delete-addon = Ne eblas ĝisdatigi aŭ forigi aldonaĵon. Bonvolu relanĉi Anki premante la supran registrumon (shift) por portempe malvalidigi aldonaĵojn. Poste reprovu ĝin.  Sencimiga informo: { $val }
+addons-unknown-error = Nekonata eraro: { $val }
 addons-view-addon-page = Retpaĝo de la aldonaĵo
 addons-view-files = Dosierujo de la aldonaĵo
 addons-delete-the-numd-selected-addon =
@@ -46,3 +50,5 @@ addons-delete-the-numd-selected-addon =
         [one] Ĉu vi volas forigi { $count } elektitan aldonaĵon?
        *[other] Ĉu vi volas forigi { $count } elektitajn aldonaĵojn?
     }
+addons-choose-update-window-title = Ĝisdatigi aldonaĵojn
+addons-choose-update-update-all = Ĝisdatigi ĉiujn
