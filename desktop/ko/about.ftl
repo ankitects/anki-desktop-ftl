@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = 기여했지만 위 목록에 포함되�
 about-version = 버전 { $val }
 about-visit-website = <a href='{ $val }'>공식 웹사이트 방문</a>
 about-written-by-damien-elmes-with-patches = Damien Elmes에 의해 최초 작성되었고, 패치, 번역, 테스트 및 디자인에서 커뮤니티의 도움을 받았습니다.<p>{ $cont }
+# appended to the end of the contributor list in the about screen
+about-and-others = 외 다수
