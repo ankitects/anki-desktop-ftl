@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = 如果您作出了贡献但未在此表�
 about-version = 版本 { $val }
 about-visit-website = <a href='{ $val }'>访问官网</a>
 about-written-by-damien-elmes-with-patches = 作者：Damien Elmes，补丁、翻译、测试和设计：<p>{ $cont }
+# appended to the end of the contributor list in the about screen
+about-and-others = 等
