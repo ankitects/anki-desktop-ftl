@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = ئەگەر توھپە قوشۇپ تىز�
 about-version = نەشرى { $val }
 about-visit-website = <a href='{ $val }'>تور بېكەت زىيارەت</a>
 about-written-by-damien-elmes-with-patches = يازغۇچى: Damien Elmes، ياماق، تەرجىمە، سىناق ۋە لايىھە: <p>{ $cont }
+# appended to the end of the contributor list in the about screen
+about-and-others = ۋە باشقىلار
