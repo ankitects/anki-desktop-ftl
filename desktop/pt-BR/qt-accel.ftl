@@ -40,6 +40,7 @@ qt-accel-layout-horizontal = &Horizontal
 qt-accel-zoom-in = &Ampliar Zoom
 qt-accel-zoom-out = &Reduzir Zoom
 qt-accel-reset-zoom = &Redefinir Zoom
+qt-accel-toggle-sidebar = Exibir/ocultar barra lateral
 qt-accel-zoom-editor-in = &Ampliar Zoom (Editor)
 qt-accel-zoom-editor-out = &Reduzir Zoom (Editor)
 qt-accel-create-backup = Criar &Backup
