@@ -40,6 +40,7 @@ qt-accel-layout-horizontal = &Οριζόντια
 qt-accel-zoom-in = &Μεγέθυνση
 qt-accel-zoom-out = &Σμίκρυνση
 qt-accel-reset-zoom = &Επαναφορά ζουμ
+qt-accel-toggle-sidebar = Εναλλαγή πλευρικής μπάρας
 qt-accel-zoom-editor-in = &Μεγέθυνση επεξεργαστή
 qt-accel-zoom-editor-out = &Σμίκρυνση επεξεργαστή
 qt-accel-create-backup = Δημιουργία &αντιγράφου ασφαλείας
