@@ -40,6 +40,7 @@ qt-accel-layout-horizontal = &Horizontal
 qt-accel-zoom-in = H&ineinzoomen
 qt-accel-zoom-out = Herausz&oomen
 qt-accel-reset-zoom = Zoom zu&rücksetzen
+qt-accel-toggle-sidebar = Seitenleiste anzeigen/ausblenden
 qt-accel-zoom-editor-in = Im Editor hine&inzoomen
 qt-accel-zoom-editor-out = Im Editor herausz&oomen
 qt-accel-create-backup = &Sicherungskopie erstellen
