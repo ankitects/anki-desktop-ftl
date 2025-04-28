@@ -40,6 +40,7 @@ qt-accel-layout-horizontal = 水平(&H)
 qt-accel-zoom-in = 放大(&I)
 qt-accel-zoom-out = 缩小(&O)
 qt-accel-reset-zoom = 重置缩放(&R)
+qt-accel-toggle-sidebar = 显示/隐藏侧边栏
 qt-accel-zoom-editor-in = 放大编辑器(&I)
 qt-accel-zoom-editor-out = 缩小编辑器(&O)
 qt-accel-create-backup = 创建备份(&B)
