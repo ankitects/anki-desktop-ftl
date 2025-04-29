@@ -40,6 +40,7 @@ qt-accel-layout-horizontal = توغرىسىغا(&H)
 qt-accel-zoom-in = يېقىنلات(&I)
 qt-accel-zoom-out = يىراقلات(&O)
 qt-accel-reset-zoom = ئەسلىگە قايتۇر(&R)
+qt-accel-toggle-sidebar = يان بالداقنى ئالماشتۇر
 qt-accel-zoom-editor-in = تەھرىرلىگۈچنى يېقىنلات(&I)
 qt-accel-zoom-editor-out = تەھرىرلىگۈچنى يىراقلات(&O)
 qt-accel-create-backup = زاپاس قۇر(&B)
