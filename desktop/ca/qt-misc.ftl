@@ -38,7 +38,6 @@ qt-misc-please-select-1-card = (seleccioneu una targeta)
 qt-misc-please-select-a-deck = Seleccioneu una baralla.
 qt-misc-please-use-fileimport-to-import-this = Feu servir el menú «Fitxer > Importa» per a importar aquest fitxer.
 qt-misc-processing = S'està processant…
-qt-misc-replace-your-collection-with-an-earlier = Voleu substituir la vostra col·lecció per una còpia de seguretat anterior?
 qt-misc-revert-to-backup = Restaura una còpia de seguretat
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
@@ -52,7 +51,7 @@ qt-misc-target-deck-ctrlandd = Baralla de destinació (Ctrl+D)
 qt-misc-the-following-character-can-not-be = No es pot fer servir el següent caràcter: { $val }
 qt-misc-the-requested-change-will-require-a = El canvi que heu sol·licitat requereix una pujada completa de la base de dades la pròxima vegada que sincronitzeu la vostra col·lecció. Es perdran els repassos o qualsevol altre canvi pendent en els altres dispositius sempre que no s'hagin sincronitzat. Voleu continuar?
 qt-misc-there-must-be-at-least-one = Ha d'haver-hi almenys un perfil.
-qt-misc-this-file-exists-are-you-sure = Aquest fitxer ja existeix. Esteu segur que el voleu sobreescriure?
+qt-misc-this-file-exists-are-you-sure = Aquest fitxer ja existeix. Segur que el voleu sobreescriure?
 qt-misc-unable-to-access-anki-media-folder = No s'ha pogut accedir a la carpeta de fitxers multimèdia d'Anki. És possible que els permisos del sistema sobre els directoris temporals siguin incorrectes.
 qt-misc-unexpected-response-code = Codi de resposta inesperada: { $val }
 qt-misc-would-you-like-to-download-it = Voleu descarregar-ho ara?
@@ -77,3 +76,4 @@ qt-misc-layout-horizontal-enabled = S'ha activat la disposició horitzontal
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
+qt-misc-replace-your-collection-with-an-earlier = Voleu substituir la vostra col·lecció per una còpia de seguretat anterior?
