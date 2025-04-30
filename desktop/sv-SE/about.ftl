@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = Om du har bidragit men inte finns med p�
 about-version = Version { $val }
 about-visit-website = <a href='{ $val }'>Besök webbsajt</a>
 about-written-by-damien-elmes-with-patches = Skrivet av Damien Elmes, med patchar, översättningar, test och design av:<p>{ $cont }
+# appended to the end of the contributor list in the about screen
+about-and-others = med flera

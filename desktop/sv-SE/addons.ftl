@@ -14,7 +14,7 @@ addons-failed-to-load2 =
     Du kan använda { about-copy-debug-info }-knappen för att få information som du kan klistra in i en felanmälan
     till tilläggets skapare.
     
-    Tillägg som inte har en tillgänglig uppdatering kan du avaktivera eller ta bort för att förhindra detta
+    Tillägg som inte har en tillgänglig uppdatering kan du inaktivera eller ta bort för att förhindra detta
     meddelande från att synas.
 addons-startup-failed = Tillägg misslyckades att starta
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
@@ -55,10 +55,10 @@ addons-invalid-configuration-top-level-object-must = Ogiltig konfiguration: obje
 addons-no-updates-available = Inga uppdateringar är tillgängliga.
 addons-one-or-more-errors-occurred = Ett eller fler fel inträffade:
 addons-packaged-anki-addon = Paketerat Anki-tillägg
-addons-please-check-your-internet-connection = Vänligen kontrollera din internetanslutning
-addons-please-report-this-to-the-respective = Vänligen anmäl detta till respektive tilläggs skapare.
-addons-please-restart-anki-to-complete-the = <b>Vänligen starta om Anki för att slutföra installationen.</b>
-addons-please-select-a-single-addon-first = Vänligen välj ett enskilt tillägg först.
+addons-please-check-your-internet-connection = Var god kontrollera din internetanslutning.
+addons-please-report-this-to-the-respective = Var god anmäl detta till tilläggens skapare.
+addons-please-restart-anki-to-complete-the = <b>Var god starta om Anki för att slutföra installationen.</b>
+addons-please-select-a-single-addon-first = Var god välj ett enskilt tillägg först.
 addons-requires = (kräver { $val })
 addons-restored-defaults = Återställde standardvärden
 addons-the-following-addons-are-incompatible-with = Följande tillägg är inkompatiibla med { $name } och har inaktiverats: { $found }

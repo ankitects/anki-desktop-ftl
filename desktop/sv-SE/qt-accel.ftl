@@ -40,6 +40,7 @@ qt-accel-layout-horizontal = &Vågrät
 qt-accel-zoom-in = Zooma &in
 qt-accel-zoom-out = Zooma &ut
 qt-accel-reset-zoom = &Återställ zoom
+qt-accel-toggle-sidebar = Växla sidopanel
 qt-accel-zoom-editor-in = Zooma &in editor
 qt-accel-zoom-editor-out = Zooma &ut editor
 qt-accel-create-backup = Skapa &säkerhetskopia
