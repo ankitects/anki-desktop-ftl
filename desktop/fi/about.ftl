@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = Jos olet tehnyt työtä Ankin hyväksi, 
 about-version = Versio { $val }
 about-visit-website = <a href='{ $val }'>Käy verkkosivulla</a>
 about-written-by-damien-elmes-with-patches = Kirjoittanut Damien Elmes, lisäksi korjauksia, käännöksiä, testausta ja suunnittelua ovat tehneet:<p>{ $cont }
+# appended to the end of the contributor list in the about screen
+about-and-others = ja moni muu

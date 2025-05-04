@@ -40,6 +40,7 @@ qt-accel-layout-horizontal = &Vaakasuuntainen
 qt-accel-zoom-in = &Lähennä
 qt-accel-zoom-out = L&oitonna
 qt-accel-reset-zoom = &Todellinen koko
+qt-accel-toggle-sidebar = Näytä/piilota sivupalkki
 qt-accel-zoom-editor-in = &Lähennä muokkausnäkymää
 qt-accel-zoom-editor-out = &Loitonna muokkausnäkymää
 qt-accel-create-backup = Luo &varmuuskopio
