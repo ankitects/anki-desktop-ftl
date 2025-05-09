@@ -19,7 +19,7 @@ qt-misc-debug-console = Vianjäljityskonsoli
 qt-misc-deck-will-be-imported-when-a = Pakka tuodaan kun käyttäjätili avataan
 qt-misc-empty-cards = Tyhjät kortit...
 qt-misc-error-during-startup = Virhe käynnistyksessä:</ br> { $val }
-qt-misc-ignore-this-update = Unohda tämä päivitys
+qt-misc-ignore-this-update = Ohita tämä päivitys
 qt-misc-in-order-to-ensure-your-collection = Varmistaaksesi, että kokoelmasi toimii oikein laitteiden välillä siirryttäessä, Anki vaatii, että tietokoneesi sisäisen kellon täytyy olla oikeassa ajassa. Sisäinen kello voi olla väärässä vaikka järjestelmäsi näyttäisikin oikeaa paikallista aikaa.  Siirry tietokoneesi aika-asetuksiin ja tarkista seuraavat asiat:  - Näyttääkö 12 tunnin kello oikeaa vuorokauden aikaa (aamupäivä vai iltapäivä) - Kellon kulun oikea-aikaisuus - Päivä, kuukausi ja vuosi - Aikavyöhyke - Kesä-/talviaika  Ero oikeaan aikaan on: { $val }.
 qt-misc-invalid-property-found-on-card-please = Kortista löydettiin virheellinen ominaisuus. Valitse Työkalut>Tarkista tietokanta. Jos ongelma ilmenee uudelleen, pyydä apua <a href="http://ankisrs.net/docs/help.html">tukisivulta</a>.
 qt-misc-loading = Ladataan…
