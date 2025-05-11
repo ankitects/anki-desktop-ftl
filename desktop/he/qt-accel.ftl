@@ -40,6 +40,7 @@ qt-accel-layout-horizontal = &לרוחב
 qt-accel-zoom-in = &הגדל תצוגה
 qt-accel-zoom-out = הקטן &תצוגה
 qt-accel-reset-zoom = &אפס גודל תצוגה
+qt-accel-toggle-sidebar = הפעל/כבה סרגל צד
 qt-accel-zoom-editor-in = הגדל &תצוגת עורך
 qt-accel-zoom-editor-out = &הקטן תצוגת עורך
 qt-accel-create-backup = יצירת &גיבוי
