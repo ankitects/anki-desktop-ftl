@@ -10,10 +10,8 @@ qt-misc-configure-interface-language-and-options = Configurar o idioma da interf
 qt-misc-create-filtered-deck = Crear un feixe filtrado...
 qt-misc-debug-console = Consola de depuración
 qt-misc-deck-will-be-imported-when-a = O feixe importarase cando se abra un perfil.
-qt-misc-default = Predeterminado
-qt-misc-empty-cards = Traxetas baleiras...
+qt-misc-empty-cards = Tarxetas baleiras...
 qt-misc-error-during-startup = Produciuse un erro ao iniciar: { $val }
-qt-misc-filtered-deck = Feixe filtrado { $val }
 qt-misc-ignore-this-update = Ignorar esta actualización
 qt-misc-in-order-to-ensure-your-collection = Para asegurarse do bo funcionamento da túa colección ao movela entre dispositovos, Anki precisa que o reloxo interno do teu ordenador esté configurado correctamente. O reloxo interno pode estar mal aínda que o sistema amose a hora local correcta.  Por favor, visite os axustes de hora no seu computador e verifique o seguinte:  - AM/PM - Aceleración/deceleración do reloxo - Día, mes e ano - Fuso horario - Horario de verán/inverno  Diferenza coa hora correcta: { $val }.
 qt-misc-invalid-property-found-on-card-please = Atopouse unha propiedade non válida nunha carta. Por favor use Ferramentas>Verificar de datos, e se o problema reaparece, por favor pregunte no sitio de soporte.
@@ -22,14 +20,12 @@ qt-misc-manage = Administrar
 qt-misc-name-exists = Este nome xa existe.
 qt-misc-non-unicode-text = <texto non unicode>
 qt-misc-optimizing = Optimizando...
-qt-misc-please-connect-a-microphone-and-ensure = Conecte un micrófono, e asegúrese de que outros programas non estean usando o dispositivo de son.
 qt-misc-please-ensure-a-profile-is-open = Asegúrese de que hai un perfil aberto e de que o Anki non estea ocupado, e tenteo de novo.
 qt-misc-please-select-1-card = (seleccione 1 tarxeta)
 qt-misc-please-select-a-deck = Seleccione un feixe
 qt-misc-please-use-fileimport-to-import-this = Use Ficheiro > Importar para importar este ficheiro.
 qt-misc-processing = Procesando...
-qt-misc-resume-now = Continuar agora
-qt-misc-reverted-to-state-prior-to = Revertido ao estado anterior a «{ $val }».
+# please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = A tecla Maiús estaba premida. Omitindo a sincronización automática e a carga de complementos.
 qt-misc-study-deck = Estudar un feixe...
@@ -38,11 +34,13 @@ qt-misc-the-following-character-can-not-be = Non se pode usar o seguinte caráct
 qt-misc-the-requested-change-will-require-a = O cambio solicitado fará necesario un envío completo da base de datos a próxima vez que sincronice a súa colección. Se ten repasos ou outros cambios pendentes noutro dispositivo que non teñan sido sincronizados aínda, perderanse. Quere continuar?
 qt-misc-there-must-be-at-least-one = Ten que haber polo menos un perfil.
 qt-misc-this-file-exists-are-you-sure = Este ficheiro xa existe. Confirma que quere sobrescribilo?
-qt-misc-undo = Desfacer
-qt-misc-undo2 = Desfacer { $val }
-qt-misc-waiting-for-editing-to-finish = Agardando a que remate a edición.
 qt-misc-would-you-like-to-download-it = Quere descargalo agora?
-qt-misc-second = { $count ->
-    [one] { $count } segundo
-   *[other] { $count } segundos
-  }
+qt-misc-second =
+    { $count ->
+        [one] { $count } segundo
+       *[other] { $count } segundos
+    }
+
+## deprecated- these strings will be removed in the future, and do not need
+## to be translated
+
