@@ -1,0 +1,14 @@
+qt-accel-about = &Жайлы
+qt-accel-cards = &Карталар
+qt-accel-check-database = &Дерекқорды Тексеру
+qt-accel-check-media = &Медианы Тексеру
+qt-accel-edit = &Өңдеу
+qt-accel-exit = Ш&ығу
+qt-accel-export = &Экспорттау...
+qt-accel-export-notes = Жазбаларды &Экспорттау
+qt-accel-file = &Файл
+qt-accel-filter = Сүз&гі
+qt-accel-find = &Табу
+qt-accel-find-and-replace = Табу және Ауыс&тыру...
+qt-accel-find-duplicates = &Телнұсқаларды Табу...
+qt-accel-go = &Өту

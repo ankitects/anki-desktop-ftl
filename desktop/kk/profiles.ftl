@@ -5,4 +5,4 @@ profiles-folder-readme =
     
     { $link }
 # will appear as 'Downgrade & Quit'
-profiles-downgrade-and-quit = Төмендету және Шығу
+profiles-downgrade-and-quit = Төмендету && Шығу
