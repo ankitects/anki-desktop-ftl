@@ -23,6 +23,7 @@ qt-misc-revert-to-backup = Сақтық көшірмеге қайтару
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shortcut-key-left-arrow = Пернелер тіркесімі: Сол Жүгірткі
+qt-misc-shortcut-key-right-arrow-or-enter = Пернелер тіркесімі: Оң Жүгірткі не Enter
 qt-misc-stats = Санақ
 qt-misc-study-deck = Колоданы Оқу
 qt-misc-sync = Үндестіру
