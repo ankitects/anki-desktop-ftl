@@ -1,0 +1,9 @@
+qt-accel-cards = &Карталар
+qt-accel-check-media = &Медианы Тексеру
+qt-accel-edit = &Өңдеу
+qt-accel-exit = &Шығу
+qt-accel-export = &Экспорт...
+qt-accel-export-notes = Жазбаларды &Экспорттау
+qt-accel-file = &Файл
+qt-accel-find = &Табу
+qt-accel-tools = &Құралдар
