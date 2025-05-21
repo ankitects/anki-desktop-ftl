@@ -1,4 +1,4 @@
-about-a-big-thanks-to-all-the = Ұсыныс білдіріп, қателер туралы хабарлап, қолдау көрсеткен барлық жанға зор алғыс!
+about-a-big-thanks-to-all-the = Ұсыныс айтып, қате туралы хабарлап, қолдау көрсеткен барлық жанға зор алғыс.
 about-about-anki = Anki Жайында
 about-anki-is-a-friendly-intelligent-spaced = Anki — ыңғайлы әрі зерделі аралық қайталау жүйесі. Ол ашық және тегін бағдарлама.
 about-anki-is-licensed-under-the-agpl3 = Anki AGPL3 лицензиясымен таратылады. Толық мәліметті бастапқы кодтағы лицензия файлынан қараңыз.

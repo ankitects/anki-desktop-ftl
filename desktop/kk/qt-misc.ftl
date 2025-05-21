@@ -1,4 +1,6 @@
+qt-misc-addon-will-be-installed-when-a = Қондырма профайл ашылғанда орнатылады.
 qt-misc-addons = Қондырмалар
+qt-misc-anki-updatedanki-has-been-released = <h1>Anki Жаңартлды</h1>Anki { $val } жарияланды.<br><br>
 qt-misc-back-side-only = Артқы Жағы Ғана
 qt-misc-backing-up = Сақтық Көшірмелеу...
 qt-misc-browse = Шолып көру
@@ -7,8 +9,10 @@ qt-misc-choose-deck = Колоданы Таңдау
 qt-misc-choose-note-type = Жазба Түрін Таңдау
 qt-misc-closing = Жабу...
 qt-misc-copy-to-clipboard = Буферге Көшіру
+qt-misc-create-filtered-deck = Сүзілген Колода Жасау...
 qt-misc-debug-console = Оңдау Консолі
 qt-misc-empty-cards = Құр Карталар...
+qt-misc-error-during-startup = Жегілеу қатесі: { $val }
 qt-misc-ignore-this-update = Осы жаңартуды елемеу
 qt-misc-loading = Тиеу...
 qt-misc-manage = Басқару
@@ -18,6 +22,7 @@ qt-misc-non-unicode-text = <non-unicode text>
 qt-misc-optimizing = Оңтайландыру...
 qt-misc-please-select-1-card = (1 карта таңдаңыз)
 qt-misc-please-select-a-deck = Колоданы таңдаңыз.
+qt-misc-please-use-fileimport-to-import-this = Осы файлды импорттау үшін Файл>Импорт қолданыңыз.
 qt-misc-processing = Өңдеу...
 qt-misc-revert-to-backup = Сақтық көшірмеге қайтару
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
@@ -28,8 +33,14 @@ qt-misc-stats = Санақ
 qt-misc-study-deck = Колоданы Оқу
 qt-misc-sync = Үндестіру
 qt-misc-target-deck-ctrlandd = Мақсат Колода (Ctrl+D)
+qt-misc-the-following-character-can-not-be = Осы таңбамы қолдануға болмайды: { $val }
+qt-misc-there-must-be-at-least-one = Кем дегенде бір профайл болуы керек.
+qt-misc-would-you-like-to-download-it = Оны қазір жүктейсізбе?
 qt-misc-error = Қате
 qt-misc-second = { $count } секунд
+qt-misc-layout-auto-enabled = Бейімді орналасу қосылды
+qt-misc-layout-vertical-enabled = Тік орналасу қосылды
+qt-misc-layout-horizontal-enabled = Көолденең орналасу қосылды
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
