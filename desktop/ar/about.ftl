@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = إذا ساهمت في البرنامج 
 about-version = الإصدار { $val }
 about-visit-website = <a href='{ $val }'> زر الموقع الالكتروني</a>
 about-written-by-damien-elmes-with-patches = تأليف Damien Elmes، مع مساهمات،    وترجمة، واختبار، وتصميم من:<p>{ $cont }
+# appended to the end of the contributor list in the about screen
+about-and-others = وآخرون

@@ -42,6 +42,7 @@ errors-unable-open-collection =
     
     معلومات التصحيح:
 errors-windows-tts-runtime-error = فشلت خدمة تحويل النص إلى كلام. تأكد من تثبيت آخر تحديثات ويندوز، أو أعد تشغيل حاسوبك، أو جرب استخدام صوت آخر.
+errors-windows-ssl-updates = فشل الاتصال الآمن. تأكد من تنزيل تحديثات ويندوز ثم أعد المحاولة.
 
 ## OBSOLETE; you do not need to translate this
 
