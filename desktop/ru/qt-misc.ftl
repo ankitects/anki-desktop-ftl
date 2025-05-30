@@ -38,7 +38,7 @@ qt-misc-please-select-1-card = (выберите 1 карточку)
 qt-misc-please-select-a-deck = Выберите колоду.
 qt-misc-please-use-fileimport-to-import-this = Используйте «Файл» — «Импортировать».
 qt-misc-processing = Обрабатывается...
-qt-misc-replace-your-collection-with-an-earlier = Заместить вашу коллекцию более ранней резервной копией?
+qt-misc-replace-your-collection-with-an-earlier2 = Заменить вашу коллекцию более ранней резервной копией из { $val }?
 qt-misc-revert-to-backup = Возврат к резервной копии
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
@@ -79,3 +79,4 @@ qt-misc-layout-horizontal-enabled = Горизонтальный режим вк
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
+qt-misc-replace-your-collection-with-an-earlier = Заместить вашу коллекцию более ранней резервной копией?

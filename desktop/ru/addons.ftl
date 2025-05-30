@@ -4,6 +4,15 @@ addons-failed-to-load =
     
     При загрузке '{ $name }':
     { $traceback }
+addons-failed-to-load2 =
+    Не удалось загрузить следующие дополнения:
+    { $addons }
+    
+    Возможно, их необходимо обновить для поддержки этой версии Anki. Нажмите кнопку { addons-check-for-updates }, чтобы узнать, доступны ли какие-либо обновления.
+    
+    Вы можете нажать кнопку { about-copy-debug-info }, чтобы получить информацию, которую необходимо вставить в отчет автору дополнения.
+    
+    Чтобы это сообщение не появлялось, вам необходимо отключить или удалить дополнения, у которых нет доступных обновлений.
 addons-startup-failed = Дополнение не запустилось
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Настроить '{ $name }'

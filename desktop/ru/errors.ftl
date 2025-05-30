@@ -1,4 +1,8 @@
 -errors-support-site = [страница поддержки](https://help.ankiweb.net)
+errors-standard-popup2 = Anki столкнулся с проблемой. Пожалуйста, следуйте инструкциям по устранению неполадок.
+errors-may-be-addon = Проблема может быть вызвана дополнением.
+errors-troubleshooting-button = Устранение неполадок
+errors-copy-debug-info-button = Копировать отладочную информацию
 errors-copied-to-clipboard = Скопировано в буфер обмена
 errors-standard-popup =
     # Ошибка
@@ -33,6 +37,7 @@ errors-unable-open-collection =
     
     Отладочная информация:
 errors-windows-tts-runtime-error = Автоматическая озвучка текста не работает. Проверьте установку обновлений Windows, перезагрузите компьютер и воспользуйтесь другой голосовой службой.
+errors-windows-ssl-updates = Сбой безопасного соединения. Убедитесь, что установлены обновления Windows, затем повторите попытку.
 
 ## OBSOLETE; you do not need to translate this
 

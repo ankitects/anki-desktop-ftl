@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = Если вы внесли свой вк
 about-version = Версия { $val }
 about-visit-website = <a href='{ $val }'>Посетить сайт</a>
 about-written-by-damien-elmes-with-patches = Написал Damien Elmes, с патчами, переводами,    проверкой и дизайном из:<p>{ $cont }
+# appended to the end of the contributor list in the about screen
+about-and-others = и другие
