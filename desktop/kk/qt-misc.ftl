@@ -35,6 +35,7 @@ qt-misc-sync = Үндестіру
 qt-misc-target-deck-ctrlandd = Мақсат Колода (Ctrl+D)
 qt-misc-the-following-character-can-not-be = Осы таңбамы қолдануға болмайды: { $val }
 qt-misc-there-must-be-at-least-one = Кем дегенде бір профайл болуы керек.
+qt-misc-unexpected-response-code = Күтпеген жауап коды: { $val }
 qt-misc-would-you-like-to-download-it = Оны қазір жүктейсізбе?
 qt-misc-error = Қате
 qt-misc-second = { $count } секунд
