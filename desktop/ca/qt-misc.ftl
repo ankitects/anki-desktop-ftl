@@ -38,6 +38,7 @@ qt-misc-please-select-1-card = (seleccioneu una targeta)
 qt-misc-please-select-a-deck = Seleccioneu una baralla.
 qt-misc-please-use-fileimport-to-import-this = Feu servir el menú «Fitxer > Importa» per a importar aquest fitxer.
 qt-misc-processing = S'està processant…
+qt-misc-replace-your-collection-with-an-earlier2 = Voleu restaurar la vostra col·lecció amb la còpia de seguretat { $val }?
 qt-misc-revert-to-backup = Restaura una còpia de seguretat
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"

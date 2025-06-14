@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = Si heu contribuït al projecte però no 
 about-version = Versió { $val }
 about-visit-website = <a href='{ $val }'>Ves al lloc web</a>
 about-written-by-damien-elmes-with-patches = Escrit per Damien Elmes. Pedaços, traduccions, disseny i verificació de: <p>{ $cont }
+# appended to the end of the contributor list in the about screen
+about-and-others = i altres
