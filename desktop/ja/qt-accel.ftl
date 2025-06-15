@@ -40,6 +40,7 @@ qt-accel-layout-horizontal = テーブルの右側 (&H)
 qt-accel-zoom-in = 拡大 (&I)
 qt-accel-zoom-out = 縮小 (&O)
 qt-accel-reset-zoom = 拡大縮小をリセット (&R)
+qt-accel-toggle-sidebar = サイドバー表示を切り替える
 qt-accel-zoom-editor-in = エディタを拡大 (&I)
 qt-accel-zoom-editor-out = エディタを縮小 (&O)
 qt-accel-create-backup = バックアップを作成 (&B)
