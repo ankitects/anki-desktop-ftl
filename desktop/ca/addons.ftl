@@ -1,8 +1,8 @@
 addons-possibly-involved = Complements que potser hi estan involucrats: { $addons }
 addons-failed-to-load =
-    Un complement que heu instal·lat no s'ha pogut carregar. Si aquest problema persisteix, deshabiliteu-lo en el menú Eines > Complements.
+    No s’ha pogut carregar un dels complements que heu instal·lat. Si el problema persisteix, deshabiliteu-lo o suprimiu-lo en el menú Eines > Complements.
     
-    Mentre es carregava '{ $name }'
+    Mentre es carregava «{ $name }»
     { $traceback }
 addons-failed-to-load2 =
     No s’ha pogut carregar els següents complements:
@@ -32,7 +32,7 @@ addons-disabled = (desactivat)
 addons-disabled2 = (desactivat)
 addons-download-complete-please-restart-anki-to = S'ha completat la descàrrega. Reinicieu Anki per a aplicar els canvis.
 addons-downloaded-fnames = S'ha descarregat { $fname }
-addons-downloading-adbd-kb02fkb = S'està descarregant { $part }/{ $total } ({ $kilobytes } KB)…
+addons-downloading-adbd-kb02fkb = S’està descarregant { $part }/{ $total } ({ $kilobytes } KB)…
 addons-error-downloading-ids-errors = S'ha produït un error en descarregar <i>{ $id }</i>: { $error }
 addons-error-installing-bases-errors = S'ha produït un error en instal·lar <i>{ $base }</i>: { $error }
 addons-get-addons = Descarrega complements…
