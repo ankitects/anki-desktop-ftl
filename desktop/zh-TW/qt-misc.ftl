@@ -41,7 +41,7 @@ qt-misc-processing = 處理中...
 qt-misc-replace-your-collection-with-an-earlier2 = 使用備份「{ $val }」來取代當前集合？
 qt-misc-revert-to-backup = 回復備份
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
-qt-misc-segoe-ui = "Segoe UI", "Microsoft JhengHei UI"
+qt-misc-segoe-ui = "Microsoft JhengHei UI"
 qt-misc-shift-key-was-held-down-skipping = 已按下 Shift 鍵。將略過自動同步及載入附加元件。
 qt-misc-shortcut-key-left-arrow = 快速鍵：左方向鍵
 qt-misc-shortcut-key-right-arrow-or-enter = 快速鍵：右方向鍵 或 Enter 鍵
