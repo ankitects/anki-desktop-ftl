@@ -43,6 +43,7 @@ qt-misc-there-must-be-at-least-one = Deve existir pelo menos um utilizador.
 qt-misc-this-file-exists-are-you-sure = Este ficheiro existe. Gostaria de sobreescrevê-lo?
 qt-misc-unexpected-response-code = Código de resposta inesperado: { $val }
 qt-misc-would-you-like-to-download-it = Gostaria de fazer o download agora?
+qt-misc-your-collection-file-appears-to-be = Os ficheiros da sua colecção aparentam estar corrompidos. Isto pode ocorrer quando o ficheiro é copiado ou movido enquanto o Anki está aberto, ou quando a colecção é guardada num disco na rede, ou na nuvem. Se os problemas persistirem depois de reiniciar o computador, por favor, abra uma cópia de segurança a partir do ecrã do perfil.
 qt-misc-second =
     { $count ->
         [one] { $count } segundo
