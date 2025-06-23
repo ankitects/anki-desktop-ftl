@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = Jeśli masz swój wkład w program i nie
 about-version = Wersja { $val }
 about-visit-website = <a href='{ $val }'>Odwiedź stronę</a>
 about-written-by-damien-elmes-with-patches = Stworzone przez Damiena Elmesa, z poprawkami, tłumaczeniami, testowaniem i projektem autorstwa następujących osób:<p>{ $cont }
+# appended to the end of the contributor list in the about screen
+about-and-others = i in.

@@ -69,6 +69,7 @@ qt-misc-second =
     { $count ->
         [one] { $count } sekunda
         [few] { $count } sekundy
+        [many] { $count } sekund
        *[other] { $count } sekund
     }
 qt-misc-layout-auto-enabled = Włączono układ automatyczny
