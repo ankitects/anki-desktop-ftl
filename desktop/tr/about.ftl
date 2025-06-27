@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = Eğer katkıda bulunmuş ve listede yoks
 about-version = Sürüm { $val }
 about-visit-website = <a href='{ $val }'>Siteye git</a>
 about-written-by-damien-elmes-with-patches = Damien Elmes tarafından yazıldı ve aşağıda listelenenlerden yamalar, çeviriler,    sınamaları ve tasarım içerdi.<p>{ $cont }'den
+# appended to the end of the contributor list in the about screen
+about-and-others = ve diğerleri

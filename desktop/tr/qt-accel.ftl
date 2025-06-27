@@ -40,6 +40,7 @@ qt-accel-layout-horizontal = &Yatay
 qt-accel-zoom-in = &Yakınlaştır
 qt-accel-zoom-out = &Uzaklaştır
 qt-accel-reset-zoom = Yakınlaştırmayı &Sıfırla
+qt-accel-toggle-sidebar = Kenar Çubuğunu Aç/Kapa
 qt-accel-zoom-editor-in = Düzenleyiciyi &Yakınlaştır
 qt-accel-zoom-editor-out = Düzenleyiciyi &Uzaklaştır
 qt-accel-create-backup = &Yedek Oluştur
