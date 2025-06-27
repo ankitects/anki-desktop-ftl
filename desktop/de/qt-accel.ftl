@@ -46,3 +46,4 @@ qt-accel-zoom-editor-in = Im Editor hine&inzoomen
 qt-accel-zoom-editor-out = Im Editor herausz&oomen
 qt-accel-create-backup = &Sicherungskopie erstellen
 qt-accel-load-backup = Auf den Stand der Siche&rungskopie zurücksetzen
+qt-accel-upgrade-downgrade = Anki-Version wechseln
