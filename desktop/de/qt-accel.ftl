@@ -1,4 +1,5 @@
 qt-accel-about = &Über
+qt-accel-about-mac = Über Anki …
 qt-accel-cards = &Karten
 qt-accel-check-database = &Datenbank überprüfen
 qt-accel-check-media = &Medien überprüfen
