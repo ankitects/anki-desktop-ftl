@@ -74,6 +74,7 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = Включено адаптивне розміщення
 qt-misc-layout-vertical-enabled = Ввімкнено вертикальну розкладку
 qt-misc-layout-horizontal-enabled = Ввімкнено горизонтальну розкладку
+qt-misc-open-anki-launcher = Перемкнутися до іншої версії Anki?
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
