@@ -71,6 +71,7 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = 已启用响应布局
 qt-misc-layout-vertical-enabled = 已启用垂直布局
 qt-misc-layout-horizontal-enabled = 已启用水平布局
+qt-misc-open-anki-launcher = 更改为其他 Anki 版本？
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
