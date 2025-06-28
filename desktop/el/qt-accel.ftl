@@ -1,4 +1,5 @@
 qt-accel-about = &Σχετικά...
+qt-accel-about-mac = Σχετικά με το Anki...
 qt-accel-cards = &Κάρτες
 qt-accel-check-database = &Έλεγχος βάσης δεδομένων
 qt-accel-check-media = Έλεγχος &πολυμέσων
@@ -45,3 +46,4 @@ qt-accel-zoom-editor-in = &Μεγέθυνση επεξεργαστή
 qt-accel-zoom-editor-out = &Σμίκρυνση επεξεργαστή
 qt-accel-create-backup = Δημιουργία &αντιγράφου ασφαλείας
 qt-accel-load-backup = &Επαναφορά σε αντίγραφο ασφαλείας
+qt-accel-upgrade-downgrade = Αναβάθμιση/Υποβάθμιση

@@ -69,6 +69,7 @@ qt-misc-second =
     }
 qt-misc-layout-vertical-enabled = Κάθετη διάταξη ενεργοποιημένη
 qt-misc-layout-horizontal-enabled = Οριζόντια διάταξη ενεργοποιημένη
+qt-misc-open-anki-launcher = Αλλαγή σε διαφορετική έκδοση του Anki;
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
