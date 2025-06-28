@@ -75,6 +75,7 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = Адаптивный макет включён
 qt-misc-layout-vertical-enabled = Вертикальный макет включён
 qt-misc-layout-horizontal-enabled = Горизонтальный режим включён
+qt-misc-open-anki-launcher = Перейти на другую версию Anki?
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
