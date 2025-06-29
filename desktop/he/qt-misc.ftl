@@ -73,6 +73,7 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = פריסה תגובה מופעלת
 qt-misc-layout-vertical-enabled = פריסה לאורך מופעלת
 qt-misc-layout-horizontal-enabled = פריסה לרוחב מופעלת
+qt-misc-open-anki-launcher = לעבור לגרסה אחרת של Anki?
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated

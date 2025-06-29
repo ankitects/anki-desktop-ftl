@@ -1,4 +1,5 @@
 qt-accel-about = &אודות...
+qt-accel-about-mac = אודות אנקי...
 qt-accel-cards = &כרטיסים
 qt-accel-check-database = &בדוק מסד נתונים
 qt-accel-check-media = בדוק &מדיה...
@@ -45,3 +46,4 @@ qt-accel-zoom-editor-in = הגדל &תצוגת עורך
 qt-accel-zoom-editor-out = &הקטן תצוגת עורך
 qt-accel-create-backup = יצירת &גיבוי
 qt-accel-load-backup = &חזור לגיבוי
+qt-accel-upgrade-downgrade = שדרוג/שדרוג לאחור
