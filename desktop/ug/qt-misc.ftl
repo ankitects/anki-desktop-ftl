@@ -72,6 +72,7 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = ئىنكاس جايلاشتۇرۇش قوزغىتىلدى
 qt-misc-layout-vertical-enabled = بويىغا جايلاشتۇرۇش قوزغىتىلدى
 qt-misc-layout-horizontal-enabled = توغرىسىغا جايلاشتۇرۇش قوزغىتىلدى
+qt-misc-open-anki-launcher = باشقا Anki نەشرىگە ئۆزگەرتەمدۇ؟
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated

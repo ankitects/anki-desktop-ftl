@@ -1,4 +1,5 @@
 qt-accel-about = ھەققىدە(&A)
+qt-accel-about-mac = Anki ھەققىدە…
 qt-accel-cards = كارتا(&C)
 qt-accel-check-database = ساندان تەكشۈر(&C)
 qt-accel-check-media = ۋاسىتە تەكشۈر(&M)
@@ -45,3 +46,4 @@ qt-accel-zoom-editor-in = تەھرىرلىگۈچنى يېقىنلات(&I)
 qt-accel-zoom-editor-out = تەھرىرلىگۈچنى يىراقلات(&O)
 qt-accel-create-backup = زاپاس قۇر(&B)
 qt-accel-load-backup = زاپاسنى ئەسلىگە كەلتۈر(&R)
+qt-accel-upgrade-downgrade = يۈكسەل/تۆۋەنلەت
