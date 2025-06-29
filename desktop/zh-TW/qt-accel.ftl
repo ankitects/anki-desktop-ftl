@@ -1,4 +1,5 @@
 qt-accel-about = 關於(&A)
+qt-accel-about-mac = 關於 Anki
 qt-accel-cards = 卡片(&C)
 qt-accel-check-database = 檢查資料庫(&C)
 qt-accel-check-media = 檢查媒體檔(&M)
@@ -45,3 +46,4 @@ qt-accel-zoom-editor-in = 放大編輯器(&I)
 qt-accel-zoom-editor-out = 縮小編輯器(&O)
 qt-accel-create-backup = 建立備份(&B)
 qt-accel-load-backup = 回復備份(&R)
+qt-accel-upgrade-downgrade = 升級/降級
