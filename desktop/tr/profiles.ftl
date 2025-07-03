@@ -6,4 +6,4 @@ profiles-folder-readme =
     
     { $link }
 # will appear as 'Downgrade & Quit'
-profiles-downgrade-and-quit = Eski sürüme geç && Çıkış yap
+profiles-downgrade-and-quit = Sürüm Düşür && Çık
