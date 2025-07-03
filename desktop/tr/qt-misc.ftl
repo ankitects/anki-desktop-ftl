@@ -76,6 +76,7 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = Duyarlı düzen etkin
 qt-misc-layout-vertical-enabled = Dikey düzen etkin
 qt-misc-layout-horizontal-enabled = Yatay düzen etkin
+qt-misc-open-anki-launcher = Anki'nin farklı bir sürümüne geçsin mi?
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated

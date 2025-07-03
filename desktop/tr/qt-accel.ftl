@@ -1,4 +1,5 @@
 qt-accel-about = &Hakkında...
+qt-accel-about-mac = Anki Hakkında...
 qt-accel-cards = &Kartlar
 qt-accel-check-database = Veritabanını &Kontrol Et
 qt-accel-check-media = &Ortamı Kontrol Et
@@ -45,3 +46,4 @@ qt-accel-zoom-editor-in = Düzenleyiciyi &Yakınlaştır
 qt-accel-zoom-editor-out = Düzenleyiciyi &Uzaklaştır
 qt-accel-create-backup = &Yedek Oluştur
 qt-accel-load-backup = Yedeğe &Geri Dön
+qt-accel-upgrade-downgrade = Sürüm Yükseltme/Düşürme
