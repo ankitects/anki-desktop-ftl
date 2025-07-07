@@ -52,6 +52,7 @@ qt-misc-second = { $count } секунд
 qt-misc-layout-auto-enabled = Бейімді орналасу қосылды
 qt-misc-layout-vertical-enabled = Тік орналасу қосылды
 qt-misc-layout-horizontal-enabled = Көолденең орналасу қосылды
+qt-misc-open-anki-launcher = Anki-дің нұсқасын ауыстыру?
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
