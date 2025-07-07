@@ -1,4 +1,5 @@
 qt-accel-about = &Informazioni...
+qt-accel-about-mac = Informazioni su Anki...
 qt-accel-cards = &Carte
 qt-accel-check-database = &Controlla database
 qt-accel-check-media = Controlla file &Multimediali...
@@ -40,7 +41,9 @@ qt-accel-layout-horizontal = &Orizzontale
 qt-accel-zoom-in = &Aumenta Zoom
 qt-accel-zoom-out = &Diminuisci Zoom
 qt-accel-reset-zoom = &Ripristina Zoom
+qt-accel-toggle-sidebar = Attiva/disattiva barra laterale
 qt-accel-zoom-editor-in = &Aumenta Zoom (Editor)
 qt-accel-zoom-editor-out = &Diminuisci Zoom (Editor)
 qt-accel-create-backup = Crea &Backup
 qt-accel-load-backup = &Ripristina da Backup
+qt-accel-upgrade-downgrade = Effettua upgrade/downgrade

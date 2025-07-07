@@ -45,6 +45,7 @@ errors-unable-open-collection =
     
     Informazioni per il debug:
 errors-windows-tts-runtime-error = Il servizio TTS non funziona. Assicurati che gli aggiornamenti di Windows siano installati, prova a riavviare il computer o prova a usare una voce diversa.
+errors-windows-ssl-updates = La connessione sicura è fallita. Assicurati di aver installato gli aggiornamenti di Windows e riprova.
 
 ## OBSOLETE; you do not need to translate this
 

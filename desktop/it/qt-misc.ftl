@@ -75,6 +75,7 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = Layout reattivo abilitato
 qt-misc-layout-vertical-enabled = Layout verticale abilitato
 qt-misc-layout-horizontal-enabled = Layout orizzontale abilitato
+qt-misc-open-anki-launcher = Passare a una versione diversa di Anki?
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
