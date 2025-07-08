@@ -11,6 +11,7 @@ qt-accel-file = &Fayl
 qt-accel-filter = Fil&tr
 qt-accel-find = &Topish
 qt-accel-find-and-replace = Topish va &almashtirish
+qt-accel-find-duplicates = &Nusxalarni topish...
 qt-accel-go = Oʻt&ish
 qt-accel-guide = &Qoʻllanma
 qt-accel-help = &Yordam
