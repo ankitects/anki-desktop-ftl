@@ -73,6 +73,7 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = Automaattinen asettelu käytössä
 qt-misc-layout-vertical-enabled = Pystysuuntainen asettelu käytössä
 qt-misc-layout-horizontal-enabled = Vaakasuuntainen asettelu käytössä
+qt-misc-open-anki-launcher = Vaihdetaanko eri versioon Ankista?
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
