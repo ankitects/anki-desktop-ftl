@@ -29,7 +29,6 @@ qt-misc-please-select-1-card = (выберыце 1 карту)
 qt-misc-please-select-a-deck = Выберыце калоду.
 qt-misc-please-use-fileimport-to-import-this = Перайдзіце ў «Файл > Імпартаваць», каб імпартаваць гэты файл
 qt-misc-processing = Апрацоўка...
-qt-misc-replace-your-collection-with-an-earlier = Замяніць вашу калекцыю ранішняй рэзервовай копіяй?
 qt-misc-revert-to-backup = Вярнуць да рэзервовай копіі
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
@@ -59,3 +58,4 @@ qt-misc-second =
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
+qt-misc-replace-your-collection-with-an-earlier = Замяніць вашу калекцыю ранішняй рэзервовай копіяй?
