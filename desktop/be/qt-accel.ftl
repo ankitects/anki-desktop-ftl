@@ -43,3 +43,4 @@ qt-accel-reset-zoom = &Скінуць маштаб
 qt-accel-zoom-editor-in = Па&вялічыць рэдактар
 qt-accel-zoom-editor-out = Па&меншыць рэдактар
 qt-accel-create-backup = Стварыць &рэзервовую копію
+qt-accel-upgrade-downgrade = Змена версіі Anki
