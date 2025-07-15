@@ -1,6 +1,7 @@
-qt-misc-addon-will-be-installed-when-a = Дадатковы кампанент будзе ўсталяваны пры адкрыцці профілю.
-qt-misc-addons = &Дадатковыя кампаненты
+qt-misc-addon-will-be-installed-when-a = Дадатак будзе ўсталяваны пры адкрыцці профілю.
+qt-misc-addons = &Дадаткі
 qt-misc-all-cards-notes-and-media-for = Усе карткі, нататкі і медыя будуць выдалены для гэтага профілю. Вы ўпэўнены?
+qt-misc-all-cards-notes-and-media-for2 = Усе карткі, нататкі і медыя для профілю «{ $name }» будуць выдалены. Вы ўпэўнены?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki абноўлена</h1>Была выпушчана Anki { $val }.<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = Аўтаматычная сінхранізацыя і рэзервовае капіяванне былі адключаны падчас аднаўлення. Каб уключыць іх зноў, закрыйце гэты профіль або перазапусціце Anki.
 qt-misc-back-side-only = Толькі адваротны бок
@@ -32,7 +33,7 @@ qt-misc-processing = Апрацоўка...
 qt-misc-revert-to-backup = Вярнуць да рэзервовай копіі
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
-qt-misc-shift-key-was-held-down-skipping = Утрымлівалася клавіша Shift. Аўтаматычная сінхранізацыя і загрузка дадатковых кампанентаў прапускаюцца.
+qt-misc-shift-key-was-held-down-skipping = Утрымлівалася клавіша Shift. Аўтаматычная сінхранізацыя і загрузка дадаткаў прапускаюцца.
 qt-misc-shortcut-key-left-arrow = Клавіятурны скарот: Стрэлка ўлева
 qt-misc-shortcut-key-right-arrow-or-enter = Клавіятурны скарот: Стрэлка ўправа або Enter
 qt-misc-stats = Статыстыка

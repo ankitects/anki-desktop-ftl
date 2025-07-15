@@ -1,4 +1,5 @@
 qt-accel-about = &Аб праграме
+qt-accel-about-mac = Аб Anki...
 qt-accel-cards = &Карткі
 qt-accel-check-database = Праверыць &базу даных
 qt-accel-check-media = Праверыць &медыя
@@ -40,7 +41,9 @@ qt-accel-layout-horizontal = &Гарызантальна
 qt-accel-zoom-in = Па&вялічыць
 qt-accel-zoom-out = Па&меншыць
 qt-accel-reset-zoom = &Скінуць маштаб
+qt-accel-toggle-sidebar = Паказаць/схаваць бакавую панэль
 qt-accel-zoom-editor-in = Па&вялічыць рэдактар
 qt-accel-zoom-editor-out = Па&меншыць рэдактар
-qt-accel-create-backup = Стварыць &рэзервовую копію
+qt-accel-create-backup = С&тварыць рэзервовую копію
+qt-accel-load-backup = В&ярнуць да рэзервовай копіі
 qt-accel-upgrade-downgrade = Змена версіі Anki
