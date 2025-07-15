@@ -77,6 +77,7 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = التصميم المتجاوب مفعل
 qt-misc-layout-vertical-enabled = التصميم العمودي مفعل
 qt-misc-layout-horizontal-enabled = التصميم الأفقي مفعل
+qt-misc-open-anki-launcher = هل تريد تغيير إصدار أنكي؟
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated

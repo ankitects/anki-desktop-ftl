@@ -1,4 +1,5 @@
 qt-accel-about = &حول
+qt-accel-about-mac = حول أنكي...
 qt-accel-cards = &بطاقات
 qt-accel-check-database = فحص &قاعدة البيانات
 qt-accel-check-media = فحص ال&وسائط
@@ -45,3 +46,4 @@ qt-accel-zoom-editor-in = تك&بير المحرر
 qt-accel-zoom-editor-out = تص&غير المحرر
 qt-accel-create-backup = إنشاء &نسخة احتياطية
 qt-accel-load-backup = &استرجاع نسخة احتياطية
+qt-accel-upgrade-downgrade = تحديث/تخفيض
