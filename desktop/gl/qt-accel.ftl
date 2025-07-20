@@ -1,4 +1,5 @@
 qt-accel-about = &Sobre o Anki
+qt-accel-about-mac = Sobre o Anki...
 qt-accel-cards = &Tarxetas
 qt-accel-check-database = &Comprobar base de datos
 qt-accel-check-media = Comprobar &multimedia
@@ -29,7 +30,7 @@ qt-accel-switch-profile = Cambiar perfil
 qt-accel-tools = &Ferramentas
 qt-accel-undo = &Desfacer
 qt-accel-redo = %Refacer
-qt-accel-forget = &Esquecer
+qt-accel-forget = &Reiniciar
 qt-accel-view = &Ver
 qt-accel-full-screen = Alternar &pantalla completa
 qt-accel-layout = &Disposición
