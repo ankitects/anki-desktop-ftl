@@ -44,7 +44,7 @@ addons-toggle-enabled = Baskuli aktivecon
 addons-unable-to-update-or-delete-addon = Ne eblas ĝisdatigi aŭ forigi aldonaĵon. Bonvolu relanĉi Anki premante la supran registrumon (shift) por portempe malvalidigi aldonaĵojn. Poste reprovu ĝin.  Sencimiga informo: { $val }
 addons-unknown-error = Nekonata eraro: { $val }
 addons-view-addon-page = Retpaĝo de la aldonaĵo
-addons-view-files = Dosierujo de la aldonaĵo
+addons-view-files = Montri dosierojn
 addons-delete-the-numd-selected-addon =
     { $count ->
         [one] Ĉu vi volas forigi { $count } elektitan aldonaĵon?
