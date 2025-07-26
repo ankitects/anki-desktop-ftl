@@ -1,4 +1,5 @@
 qt-accel-about = Anki について (&A)
+qt-accel-about-mac = Ankiについて...
 qt-accel-cards = カード(&C)
 qt-accel-check-database = データベースをチェック (&C)
 qt-accel-check-media = メディアをチェック
@@ -45,3 +46,4 @@ qt-accel-zoom-editor-in = エディタを拡大 (&I)
 qt-accel-zoom-editor-out = エディタを縮小 (&O)
 qt-accel-create-backup = バックアップを作成 (&B)
 qt-accel-load-backup = バックアップから復元 (&R)
+qt-accel-upgrade-downgrade = アップグレード／ダウングレード

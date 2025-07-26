@@ -71,6 +71,7 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = エディタの配置を自動調整にしました
 qt-misc-layout-vertical-enabled = エディタをテーブルの下側に配置しました
 qt-misc-layout-horizontal-enabled = エディタをテーブルの右側に配置しました
+qt-misc-open-anki-launcher = Ankiのバージョンを変更（＝より新しいバージョンにアップグレード、または、以前のバージョンにダウングレード）しますか？
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
