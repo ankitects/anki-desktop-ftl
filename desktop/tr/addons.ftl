@@ -70,7 +70,7 @@ addons-toggle-enabled = Etkin Durumunu Aç/Kapat
 addons-unable-to-update-or-delete-addon = Eklenti güncellenemedi veya silinemedi. Eklentileri geçici olarak devre dışı bırakmak için lütfen shift tuşunu basılı tutarken Anki'yi başlatın, sonra tekrar deneyin. Hata ayıklama bilgisi:  { $val }
 addons-unknown-error = Bilinmeyen hata: { $val }
 addons-view-addon-page = Eklenti sayfasını görüntüleyin
-addons-view-files = Dosyaları görüntüle
+addons-view-files = Dosyaları Görüntüle
 addons-delete-the-numd-selected-addon =
     { $count ->
         [one] Seçilen { $count } eklenti silinsin mi?
