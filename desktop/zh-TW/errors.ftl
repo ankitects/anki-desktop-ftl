@@ -1,6 +1,6 @@
 -errors-support-site = [支援網站](https://help.ankiweb.net)
 errors-standard-popup2 = Anki 遇到了一個問題。請採取疑難排解步驟。
-errors-may-be-addon = 此問題可能是一個附加元件導致的。
+errors-may-be-addon = 問題可能由附加元件引起。
 errors-troubleshooting-button = 疑難排解
 errors-copy-debug-info-button = 複製除錯資訊
 errors-copied-to-clipboard = 已複製到剪貼板
