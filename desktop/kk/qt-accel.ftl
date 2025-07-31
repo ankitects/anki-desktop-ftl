@@ -1,4 +1,5 @@
 qt-accel-about = &Жайлы
+qt-accel-about-mac = Anki Жайлы...
 qt-accel-cards = &Карталар
 qt-accel-check-database = &Дерекқорды Тексеру
 qt-accel-check-media = &Медианы Тексеру
@@ -45,3 +46,4 @@ qt-accel-zoom-editor-in = Өңдегішті Ірілеу
 qt-accel-zoom-editor-out = Өңдегішті Кішілеу
 qt-accel-create-backup = &Сақтық Көшіру
 qt-accel-load-backup = &Қалпына Келтіру
+qt-accel-upgrade-downgrade = Нұсқа ауыстыру

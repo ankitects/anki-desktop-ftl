@@ -3,6 +3,7 @@ qt-misc-addons = Қондырмалар
 qt-misc-all-cards-notes-and-media-for = Бұл бейіннің барлық карта, жазба мен медиасы жойылады. Жалғастырасыз ба?
 qt-misc-all-cards-notes-and-media-for2 = "{ $name }" бейінінің барлық карта, жазба мен медиасы жойылады. Жалғастырасыз ба?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki Жаңартлды</h1>Anki { $val } жарияланды.<br><br>
+qt-misc-automatic-syncing-and-backups-have-been = Сақтық көшірме сәтті қалпына келтірілді. Авто-синхрондау мен сақтық көшірмелер жасау уақытша өшірілді. Оларды қайта қосу үшін бейінді жабыңыз немесе Anki-ді қайта іске қосыңыз.
 qt-misc-back-side-only = Артқы Жағы Ғана
 qt-misc-backing-up = Сақтық Көшірмелеу...
 qt-misc-browse = Шолып көру
