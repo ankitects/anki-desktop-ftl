@@ -22,6 +22,7 @@ addons-downloading-adbd-kb02fkb = Жүктеу { $part }/{ $total } ({ $kilobyte
 addons-error-downloading-ids-errors = <i>{ $id }</i> жүктеу қатесі: { $error }
 addons-error-installing-bases-errors = <i>{ $base }</i> орнату қатесі: { $error }
 addons-get-addons = Қондырма алу...
+addons-important-as-addons-are-programs-downloaded = <b>Маңызды</b>: Қондырмалар интернеттен жүктелетіндіктен, зиянды болуы мүмкін. <b>Тек сенімді қондырмаларды ғана орнатыңыз.</b><br><br>Төмендегі қондырмаларды орнатқыңыз келетініне сенімдісіз бе?<br><br>%(names)s
 addons-install-addon = Қондырманы Орнату
 addons-install-addons = Қондырмаларды Орнату
 addons-install-anki-addon = Anki қондырмасын орнату
