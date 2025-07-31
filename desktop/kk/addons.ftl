@@ -1,4 +1,9 @@
 addons-possibly-involved = Қатысты болуы мүмкін қондырмалар: { $addons }
+addons-failed-to-load =
+    Орнатылған қондырма жүктелмеді. Қателік қайталанса, Құралдар>Қондырмалар мәзіріне өтіп, қондырманы сөндіріңіз немесе жойыңыз.
+    
+    '{ $name }' қондырмасын жүктеу кезінде:
+    { $traceback }
 addons-startup-failed = Қондырма Жегілмеді
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = '{ $name }' пішімдеу
