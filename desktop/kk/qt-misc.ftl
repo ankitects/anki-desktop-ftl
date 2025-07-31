@@ -49,6 +49,7 @@ qt-misc-unexpected-response-code = Күтпеген жауап коды: { $val 
 qt-misc-would-you-like-to-download-it = Оны қазір жүктейсізбе?
 qt-misc-error = Қате
 qt-misc-anki-is-running = Anki Онсыз Да Жегілді
+qt-misc-if-instance-is-not-responding = Егер ашылған Anki терезесі жауап бермесе, оны тапсырмалар диспетчері (task manager) арқылы жабыңыз немесе компьютерді қайта іске қосыңыз.
 qt-misc-second = { $count } секунд
 qt-misc-layout-auto-enabled = Бейімді орналасу қосылды
 qt-misc-layout-vertical-enabled = Тік орналасу қосылды
