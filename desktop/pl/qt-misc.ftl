@@ -75,6 +75,7 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = Włączono układ automatyczny
 qt-misc-layout-vertical-enabled = Włączono układ pionowy
 qt-misc-layout-horizontal-enabled = Włączono układ poziomy
+qt-misc-open-anki-launcher = Przełączyć na inną wersję Anki?
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated

@@ -1,4 +1,5 @@
 qt-accel-about = &O programie...
+qt-accel-about-mac = O Anki...
 qt-accel-cards = &Karty
 qt-accel-check-database = &Sprawdź bazę danych
 qt-accel-check-media = Sprawdź &pliki...
@@ -45,3 +46,4 @@ qt-accel-zoom-editor-in = Powiększ &edytor
 qt-accel-zoom-editor-out = Pomniejsz &edytor
 qt-accel-create-backup = Utwórz &kopię zapasową
 qt-accel-load-backup = &Przywróć kopię zapasową
+qt-accel-upgrade-downgrade = Aktualizacja/cofnięcie wersji
