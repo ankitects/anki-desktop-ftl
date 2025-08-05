@@ -64,7 +64,7 @@ qt-misc-no-temp-folder = Ingen användbar temporär mapp hittad. Kontrollera att
 qt-misc-incompatible-video-driver = Din videodrivrutin är inkompatibel. Var god starta Anki igen, så kommer Anki byta till ett långsammare, mer kompatibelt läge.
 qt-misc-error-loading-graphics-driver = Ett fel uppstod med att ladda grafikdrivrutinen '{ $mode }'. Var god starta Anki igen för att pröva nästa drivrutin. { $context }
 qt-misc-anki-is-running = Anki kör redan
-qt-misc-if-instance-is-not-responding = Om den befintliga Anki-instansen inte svarar, var god stäng den med din aktivitetshanterare, eller starta om din dator.
+qt-misc-if-instance-is-not-responding = Om den befintliga Anki-instansen inte svarar, var god stäng den med aktivitetshanteraren eller starta om datorn.
 qt-misc-second =
     { $count ->
         [one] { $count } sekund
