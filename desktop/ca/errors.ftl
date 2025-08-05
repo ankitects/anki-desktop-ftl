@@ -42,6 +42,7 @@ errors-unable-open-collection =
     
     Informació de depuració:
 errors-windows-tts-runtime-error = El servei de síntesi de veu ha fallat. Assegureu-vos que el Windows està actualitzat, proveu de reiniciar l'ordinador o feu servir una veu diferent.
+errors-windows-ssl-updates = La connexió segura ha fallat. Assegureu-vos que Windows està actualitzat i torneu-ho a intentar.
 
 ## OBSOLETE; you do not need to translate this
 
