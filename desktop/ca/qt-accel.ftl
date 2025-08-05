@@ -1,4 +1,5 @@
 qt-accel-about = &Quant a…
+qt-accel-about-mac = Sobre Anki…
 qt-accel-cards = &Targetes
 qt-accel-check-database = &Verifica la base de dades
 qt-accel-check-media = Verifica &els fitxers multimèdia
@@ -40,6 +41,7 @@ qt-accel-layout-horizontal = &Horitzontal
 qt-accel-zoom-in = &Amplia
 qt-accel-zoom-out = &Redueix
 qt-accel-reset-zoom = &Reestableix el zoom
+qt-accel-toggle-sidebar = Activa/desactiva la barra lateral
 qt-accel-zoom-editor-in = &Apropa l'editor
 qt-accel-zoom-editor-out = &Redueix l’editor
 qt-accel-create-backup = Fes una còpia de seguretat

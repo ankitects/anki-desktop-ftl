@@ -42,7 +42,7 @@ qt-misc-replace-your-collection-with-an-earlier2 = Voleu restaurar la vostra col
 qt-misc-revert-to-backup = Restaura una còpia de seguretat
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
-qt-misc-shift-key-was-held-down-skipping = Heu premut la tecla de majúscules. Anki s'ha saltat la sincronització automàtica i no ha carregat cap complement.
+qt-misc-shift-key-was-held-down-skipping = Heu premut la tecla de majúscules. S’ha omès la sincronització automàtica i la càrrega de complements.
 qt-misc-shortcut-key-left-arrow = Tecla d'accés directe: fletxa esquerra
 qt-misc-shortcut-key-right-arrow-or-enter = Tecla d'accés directe: fletxa dreta
 qt-misc-stats = Estadístiques
