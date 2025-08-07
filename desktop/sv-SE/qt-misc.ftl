@@ -42,7 +42,7 @@ qt-misc-replace-your-collection-with-an-earlier2 = Ersätt din samling med en ti
 qt-misc-revert-to-backup = Återställ till säkerhetskopia
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
-qt-misc-shift-key-was-held-down-skipping = Shift-knappen hölls ned. Hoppar över automatisk synkronisering och laddning av tillägg.
+qt-misc-shift-key-was-held-down-skipping = Skifttangent var nedtryckt. Hoppar över automatisk synkronisering och inladdning av tillägg.
 qt-misc-shortcut-key-left-arrow = Kortkommando: Vänsterpil
 qt-misc-shortcut-key-right-arrow-or-enter = Kortkommando: Högerpil eller Enter
 qt-misc-stats = Statistik
