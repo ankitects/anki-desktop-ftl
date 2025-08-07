@@ -1,4 +1,5 @@
 qt-accel-about = &Om...
+qt-accel-about-mac = Om Anki...
 qt-accel-cards = &Kort
 qt-accel-check-database = &Kontrollera databas
 qt-accel-check-media = Granska &media...
@@ -45,3 +46,4 @@ qt-accel-zoom-editor-in = Zooma &in editor
 qt-accel-zoom-editor-out = Zooma &ut editor
 qt-accel-create-backup = Skapa &säkerhetskopia
 qt-accel-load-backup = &Återställ till säkerhetskopia
+qt-accel-upgrade-downgrade = Uppgradera/nedgradera
