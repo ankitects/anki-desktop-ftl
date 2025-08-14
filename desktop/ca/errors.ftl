@@ -7,11 +7,10 @@ errors-copied-to-clipboard = S’ha copiat al porta-retalls
 errors-standard-popup =
     # Error
     
-    S'ha produït un error. Feu servir **«Eines > Comprova la base de dades»**
-    per a tractar de solucionar el problema.
+    S’ha produït un error. Premeu **«Eines > Comprova la base de dades»** per a tractar de solucionar-lo.
     
-    Si el problema persisteix, informeu-ne mitjançant el nostre { -errors-support-site }.
-    Copieu i enganxeu la informació següent en el vostre informe:
+    Si el problema persisteix, informeu-ne a { -errors-support-site }.
+    Copieu i enganxeu la informació següent en l’informe:
 errors-addons-active-popup =
     # Error
     
@@ -26,17 +25,17 @@ errors-addons-active-popup =
     
     Informació de depuració:
 errors-accessing-db =
-    S'ha produït un error en accedir a la base de dades.
+    S’ha produït un error en accedir a la base de dades.
     
     Causes possibles:
     
-    - Els programes antivirus, els tallafocs, les còpies de segurerat i el programari de sincronització poden interferir amb Anki. Intenteu deshabilitar aquests programes i comproveu si s'ha resolt el problema.
-    - El disc dur està ple.
-    - La carpeta «Documents/Anki» està en un disc dur compartit en xarxa.
-    - Els fitxers o la carpeta d'Anki no tenen permís d'escriptura.
-    - El disc dur té problemes.
+    – El programari antivirus, tallafocs, de còpies de seguretat i de sincronització pot interferir amb Anki. Intenteu desactivar-los i comproveu si s’ha resolt el problema.
+    – El disc dur és ple.
+    – La carpeta «Documents/Anki» es troba en una unitat de xarxa compartida.
+    – Anki no té permís per a modificar els fitxers de la carpeta «Documents/Anki».
+    – El disc dur presenta errors.
     
-    Feu servir el menú «Eines > Verifica la base de dades» per a assegurar-vos que la vostra base de dades no està malmesa.
+    Premeu «Eines > Comprova la base de dades» per a comprovar que la base de dades no estigui malmesa.
 errors-unable-open-collection =
     Anki no ha pogut obrir la vostra col·lecció. Si reinicieu l'ordinador i el problema persisteix, feu servir el el botó «Obre una còpia de seguretat…» del gestor de perfils.
     

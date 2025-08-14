@@ -1,8 +1,8 @@
 qt-accel-about = &Quant a…
 qt-accel-about-mac = Sobre Anki…
 qt-accel-cards = &Targetes
-qt-accel-check-database = &Verifica la base de dades
-qt-accel-check-media = Verifica &els fitxers multimèdia
+qt-accel-check-database = &Comprova la base de dades
+qt-accel-check-media = Comprova &els fitxers multimèdia
 qt-accel-edit = &Edita
 qt-accel-exit = &Surt
 qt-accel-export = &Exporta…
