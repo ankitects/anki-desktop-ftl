@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = ווען דו האָסט אוטערגע�
 about-version = ווערסיע { $val }
 about-visit-website = <a href='{ $val }'>נאַוויגירן צום וועבזײַטל</a>
 about-written-by-damien-elmes-with-patches = אָנגעשריבן פון Damien Elmes, מיט פֿאַרבעסערטע ווערסיעס, איבערשײַטשן,     טעסטירן און צײַכענונג פון:<p>{ $cont }
+# appended to the end of the contributor list in the about screen
+about-and-others = און אַנדערע
