@@ -37,7 +37,7 @@ qt-misc-please-select-1-card = (لطفا یک کارت انتخاب کنید)
 qt-misc-please-select-a-deck = لطفا یک دسته انتخاب کنید.
 qt-misc-please-use-fileimport-to-import-this = لطفاً از مسیر فایل>وارد کردن فایل برای وارد کردن این فایل استفاده کنید.
 qt-misc-processing = درحال پردازش...
-qt-misc-replace-your-collection-with-an-earlier = جایگزین کردن مجموعه با یک فایل پشتیبان قبلی؟
+qt-misc-replace-your-collection-with-an-earlier2 = می‌خواهید مجموعهٔ خود را با نسخهٔ پشتیبان قدیمی‌تر از { $val } جایگزین کنید؟
 qt-misc-revert-to-backup = بازگردانی به پشتیبان
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
@@ -71,7 +71,9 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = چیدمان واکنشگرا فعال شد
 qt-misc-layout-vertical-enabled = چیدمان عمودی فعال شد
 qt-misc-layout-horizontal-enabled = چیدمان افقی فعال شد
+qt-misc-open-anki-launcher = می‌خواهید به نسخهٔ دیگری از انکی بروید؟
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
+qt-misc-replace-your-collection-with-an-earlier = جایگزین کردن مجموعه با یک فایل پشتیبان قبلی؟

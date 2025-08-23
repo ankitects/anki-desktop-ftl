@@ -45,4 +45,5 @@ qt-accel-toggle-sidebar = نمایش/مخفی‌کردن نوار کناری
 qt-accel-zoom-editor-in = بزرگ کردن ویرایشگر
 qt-accel-zoom-editor-out = کوچک کردن ویرایشگر
 qt-accel-create-backup = ایجاد پیشتیبان
-qt-accel-upgrade-downgrade = تغییر نسخهٔ انکی
+qt-accel-load-backup = و بازگردانی نسخهٔ پشتیبان
+qt-accel-upgrade-downgrade = ارتقا/کاهش
