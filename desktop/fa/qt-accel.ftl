@@ -1,4 +1,5 @@
 qt-accel-about = درباره...
+qt-accel-about-mac = درباره‌‌‌ٔ انکی...
 qt-accel-cards = کارت‌ها
 qt-accel-check-database = بررسی دیتابیس
 qt-accel-check-media = بررسی رسانه ...
@@ -40,6 +41,8 @@ qt-accel-layout-horizontal = افقی
 qt-accel-zoom-in = بزرگ کردن
 qt-accel-zoom-out = کوچک کردن
 qt-accel-reset-zoom = برگرداندن بزرگنمایی
+qt-accel-toggle-sidebar = نمایش/مخفی‌کردن نوار کناری
 qt-accel-zoom-editor-in = بزرگ کردن ویرایشگر
 qt-accel-zoom-editor-out = کوچک کردن ویرایشگر
 qt-accel-create-backup = ایجاد پیشتیبان
+qt-accel-upgrade-downgrade = تغییر نسخهٔ انکی

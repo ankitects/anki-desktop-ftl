@@ -44,6 +44,7 @@ errors-unable-open-collection =
     
     اطلاعات رفع مشکل:
 errors-windows-tts-runtime-error = کارساز TTS شکست خورد. لطفا مطمئن شوید بروزرسانی‌های ویندوز نصب شده‌اند، تلاش کنید رایانه‌تان را شروع دوباره کنید، با صدای دیگری را امتحان کنید.
+errors-windows-ssl-updates = اتصال امن برقرار نشد. لطفاً مطمئن شوید که به‌روزرسانی‌های ویندوز نصب شده‌اند، سپس دوباره تلاش کنید.
 
 ## OBSOLETE; you do not need to translate this
 

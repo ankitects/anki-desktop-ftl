@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = در صورتی که شما مشارکت
 about-version = نسخه { $val }
 about-visit-website = <a href='{ $val }'>مراجعه کنید به وبسایت</a>
 about-written-by-damien-elmes-with-patches = نوشته شده توسط Damien Elmes، با اصلاحات، ترجمه‌، تست و طراحی توسط:<p>{ $cont }
+# appended to the end of the contributor list in the about screen
+about-and-others = و دیگران
