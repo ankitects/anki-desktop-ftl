@@ -12,7 +12,7 @@ addons-failed-to-load2 =
     גיט אַ קוועטש דאָס { addons-check-for-updates } קנעפּל
     כּדי צו באַקוקן צי מע קען זיי דערהײַנטיקן.
     
-    קענסט ניצן דאָס { about-copy-debug-info } קנעפּל פֿאַר פּרטים אויף צו קלעפּן אין אַ באַריכט צום מחבר פֿונעם צוגאָבל.
+    קענסט ניצן דאָס { about-copy-debug-info } קנעפּל פֿאַר פּרטים אויף אַרײַנצוקלעפּן אין אַ באַריכט צום מחבר פֿונעם צוגאָבל.
     
     וועגן צוגאָבלעך פֿון וואָס ס׳איז קיין דערהײַנטיקונג נישט בנמצא, קענסט דאָס צוגאָבל בטל מאַכן אָדער אָפּמעקן כּדי צו פֿאַרהיטן אָט דעם אָנזאָג.
 addons-startup-failed = דורכגעפֿאַלן צוגאָבל-אָנלאָד
@@ -60,9 +60,25 @@ addons-no-updates-available = קיין דערהײַנטיקונג נישטאָ.
 addons-one-or-more-errors-occurred = איין אָדער נאָך טועתן פֿאָרגעקומען:
 addons-packaged-anki-addon = אײַנגעפּאַקט אַנקי צוגאָבל
 addons-please-check-your-internet-connection = זײַ זשע מוחל, וועריפֿיציר דײַן אינטערנעץ-פֿאַרבינדונג.
+addons-please-report-this-to-the-respective = ביטע, גיב אָן אַ באַריכט דעראויף צו די מחבר(ים) פֿונעם צוגאָבל.
+addons-please-restart-anki-to-complete-the = <b>ביטע לאָד צו אַנקי אויף ס׳נײַ כּדי צו פֿאַרענקידן דעם אַרײַנלאָד.</b>
 addons-please-select-a-single-addon-first = קודם קלײַב אויס איין צוגאָבל.
 addons-requires = (באַדאַרפֿט { $val })
 addons-restored-defaults = אויפֿגעריכט ווי לכתּחילה
+addons-the-following-addons-are-incompatible-with = די ווײַטערדיקע צוגאָבלעך זענען נישט צוגעפּאַסט מיט { $name } און זענען בטל געמאַכט: { $found }
+addons-the-following-addons-have-updates-available = ס׳זענען בנמצא דערהײַנטיקונגען אויף די ווײַטערדיקע צוגאָבלעך. לאָד זיי אַרײַן שוין?
+addons-the-following-conflicting-addons-were-disabled = די ווײַטערדיקע סתּירותדיקע צוגאָבלעך זענען בטל געמאַכט:
+addons-this-addon-is-not-compatible-with = אָט דאָס צוגאָבל איז נישט צוגעפּאַסט מיט דײַן נוסח אַנקי.
+addons-to-browse-addons-please-click-the =
+    כּדי צו בלעטערן צוגאָבלעך, גיט אַ קוועטש דעם בלעטער-קנעפּל אונטן.
+    <br><br>
+    ווען דו האָסט געפֿונען עפּעס אַ צוגאָבל וואָס געפֿעלט דיר, קלעפּ אַרײַן זײַן קאָד אונטן. קענסט אַרײַנקלעפּן עטלעכע קאָדן, צושיידט פֿון בלויזן.
+addons-toggle-enabled = איבערשליס אַקטיווירט
+addons-unable-to-update-or-delete-addon =
+    נישט געקענט דערהײַנטיקן אָדער אָפּמעקן צוגאָבל. ביטע לאָד צו אַנקי בעת׳ן אײַנהאַלטן דעם שיפֿט קלאַוויש כּדי צײַטווײַליק בטל צו מאַכן צוגאָבלעך, דערנאָך פּרוביר אויף ס׳נײַ.   
+    דיבוק-דאַטן:
+    { $val }
+addons-unknown-error = אומבאַקאַנטע טעות: { $val }
 addons-view-addon-page = זע צוגאָבל-זײַטל
 addons-view-files = זע טעקעס
 addons-delete-the-numd-selected-addon =

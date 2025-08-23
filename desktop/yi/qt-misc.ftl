@@ -30,11 +30,14 @@ qt-misc-there-must-be-at-least-one = כאָטש איין פּראָפֿיל מו
 qt-misc-this-file-exists-are-you-sure = די טעקע איז שוין פֿאַראַן. ביסט זיכער, אַז דו ווילסט זי פֿאַרבײַטן?
 qt-misc-would-you-like-to-download-it = ווילסטו עס יעצט אַראָפּלאָדן?
 qt-misc-error = טעות
+qt-misc-anki-is-running = אַנקי פֿירט זיך
 qt-misc-second =
     { $count ->
         [one] { $count } סעקונדע
        *[other] { $count } סעקונדעס
     }
+qt-misc-layout-vertical-enabled = ווערטיקאַלער אויסשטעל אַקטיווירט
+qt-misc-layout-horizontal-enabled = האָריזאָנטאַלער אויסשטעל אַקטיווירט
 qt-misc-open-anki-launcher = אויסבײַטן אין אַן אַנדער נוסח פֿון אַנקי?
 
 ## deprecated- these strings will be removed in the future, and do not need
