@@ -1,8 +1,14 @@
 addons-window-title = Complementos
 addons-addon-has-no-configuration = O complemento non ten configuración.
-addons-addon-was-not-downloaded-from-ankiweb = O complemento non foi baixado de AnkiWeb.
+addons-check-for-updates = Comprobar actualizacións
 addons-checking = Comprobando...
 addons-code = Código:
-addons-disabled =  (deshabilitado)
+addons-config = Configuración
+addons-configuration = Configuración
+addons-disabled = (deshabilitado)
+addons-downloaded-fnames = Descargouse { $fname }
+addons-downloading-adbd-kb02fkb = Descargando { $part }/{ $total } ({ $kilobytes }KB)...
+addons-get-addons = Obter complementos...
 addons-install-addon = Instalar un complemento
+addons-installed-names = Instalouse { $name }
 addons-invalid-code = Código incorrecto.

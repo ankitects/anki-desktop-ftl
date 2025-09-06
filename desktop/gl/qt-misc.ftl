@@ -6,7 +6,9 @@ qt-misc-change-note-type-ctrlandn = Cambiar o tipo de nota (Ctrl+N)
 qt-misc-check-the-files-in-the-media = Comprobar os ficheiros no directorio multimedia
 qt-misc-choose-deck = Escoller baralla
 qt-misc-choose-note-type = Escoller o tipo de nota
+qt-misc-closing = Pechando...
 qt-misc-configure-interface-language-and-options = Configurar o idioma da interface e as opcións
+qt-misc-copy-to-clipboard = Copiar ao portapapeis
 qt-misc-create-filtered-deck = Crear unha baralla filtrada...
 qt-misc-debug-console = Consola de depuración
 qt-misc-deck-will-be-imported-when-a = A baralla importarase cando se abra un perfil.
@@ -36,6 +38,7 @@ qt-misc-the-requested-change-will-require-a = O cambio solicitado fará necesari
 qt-misc-there-must-be-at-least-one = Ten que haber polo menos un perfil.
 qt-misc-this-file-exists-are-you-sure = Este ficheiro xa existe. Confirma que quere sobrescribilo?
 qt-misc-would-you-like-to-download-it = Quere descargalo agora?
+qt-misc-error = Erro
 qt-misc-second =
     { $count ->
         [one] { $count } segundo

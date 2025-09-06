@@ -1,3 +1,5 @@
+-errors-support-site = [páxina de asistencia técnica](https://help.ankiweb.net)
+errors-copied-to-clipboard = Copiouse ao portapapeis
 errors-accessing-db =
     Ocorreu un erro ao acceder á base de datos.
     
@@ -10,4 +12,6 @@ errors-accessing-db =
     - O seu disco duro pode conter erros.
     
     It's a good idea to run Tools>Check Database to ensure your collection is not corrupt.
+
+## OBSOLETE; you do not need to translate this
 

@@ -4,3 +4,5 @@ profiles-folder-readme =
     unha localización diferente, consulta:
     
     { $link }
+# will appear as 'Downgrade & Quit'
+profiles-downgrade-and-quit = Reverter á versión anterior e saír
