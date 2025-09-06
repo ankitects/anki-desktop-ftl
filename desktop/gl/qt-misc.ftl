@@ -32,6 +32,7 @@ qt-misc-processing = Procesando...
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = A tecla Maiús estaba premida. Omitindo a sincronización automática e a carga de complementos.
 qt-misc-study-deck = Estudar unha baralla...
+qt-misc-sync = Sincronizar
 qt-misc-target-deck-ctrlandd = Baralla de destino (Ctrl+D)
 qt-misc-the-following-character-can-not-be = Non se pode usar o seguinte carácter: { $val }
 qt-misc-the-requested-change-will-require-a = O cambio solicitado fará necesario un envío completo da base de datos a próxima vez que sincronice a súa colección. Se ten repasos ou outros cambios pendentes noutro dispositivo que non teñan sido sincronizados aínda, perderanse. Quere continuar?
