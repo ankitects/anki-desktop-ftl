@@ -1,7 +1,7 @@
 qt-misc-addons = Complementos
 qt-misc-all-cards-notes-and-media-for = Van seren eliminadas todas as tarxetas, notas, e ficheiros multimedia deste perfil. Está seguro?
 qt-misc-anki-updatedanki-has-been-released = <h1>Actualización do Anki</h1>Anki { $val } está dispoñíbel.<br><br>
-qt-misc-browse = Examinar
+qt-misc-browse = Explorar
 qt-misc-change-note-type-ctrlandn = Cambiar o tipo de nota (Ctrl+N)
 qt-misc-check-the-files-in-the-media = Comprobar os ficheiros no directorio multimedia
 qt-misc-choose-deck = Escoller baralla
@@ -31,6 +31,7 @@ qt-misc-processing = Procesando...
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = A tecla Maiús estaba premida. Omitindo a sincronización automática e a carga de complementos.
+qt-misc-stats = Estatísticas
 qt-misc-study-deck = Estudar unha baralla...
 qt-misc-sync = Sincronizar
 qt-misc-target-deck-ctrlandd = Baralla de destino (Ctrl+D)
