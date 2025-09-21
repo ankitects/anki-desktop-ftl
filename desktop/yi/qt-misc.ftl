@@ -2,6 +2,7 @@ qt-misc-addon-will-be-installed-when-a = צוגאָבל וועט אַרײַנג�
 qt-misc-addons = צוגאָבלעך
 qt-misc-all-cards-notes-and-media-for = ס׳וועלן אַלע קאַרטלעך, נאָטיצן, און מעדיע פֿון דעם פּראָפֿיל אָפּגעמעקט ווערן. ביסט טאַקע זיכער?
 qt-misc-all-cards-notes-and-media-for2 = ס׳וועלן אַלע קאַרטלעך, נאָטיצן, און מעדיע פֿונעם פּראָפֿיל "{ $name }" ווערן אָפּגעמעקט. ביסט טאַקע זיכער?
+qt-misc-anki-updatedanki-has-been-released = <h1>„אַנקי״ דערהײַנטיקט געוואָרן</h1> מע האָט אַרויסגעגעבן „אַנקי״ { $val }. <br><br>
 qt-misc-back-side-only = נאָר הינטערזײַט
 qt-misc-backing-up = שאַפֿנדיק רעזערוו-קאָפּיע…
 qt-misc-browse = בלעטערן

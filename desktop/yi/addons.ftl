@@ -23,7 +23,7 @@ addons-window-title = צוגאָבלעך
 addons-addon-has-no-configuration = צוגאָבל האָט נישט קיין אויסשטעל.
 addons-addon-installation-error = טעות בײַם אַרײַנלאָדן צוגאָגל.
 addons-browse-addons = דורכקוקן צוגאָבלעך
-addons-changes-will-take-effect-when-anki = טוישונגען וועלן ווערן גילטיק ווי נאָר ANKI ווערט צולאָדנט אויף ס׳נײַ.
+addons-changes-will-take-effect-when-anki = טוישונגען וועלן ווערן גילטיק ווי נאָר „אַנקי״ ווערט צולאָדנט אויף ס׳נײַ.
 addons-check-for-updates = זוך אויף דערהײַנטיקונגען
 addons-checking = איבערקוקנדיק…
 addons-code = קאָד:
@@ -46,7 +46,7 @@ addons-important-as-addons-are-programs-downloaded =
     %(names)s
 addons-install-addon = אַרײַנלאָדן צוגאָבל
 addons-install-addons = אַרײַנלאָדן צוגאָבל(עך)
-addons-install-anki-addon = אַרײַנלאָדן ANKI צוגאָבל
+addons-install-anki-addon = אַרײַנלאָדן „אַנקי״ צוגאָבל
 addons-install-from-file = אַרײַנלאָדן פֿון טעקע…
 addons-installation-complete = גאַנץ אַרײַנגעלאָדן
 addons-installed-names = אַרײַנגעלאָדן { $name }
