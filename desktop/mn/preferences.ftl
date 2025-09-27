@@ -1,0 +1,8 @@
+## Video drivers/hardware acceleration. Please avoid translating 'OpenGL' and 'ANGLE'.
+
+preferences-video-driver = Дэлгэцийн драйвер
+preferences-video-driver-software-mac = Программ (тохиромжгүй)
+preferences-video-driver-opengl-other = Хурдан гэвч асуудал үүсгэж магадгүй
+preferences-video-driver-software-other = Программ (илүү удаан)
+preferences-video-driver-angle = ANGLE (OpenGL-ээс илүү сайн ажиллаж магадгүй)
+preferences-video-driver-default = Үндсэн тохиргоо
