@@ -1,12 +1,12 @@
-addons-window-title = Нэмэлтүүд
+addons-window-title = Add-on
 addons-check-for-updates = Шинэчлэлт шалгах
 addons-checking = Шалгаж байна...
 addons-code = Код:
 addons-downloaded-fnames = { $fname }-г татав
-addons-get-addons = Нэмэлтүүд авах...
-addons-install-addon = Нэмэлт суулгах
-addons-install-addons = Нэмэлт(үүд) суулгах
-addons-install-anki-addon = Anki-гийн нэмэлтүүд суулгах
+addons-get-addons = Add-on авах...
+addons-install-addon = Add-on суулгах
+addons-install-addons = Add-on суулгах
+addons-install-anki-addon = Anki-гийн add-on суулгах
 addons-install-from-file = Файлаас татах
 addons-installed-successfully = Амжилттай суулгав.
 addons-please-check-your-internet-connection = Интернэтийн сүлжээгээ шалгана уу.
