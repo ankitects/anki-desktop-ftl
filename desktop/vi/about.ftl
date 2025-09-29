@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = Xin vui lòng liên lạc với chúng t
 about-version = Phiên bản { $val }
 about-visit-website = <a href='{ $val }'>Ghé thăm trang web</a>
 about-written-by-damien-elmes-with-patches = Được viết bởi Damien Elmes, với các bản vá lỗi, bản dịch,    thử nghiệm và thiết kế từ:<p>{ $cont }
+# appended to the end of the contributor list in the about screen
+about-and-others = và những người khác
