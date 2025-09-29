@@ -8,3 +8,5 @@ about-if-you-have-contributed-and-are = Pokud jste přispěli a nejste na seznam
 about-version = Verze { $val }
 about-visit-website = <a href='{ $val }'>Navštivte web</a>
 about-written-by-damien-elmes-with-patches = Napsáno Damienem Elmesem se záplatami, překlady, testováním a designem od:<p>{ $cont }
+# appended to the end of the contributor list in the about screen
+about-and-others = a další
