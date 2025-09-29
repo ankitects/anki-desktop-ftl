@@ -4,13 +4,24 @@ addons-failed-to-load =
     ¶
     Khi đang tải '{ $name }':¶
     { $traceback }
+addons-failed-to-load2 =
+    Không thể tải các tiện ích sau đây: 
+    { $addons }
+    
+    Bạn có thể cần cập nhật chúng để sử dụng phiền bản Anki hiện tại. Ấn nút { addons-check-for-updates }
+    để kiểm tra xem có phiên bản cập nhật mới không.
+    
+    Bạn có thể dùng nút { about-copy-debug-info } để dán thêm thông tin trên bản báo cáo cho
+    tác giả của tiện ích.
+    
+    Với những tiện ích không có bản cập nhật mới, bạn có thể tắt hoặc xóa tiện ích để tắt thông báo này.
+addons-startup-failed = Bật Tiện ích Không thành công
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Cấu hình '{ $name }'
 addons-config-validation-error = Đã xảy ra sự cố với cấu hình được cung cấp: { $problem }, tại đường dẫn { $path }, so với giản đồ { $schema }.
 addons-window-title = Các tiện ích
 addons-addon-has-no-configuration = Tiện ích chưa được cấu hình.
 addons-addon-installation-error = Lỗi cài đặt phần mới tạo
-addons-addon-was-not-downloaded-from-ankiweb = Phần vừa tạo chưa được tải từ AnkiWeb
 addons-browse-addons = Duyệt Tiện ích
 addons-changes-will-take-effect-when-anki = Các thay đổi sẽ có hiệu lực khi Anki được khởi động lại.
 addons-check-for-updates = Kiểm tra các bản cập nhật

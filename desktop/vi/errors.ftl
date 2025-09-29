@@ -1,4 +1,9 @@
 -errors-support-site = [trang hỗ trợ](https://help.ankiweb.net)
+errors-standard-popup2 = Anki đã gặp sự cố. Hãy theo các bước sau để khắc phục vấn để.
+errors-may-be-addon = Sự cố có thể xảy ra vì một tiện ích.
+errors-troubleshooting-button = Khắc phục sự cố
+errors-copy-debug-info-button = Sao chép Thông tin Gỡ lỗi
+errors-copied-to-clipboard = Đã sao chép vào bộ nhớ tạm
 errors-standard-popup =
     # Lỗi
     
@@ -7,7 +12,6 @@ errors-standard-popup =
     
     Nếu sự cố vẫn tiếp diễn, vui lòng báo cáo sự cố trên { -errors-support-site } của chúng tôi.
     Vui lòng sao chép và dán thông tin bên dưới vào báo cáo của bạn.
--errors-addon-support-site = [trang tiện ích](https://help.ankiweb.net/discussions/add-ons/)
 errors-addons-active-popup =
     # Lỗi
     
@@ -39,3 +43,7 @@ errors-unable-open-collection =
     
     Thông tin gỡ lỗi:
 errors-windows-tts-runtime-error = Dịch vụ TTS không thành công. Hãy đảm bảo rằng các bản cập nhật Windows đã được cài đặt, thử khởi động lại máy tính của bạn và thử sử dụng một giọng nói khác.
+errors-windows-ssl-updates = Kết nối an toàn không thành công. Vui lòng đảm bảo bạn đã cập nhật Windows rồi thử lại.
+
+## OBSOLETE; you do not need to translate this
+
