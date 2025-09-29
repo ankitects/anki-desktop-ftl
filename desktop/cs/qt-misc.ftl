@@ -74,6 +74,7 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = Reagující rozložení povoleno
 qt-misc-layout-vertical-enabled = Vertikální rozložení povoleno
 qt-misc-layout-horizontal-enabled = Horizontální rozložení povoleno
+qt-misc-open-anki-launcher = Změnit na jinou verzi Anki?
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
