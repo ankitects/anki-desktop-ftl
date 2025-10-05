@@ -14,18 +14,18 @@ errors-standard-popup =
 errors-addons-active-popup =
     # Error
     
-    S'ha produït un error. Inicieu Anki mentre manteniu premuda la tecla de majúscules
-    per a desactivar temporalment els complements que heu instal·lat.
+    S’ha produït un error. Inicieu Anki mentre premeu la tecla de majúscules
+    per a desactivar temporalment els complements instal·lats.
     
-    Si el problema només es produeix quan els complements estan habilitats, feu servir
-    el menú «Eines > Complements» per a desactivar alguns complements i reinicieu Anki.
-    Repetiu aquest procés fins que descobriu quin complement provoca el problema.
+    Si el problema només es produeix amb els complements activats, feu servir
+    «Eines > Complements» per a desactivar-ne alguns i reinicieu Anki.
+    Repetiu aquest procés fins que identifiqueu el complement problemàtic.
     
-    Quan l'hàgiu descobert, informeu-ne l'autor del complement.
+    Després, informeu-ne l’autor.
     
     Informació de depuració:
 errors-accessing-db =
-    S’ha produït un error en accedir a la base de dades.
+    No s’ha pogut accedir a la base de dades.
     
     Causes possibles:
     
