@@ -43,6 +43,7 @@ errors-unable-open-collection =
     
     Informace o ladění:
 errors-windows-tts-runtime-error = Služba TTS selhala. Prosím ujistěte se, že jsou nainstalované aktualizace Windows, zkuste restartovat počítač a zkuste použít jiný hlas.
+errors-windows-ssl-updates = Zabezpečené připojení selhalo. Ujistěte se prosím, že jsou nainstalovány aktualizace systému Windows, a zkuste to znovu.
 
 ## OBSOLETE; you do not need to translate this
 
