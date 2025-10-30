@@ -20,6 +20,16 @@ qt-misc-deck-will-be-imported-when-a = דאָס טעשל וועט אַרײַנג
 qt-misc-empty-cards = ליידיקע קאַרטלעך
 qt-misc-error-during-startup = טעות בשעת׳ן אָנלאָדירן: { $val }
 qt-misc-ignore-this-update = איגנאָרירן די אָ דערהײַנטיקונג
+qt-misc-in-order-to-ensure-your-collection =
+    כּדי צו פֿאַרזיכערן, אַז דײַן זאַמלונג זאָל זיך ריכטיק אַרבעטן בײַם ווערן איבערגערוקט צווישן פֿאַרשידענע מכשירים, דער אינעווייניקסטער זייגער פֿון דײַן קאָמפּיוטער מוז זײַן ריכטיק אָנגעשטעלט. דער אינעווייניקסטער זייגער קען ליידער נישט פֿאַלש אַפֿילו דער סיסטעם ווײַזט די ריכטיקע אָרטיקע שעה. <br><br>
+    גיב אַ קוק אויף די אָ צײַט-פֿיקסירונגען פֿון דײַן קאָמפּיוטער:<br>
+    <br>
+    -AM/PM<br>
+    - זייגער-דרייף<br>
+    - טאָג, חודש און יאָר<br>
+    - צײַטזאָנע<br>
+    - זומער-זייגער<br><br>
+    - חילוק פֿון ריכטיקער צײַט: { $val }.
 qt-misc-invalid-property-found-on-card-please = פּסול אייגנקייט געפֿונען אויפֿן קאַרטל. באַניץ נאָר "מכשירים >  באַטראַכטן דאַטן-באַזע", און אויב דער פּראָבלעם קומט ווידער פֿאָר, פֿרעג ביטע אויפֿן שטיץ-וועבזײַטל.
 qt-misc-loading = לאָדנט זיך…
 qt-misc-manage = אָנפֿירן
@@ -38,6 +48,8 @@ qt-misc-please-use-fileimport-to-import-this = באַניץ "טעקע > אַרײ
 qt-misc-processing = פּראָצעסירנדיק…
 qt-misc-replace-your-collection-with-an-earlier2 = פֿאַרבײַטן דײַן זאַמלונג מיט אַ פֿריערדיקע רעזערוו-קאָפּיע פֿון { $val }?
 qt-misc-revert-to-backup = צוריקציִען אין אַ רעזערוו-קאָפּיע
+# please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
+qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = דער „איבעררוק״ קלאַוויש האָט מען אײַנגעהאַלטן: ס׳היפּט איבער אויטאָ-סיכראָניזירן און אָנלאָדן צוגאָבלעך.
 qt-misc-shortcut-key-left-arrow = גיכקנעפּל: לינקס-פֿײַלעכל
 qt-misc-shortcut-key-right-arrow-or-enter = גיכקנעפּל: רעכטס-פֿײַלעכל אָדער אַרײַן-קלאַוויש
