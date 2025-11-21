@@ -3,4 +3,6 @@ profiles-folder-readme =
     kako bi se olakšalo sigurnosno kopiranje. Ako želite da Anki koristi
     drugu lokaciju, pogledajte:
     
-    {$link}
+    { $link }
+# will appear as 'Downgrade & Quit'
+profiles-downgrade-and-quit = Snizi verziju && izađi
