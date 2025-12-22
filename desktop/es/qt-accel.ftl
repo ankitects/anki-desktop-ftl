@@ -1,4 +1,5 @@
 qt-accel-about = &Acerca de...
+qt-accel-about-mac = Acerca de Anki
 qt-accel-cards = &Tarjetas
 qt-accel-check-database = Comprobar base de datos
 qt-accel-check-media = Comprobar &multimedia...
@@ -45,3 +46,4 @@ qt-accel-zoom-editor-in = &Ampliar Zoom del editor
 qt-accel-zoom-editor-out = &Reducir Zoom del editor
 qt-accel-create-backup = Crear una copia de seguridad
 qt-accel-load-backup = &Restaurar una copia de seguridad
+qt-accel-upgrade-downgrade = Actualizar/Desactualizar
