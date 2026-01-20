@@ -46,4 +46,4 @@ qt-accel-zoom-editor-in = &Ampliar zoom do editor
 qt-accel-zoom-editor-out = &Reducir zoom do editor
 qt-accel-create-backup = Crear &copia de seguranza
 qt-accel-load-backup = &Restaurar unha copia de seguranza
-qt-accel-upgrade-downgrade = Actualizar / Reverter
+qt-accel-upgrade-downgrade = Actualizar/reverter
