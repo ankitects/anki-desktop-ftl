@@ -17,7 +17,6 @@ qt-misc-copy-to-clipboard = Kopiraj u međuspremnik
 qt-misc-create-filtered-deck = Stvori filtrirani špil...
 qt-misc-debug-console = Konzola za ispravljanje grešaka
 qt-misc-deck-will-be-imported-when-a = Špil će biti uvezen kad se otvori profil.
-qt-misc-empty-cards = Prazne karte...
 qt-misc-error-during-startup = Greška tijekom pokretanja: { $val }
 qt-misc-ignore-this-update = Zanemari ovo ažuriranje
 qt-misc-in-order-to-ensure-your-collection = Kako bi se osiguralo da vaša kolekcija ispravno radi prilikom premještanja između uređaja, Anki zahtijeva da interni sat vašeg računala bude ispravno postavljen. Interni sat može biti pogrešan čak i ako Vaš sustav prikazuje ispravno lokalno vrijeme.<br><br>Otvorite postavke vremena na računalu i provjerite sljedeće:<br><br>- AM/PM<br>- Pomak sata<br>- Dan, mjesec i godina<br>- Vremenska zona<br>- Ljetno računanje vremena<br><br>Razlika u odnosu na točno vrijeme: { $val }.
