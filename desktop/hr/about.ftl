@@ -1,5 +1,6 @@
 about-a-big-thanks-to-all-the = Puno hvala svima koji su davali prijedloge, prijavljivali greške i donirali.
 about-about-anki = O programu Anki
+about-anki-is-a-friendly-intelligent-spaced = Anki je jednostavan, inteligentan program za učenje metodom odgođenog ponavljanja. Besplatan je i ima otvoreni kod.
 about-anki-is-licensed-under-the-agpl3 = Anki je licenciran pod AGPL3 licencom. Za više informacija pogledajte datoteku licence u distribuciji izvornog koda.
 about-copied-to-clipboard = Kopirano u međuspremnik
 about-copy-debug-info = Kopiraj informacije o otklanjanju pogrešaka
