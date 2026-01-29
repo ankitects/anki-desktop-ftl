@@ -5,7 +5,7 @@ addons-failed-to-load =
     При загрузке '{ $name }':
     { $traceback }
 addons-failed-to-load2 =
-    Не удалось загрузить следующие дополнения:
+    Не удалось установить следующие дополнения:
     { $addons }
     
     Возможно, их необходимо обновить для поддержки этой версии Anki. Нажмите кнопку { addons-check-for-updates }, чтобы узнать, доступны ли какие-либо обновления.
@@ -20,7 +20,7 @@ addons-config-validation-error = Возникла проблема с данно
 addons-window-title = Дополнения
 addons-addon-has-no-configuration = У дополнения нет настроек.
 addons-addon-installation-error = Ошибка при установке дополнения
-addons-browse-addons = Посмотреть дополнения
+addons-browse-addons = Обзор дополнений
 addons-changes-will-take-effect-when-anki = Перезапустите Anki, чтобы применить изменения.
 addons-check-for-updates = Проверить обновления
 addons-checking = Проверяется...
@@ -35,7 +35,7 @@ addons-downloaded-fnames = Загружено { $fname }
 addons-downloading-adbd-kb02fkb = Загружается { $part }/{ $total } ({ $kilobytes } кБ)...
 addons-error-downloading-ids-errors = Ошибка при загрузке <i>{ $id }</i>: { $error }
 addons-error-installing-bases-errors = Ошибка при установке <i>{ $base }</i>: { $error }
-addons-get-addons = Загрузить дополнения...
+addons-get-addons = Установить дополнения...
 addons-important-as-addons-are-programs-downloaded = <b>Внимание</b>: Дополнения скачиваются из интернета и могут быть вредоносны. <b>Устанавливайте только проверенные дополнения.</b><br><br>Установить выбранные дополнения Anki?<br><br>%(names)s
 addons-install-addon = Установить дополнение
 addons-install-addons = Установить дополнения
@@ -62,7 +62,7 @@ addons-the-following-addons-are-incompatible-with = Дополнения, нес
 addons-the-following-addons-have-updates-available = Доступны обновления для этих дополнений. Установить их?
 addons-the-following-conflicting-addons-were-disabled = Отключены данные несовместимые дополнения:
 addons-this-addon-is-not-compatible-with = Это дополнение не совместимо с этой версией Anki.
-addons-to-browse-addons-please-click-the = Для поиска дополнений нажмите кнопку поиска ниже. <br><br>Когда вы найдёте нужное дополнение, введите его код внизу. Вы можете несколько кодов, разделяя их пробелом.
+addons-to-browse-addons-please-click-the = Для поиска дополнений нажмите кнопку "Обзор дополнений". <br><br>Когда вы найдёте нужное дополнение, введите его код внизу. Вы можете ввести несколько кодов, разделяя их пробелами.
 addons-toggle-enabled = Включить — отключить
 addons-unable-to-update-or-delete-addon = Не получается обновить или удалить дополнение. Запустите Anki зажав Shift, чтобы временно отключить дополнения. Потом попробуйте снова.  Отладочная информация: { $val }
 addons-unknown-error = Неизвестная ошибка: { $val }
