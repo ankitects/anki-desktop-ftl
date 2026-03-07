@@ -30,9 +30,9 @@ errors-accessing-db =
     - Documents/Anki jildidagi fayllarga yozish ruxsati yoʻq boʻlishi mumkin.
     - Qattiq diskingizda xatoliklar boʻlishi mumkin.
     
-    Toʻplamingiz buzilmaganligiga ishonch hosil qilish uchun Asboblar>Maʼlumotlar bazasini tekshirish buyrugʻini ishga tushirgan maʼqul.
+    Kolleksiyangiz buzilmaganligiga ishonch hosil qilish uchun Asboblar>Maʼlumotlar bazasini tekshirish buyrugʻini ishga tushirgan maʼqul.
 errors-unable-open-collection =
-    Anki toʻplam faylingizni ocha olmadi. Agar kompyuterni qayta ishga tushirgandan soʻng muammolar davom etsa, profil menejeridagi Zaxira nusxasini ochish tugmasidan foydalaning.
+    Anki kolleksiya faylingizni ocha olmadi. Agar kompyuterni qayta ishga tushirgandan soʻng muammolar davom etsa, profil menejeridagi Zaxira nusxasini ochish tugmasidan foydalaning.
     
     Debag maʼlumotlari:
 errors-windows-tts-runtime-error = TTS xizmatida xatolik yuz berdi. Windows yangilanishlari oʻrnatilganligiga ishonch hosil qiling, kompyuteringizni qayta ishga tushiring yoki boshqa ovoz ishlatishga harakat qilib koʻring.
