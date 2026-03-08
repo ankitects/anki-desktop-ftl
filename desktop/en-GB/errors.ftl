@@ -1,4 +1,6 @@
 -errors-support-site = [support site](https://help.ankiweb.net)
+errors-copy-debug-info-button = Copy Debug Info
+errors-copied-to-clipboard = Copied to clipboard
 errors-standard-popup =
     # Error
     
