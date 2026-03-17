@@ -3,13 +3,25 @@ addons-failed-to-load =
     നിങ്ങൾ ഇൻസ്റ്റാൾ ചെയ്ത ഒരു ആഡ്-ഓൺ ലോഡുചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു. പ്രശ്നങ്ങൾ നിലനിൽക്കുകയാണെങ്കിൽ, ദയവായി ഉപകരണങ്ങൾ> ആഡ്-ഓണുകൾ മെനുവിലേക്ക് പോയി ആഡ്-ഓൺ അപ്രാപ്തമാക്കുക, അല്ലെങ്കിൽ ഇല്ലാതാക്കുക.¶
     '{ $name }' ലോഡുചെയ്യുമ്പോൾ:¶
     { $traceback }
+addons-failed-to-load2 =
+    താഴെ പറയുന്ന ആഡ്-ഓണുകൾ ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു:
+    { $addons }
+    
+    അങ്കിയുടെ ഈ പതിപ്പിന് അനുയോജ്യമായ രീതിയിൽ ഇവ അപ്‌ഡേറ്റ് ചെയ്യേണ്ടതുണ്ടാകാം. അപ്‌ഡേറ്റുകൾ
+    ലഭ്യമാണോ എന്നറിയാൻ { addons-check-for-updates } ബട്ടൺ അമർത്തുക.
+    
+    ആഡ്-ഓണിന്റെ നിർമ്മാതാവിന് അയച്ചുകൊടുക്കുന്ന റിപ്പോർട്ടിൽ ഉൾപ്പെടുത്താനുള്ള വിവരങ്ങൾക്കായി
+    { about-copy-debug-info } ബട്ടൺ ഉപയോഗിക്കാവുന്നതാണ്.
+    
+    നിലവിൽ അപ്‌ഡേറ്റുകൾ ലഭ്യമല്ലാത്ത ആഡ്-ഓണുകൾ ഈ സന്ദേശം ഒഴിവാക്കാനായി ഡിസേബിൾ ചെയ്യുകയോ
+    ഡിലീറ്റ് ചെയ്യുകയോ ചെയ്യാവുന്നതാണ്.
+addons-startup-failed = ആഡ്-ഓൺ ലോഡ് ചെയ്യുന്നത് പരാജയപ്പെട്ടു
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = കോൺഫിഗർ ചെയ്യുക '{ $name }'
 addons-config-validation-error = തന്നിരിക്കുന്ന കോൺഫിഗുറേഷനിൽ ഒരു പ്രശ്നമുണ്ട്: { $problem },  { $path } പാതയിൽ, { $schema } സ്കീമിനെതിരായി.
 addons-window-title = ആഡ്-ഓണ്‍
 addons-addon-has-no-configuration = ആഡ്-ഓണിന് കോൺഫിഗറേഷൻ ഇല്ല.
 addons-addon-installation-error = ആഡ്-ഓൺ ഇൻസ്റ്റാളേഷൻ പിശക്
-addons-addon-was-not-downloaded-from-ankiweb = AnkiWeb-ൽ നിന്ന് ആഡ്-ഓൺ ഡൗൺലോഡ് ചെയ്തിട്ടില്ല.
 addons-browse-addons = ആഡ്-ഓണുകൾ ബ്രൗസ്സുചെയ്യുക
 addons-changes-will-take-effect-when-anki = Anki പുനരാരംഭിക്കുമ്പോൾ മാറ്റങ്ങൾ പ്രാബല്യത്തിൽ വരും.
 addons-check-for-updates = അപ്‌ഡേറ്റുകൾക്കായി പരിശോധിക്കുക
