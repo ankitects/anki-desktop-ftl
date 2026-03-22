@@ -1,6 +1,6 @@
 about-a-big-thanks-to-all-the = Terima kasih atas saran, laporan bug, dan donasi.
 about-about-anki = Tentang Anki
-about-anki-is-a-friendly-intelligent-spaced = Anki; sistem belajar jarak-jarak yang cerdas dan ramah. Gratis dengan sumber terbuka.
+about-anki-is-a-friendly-intelligent-spaced = Anki; sistem belajar pengulangan berjeda yang cerdas dan ramah. Gratis dengan sumber terbuka.
 about-anki-is-licensed-under-the-agpl3 = Anki berlisensi AGPL3. Detail lengkap ada di berkas lisensi distribusi sumber
 about-copied-to-clipboard = Tersalin ke papan salin
 about-copy-debug-info = Salin Info Debug
