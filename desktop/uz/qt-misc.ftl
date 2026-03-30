@@ -37,7 +37,7 @@ qt-misc-please-ensure-a-profile-is-open = Profil ochiq va Anki band emasligiga i
 qt-misc-please-select-1-card = (1 karta tanlang)
 qt-misc-please-select-a-deck = Dasta tanlang.
 qt-misc-please-use-fileimport-to-import-this = Bu faylni import qilish uchun Fayl>Import qilishni ishlating.
-qt-misc-processing = Ishlamoqda...
+qt-misc-processing = Bajarilmoqda...
 qt-misc-replace-your-collection-with-an-earlier2 = Kolleksiyangiz { $val }ʼdagi oldingi zaxira nusxasi bilan almashtirilsinmi?
 qt-misc-revert-to-backup = Zaxira nusxasiga qaytarish
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
