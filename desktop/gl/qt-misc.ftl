@@ -15,7 +15,7 @@ qt-misc-deck-will-be-imported-when-a = A baralla importarase cando se abra un pe
 qt-misc-empty-cards = Tarxetas baleiras...
 qt-misc-error-during-startup = Produciuse un erro ao iniciar: { $val }
 qt-misc-ignore-this-update = Ignorar esta actualización
-qt-misc-in-order-to-ensure-your-collection = Para asegurarse do bo funcionamento da túa colección ao movela entre dispositovos, Anki precisa que o reloxo interno do teu ordenador esté configurado correctamente. O reloxo interno pode estar mal aínda que o sistema amose a hora local correcta.  Por favor, visite os axustes de hora no seu computador e verifique o seguinte:  - AM/PM - Aceleración/deceleración do reloxo - Día, mes e ano - Fuso horario - Horario de verán/inverno  Diferenza coa hora correcta: { $val }.
+qt-misc-in-order-to-ensure-your-collection = Para asegurarse do bo funcionamento da túa colección ao movela entre dispositivos, Anki precisa que o reloxo interno do teu ordenador estea configurado correctamente. O reloxo interno pode estar mal aínda que o sistema amose a hora local correcta.  Por favor, visite os axustes de hora no seu computador e verifique o seguinte:  - AM/PM - Aceleración/deceleración do reloxo - Día, mes e ano - Fuso horario - Horario de verán/inverno  Diferenza coa hora correcta: { $val }.
 qt-misc-invalid-property-found-on-card-please = Atopouse unha propiedade non válida nunha carta. Por favor use Ferramentas>Verificar de datos, e se o problema reaparece, por favor pregunte no sitio de soporte.
 qt-misc-loading = Cargando...
 qt-misc-manage = Xestionar
@@ -31,6 +31,8 @@ qt-misc-processing = Procesando...
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = A tecla Maiús estaba premida. Omitindo a sincronización automática e a carga de complementos.
+qt-misc-shortcut-key-left-arrow = Tecla de atallo: frecha esquerda
+qt-misc-shortcut-key-right-arrow-or-enter = Tecla de atallo: frecha dereita ou retorno
 qt-misc-stats = Estatísticas
 qt-misc-study-deck = Estudar unha baralla...
 qt-misc-sync = Sincronizar
