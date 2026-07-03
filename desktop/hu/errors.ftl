@@ -1,15 +1,9 @@
 -errors-support-site = [támogatási oldal](https://help.ankiweb.net)
-errors-standard-popup2 = Anki problémába ütközött. Kérjük, kövesse a hibaelhárítási lépéseket.
-errors-may-be-addon = A problémát okozhatja egy kiegészítő.
+errors-standard-popup2 = Anki problémába ütközött. Kövesd a hibaelhárítási lépéseket!
+errors-may-be-addon = Lehetséges, hogy a problémát egy bővítmény okozza.
 errors-troubleshooting-button = Hibaelhárítás
 errors-copy-debug-info-button = Hibakeresési információ másolása
 errors-copied-to-clipboard = Átmásolva a vágólapra
-errors-standard-popup =
-    # Hiba
-    
-    Kérjük, használja az **Eszközök > Adatbázis ellenőrzése** menüpontot a probléma megoldásához.
-    
-    Ha a probléma továbbra is fennáll, kérjük, jelezze { -errors-support-site } honlapunkon. Kérjük az alábbi információkat is csatolja üzenetéhez.
 errors-addons-active-popup =
     # Hiba
     
