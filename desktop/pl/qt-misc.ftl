@@ -56,6 +56,7 @@ qt-misc-this-file-exists-are-you-sure = Plik już istnieje. Na pewno chcesz go n
 qt-misc-unable-to-access-anki-media-folder = Odmowa dostępu do folderu plików Anki. Być może uprawnienia do systemowego katalogu tymczasowego są niepoprawne.
 qt-misc-unexpected-response-code = Niespodziewany kod odpowiedzi: { $val }
 qt-misc-would-you-like-to-download-it = Czy chcesz pobrać ją teraz?
+qt-misc-downloading-update = Pobieranie aktualizacji: { $count }MB/{ $total }MB
 qt-misc-your-collection-file-appears-to-be = Twój plik kolekcji wydaje się być zepsuty. Może to nastąpić przez kopiowanie lub przenoszenie pliku gdy Anki działa albo gdy kolekcja jest przechowywana na dysku sieciowym lub w chmurze. Jeśli problem  nie zniknie po ponownym uruchomieniu komputera, użyj opcji automatycznej kopii zapasowej w menedżerze profili.
 qt-misc-your-computers-storage-may-be-full = Prawdopodobnie zabrakło miejsca na twoim dysku. Usuń niepotrzebne pliki i spróbuj ponownie.
 qt-misc-your-firewall-or-antivirus-program-is = Zapora sieciowa lub program antywirusowy uniemożliwia Anki połączenie. Dodaj wyjątek dla Anki.
@@ -75,7 +76,6 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = Włączono układ automatyczny
 qt-misc-layout-vertical-enabled = Włączono układ pionowy
 qt-misc-layout-horizontal-enabled = Włączono układ poziomy
-qt-misc-open-anki-launcher = Przełączyć na inną wersję Anki?
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
