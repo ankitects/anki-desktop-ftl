@@ -55,6 +55,7 @@ qt-misc-this-file-exists-are-you-sure = بۇ ھۆججەت مەۋجۇت. ئۇنى
 qt-misc-unable-to-access-anki-media-folder = Anki ۋاسىتە قىسقۇچنى زىيارەت قىلالمايدۇ. سىستېمىڭىزنىڭ ۋاقىتلىق مۇندەرىجىسىنىڭ ئىجازىتى توغرا بولماسلىقى مۇمكىن.
 qt-misc-unexpected-response-code = كۈتۈلمىگەن ئىنكاس كودى: { $val }
 qt-misc-would-you-like-to-download-it = ئۇنى ھازىر چۈشۈرەمسىز؟
+qt-misc-downloading-update = يېڭىلانما چۈشۈرۈۋاتىدۇ: { $count }MB/{ $total }MB
 qt-misc-your-collection-file-appears-to-be = توپلام ھۆججىتى بۇزۇلغان بولۇشى مۇمكىن. Anki ئىجرا قىلىنىۋاتقاندا توپلامنى كۆچۈرۈش، يۆتكەش ياكى توپلامنى تور ياكى بۇلۇت سۇپىسىغا ساقلىغاندا يۇقىرىقىدەك ئەھۋال كېلىپ چىقىدۇ. ئەگەر كومپيۇتېرىڭىزنى قايتا قوزغاتقاندىن كېيىنمۇ مەسىلە ھەل بولمىسا، سەپلىمە ئېكرانىدىن ئاپتوماتىك زاپاستىن بىرنى ئېچىڭ.
 qt-misc-your-computers-storage-may-be-full = كومپيۇتېرىڭىزنىڭ ساقلىغۇچىسى توشۇپ كەتكەن بولۇشى مۇمكىن. بەزى لازىمى يوق ھۆججەتلەرنى ئۆچۈرۈپ ئاندىن قايتا سىناڭ.
 qt-misc-your-firewall-or-antivirus-program-is = مۇداپىئە تام ياكى ۋىرۇسخور پىروگراممىسى Anki نىڭ باغلىنىش قۇرۇشىنى توستى، Anki نى مۇستەسنا تىزىملىككە قوشۇڭ.
@@ -72,7 +73,6 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = ئىنكاس جايلاشتۇرۇش قوزغىتىلدى
 qt-misc-layout-vertical-enabled = بويىغا جايلاشتۇرۇش قوزغىتىلدى
 qt-misc-layout-horizontal-enabled = توغرىسىغا جايلاشتۇرۇش قوزغىتىلدى
-qt-misc-open-anki-launcher = باشقا Anki نەشرىگە ئۆزگەرتەمدۇ؟
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
