@@ -56,6 +56,7 @@ qt-misc-this-file-exists-are-you-sure = Этот файл уже существ�
 qt-misc-unable-to-access-anki-media-folder = Не получается получить доступ к папке с медиафайлами. Возможно, в системе неправильные права доступа к папке временных файлов.
 qt-misc-unexpected-response-code = Неожиданный код ответа: { $val }
 qt-misc-would-you-like-to-download-it = Вы желаете скачать её сейчас?
+qt-misc-downloading-update = Скачиваются обновления: { $count } МБ из { $total } МБ
 qt-misc-your-collection-file-appears-to-be = Представляется, что файл вашей коллекции разрушен. Это могло произойти, когда файл скопировали или переместили при работающей Anki, либо когда коллекция хранилась на сетевом или облачном диске. Если проблема сохраняется и после перезапуска вашего компьютера, пожалуйста, откройте автоматическую резервную копию из экрана профилей.
 qt-misc-your-computers-storage-may-be-full = Возможно, на компьютере закончилось место. Освободите место и попробуйте снова.
 qt-misc-your-firewall-or-antivirus-program-is = Антивирус или сетевой экран не позволяет Anki подключиться к самой себе. Добавьте Anki в исключения.
@@ -75,7 +76,6 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = Адаптивный макет включён
 qt-misc-layout-vertical-enabled = Вертикальный макет включён
 qt-misc-layout-horizontal-enabled = Горизонтальный режим включён
-qt-misc-open-anki-launcher = Перейти на другую версию Anki?
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
