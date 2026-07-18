@@ -56,6 +56,7 @@ qt-misc-this-file-exists-are-you-sure = 檔案已存在。確定要覆寫檔案�
 qt-misc-unable-to-access-anki-media-folder = 無法存取 Anki 媒體資料夾。你的系統的暫存資料夾權限設定可能錯誤。
 qt-misc-unexpected-response-code = 非預期的回應代碼：{ $val }
 qt-misc-would-you-like-to-download-it = 你想要立即下載嗎？
+qt-misc-downloading-update = 正在下載更新：{ $count }MB/{ $total }MB
 qt-misc-your-collection-file-appears-to-be = 你的集合檔案似乎已損毀。原因可能是檔案在 Anki 尚未關閉時被複製/移動，或集合儲存於網路/雲端硬碟。如果在重新啟動電腦後問題仍然發生，請打開設定檔畫面上的自動備份。
 qt-misc-your-computers-storage-may-be-full = 你的電腦儲存空間可能已滿。請刪除一些不需要的檔案，然後再試一次。
 qt-misc-your-firewall-or-antivirus-program-is = 你的防火牆或防毒軟體程式正在阻止 Anki 建立與自身的連接。請將 Anki 添加到例外清單中。
@@ -72,7 +73,6 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = 已啟用適應性佈局
 qt-misc-layout-vertical-enabled = 已啟用垂直佈局
 qt-misc-layout-horizontal-enabled = 已啟用水平佈局
-qt-misc-open-anki-launcher = 要更改 Anki 版本嗎？
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
