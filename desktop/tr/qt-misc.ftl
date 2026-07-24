@@ -56,6 +56,7 @@ qt-misc-this-file-exists-are-you-sure = Bu dosya mevcut. Üzerine yazmak istedi�
 qt-misc-unable-to-access-anki-media-folder = Anki ortam klasörüne erişilemedi. Sisteminizin geçici klasöründeki izinler yanlış olabilir.
 qt-misc-unexpected-response-code = Beklenmeyen yanıt kodu: { $val }
 qt-misc-would-you-like-to-download-it = Şimdi indirmek istermisin ?
+qt-misc-downloading-update = Güncelleme indiriliyor: { $count }MB/{ $total }MB
 qt-misc-your-collection-file-appears-to-be =
     Koleksiyon dosyanız bozuk gibi görünüyor. Bu durum, Anki açıkken dosya kopyalandığında veya taşındığında 
     ya da koleksiyon bir ağ veya bulut sürücüsünde depolandığında olabilir. Bilgisayarınızı yeniden başlattıktan sonra 
