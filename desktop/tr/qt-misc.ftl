@@ -3,7 +3,7 @@ qt-misc-addons = Eklentiler
 qt-misc-all-cards-notes-and-media-for = Bu profil için tüm kartlar, notlar ve ortam dosyaları silinecek. Emin misiniz?
 qt-misc-all-cards-notes-and-media-for2 = "{ $name }" profili için tüm kartlar, notlar ve ortam dosyaları silinecek. Emin misiniz?
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki Güncellendi</h1>Anki { $val } sürümü çıktı.<br><br>
-qt-misc-automatic-syncing-and-backups-have-been = Geri yüklenirken otomatik eşitleme ve yedekleme devre dışı bırakıldı. Yine etkinleştirmek için, profili kapatın veya Anki'yi yeniden başlatın.
+qt-misc-automatic-syncing-and-backups-have-been = Geri yüklenirken otomatik senkronizasyon ve yedekleme devre dışı bırakıldı. Yine etkinleştirmek için, profili kapatın veya Anki'yi yeniden başlatın.
 qt-misc-back-side-only = Sadece Arka Taraf
 qt-misc-backing-up = Yedekleniyor...
 qt-misc-browse = Göz At
@@ -47,7 +47,7 @@ qt-misc-shortcut-key-left-arrow = Kısayol tuşu: Sol ok
 qt-misc-shortcut-key-right-arrow-or-enter = Kısayol tuşu: Sağ ok yada Enter
 qt-misc-stats = İstatistikler
 qt-misc-study-deck = Desteyi Çalış...
-qt-misc-sync = Eşitle
+qt-misc-sync = Senkronize Et
 qt-misc-target-deck-ctrlandd = Hedef Deste (Ctrl+D)
 qt-misc-the-following-character-can-not-be = Aşağıdaki karakter kullanılamıyor: { $val }
 qt-misc-the-requested-change-will-require-a = İstenen değişiklik, koleksiyonunuzu bir sonraki senkronize ettiğinizde veritabanının tam bir şekilde yüklenmesini gerektirir. Başka bir cihazda henüz senkronize edilmemiş bekleyen incelemeler veya diğer değişiklikleriniz varsa, bunlar kaybolacaktır. Devam et?
@@ -76,7 +76,6 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = Duyarlı düzen etkin
 qt-misc-layout-vertical-enabled = Dikey düzen etkin
 qt-misc-layout-horizontal-enabled = Yatay düzen etkin
-qt-misc-open-anki-launcher = Anki'nin farklı bir sürümüne geçsin mi?
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
