@@ -55,6 +55,7 @@ qt-misc-this-file-exists-are-you-sure = 文件已存在。是否覆盖?
 qt-misc-unable-to-access-anki-media-folder = 无法访问 Anki 媒体文件夹。系统临时文件夹权限可能不正确。
 qt-misc-unexpected-response-code = 未知响应代码：{ $val }
 qt-misc-would-you-like-to-download-it = 是否立即下载？
+qt-misc-downloading-update = 正在下载更新：{ $count }MB/{ $total }MB
 qt-misc-your-collection-file-appears-to-be = 集合文件可能已经损坏。在 Anki 运行时复制、移动集合或将集合存储在网络或云盘时可能发生上述情况。如果在重启电脑后仍未解决，请在账户界面打开一个自动备份。
 qt-misc-your-computers-storage-may-be-full = 您电脑的存储空间可能已满。请删除不需要的文件，然后重试。
 qt-misc-your-firewall-or-antivirus-program-is = 防火墙或杀毒软件阻止了 Anki 创建连接，请将 Anki 添加到白名单中。
