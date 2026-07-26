@@ -7,7 +7,7 @@ qt-misc-automatic-syncing-and-backups-have-been = 自动同步和备份在还原
 qt-misc-back-side-only = 仅背面
 qt-misc-backing-up = 正在备份…
 qt-misc-browse = 浏览
-qt-misc-change-note-type-ctrlandn = 改变笔记模板(Ctrl+N)
+qt-misc-change-note-type-ctrlandn = 改变笔记模板 (Ctrl+N)
 qt-misc-check-the-files-in-the-media = 检查媒体文件夹中的文件
 qt-misc-choose-deck = 选择牌组
 qt-misc-choose-note-type = 选择笔记模板
@@ -47,7 +47,7 @@ qt-misc-shortcut-key-right-arrow-or-enter = 快捷键：右方向键或Enter键
 qt-misc-stats = 统计
 qt-misc-study-deck = 选择牌组学习…
 qt-misc-sync = 同步
-qt-misc-target-deck-ctrlandd = 目标牌组(Ctrl+D)
+qt-misc-target-deck-ctrlandd = 目标牌组 (Ctrl+D)
 qt-misc-the-following-character-can-not-be = 以下字符不可使用: { $val }
 qt-misc-the-requested-change-will-require-a = 更改后，下次同步时需将集合完整上传至数据库，这将导致在其他设备未同步的复习和其他改变丢失，是否继续?
 qt-misc-there-must-be-at-least-one = 请至少保留一个账户。
@@ -71,7 +71,6 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = 已启用响应布局
 qt-misc-layout-vertical-enabled = 已启用垂直布局
 qt-misc-layout-horizontal-enabled = 已启用水平布局
-qt-misc-open-anki-launcher = 更改为其他 Anki 版本？
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
