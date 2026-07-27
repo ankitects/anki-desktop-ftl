@@ -56,6 +56,7 @@ qt-misc-this-file-exists-are-you-sure = Soubor již existuje. Opravdu ho chcete 
 qt-misc-unable-to-access-anki-media-folder = Nelze přistoupit ke složce s multimédii Anki. Práva systémové dočasné složky mohou být nesprávná.
 qt-misc-unexpected-response-code = Neočekávaný kód odpovědi: { $val }
 qt-misc-would-you-like-to-download-it = Chcete ji stáhnout nyní?
+qt-misc-downloading-update = Stahuje se aktualizace: { $count } MB / { $total } MB
 qt-misc-your-collection-file-appears-to-be = Váš soubor kolekce se jeví jako poškozený. To může nastat, když se soubor kopíruje nebo přesouvá, zatímco je Anki otevřeno, nebo když je kolekce uložena na síti nebo kloudovém disku. Jestliže problém přetrvává po restartování vašeho počítače, prosím otevřete automatickou zálohu z obrazovky s profily.
 qt-misc-your-computers-storage-may-be-full = Úložiště počítače může být plné. Odstraňte prosím některé nechtěné soubory, poté to zkuste znovu.
 qt-misc-your-firewall-or-antivirus-program-is = Váš firewall nebo antivirus program brání Anki vytvořit připojení. Prosím přidejte výjimku pro Anki.
@@ -74,7 +75,6 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = Reagující rozložení povoleno
 qt-misc-layout-vertical-enabled = Vertikální rozložení povoleno
 qt-misc-layout-horizontal-enabled = Horizontální rozložení povoleno
-qt-misc-open-anki-launcher = Změnit na jinou verzi Anki?
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
