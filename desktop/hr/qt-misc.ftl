@@ -56,6 +56,7 @@ qt-misc-this-file-exists-are-you-sure = Ta datoteka već postoji. Jeste li sigur
 qt-misc-unable-to-access-anki-media-folder = Nije moguće pristupiti mapi Anki media. Dozvole za privremenu mapu vašeg sustava možda nisu ispravne.
 qt-misc-unexpected-response-code = Neočekivani kod odgovora: { $val }
 qt-misc-would-you-like-to-download-it = Želite li je preuzeti sada?
+qt-misc-downloading-update = Preuzimanje ažuriranja: { $count }MB/{ $total }MB
 qt-misc-your-collection-file-appears-to-be = Čini se da je vaša datoteka zbirke oštećena. To se može dogoditi kada se datoteka kopira ili premješta dok je Anki otvoren ili kada je zbirka pohranjena na mreži ili u oblaku. Ako problemi potraju i nakon ponovnog pokretanja računala, otvorite automatsku sigurnosnu kopiju iz ekrana profila.
 qt-misc-your-computers-storage-may-be-full = Pohrana vašeg računala možda je puna. Izbrišite neke nepotrebne datoteke, a zatim pokušajte ponovno.
 qt-misc-your-firewall-or-antivirus-program-is = Vaš vatrozid ili antivirusni program sprječava Anki da uspostavi vezu sa samim sobom. Dodajte iznimku za Anki.
@@ -74,7 +75,6 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = Omogućen je responzivni izgled
 qt-misc-layout-vertical-enabled = Vertikalni raspored omogućen
 qt-misc-layout-horizontal-enabled = Vodoravni raspored omogućen
-qt-misc-open-anki-launcher = Promijeniti na drugu verziju Ankija?
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
