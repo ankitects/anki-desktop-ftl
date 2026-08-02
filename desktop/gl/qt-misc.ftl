@@ -1,5 +1,6 @@
 qt-misc-addons = Complementos
 qt-misc-all-cards-notes-and-media-for = Van seren eliminadas todas as tarxetas, notas, e ficheiros multimedia deste perfil. Está seguro?
+qt-misc-all-cards-notes-and-media-for2 = Eliminaranse todas as tarxetas, notas e ficheiros multimedia do perfil «{ $name }». Queres continuar?
 qt-misc-anki-updatedanki-has-been-released = <h1>Actualización do Anki</h1>Anki { $val } está dispoñíbel.<br><br>
 qt-misc-browse = Explorar
 qt-misc-change-note-type-ctrlandn = Cambiar o tipo de nota (Ctrl+N)
