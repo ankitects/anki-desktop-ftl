@@ -56,6 +56,7 @@ qt-misc-this-file-exists-are-you-sure = هذا الملف موجود. هل أن�
 qt-misc-unable-to-access-anki-media-folder = يتعذر الوصول إلى مجلد وسائط أنكي. قد تكون أذونات المجلد المؤقت لنظامك غير صحيحة.
 qt-misc-unexpected-response-code = رمز استجابة غير متوقع: { $val }
 qt-misc-would-you-like-to-download-it = هل ترغب في تحميله الآن؟
+qt-misc-downloading-update = تنزيل التحديث: { $count } ميغا / { $total } ميغا
 qt-misc-your-collection-file-appears-to-be = تبدو مجموعتك تالفة. قد يحدث هذا عندما يُنسخ الملف أو يُنقل أثناء عمل أنكي، أو عندما تكون مجموعتك مخزنة على شبكة أو قرص في السحابة. إذا استمرت المشكلة بعد إعادة تشغيل حاسوبك، افتح نسخة احتياطية من خلال نافذة الملفات الشخصية.
 qt-misc-your-computers-storage-may-be-full = قد تكون وسائط التخزين في حاسوبك ممتلئة. يرجى حذف بعض الملفات غير الضرورية، ثم المحاولة مجددًا.
 qt-misc-your-firewall-or-antivirus-program-is = جدار الحماية أو برنامج مكافحة الفيروسات الخاص بك يمنع أنكي من إنشاء اتصال. يرجى إضافة استثناء لأنكي.
@@ -77,7 +78,6 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = التصميم المتجاوب مفعل
 qt-misc-layout-vertical-enabled = التصميم العمودي مفعل
 qt-misc-layout-horizontal-enabled = التصميم الأفقي مفعل
-qt-misc-open-anki-launcher = هل تريد تغيير إصدار أنكي؟
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
