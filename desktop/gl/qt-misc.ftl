@@ -29,6 +29,7 @@ qt-misc-please-select-1-card = (seleccione 1 tarxeta)
 qt-misc-please-select-a-deck = Selecciona unha baralla.
 qt-misc-please-use-fileimport-to-import-this = Use Ficheiro > Importar para importar este ficheiro.
 qt-misc-processing = Procesando...
+qt-misc-revert-to-backup = Restaurar unha copia de seguranza
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = A tecla Maiús estaba premida. Omitindo a sincronización automática e a carga de complementos.
