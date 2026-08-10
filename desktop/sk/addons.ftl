@@ -1,7 +1,6 @@
 addons-window-title = Doplnky
 addons-addon-has-no-configuration = Doplnok nemá žiadne nastavenia.
 addons-addon-installation-error = Chyba pri inštalovaní doplnku
-addons-addon-was-not-downloaded-from-ankiweb = Doplnok nebol stiahnutý z AnkiWebu.
 addons-browse-addons = Prehliadať doplnky
 addons-changes-will-take-effect-when-anki = Zmeny sa prejavia po reštartovaní Anki.
 addons-check-for-updates = Skontrolovať aktualizácie
@@ -39,7 +38,7 @@ addons-please-report-this-to-the-respective = Prosím, nahláste to autorovi(om)
 addons-please-restart-anki-to-complete-the = <b>Pre dokončenie inštalácie reštartujte, prosím, Anki.</b>
 addons-please-select-a-single-addon-first = Vyberte, prosím, najprv jeden doplnok.
 addons-requires = (vyžaduje { $val })
-addons-restored-defaults = Obnovené pôvodné nastavenia
+addons-restored-defaults = Obnovené predvolené nastavenia
 addons-the-following-addons-are-incompatible-with = Nasledujúce doplnky nie sú kompatibilné s { $name } a boli vypnuté: { $found }
 addons-the-following-addons-have-updates-available = Pre nasledujúce doplnky sú dostupné aktualizácie. Chcete ich teraz nainštalovať?
 addons-the-following-conflicting-addons-were-disabled = Nasledujúce konfliktné doplnky boli vypnuté:
