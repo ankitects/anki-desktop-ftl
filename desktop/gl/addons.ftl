@@ -1,3 +1,4 @@
+addons-possibly-involved = Complementos posibelmente involucrados: { $addons }
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Configurar '{ $name }'
 addons-window-title = Complementos
@@ -29,6 +30,8 @@ addons-installed-successfully = Instalado correctamente
 addons-invalid-code = Código incorrecto.
 addons-invalid-configuration = Configuración inválida:
 addons-no-updates-available = Non hai actualizacións dispoñíbeis.
+addons-the-following-addons-have-updates-available = Os seguintes complementos teñen actualizacións dispoñíbeis. Queres instalalos agora?
+addons-the-following-conflicting-addons-were-disabled = Os seguintes complementos non son compatibles e desactiváronse:
 addons-toggle-enabled = Activar/desactivar
 addons-unknown-error = Erro descoñecido: { $val }
 addons-view-addon-page = Ver páxina do complemento
