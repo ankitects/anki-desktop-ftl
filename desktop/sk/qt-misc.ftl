@@ -15,10 +15,8 @@ qt-misc-copy-to-clipboard = Skopírovať do schránky
 qt-misc-create-filtered-deck = Vytvoriť filtrovaný balíček...
 qt-misc-debug-console = Konzola pre ladenie
 qt-misc-deck-will-be-imported-when-a = Balíček bude importovaný pri otvorení profilu.
-qt-misc-default = Predvolený
 qt-misc-empty-cards = Prázdne karty...
 qt-misc-error-during-startup = Chyba pri spustení: { $val }
-qt-misc-filtered-deck = Filtrovaný balíček { $val }
 qt-misc-ignore-this-update = Ignorovať túto aktualizáciu
 qt-misc-in-order-to-ensure-your-collection = Aby ste zaistili, že vaša zbierka bude pracovať správne pri presúvaní medzi zariadeniami, Anki potrebuje aby bol správne nastavený interný čas vášho počítača. Interný čas môže byť nesprávny aj keď váš systém ukazuje správny miestny čas.  Prosím, choďte do nastavení času vo vašom počítači a skontrolujte nasledovné:  - AM/PM - Časový posun - Deň, mesiac a rok - Časové pásmo - Zimný / letný čas  Rozdiel oproti správnemu času: { $val }.
 qt-misc-invalid-property-found-on-card-please = Neplatná vlastnosť nájdená na karte. Prosím, použite Nástroje>Kontrola databázy..., a ak sa problém vyskytne opäť, prosím, kontaktujte stránku podpory.
@@ -28,16 +26,13 @@ qt-misc-manage-note-types = Správa typov poznámok
 qt-misc-name-exists = Názov už existuje.
 qt-misc-non-unicode-text = <text, ktorý nie je v unicode>
 qt-misc-optimizing = Optimalizujem...
-qt-misc-please-connect-a-microphone-and-ensure = Prosím, pripojte mikrofón a uistite sa, že iné programy nepoužívajú audio zariadenie.
 qt-misc-please-ensure-a-profile-is-open = Prosím, uistite sa, že je profil otvorený a Anki nie je zaneprázdnené, potom skúste znova.
 qt-misc-please-select-1-card = (prosím, vyberte si 1 kartu)
 qt-misc-please-select-a-deck = Vyberte, prosím, balíček.
 qt-misc-please-use-fileimport-to-import-this = Prosím, použite Súbor>Importovať pre import tohto súboru.
 qt-misc-processing = Spracováva sa...
-qt-misc-replace-your-collection-with-an-earlier = Nahradiť zbierku skoršou zálohou?
-qt-misc-resume-now = Pokračovať
 qt-misc-revert-to-backup = Obnoviť zo zálohy
-qt-misc-reverted-to-state-prior-to = Obnovené do stavu pred '{ $val }'.
+# please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = Držali ste tlačidlo Shift. Preskakujem automatickú synchronizáciu a načítavanie rozšírení.
 qt-misc-shortcut-key-left-arrow = Skratka: Vľavo
@@ -51,17 +46,19 @@ qt-misc-the-requested-change-will-require-a = Požadovaná zmena spôsobí nahra
 qt-misc-there-must-be-at-least-one = Musí existovať aspoň jeden profil.
 qt-misc-this-file-exists-are-you-sure = Súbor už existuje. Ste si istý, že ho chcete prepísať?
 qt-misc-unable-to-access-anki-media-folder = Nie je možné pristupovať k priečinku s médiami Anki. Práva systémového dočasného priečinka môžu byť nesprávne.
-qt-misc-unable-to-move-existing-file-to = Nie je možné presunúť existujúci súbor do koša - skúste, prosím, reštartovať počítač.
-qt-misc-undo = Späť
-qt-misc-undo2 = Späť { $val }
 qt-misc-unexpected-response-code = Neočakávaný kód odpovede: { $val }
-qt-misc-waiting-for-editing-to-finish = Čaká sa na dokončenie zmien.
 qt-misc-would-you-like-to-download-it = Chcete ju stiahnuť teraz?
 qt-misc-your-collection-file-appears-to-be = Váš súbor so zbierkou vyzerá byť poškodený. Toto sa stáva vtedy, keď je súbor prekopírovaný alebo presunutý, kým je Anki otvorené alebo keď je zbierka uložená na sieťový disk alebo v cloude. Ak problém pretrváva po reštarte počítača, prejdite, prosím, do automatickej zálohy z nastavenia profilu.
 qt-misc-your-computers-storage-may-be-full = Úložisko počítača môže byť plné. Odstráňte, prosím, niektoré nepotrebné súbory, potom to skúste znovu.
 qt-misc-your-firewall-or-antivirus-program-is = Váš firewall alebo antivírusový program zabraňuje Anki vytvoriť spojenie so sebou. Prosím, vytvorte pre Anki výnimku.
-qt-misc-second = { $count ->
-    [one] { $count } sekúnd
-    [few] { $count } sekunda
-   *[other] { $count } sekundy
-  }
+qt-misc-second =
+    { $count ->
+        [one] { $count } sekunda
+        [few] { $count } sekundy
+       *[other] { $count } sekúnd
+    }
+
+## deprecated- these strings will be removed in the future, and do not need
+## to be translated
+
+qt-misc-replace-your-collection-with-an-earlier = Nahradiť zbierku skoršou zálohou?
