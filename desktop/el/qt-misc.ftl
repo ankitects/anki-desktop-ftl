@@ -39,6 +39,8 @@ qt-misc-please-use-fileimport-to-import-this = Παρακαλώ χρησιμοπ
 qt-misc-processing = Επεξεργασία...
 qt-misc-replace-your-collection-with-an-earlier2 = Αντικατάσταση της συλλογής σας με ένα νεότερο αντίγραφο ασφαλείας από { $val };
 qt-misc-revert-to-backup = Επαναφορά σε αντίγραφο ασφαλείας
+# please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
+qt-misc-segoe-ui = "Segoe UI"
 qt-misc-shift-key-was-held-down-skipping = Πιέστηκε το πλήκτρο shift. Παραλείποντας τον αυτόματο συγχρονισμό και φόρτωση πρόσθετων.
 qt-misc-shortcut-key-left-arrow = Συντόμευση πληκτρολογίου: Αριστερό βέλος
 qt-misc-shortcut-key-right-arrow-or-enter = Συντόμευση πληκτρολογίου: Δεξί βέλος ή Enter
@@ -53,6 +55,7 @@ qt-misc-this-file-exists-are-you-sure = Το αρχείο υπάρχει. Είσ
 qt-misc-unable-to-access-anki-media-folder = Δ εν είναι δυνατή η πρόσβαση στον φάκελο πολυμέσων του Anki. Οι άδειες του προσωρινού φακέλου στο σύστημα σας ίσως είναι λανθασμένες.
 qt-misc-unexpected-response-code = Απρόοπτος κωδικός απάντησης: { $val }
 qt-misc-would-you-like-to-download-it = Θα θέλατε να το κατεβάσετε τώρα;
+qt-misc-downloading-update = Λήψη ενημέρωσης: { $count } MB/{ $total } MB
 qt-misc-your-collection-file-appears-to-be = Το αρχείο της συλλογής σας φαίνεται να είναι κατεστραμμένο. Αυτό μπορεί να συμβεί όταν ένα αρχείο αντιγράφεται ή μετακινείται όταν το Anki είναι ανοιχτό ή όταν η συλλογή αποθηκεύεται σε ένα δίκτυο ή δίσκο cloud. Αν τα προβλήματα επιμένουν μετά την επανεκκίνηση του υπολογιστή σας, παρακαλώ ανοίξτε ένα αυτόματο αντίγραφο ασφαλείας στην οθόνη προφίλ.
 qt-misc-your-computers-storage-may-be-full = Ο αποθηκευτικός χώρος του υπολογιστή σας ίσως είναι γεμάτος. Παρακαλώ διαγράψτε αρχεία που δεν χρειάζεστε και μετά ξαναπροσπαθήστε.
 qt-misc-your-firewall-or-antivirus-program-is = Το τείχος προστασίας ή το λογισμικό προστασίας από ιούς εμποδίζει το Anki από τη δημιουργία σύνδεσης στο ίδιο. Παρακαλώ προσθέστε μια εξαίρεση για το Anki.
@@ -69,7 +72,6 @@ qt-misc-second =
     }
 qt-misc-layout-vertical-enabled = Κάθετη διάταξη ενεργοποιημένη
 qt-misc-layout-horizontal-enabled = Οριζόντια διάταξη ενεργοποιημένη
-qt-misc-open-anki-launcher = Αλλαγή σε διαφορετική έκδοση του Anki;
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
