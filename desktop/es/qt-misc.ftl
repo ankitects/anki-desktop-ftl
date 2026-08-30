@@ -55,6 +55,7 @@ qt-misc-this-file-exists-are-you-sure = Este archivo ya existe. ¿Seguro que des
 qt-misc-unable-to-access-anki-media-folder = No se puede acceder a la carpeta multimedia de Anki. Los permisos de tu sistema sobre directorios temporales  pueden estar incorrectos.
 qt-misc-unexpected-response-code = Código de respuesta inesperada: { $val }
 qt-misc-would-you-like-to-download-it = ¿Desea descargarlo ahora?
+qt-misc-downloading-update = Descargando actualización: { $count }MB/{ $total }MB
 qt-misc-your-collection-file-appears-to-be = Su archivo de colección parece estar dañado. Esto puede suceder cuando el archivo se copia o se mueve mientras Anki está abierto o cuando la colección se almacena en una red o unidad en la nube. Si los problemas persisten después de reiniciar su ordenador, abra una copia de seguridad automática desde la pantalla de perfil.
 qt-misc-your-computers-storage-may-be-full = Es posible que el almacenamiento del equipo esté lleno. Elimine archivos que no necesite e intente de nuevo la operación.
 qt-misc-your-firewall-or-antivirus-program-is = Su cortafuegos o antivirus previene que Anki cree una conexión consigo mismo. Por favor añada una excepción para Anki
@@ -72,7 +73,6 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = Diseño automático habilitado
 qt-misc-layout-vertical-enabled = Diseño vertical habilitado
 qt-misc-layout-horizontal-enabled = Diseño horizontal habilitado
-qt-misc-open-anki-launcher = Cambiar a una versión de Anki diferente?
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
