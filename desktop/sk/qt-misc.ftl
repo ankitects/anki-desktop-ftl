@@ -61,4 +61,4 @@ qt-misc-second =
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
 
-qt-misc-replace-your-collection-with-an-earlier = Nahradiť zbierku skoršou zálohou?
+qt-misc-replace-your-collection-with-an-earlier = Nahradiť kolekciu skoršou zálohou?
