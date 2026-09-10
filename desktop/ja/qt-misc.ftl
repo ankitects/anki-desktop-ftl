@@ -1,6 +1,6 @@
 qt-misc-addon-will-be-installed-when-a = プロファイルを開いたときにアドオンをインストールします。
 qt-misc-addons = アドオン
-qt-misc-all-cards-notes-and-media-for = このプロファイルのカード、ノート、メディアをすべて削除します。よろしいですか
+qt-misc-all-cards-notes-and-media-for = このプロファイルのカード、ノート、メディアをすべて削除します。よろしいですか？
 qt-misc-all-cards-notes-and-media-for2 = プロファイル “{ $name }” のカード、ノート、メディアをすべて削除します。よろしいですか？
 qt-misc-anki-updatedanki-has-been-released = <h1>Anki の更新</h1>Anki { $val } が公開されました。<br><br>
 qt-misc-automatic-syncing-and-backups-have-been = バックアップを復元しました。自動同期とバックアップは一時的に無効になっています。再び有効にするには、プロファイルを閉じるか Anki を再起動してください。
