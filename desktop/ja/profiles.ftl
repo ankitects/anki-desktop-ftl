@@ -1,6 +1,6 @@
 profiles-folder-readme =
-    このフォルダーは、すべての Anki データを保存する唯一の場所です。これによってバックアップが簡単になります。別の場所を設定するには次の情報をご覧ください:
+    このフォルダーには、簡単にバックアップできるよう、Anki のすべてのデータがまとめて保存されています。保存先を変更する方法は、次を参照してください。
     
     { $link }
 # will appear as 'Downgrade & Quit'
-profiles-downgrade-and-quit = ダウングレード && 終了
+profiles-downgrade-and-quit = ダウングレードして終了 (&Q)
