@@ -56,6 +56,7 @@ qt-misc-this-file-exists-are-you-sure = 파일이 이미 존재합니다. 덮어
 qt-misc-unable-to-access-anki-media-folder = Anki 미디어 폴더에 접근하지 못했습니다. 시스템 임시 폴더에 대한 허가가 정확하지 않을 수 있습니다.
 qt-misc-unexpected-response-code = 예상하지 못한 응답 코드: { $val }
 qt-misc-would-you-like-to-download-it = 지금 다운로드하시겠습니까?
+qt-misc-downloading-update = 업데이트 다운로드 중: { $count }MB/{ $total }MB
 qt-misc-your-collection-file-appears-to-be = 당신의 컬렉션이 망가졌다고 나타납니다. 이것은 Anki가 실행 중일 때 파일이 복사되거나 옮겨졌기 때문이거나 컬렉션이 네트워크나 cloud 드라이브에 저장되었기 때문입니다. 만약 컴퓨터 재부팅 후에 문제가 지속되면 프로필 전환 창에서 (자동) 백업을 열어주세요.
 qt-misc-your-computers-storage-may-be-full = 컴퓨터의 저장 용량이 부족합니다. 필요 없는 파일들을 삭제한 다음 다시 시도하세요.
 qt-misc-your-firewall-or-antivirus-program-is = Anki가 연결을 하는 것을 방화벽이나 백신이  막고 있습니다. Anki를 예외 항목에 추가해주세요.

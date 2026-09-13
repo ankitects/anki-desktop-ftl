@@ -1,4 +1,5 @@
 qt-accel-about = 정보(&A)...
+qt-accel-about-mac = Anki 정보
 qt-accel-cards = 카드(&C)
 qt-accel-check-database = 데이터베이스 검사(&C)
 qt-accel-check-media = 미디어 검사(&M)...
@@ -40,6 +41,7 @@ qt-accel-layout-horizontal = &가로
 qt-accel-zoom-in = 확대(&I)
 qt-accel-zoom-out = 축소(&O)
 qt-accel-reset-zoom = 원본 비율 보기(&R)
+qt-accel-toggle-sidebar = 사이드바 전환
 qt-accel-zoom-editor-in = 편집기 줌 &인
 qt-accel-zoom-editor-out = 편집기 줌 &아웃
 qt-accel-create-backup = 백업하기(&B)
