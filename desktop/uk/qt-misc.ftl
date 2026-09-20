@@ -56,6 +56,7 @@ qt-misc-this-file-exists-are-you-sure = Цей файл вже існує. Ви 
 qt-misc-unable-to-access-anki-media-folder = Неможливо отримати доступ до медіа теки. Можливо, дозвіл у Вашій системі для теки тимчасових файлів неправильний.
 qt-misc-unexpected-response-code = Неочікуваний код відповіді: { $val }
 qt-misc-would-you-like-to-download-it = Ви бажаєте завантажити зараз?
+qt-misc-downloading-update = Завантаження оновлення: { $count }MB/{ $total }MB
 qt-misc-your-collection-file-appears-to-be = Схоже, вашу колекцію пошкоджено. Таке може трапитися, якщо ви скопіювали або перемістили файл, коли Anki було відкрито, чи якщо колекція зберігається у мережі або в хмарному сховищі. Якщо проблема залишається після перезавантаження компʼютера, будь ласка, відчиніть автоматичні резервні копії з вікна профілю.
 qt-misc-your-computers-storage-may-be-full = Пам'ять на Вашому комп'ютері заповнена. Будь ласка, видаліть деякі непотрібні файли та спробуйте потім знову.
 qt-misc-your-firewall-or-antivirus-program-is = Ваш файрвол або антивірусна програма заважає Anki створити зʼєднання. Будь ласка, додайте виняток для Anki.
@@ -74,7 +75,6 @@ qt-misc-second =
 qt-misc-layout-auto-enabled = Включено адаптивне розміщення
 qt-misc-layout-vertical-enabled = Ввімкнено вертикальну розкладку
 qt-misc-layout-horizontal-enabled = Ввімкнено горизонтальну розкладку
-qt-misc-open-anki-launcher = Перемкнутися до іншої версії Anki?
 
 ## deprecated- these strings will be removed in the future, and do not need
 ## to be translated
