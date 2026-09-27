@@ -1,4 +1,5 @@
 -errors-support-site = [páxina de asistencia técnica](https://help.ankiweb.net)
+errors-copy-debug-info-button = Copiar información de depuración
 errors-copied-to-clipboard = Copiado ao portapapeis
 errors-accessing-db =
     Ocorreu un erro ao acceder á base de datos.
