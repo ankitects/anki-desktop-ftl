@@ -1,11 +1,21 @@
 # Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
 addons-config-window-title = Konfigurer '{ $name }'
+addons-window-title = Tillegg
+addons-addon-has-no-configuration = Tillegget har ingen konfigurasjon.
+addons-changes-will-take-effect-when-anki = Endringer vil ta effekt når Anki startes på nytt.
 addons-check-for-updates = Se etter oppdateringer
 addons-checking = Sjekker...
 addons-code = Kode:
 addons-config = Konfigurasjon
 addons-configuration = Konfigurasjon
-addons-disabled =  (deaktivert)
+addons-corrupt-addon-file = Tillegget er korrupt.
+addons-disabled = (deaktivert)
 addons-disabled2 = (Slått av)
+addons-download-complete-please-restart-anki-to = Nedlasting fullført. Start Anki på nytt for å foreta endringer.
+addons-downloaded-fnames = Lastet ned { $fname }
+addons-downloading-adbd-kb02fkb = Laster ned { $part } av { $total } ({ $kilobytes } KB)...
+addons-get-addons = Skaff tillegg...
+addons-important-as-addons-are-programs-downloaded = <b>Viktig</b>: Tillegg skaffes fra Internett og kan være skadelige.<b>Du bør kun installere tillegg du stoler på.</b><br><br>Er du sikker på at du ønsker å fortsette med å installere følgende Anki-tillegg?<br><br>%(names)s
 addons-requires = (krever { $val })
 addons-view-files = Vis filer
+addons-choose-update-window-title = Oppdater tillegg
