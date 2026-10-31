@@ -1,6 +1,6 @@
 profiles-folder-readme =
-    Zahira nusxalarini osongina yaratish maqsadida bu jild barcha Anki maʼlumotlaringizni bitta joyda saqlaydi. Ankiʼga boshqa joydan foydalanishni koʻrsatish uchun buni koʻring:
-    
+    Zahira nusxalarini osongina yaratiş maqsadida bu jild barça Anki maʼlumotlaringizni bitta joyda saqlaydi. Ankiʼga boşqa joydan foydalanişni körsatiş uçun buni köring:
+
     { $link }
 # will appear as 'Downgrade & Quit'
-profiles-downgrade-and-quit = Versiyani tushirish va chiqish
+profiles-downgrade-and-quit = Versiyani tuşiriş va çiqiş
