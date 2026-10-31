@@ -1,0 +1,61 @@
+addons-possibly-involved = დიდი შანსით ჩართული დამატებები: { $addons }
+addons-startup-failed = დამატების გაშვება ჩავარდა
+# Shown in the add-on configuration screen (Tools>Add-ons>Config), in the title bar
+addons-config-window-title = '{ $name }'-ის მორგება
+addons-config-validation-error = მოწოდებულ კონფიგურაციასთან აღმოჩენილია პრობლემა: { $problem }, ბილიკი { $path }, სქემა: { $schema }.
+addons-window-title = დამატებები
+addons-addon-has-no-configuration = დამატებას კონფიგურაცია არ აქვს.
+addons-addon-installation-error = დამატების დაყენების შეცდომა
+addons-browse-addons = დამატებების დათვალიერება
+addons-changes-will-take-effect-when-anki = ცვლილებები ძალაში Anki-ის თავიდან გაშვების შემდეგ შევა.
+addons-check-for-updates = განახლებების შემოწმება
+addons-checking = შემოწმება...
+addons-code = კოდი:
+addons-config = მორგება
+addons-configuration = მორგება
+addons-corrupt-addon-file = დაზიანებული დამატების ფაილი.
+addons-disabled = (გამორთულია)
+addons-disabled2 = (გამორთულია)
+addons-download-complete-please-restart-anki-to = გადმოწერა დასრულდა. ცვლილებების გადასატარებლად გაუშვით Anki თავიდან.
+addons-downloaded-fnames = { $fname } გადმოწერილია
+addons-downloading-adbd-kb02fkb = მიმდინარეობს გადმოწერა { $part }/{ $total } ({ $kilobytes }კბ)...
+addons-error-downloading-ids-errors = <i>{ $id }</i>-ის გადმოწერის შეცდომა: { $error }
+addons-error-installing-bases-errors = <i>{ $base }</i>-ის დაყენების შეცდომა: { $error }
+addons-get-addons = დამატებების მიღება...
+addons-install-addon = დამატების დაყენება
+addons-install-addons = დამატებ(ებ)-ის დაყენება
+addons-install-anki-addon = Anki-ის დამატების დაყენება
+addons-install-from-file = დაყენება ფაილიდან...
+addons-installation-complete = დაყენება დასრულდა
+addons-installed-names = { $name } დაყენებულია
+addons-installed-successfully = დაყენება წარმატებულია.
+addons-invalid-addon-manifest = დამატების არასწორი მანიფესტი.
+addons-invalid-code = არასწორი კოდი.
+addons-invalid-code-or-addon-not-available = კოდი არასწორია, ან დამატება Anki-ის თქვენი ვერსიისთვის ხელმისაწვდომი არაა.
+addons-invalid-configuration = არასწორი კონფიგურაცია:
+addons-invalid-configuration-top-level-object-must = არასწორი კონფიგურაცია: ზედა დონის ობიექტი რუკა უნდა იყოს
+addons-no-updates-available = განახლებები ხელმისაწვდომი არაა.
+addons-one-or-more-errors-occurred = აღმოჩენილია ერთი, ან მეტი შეცდომა:
+addons-packaged-anki-addon = Anki-ის შეკუმშული დამატება
+addons-please-check-your-internet-connection = შეამოწმეთ თქვენი ინტერნეტკავშირი.
+addons-please-report-this-to-the-respective = მისწერეთ ამის შესახებ შესაბამისი დამატების ავტორ(ებ)-ს.
+addons-please-restart-anki-to-complete-the = <b>დაყენების დასასრულებლად გაუშვით Anki თავიდან.</b>
+addons-please-select-a-single-addon-first = ჯერ აირჩიეთ ერთი დამატება.
+addons-requires = (სჭირდება { $val })
+addons-restored-defaults = ნაგულისხმევები აღდგა
+addons-the-following-addons-are-incompatible-with = შემდეგი დამატებები შეუთავსებელია { $name }-სთან და გამოირთო: { $found }
+addons-the-following-addons-have-updates-available = ხელმისაწვდომია შემდეგი დამატების განახლებები. გნებავთ მათი დაყენება?
+addons-the-following-conflicting-addons-were-disabled = გამორთულია შემდეგი კონფლიქტური დამატებები:
+addons-this-addon-is-not-compatible-with = ეს დამატება Anki-ის თქვენს ვერსიასთან თავსებადი არაა.
+addons-toggle-enabled = ჩართულის გადართვა
+addons-unable-to-update-or-delete-addon = დამატების განახლება, ან წაშლა შეუძლებელია. გაუშვით Anki ისე, რომ თან გეჭიროთ ღილაკი Shift, რომ დროებით გამორთოთ დამატებები და თავიდან სცადეთ.  გამართვის ინფორმაცია: { $val }
+addons-unknown-error = უცნობი შეცდომა: { $val }
+addons-view-addon-page = დამატების გვერდის ნახვა
+addons-view-files = ფაილების ნახვა
+addons-delete-the-numd-selected-addon =
+    { $count ->
+        [one] წაიშალოს { $count } მონიშნული დამატება?
+       *[other] წაიშალოს { $count } მონიშნული დამატება?
+    }
+addons-choose-update-window-title = დამატებების განახლება
+addons-choose-update-update-all = ყველას განახლება
