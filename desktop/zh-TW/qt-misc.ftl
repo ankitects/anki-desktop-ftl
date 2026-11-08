@@ -38,7 +38,7 @@ qt-misc-please-select-1-card = (請選取一張卡片)
 qt-misc-please-select-a-deck = 請選取一個牌組。
 qt-misc-please-use-fileimport-to-import-this = 請使用「檔案」>「匯入」來匯入這個檔案。
 qt-misc-processing = 處理中...
-qt-misc-replace-your-collection-with-an-earlier2 = 使用備份「{ $val }」來取代當前集合？
+qt-misc-replace-your-collection-with-an-earlier2 = 使用備份「{ $val }」來取代目前集合？
 qt-misc-revert-to-backup = 回復備份
 # please do not change the quote character, and please only change the font name if you have confirmed the new name is a valid Windows font
 qt-misc-segoe-ui = "Microsoft JhengHei UI"
@@ -50,7 +50,7 @@ qt-misc-study-deck = 學習牌組...
 qt-misc-sync = 同步
 qt-misc-target-deck-ctrlandd = 目標牌組 (Ctrl+D)
 qt-misc-the-following-character-can-not-be = 不可使用下列字元：{ $val }
-qt-misc-the-requested-change-will-require-a = 更改後，下一次同步集合時需要完整上傳資料庫。若你有其他裝置還未同步至當前裝置，在其他裝置上做出的複習或其他更動將會遺失。繼續？
+qt-misc-the-requested-change-will-require-a = 更改後，下一次同步集合時需要完整上傳資料庫。若你有其他裝置還未同步至目前裝置，在其他裝置上做出的複習或其他更動將會遺失。繼續？
 qt-misc-there-must-be-at-least-one = 至少要有一個設定檔。
 qt-misc-this-file-exists-are-you-sure = 檔案已存在。確定要覆寫檔案嗎？
 qt-misc-unable-to-access-anki-media-folder = 無法存取 Anki 媒體資料夾。你的系統的暫存資料夾權限設定可能錯誤。
