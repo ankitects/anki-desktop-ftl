@@ -4,6 +4,7 @@ about-anki-is-a-friendly-intelligent-spaced = Anki 是一个友好智能的开�
 about-anki-is-licensed-under-the-agpl3 = Anki 依据「AGPL-3.0 许可协议」发布。更多信息请参看源代码中的协议文件。
 about-copied-to-clipboard = 已复制到剪贴板
 about-copy-debug-info = 复制调试信息
+about-copyright = 版权所有 © Anki Software, LLC 及其贡献者
 about-if-you-have-contributed-and-are = 如果您作出了贡献但未在此表中列出，请联系我们。
 about-version = 版本 { $val }
 about-visit-website = <a href='{ $val }'>访问官网</a>
